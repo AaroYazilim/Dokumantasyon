@@ -1,0 +1,3 @@
+## ÇIKTI LÝSTESÝ 
+
+Solda bulunan paneldeki **‘Modüller’** sekmesinden **‘Ayarlar’** modülü seçilmektedir. Ayarlar modülü seçildikten sonra ‘Modül Sayfasý’, ‘Kartlar’ bölümleri açýlmaktadýr. Bu bölümlerin içinden **‘Modül Sayfasý’** seçilir. Çýkan ekranda **‘Ayarlar’** baþlýðýndan **‘Çýktý Listesi’** butonu seçilir. Açýlan sayfada **‘Yeni Çýktý Ekle’** butonuna týklandýðýnda açýlan ekranda firmalarýn teklif formu gibi kullanmakta olduklarý formlar sisteme **‘Tasarla’** butonu ile eklenmektedir. Firmaya özel form tasarýmlarýnýn oluþturulduðu bölümdür. Bu sayede çalýþanlarýn alýþtýklarý düzendeki formlarý kullanmalarý saðlanmaktadýr.
