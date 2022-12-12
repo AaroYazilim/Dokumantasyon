@@ -1,0 +1,2 @@
+## TEVKÝFAT VE KDV KALDIRMA
+Hareketleri oluþturup kaydettikten sonra sol üstte bulunan turuncu düzenleme butonuna týklayarak açýlan sayfadaki ilgili kalemin solunda bulunan mercek iþaretine týklayarak açýlan sayfadan sol yukarýdan KDV’ye muafiyet eklenebilinmekte ve tevkifat düzenlenebilmektedir. Önceki kalem veya sonraki kalem butonlarý ile diðer kalemlere geçeek ayný iþlemler yapýlabilmektedir. Bunlara ek olarak eðer tüm kalemlerde ayný deðiþimler yapýlacak ise üç çizgi butonundan tüm kalemlerde deðiþtir seçeneði ile vergi muafiyeti eklenebilmektedir. 
