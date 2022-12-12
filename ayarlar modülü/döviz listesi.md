@@ -1,0 +1,3 @@
+## DÖVÝZ LÝSTESÝ
+
+Solda bulunan paneldeki **‘Modüller’** sekmesinden **‘Ayarlar’** modülü seçilmektedir. Ayarlar modülü seçildikten sonra ‘Modül Sayfasý’, ‘Kartlar’ bölümleri açýlmaktadýr. Bu bölümlerin içinden **‘Modül Sayfasý’** seçilir. Çýkan ekranda **‘Genel Kartlar’** baþlýðýndan **‘Döviz Listesi’** butonu seçilir. Açýlan sayfada **‘Yeni Döviz Ekle’** butonuna týklandýðýnda **‘Döviz (Yeni)’** sayfasý açýlmaktadýr. Açýlan sayfada dövizin **‘Kodu’** (TRY gibi yazýlmalýdýr), **‘Yazýyla’** (TL) bölümü ve **‘Yazýyla kuruþ’** (Kuruþ) bölümleri doldurulmaktadýr. **‘Döviz Adý’** (Türk Lirasý TL gibi yazýlmalýdýr.) girilmektedir. 
