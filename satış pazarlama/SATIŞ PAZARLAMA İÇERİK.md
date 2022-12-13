@@ -1,12 +1,12 @@
-# SATIÞ PAZARLAMA MODÜLÜ
-## VERÝLEN TEKLÝF
-## VERÝLEN TEKLÝFÝ ALINAN SÝPARÝÞE ÇEVÝRME 
-## ALINAN SÝPARÝÞ
-## SÝPARÝÞ ÝLE ÜRETÝMÝ ENTEGRE ETME
-## ALINAN SÝPARÝÞÝ ÝRSALÝYELEÞTÝRME
-## ÝRSALÝYEYÝ FATURALAÞTIRMA 
-## SÝPARÝÞÝ FATURALAÞTIRMA
-## SATIÞ ÝRSALÝYESÝ OLUÞTURMA
-## SATIÞ FATURASI OLUÞTURMA
-## ÝHRACAT FATURASI KESME 
-## TEVKÝFAT VE KDV KALDIRMA
+# SATIÅž PAZARLAMA MODÃœLÃœ
+## [VERÄ°LEN TEKLÄ°F](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/verilen%20teklif.md) 
+## [VERÄ°LEN TEKLÄ°FÄ° ALINAN SÄ°PARÄ°ÅžE Ã‡EVÄ°RME](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/verilen%20teklifi%20al%C4%B1nan%20sipari%C5%9Fe%20%C3%A7evirme.md)
+## [ALINAN SÄ°PARÄ°Åž](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/al%C4%B1nan%20sipari%C5%9F.md)
+## [SÄ°PARÄ°Åž Ä°LE ÃœRETÄ°MÄ° ENTEGRE ETME](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/sipari%C5%9F%20ile%20%C3%BCretimi%20entegre%20etme.md)
+## [ALINAN SÄ°PARÄ°ÅžÄ° Ä°RSALÄ°YELEÅžTÄ°RME](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/al%C4%B1nan%20sipari%C5%9Fi%20irsaliyele%C5%9Ftirme.md)
+## [Ä°RSALÄ°YEYÄ° FATURALAÅžTIRMA](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/irsaliyeyi%20faturala%C5%9Ft%C4%B1rma.md)
+## [SÄ°PARÄ°ÅžÄ° FATURALAÅžTIRMA](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/sipari%C5%9Fi%20faturala%C5%9Ft%C4%B1rma.md)
+## [SATIÅž Ä°RSALÄ°YESÄ° OLUÅžTURMA](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/sat%C4%B1%C5%9F%20irsaliyesi%20olu%C5%9Fturma.md)
+## [SATIÅž FATURASI OLUÅžTURMA](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/sat%C4%B1%C5%9F%20faturas%C4%B1%20olu%C5%9Fturma.md)
+## [Ä°THALAT/Ä°HRACAT FATURASI KESME ](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/ihracat%20faturas%C4%B1%20kesme.md)
+## [TEVKÄ°FAT VE KDV KALDIRMA](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/tevkifat%20ve%20kdv%20kald%C4%B1rma.md)
