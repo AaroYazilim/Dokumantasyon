@@ -1,13 +1,12 @@
 # SATIŞ PAZARLAMA MODÜLÜ
-## Verilen Teklif
-## Verilen Teklifi Alınan Siparişe Çevirme
-## Alınan Sipariş
-## Sipariş ile Üretimi Entegre Etme 
-## Alınan Siparişi İrsaliyeleştirme
-## İrsaliyeyi Faturalaştırma
-## Siparişi Faturalaştırma
-## Satış İrsaliyesi Oluşturma
-## Satış Faturası Oluşturma 
-## İhracat Faturası Kesme 
-## Tevkifat ve KDV Kaldırma
-
+## [Verilen Teklif](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/verilen%20teklif.md)
+## [Verilen Teklifi Alınan Siparişe Çevirme](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/verilen%20teklifi%20al%C4%B1nan%20sipari%C5%9Fe%20%C3%A7evirme.md)
+## [Alınan Sipariş](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/al%C4%B1nan%20sipari%C5%9F.md)
+## [Sipariş ile Üretimi Entegre Etme](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/sipari%C5%9F%20ile%20%C3%BCretimi%20entegre%20etme.md)
+## [Alınan Siparişi İrsaliyeleştirme](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/al%C4%B1nan%20sipari%C5%9Fi%20irsaliyele%C5%9Ftirme.md)
+## [İrsaliyeyi Faturalaştırma](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/irsaliyeyi%20faturala%C5%9Ft%C4%B1rma.md)
+## [Siparişi Faturalaştırma](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/sipari%C5%9Fi%20faturala%C5%9Ft%C4%B1rma.md)
+## [Satış İrsaliyesi Oluşturma](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/sat%C4%B1%C5%9F%20irsaliyesi%20olu%C5%9Fturma.md)
+## [Satış Faturası Oluşturma](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/sat%C4%B1%C5%9F%20faturas%C4%B1%20olu%C5%9Fturma.md)
+## [İhracat Faturası Kesme](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/ihracat%20faturas%C4%B1%20kesme.md)
+## [Tevkifat ve KDV Kaldırma](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/tevkifat%20ve%20kdv%20kald%C4%B1rma.md)
