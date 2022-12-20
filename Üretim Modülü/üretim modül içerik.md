@@ -1,6 +1,0 @@
-# ÜRETÝM MODÜLÜ
-## Taslak Ürün Reçetesi Oluþturma
-## Hýzlý Düzelt Reçete/Hammaddeler/Operasyonlar
-## Reçete Kopyalama
-## Ýþ Emri Oluþturma
-## Makine Doluluðu
