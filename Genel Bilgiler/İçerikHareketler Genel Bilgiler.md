@@ -1,12 +1,12 @@
 # HAREKETLER GENEL BİLGİLER
-## Genel Bilgiler
-## TOPLAMLAR
-## Belge ve Notlar
-## KISAYOLLAR
-## Kayıt Bilgileri 
-## Yazıcı Butonu
-## Turuncu Kalem Butonu 
-## Üç Çizgi Butonu
-## Yenile Butonu 
-## Kaydet Butonu
-## Mercek İşareti
+## [Genel Bilgiler](https://github.com/nkarabag/Dokumantasyon/blob/main/Genel%20Bilgiler/Genel%20Bilgiler.md)
+## [TOPLAMLAR](https://github.com/nkarabag/Dokumantasyon/blob/main/Genel%20Bilgiler/Toplamlar.md)
+## [Belge ve Notlar](https://github.com/nkarabag/Dokumantasyon/blob/main/Genel%20Bilgiler/Belge%20ve%20Notlar.md)
+## [KISAYOLLAR](https://github.com/nkarabag/Dokumantasyon/blob/main/Genel%20Bilgiler/K%C4%B1sayollar.md)
+## [Kayıt Bilgileri](https://github.com/nkarabag/Dokumantasyon/blob/main/Genel%20Bilgiler/Kay%C4%B1t%20Bilgileri.md) 
+## [Yazıcı Butonu](https://github.com/nkarabag/Dokumantasyon/blob/main/Genel%20Bilgiler/Yaz%C4%B1c%C4%B1%20Butonu.md)
+## [Turuncu Kalem Butonu](https://github.com/nkarabag/Dokumantasyon/blob/main/Genel%20Bilgiler/Turuncu%20Kalem%20Butonu%20.md) 
+## [Üç Çizgi Butonu](https://github.com/nkarabag/Dokumantasyon/blob/main/Genel%20Bilgiler/%C3%9C%C3%A7%20%C3%87izgi%20Butonu.md)
+## [Yenile Butonu](https://github.com/nkarabag/Dokumantasyon/blob/main/Genel%20Bilgiler/Yenile%20Butonu.md)
+## [Kaydet Butonu](https://github.com/nkarabag/Dokumantasyon/blob/main/Genel%20Bilgiler/Kaydet%20Butonu.md)
+## [Mercek İşareti](https://github.com/nkarabag/Dokumantasyon/blob/main/Genel%20Bilgiler/Mercek%20%C4%B0%C5%9Fareti.md)
