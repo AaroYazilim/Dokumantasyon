@@ -1,6 +1,7 @@
 ## ÇEK ALINDI KAYDI
 Firmaların borcuna karşılık verdiği çekler **çek alındı kaydı** ile sisteme alınmaktadır. 
-ÇekSenet Modülü  Hareket Oluştur  Çek Alındı Kaydı 
+
+ÇekSenet Modülü --> Hareket Oluştur --> Çek Alındı Kaydı 
 
 Açılan sayfada şirket şube ve belge no otomatik olarak gelmektedir. Tarih seçimi yapılırken çekin alındığı tarih seçilmektedir. Cari, döviz, kur, açıklama bilgileri doldurularak üst başlık kaydedilmektedir. 
 
