@@ -4,7 +4,7 @@
 ## [FATURADA KALEME SERİ/LOT NUMARASI TANIMLAMA](https://github.com/nkarabag/Dokumantasyon/blob/main/Seri%20lot/FATURADA%20KALEME%20SER%C4%B0LOT%20NUMARASI%20TANIMLAMA.md)
 ## [SERİ/LOT SİLME](https://github.com/nkarabag/Dokumantasyon/blob/main/Seri%20lot/seri%20lot%20silme.md)
 ## [SERİ/LOT EKSİ BAKİYE KONTROLÜ](https://github.com/nkarabag/Dokumantasyon/blob/main/Seri%20lot/seri%20lot%20eksi%20bakiye%20kontrol%C3%BC.md)
-## [DEVİRDE SERİ/LOT TANIMLAMA] (https://github.com/nkarabag/Dokumantasyon/blob/main/Seri%20lot/Devirde%20Seri%20Lot%20Tan%C4%B1mlama.md)
+## [DEVİRDE SERİ/LOT TANIMLAMA](https://github.com/nkarabag/Dokumantasyon/blob/main/Seri%20lot/Devirde%20Seri%20Lot%20Tan%C4%B1mlama.md)
 ## [SAYIMDA SERİ/LOT TANIMLAMA](https://github.com/nkarabag/Dokumantasyon/blob/main/Seri%20lot/say%C4%B1mda%20seri%20lot%20tan%C4%B1mlama.md)
 ## [ÜRETİMDE SERİ/LOT TAKİBİ](https://github.com/nkarabag/Dokumantasyon/blob/main/Seri%20lot/%C3%BCretimde%20seri%20lot%20takibi.md)
 ## [ÜRETİMDE DEPO DEĞİŞTİRME](https://github.com/nkarabag/Dokumantasyon/blob/main/Seri%20lot/%C3%BCretimde%20depo%20de%C4%9Fi%C5%9Ftirme.md)
