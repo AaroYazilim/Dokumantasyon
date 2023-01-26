@@ -1,0 +1,12 @@
+# SATIŞ PAZARLAMA MODÜLÜ
+## [VERİLEN TEKLİF](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/verilen%20teklif.md) 
+## [VERİLEN TEKLİFİ ALINAN SİPARİŞE ÇEVİRME](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/verilen%20teklifi%20al%C4%B1nan%20sipari%C5%9Fe%20%C3%A7evirme.md)
+## [ALINAN SİPARİŞ](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/al%C4%B1nan%20sipari%C5%9F.md)
+## [SİPARİŞ İLE ÜRETİMİ ENTEGRE ETME](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/sipari%C5%9F%20ile%20%C3%BCretimi%20entegre%20etme.md)
+## [ALINAN SİPARİŞİ İRSALİYELEŞTİRME](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/al%C4%B1nan%20sipari%C5%9Fi%20irsaliyele%C5%9Ftirme.md)
+## [İRSALİYEYİ FATURALAŞTIRMA](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/irsaliyeyi%20faturala%C5%9Ft%C4%B1rma.md)
+## [SİPARİŞİ FATURALAŞTIRMA](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/sipari%C5%9Fi%20faturala%C5%9Ft%C4%B1rma.md)
+## [SATIŞ İRSALİYESİ OLUŞTURMA](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/sat%C4%B1%C5%9F%20irsaliyesi%20olu%C5%9Fturma.md)
+## [SATIŞ FATURASI OLUŞTURMA](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/sat%C4%B1%C5%9F%20faturas%C4%B1%20olu%C5%9Fturma.md)
+## [İTHALAT/İHRACAT FATURASI KESME ](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/ihracat%20faturas%C4%B1%20kesme.md)
+## [TEVKİFAT VE KDV KALDIRMA](https://github.com/nkarabag/Dokumantasyon/blob/main/sat%C4%B1%C5%9F%20pazarlama/tevkifat%20ve%20kdv%20kald%C4%B1rma.md)

@@ -1,0 +1,2 @@
+## Yenile Butonu 
+Sayfayý yenilemeyi saðlamaktadýr. 

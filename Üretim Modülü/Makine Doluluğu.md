@@ -1,0 +1,9 @@
+## MAKÝNE DOLULUÐU
+
+**‘Üretim Planý Özet’** sayfasýnda üretimdeki makinelerin tarihlere göre yoðunluklarý görüntülenmektedir. 
+
+Modüller Sekmesi -> Üretim -> Listeler -> Üretim Planý Özet 
+
+Üretim planý özet sayfasýnda üstte bulunan filtre bölümünden baþlangýç tarihi, bitiþ tarihi, stok, iþ emri vb. gibi filtrelemeler yapýlabilmektir. O bölümün altýnda bulunan mavi bölümde sipariþlerin iþ emri adeti, sipariþ tutarý ve bu tutarýn ne kadarýnýn üretilmediði, kaç adet planlanmadýðý, sipariþlerin ne kadarýna iþ emri verilmediði ve tutarý, sipariþin harici ne kadar iþ emri verildiði ve bunlarýn tutarý, bu tutarýn ne kadarýnýn üretilmediði, kaç adet planlanmadýðý gibi özet bilgiler bulunmaktadýr. Kutucuklarda o makinede ne kadar sürelik iþlem olduðu, ne kadar iþçilik gücü kullanýlacaðý ve makinenin doluluk oraný bulunmaktadýr. Kutucuðun rengi kýrmýzý ise makine doluluðunun çok fazla olduðu anlamýna gelmektedir. Kutucuðun rengi mavi ise doluluðun olduðu ancak çok az olduðu anlamýna gelmektedir. Kutucuðun rengi yeþil ise doluluðun olmadýðý anlamýna gelmektedir.
+
+Kutucuða týklanýlýnca ‘Ýþ Emri Plan Liste Düzenle’ sayfasý açýlýr. Bu sayfada operasyon sütununda operasyon gelmektedir. Makine sütununda o operasyona baðlý makineler gelmektedir buradan makine deðiþikliði yapýlarak, tarih sütunundan tarih deðiþimi yapýlarak, vardiya sütunundan vardiya deðiþimi yapýlarak veya miktar sütunundan miktar deðiþimi yaparak ve kalan miktar baþka tarihe atanmaktadýr.

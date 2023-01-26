@@ -1,0 +1,3 @@
+## ÞUBE LÝSTESÝ
+
+Solda bulunan paneldeki **‘Modüller’** sekmesinden **‘Ayarlar’** modülü seçilmektedir. Ayarlar modülü seçildikten sonra ‘Modül Sayfasý’, ‘Kartlar’ bölümleri açýlmaktadýr. Bu bölümlerin içinden **‘Modül Sayfasý’** seçilir. Çýkan ekranda **‘Genel Kartlar’** baþlýðýndan **‘Þube Listesi’** butonu seçilir. Açýlan sayfada **‘Yeni Þube Ekle’** butonuna týklandýðýnda **‘Þube (Yeni)’** sayfasý açýlmaktadýr. Açýlan sayfada þubenin **‘Kodu’** ve **‘Adý’** zorunlu olarak girilmektedir. **‘Þirket’** seçimi yapýlýp **‘Þube Uzun Adý’** girilmektedir. Þubenin **ilçesi** seçilip **adres** bilgileri manuel olarak yazýlmaktadýr.

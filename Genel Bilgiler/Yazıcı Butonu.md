@@ -1,0 +1,2 @@
+## Yazýcý Butonu
+Yazýcý butonu ile var olan çýktýyý yazdýrabilir, yanýnda bulunan ok tuþuyla da yeni tasarým ekleyebilir, tasarýmý indirebilir, düzenleyebilir ve mail olarak gönderebiliriz. Tasarým oluþturulan hareketin firmalara özgü halde sunulmasýný saðlamaktadýr. Örneðin herhangi bir tasarýmda firmanýn logosu, kalem bilgileri, kalemlerin fotoðraflarý, firmanýnýn gizlilik bilgileri, sözleþmeleri gibi bölümler de eklenebilir. 

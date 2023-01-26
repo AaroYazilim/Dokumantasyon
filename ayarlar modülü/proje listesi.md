@@ -1,0 +1,4 @@
+## PROJE LÝSTESÝ
+
+Solda bulunan paneldeki **‘Modüller’** sekmesinden **‘Ayarlar’** modülü seçilmektedir. Ayarlar modülü seçildikten sonra ‘Modül Sayfasý’, ‘Kartlar’ bölümleri açýlmaktadýr. Bu bölümlerin içinden **‘Modül Sayfasý’** seçilir. Çýkan ekranda **‘Genel Kartlar’** baþlýðýndan **‘Proje Listesi’** butonu seçilir. Açýlan sayfada **‘Yeni Proje Ekle’** butonuna týklandýðýnda **‘Proje (Yeni)’** sayfasý açýlmaktadýr. Açýlan sayfada solda bulunan sekmelerdeki butonlarý kullanarak sayfada hýzlý gezinme yapýlabilmektedir. **‘Genel’** bölümünde ‘Proje Kodu’ ve ‘Proje Adý’ girilmektedir. Geliþmiþ bölümünde pakete tanýmlýysa Þirket-Þube seçimi yapýlmaktadýr. Projenin durumu ‘Aktif’ veya ‘Pasif’ olarak seçilmekte ve vadesi girilmektedir. Bu þekilde hareket oluþtururken proje seçimi yapýlabilmektedir. 
+

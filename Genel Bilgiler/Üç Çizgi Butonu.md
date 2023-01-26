@@ -1,0 +1,2 @@
+## Üç Çizgi Butonu
+Hareketle ilgili kopyalama, yevmiye fiþi oluþturma, tüm kalemlerde düzenleme, görev oluþturup, göreve baðlama, grid sütunlarýný düzenleme gibi iþlemler buradan yapýlabilmektedir. Ayný zamanda listelerde de grid sütunlarýný düzenleme, Excele aktarma gibi iþlemler bu buton ile yapýlabilmektedir. 
