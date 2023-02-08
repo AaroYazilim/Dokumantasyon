@@ -1,0 +1,3 @@
+## KARMA TRANSFER HAREKETİ
+Tarih, Belge numarası, şirket-şube, depo, vade bilgileri seçilerek üst bilgiler doldurulmaktadır.
+Kart tipi, Borç/Alacak, kart adı, miktar, brüt fiyat gibi bilgiler kart tipine göre girilmekte ve borç alacak eşitlenerek hareket girilmelidir. Sağ üst bölümde borç ve alacak durumu ve bakiye otomatik hesaplanarak gelmektedir.
