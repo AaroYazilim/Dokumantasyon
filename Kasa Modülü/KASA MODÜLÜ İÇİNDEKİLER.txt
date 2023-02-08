@@ -1,5 +1,5 @@
 # KASA MODÜLÜ İÇİNDEKİLER
-## [KASA KARTI TANIMLAMA](https://github.com/nkarabag/Dokumantasyon/blob/main/Kasa%20Mod%C3%BCl%C3%BC/KASA%20KARTI%20TANIMLAMA%20.txt) 
+##  [KASA KARTI TANIMLAMA](https://github.com/nkarabag/Dokumantasyon/blob/main/Kasa%20Mod%C3%BCl%C3%BC/KASA%20KARTI%20TANIMLAMA%20.txt) 
 ## [NAKİT TAHSİLAT](https://github.com/nkarabag/Dokumantasyon/blob/main/Kasa%20Mod%C3%BCl%C3%BC/NAK%C4%B0T%20TAHS%C4%B0LAT.txt)
 ## [NAKİT ÖDEME](https://github.com/nkarabag/Dokumantasyon/blob/main/Kasa%20Mod%C3%BCl%C3%BC/NAK%C4%B0T%20%C3%96DEME.txt)
 ## [KASADAN GİDER HAREKETİ](https://github.com/nkarabag/Dokumantasyon/blob/main/Kasa%20Mod%C3%BCl%C3%BC/KASADAN%20G%C4%B0DER%20HAREKET%C4%B0.txt) 
