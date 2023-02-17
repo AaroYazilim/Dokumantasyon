@@ -1,0 +1,11 @@
+# KASA MODÜLÜ İÇİNDEKİLER
+## [KASA KARTI TANIMLAMA](https://github.com/nkarabag/Dokumantasyon/blob/main/Kasa%20Mod%C3%BCl%C3%BC/KASA%20KARTI%20TANIMLAMA%20.txt) 
+## [NAKİT TAHSİLAT](https://github.com/nkarabag/Dokumantasyon/blob/main/Kasa%20Mod%C3%BCl%C3%BC/NAK%C4%B0T%20TAHS%C4%B0LAT.txt)
+## [NAKİT ÖDEME](https://github.com/nkarabag/Dokumantasyon/blob/main/Kasa%20Mod%C3%BCl%C3%BC/NAK%C4%B0T%20%C3%96DEME.txt)
+## [KASADAN GİDER HAREKETİ](https://github.com/nkarabag/Dokumantasyon/blob/main/Kasa%20Mod%C3%BCl%C3%BC/KASADAN%20G%C4%B0DER%20HAREKET%C4%B0.txt) 
+## [KASADAN GELİR HAREKETİ](https://github.com/nkarabag/Dokumantasyon/blob/main/Kasa%20Mod%C3%BCl%C3%BC/KASADAN%20GEL%C4%B0R%20HAREKET%C4%B0%20.txt) 
+## [KASA HESAPLARI ARASI TRANSFER](https://github.com/nkarabag/Dokumantasyon/blob/main/Kasa%20Mod%C3%BCl%C3%BC/KASA%20HESAPLARI%20ARASI%20TRANSFER.txt)
+## [BANKAYA PARA YATIRMA](https://github.com/nkarabag/Dokumantasyon/blob/main/Kasa%20Mod%C3%BCl%C3%BC/BANKAYA%20PARA%20YATIRMA.txt)
+## [BANKADAN PARA ÇEKME](https://github.com/nkarabag/Dokumantasyon/blob/main/Kasa%20Mod%C3%BCl%C3%BC/BANKADAN%20PARA%20%C3%87EKME.txt)
+## [KARMA TRANSFER HAREKETİ](https://github.com/nkarabag/Dokumantasyon/blob/main/Kasa%20Mod%C3%BCl%C3%BC/KARMA%20TRANSFER%20HAREKET%C4%B0.txt)
+## [SERİ/LOT SİLME](https://github.com/nkarabag/Dokumantasyon/blob/main/Seri%20lot/seri%20lot%20silme.md)

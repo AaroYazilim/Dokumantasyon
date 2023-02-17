@@ -1,0 +1,2 @@
+## KASA KARTI TANIMLAMA 
+Kasa kartı oluşturulurken hesap adı ve kodu tanımlanmaktadır. Döviz türü tanımlanmaktadır. Kod ve etiket yapısı da bu bölümde çalışmaktadır. Muhasebe tanımları, şirket-şube seçimi ve hesabın aktif/pasif durumu tanımlanarak hesap bilgileri oluşturulmalıdır.
