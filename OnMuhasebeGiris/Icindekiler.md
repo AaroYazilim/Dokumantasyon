@@ -1,5 +1,5 @@
 - [Temel Kavramlar](/OnMuhasebeGiris/TemelKavramlar.md "Temel Kavramlar")
-- [Temel Hareketler](/OnMuhasebeGiris/TemelHareketler.md "Temel Hareketler")
+- [Temel Hareketler](/OnMuhasebeGiris/TemelKavramlar.md "Temel Kavramlar")
 - [Temel Kavramlar](/OnMuhasebeGiris/TemelKavramlar.md "Temel Kavramlar")
 - [Temel Kavramlar](/OnMuhasebeGiris/TemelKavramlar.md "Temel Kavramlar")
 - [Temel Kavramlar](/OnMuhasebeGiris/TemelKavramlar.md "Temel Kavramlar")
