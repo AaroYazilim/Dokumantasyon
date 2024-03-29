@@ -1,0 +1,7 @@
+- [ÖN MUHASEBE NEDİR ? ](/OnMuhasebe/OnMuahsebeNedir.md "ÖN MUHASEBE NEDİR ? ")
+	- BORÇ-ALACAK İLİŞKİSİ
+	- GENEL KAVRAMLAR
+		- [STOK](/OnMuhasebe/GenelKavramlar/Stok.md "STOK")
+		- DEPO
+		- CARİ
+		- KASA
