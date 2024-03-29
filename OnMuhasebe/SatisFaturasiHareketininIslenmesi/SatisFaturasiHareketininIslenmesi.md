@@ -1,0 +1,10 @@
+# BANKA MODÜLÜ
+## [BANKA HESAP KARTI TANIMLAMA](https://github.com/nkarabag/Dokumantasyon/blob/main/Banka%20Mod%C3%BCl%C3%BC/banka%20hesap%20kart%C4%B1%20tan%C4%B1mlama.md) 
+## [HAVALE/EFT ALMA](https://github.com/nkarabag/Dokumantasyon/blob/main/Banka%20Mod%C3%BCl%C3%BC/HavaleEft%20Alma.md)
+## [HAVALE/EFT GÖNDERME](https://github.com/nkarabag/Dokumantasyon/blob/main/Banka%20Mod%C3%BCl%C3%BC/HavalEft%20G%C3%B6nderme.md)
+## [BANKADAN GİDER HAREKETİ](https://github.com/nkarabag/Dokumantasyon/blob/main/Banka%20Mod%C3%BCl%C3%BC/Bankadan%20gider%20hareketi.md) 
+## [BANKADAN GELİR HAREKETİ](https://github.com/nkarabag/Dokumantasyon/blob/main/Banka%20Mod%C3%BCl%C3%BC/Bankadan%20Gelir%20hareketi.md)
+## [BANKA HESAPLARI ARASI TRANSFER](https://github.com/nkarabag/Dokumantasyon/blob/main/Banka%20Mod%C3%BCl%C3%BC/Banka%20hesaplar%C4%B1%20aras%C4%B1%20transfer.md)
+## [BANKAYA PARA YATIRMA](https://github.com/nkarabag/Dokumantasyon/blob/main/Banka%20Mod%C3%BCl%C3%BC/Bankaya%20Para%20Yat%C4%B1rma.md)
+## [BANKADAN PARA ÇEKME](https://github.com/nkarabag/Dokumantasyon/blob/main/Banka%20Mod%C3%BCl%C3%BC/Bankadan%20Para%20%C3%87ekme.md)
+## [POS HESAPTAN HESABA GEÇİŞ](https://github.com/nkarabag/Dokumantasyon/blob/main/Banka%20Mod%C3%BCl%C3%BC/Pos%20Hesaptan%20Hesaba%20Ge%C3%A7i%C5%9F.md)
