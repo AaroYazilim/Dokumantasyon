@@ -7,4 +7,3 @@
 - [Basit Üretim](/OnMuhasebeGiris/BasitUretim.md "Basit Üretim")
 - [E-Fatura Temel Bilgisi](/OnMuhasebeGiris/E-FaturaTemelBilgisi.md "E-Fatura Temel Bilgisi")
 - [Muhasebe Ýliþkisi](/OnMuhasebeGiris/MuhasebeIliskisi.md "Muhasebe Ýliþkisi")
-
