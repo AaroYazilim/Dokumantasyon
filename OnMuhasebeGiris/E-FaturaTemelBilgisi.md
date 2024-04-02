@@ -38,5 +38,5 @@ Ayrıca, kağıt kullanımını azaltarak çevreye de katkı sağlar ve muhasebe
  **Arşivleme:**</span>İşletme, e-faturaları yasal gereksinimlere uygun 
  olarak belirlenen bir süre boyunca saklar. Bu süre genellikle 10 yıldır.
 
-  <h2><span style="color: blue;">
+  <h2><span style="color: orange;">
  **Gönderici → Entegratör → GİB → Entegratör → Alıcı **</span></h2>

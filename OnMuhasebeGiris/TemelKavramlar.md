@@ -113,3 +113,16 @@ hesaplarýn borç ve alacaklarýný hareketlerinin takibinin yapýldýðý hesaplardýr.
 </h2>
 Ýþletmenin mevcut kullanýmda bulunduðu sistemi deðiþmesiyle sisteminde mevcut olan hesap verilerin 
 (müþteri, kasa, banka, stok, satýcý vs.) en son durumlarýnýn net tutarlarýn aktarýlmasýna devir denilmektedir.
+
+<h2>
+<span style="color: orange;">
+ **Tevkifat**
+</span>
+</h2>
+Tevkifat, belirli gelir veya ödemelerin, ödeme yapýlan kiþinin eline geçmeden önce vergi kesintisi yapýlarak vergi dairesine ödenmesini ifade eder. 
+Tevkifat, vergi toplama sürecini hýzlandýrýr ve vergi kaçakçýlýðýný önlemeye yardýmcý olur. 
+Ayrýca, gelirin elde edildiði anda verginin toplanmasýný saðlayarak, vergi dairesinin gelir akýþýný düzenler. 
+Bu nedenle, tevkifat vergi sistemlerinde sýkça kullanýlan bir uygulamadýr.
+
+Tevkifat hesaplanmasý, genellikle ödeme yapýlan tutar üzerinden belirli bir oranda yapýlýr. 
+Tevkifat oraný, vergilendirmeyle ilgili yasal düzenlemelere ve vergi türüne göre deðiþiklik gösterebilir.

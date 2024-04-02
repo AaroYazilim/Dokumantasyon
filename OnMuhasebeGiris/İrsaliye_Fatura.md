@@ -64,14 +64,13 @@ Bu belge, iade işlemlerinin muhasebe kayıtlarında ve vergi beyannamelerinde d
 
 ## **Satış İrsaliyesi İade Nedir?**
 
-Satış irsaliyesi iade işlemi, bir işletmenin müşterisinden satın aldığı malın iadesi durumunda kullanılan bir belgedir. İade işlemi genellikle yanlışlıkla satın alınmış, hasar görmüş veya beklentileri karşılamayan bir ürünün geri verilmesiyle gerçekleşir.
+Satış irsaliyesi iade işlemi, bir işletmenin müşterisinden satın aldığı malın iadesi durumunda kullanılan bir belgedir. 
+İade işlemi genellikle yanlışlıkla satın alınmış, hasar görmüş veya beklentileri karşılamayan bir ürünün geri verilmesiyle gerçekleşir.
 
 ## **Alış İrsaliyesi İadesi Nedir?**
 
 Alış irsaliyesi iadesi, bir işletmenin bir tedarikçiden mal aldığı ancak sonradan bu malın iadesini yapması durumunda kullanılan bir işlem ve belgedir. Genellikle, yanlışlıkla alınmış, hasar görmüş veya beklentileri karşılamayan bir malın tedarikçiye geri iadesi gerektiğinde bu işlem gerçekleşir. Alış irsaliyesi iadesi, tedarikçi ile alıcı arasındaki ticari ilişkilerin düzenli ve şeffaf bir şekilde yönetilmesini sağlar. 
 Ayrıca, mal iadesi sonucunda oluşan finansal işlemlerin doğru bir şekilde kaydedilmesi ve izlenmesi için önemlidir.
-
-
 
 
 <h2>
