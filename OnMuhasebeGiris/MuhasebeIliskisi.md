@@ -1,43 +1,52 @@
 <h2>
-<span style="color: orange;">
- **Ön Muhasebe - Genel Muhasebe Ýliþkisi**
+<span style="color:blue;">
+**Ön Muhasebe - Genel Muhasebe Ýliþkisi**
 </span>
-</h2> Ön muhasebe ve genel muhasebe, iþletmelerin finansal yönetim süreçlerinde birbirini tamamlayan ve birlikte çalýþan iki önemli bileþendir.
+</h2>
+Ön muhasebe ve genel muhasebe, iþletmelerin finansal yönetim süreçlerinde birbirini tamamlayan ve birlikte çalýþan iki önemli bileþendir.
 
-<span style="color: green;">
- **Veri Toplama ve Kayýt Tutma;**</span>
- **Ön muhasebe**, iþletmenin günlük finansal iþlemlerini kayýt altýna alýr.
- Satýn alma, satýþ, banka iþlemleri gibi temel iþlemlerin belgelenmesi ve sisteme giriþi ön muhasebenin sorumluluðundadýr.
+<h2>
+<span style="color:gold;">
+**Veri Toplama ve Kayýt Tutma;**
+</span>
+</h2>
+**Ön muhasebe**, iþletmenin günlük finansal iþlemlerini kayýt altýna alýr. Satýn alma, satýþ, banka iþlemleri gibi temel iþlemlerin belgelenmesi ve sisteme giriþi ön muhasebenin sorumluluðundadýr.
 
 **Genel muhasebe** ise bu kayýtlarý alýr, sýnýflandýrýr, özetler ve raporlar.
 
-<span style="color: green;">
- **Belge Ýþlemleri ve Defter Tutma;**
- </span>**Ön muhasebe**, iþletmenin gelen ve giden belgelerini yönetir.
- Bu belgelerin doðru ve eksiksiz bir þekilde iþlenmesi ve kaydedilmesi önemlidir. 
+<h2>
+<span style="color:gold;">
+**Belge Ýþlemleri ve Defter Tutma;**
+</span>
+</h2>
+**Ön muhasebe**, iþletmenin gelen ve giden belgelerini yönetir. Bu belgelerin doðru ve eksiksiz bir þekilde iþlenmesi ve kaydedilmesi önemlidir. 
 
 **Genel muhasebe** ise bu belgeleri temel alarak muhasebe defterlerini hazýrlar, hesaplarýn güncel tutulmasýný saðlar.
 
-<span style="color: green;">
- **Raporlama ve Analiz; **
- </span>**Ön muhasebe**, iþletmenin günlük iþlemlerini kaydederken, 
+<h2>
+<span style="color:gold;">
+**Raporlama ve Analiz; **
+</span>
+</h2>
+**Ön muhasebe**, iþletmenin günlük iþlemlerini kaydederken, 
 
-**Genel muhasebe** bu bilgileri temel alarak finansal raporlar hazýrlar. 
-Gelir Tablosu, Bilanço ve Nakit Akýþ Tablosu gibi raporlar, iþletmenin mali durumunu ve performansýný gösterir. 
+**Genel muhasebe** bu bilgileri temel alarak finansal raporlar hazýrlar. Gelir Tablosu, Bilanço ve Nakit Akýþ Tablosu gibi raporlar, iþletmenin mali durumunu ve performansýný gösterir. 
 Bu raporlar, yöneticilerin ve dýþ paydaþlarýn iþletmenin finansal saðlýðýný anlamalarýna ve karar almalarýna yardýmcý olur.
 
-<span style="color: green;">
- **Yasal Uyum ve Vergi Yükümlülükleri; **
- </span>Hem ön muhasebe hem de genel muhasebe, iþletmenin yasal gereksinimlere uyum saðlamasýna yardýmcý olur. 
- Vergi beyannamelerinin hazýrlanmasý, yasal bildirimlerin yapýlmasý gibi konularda her iki departman da önemli roller üstlenir.
-
-
- <h2>
-<span style="color: orange;">
- **Hesap Planý **
+<h2>
+<span style="color:gold;">
+**Yasal Uyum ve Vergi Yükümlülükleri;**
 </span>
-</h2> Genel muhasebe için bir hesap planý, iþletmenin finansal iþlemlerini kaydetmek ve raporlamak için kullanýlan hesaplarýn bir listesini içerir.
-Bu plan, iþletmenin finansal yapýsýný, varlýklarýný, borçlarýný, gelirlerini ve giderlerini düzenli bir þekilde sýnýflandýrýr.
+</h2>
+Hem ön muhasebe hem de genel muhasebe, iþletmenin yasal gereksinimlere uyum saðlamasýna yardýmcý olur. 
+Vergi beyannamelerinin hazýrlanmasý, yasal bildirimlerin yapýlmasý gibi konularda her iki departman da önemli roller üstlenir.
+
+<h2>
+<span style="color:green;">
+**Hesap Planý**
+</span>
+</h2>
+Genel muhasebe için bir hesap planý, iþletmenin finansal iþlemlerini kaydetmek ve raporlamak için kullanýlan hesaplarýn bir listesini içerir. Bu plan, iþletmenin finansal yapýsýný, varlýklarýný, borçlarýný, gelirlerini ve giderlerini düzenli bir þekilde sýnýflandýrýr.
 
 Örneðin;
 
@@ -49,19 +58,20 @@ Bu plan, iþletmenin finansal yapýsýný, varlýklarýný, borçlarýný, gelirlerini ve 
 
 bu þekilde iþlemlere verilmiþ kodlardýr.
 
-
-<h2><span style="color: orange;">
- **Yevmiye Fiþ**
+<h2>
+<span style="color:green;">
+**Yevmiye Fiþ**
 </span>
-</h2>Yevmiye fiþleri ön muhasebe sürecinde oluþturulur ve daha sonra genel muhasebe sürecinde bu fiþlerin toplanmasý, 
+</h2>
+Yevmiye fiþleri ön muhasebe sürecinde oluþturulur ve daha sonra genel muhasebe sürecinde bu fiþlerin toplanmasý, 
 hesaplarýn güncellenmesi ve finansal raporlarýn hazýrlanmasý gibi adýmlarla devam edilir. 
-Bu þekilde, yevmiye fiþleri hem ön muhasebe hem de genel muhasebe süreçlerinin önemli bir parçasýdýr ve iþletmenin
-mali durumunun doðru bir þekilde takip edilmesini saðlar. Genellikle her bir iþlem için ayrý ayrý düzenlenen yevmiye fiþleri, 
-iþletmenin gelir ve giderlerini, alacaklý ve borçlu olduðu kiþileri, hesaplar arasý iliþkileri gösterir.
-Her yevmiye fiþi, tarih, iþlem açýklamasý, hesaplar ve miktarlar gibi bilgileri içerir.
+Bu þekilde, yevmiye fiþleri hem ön muhasebe hem de genel muhasebe süreçlerinin önemli bir parçasýdýr ve iþletmenin mali durumunun doðru bir þekilde takip edilmesini saðlar. Genellikle her bir iþlem için ayrý ayrý düzenlenen yevmiye fiþleri, iþletmenin gelir ve giderlerini, alacaklý ve borçlu olduðu kiþileri, 
+hesaplar arasý iliþkileri gösterir. Her yevmiye fiþi, tarih, iþlem açýklamasý, hesaplar ve miktarlar gibi bilgileri içerir.
 
-<h2><span style="color: orange;">
- **Fatura Listesi**
+<h2>
+<span style="color:green;">
+**Fatura Listesi**
 </span>
-</h2>Ýþletmenin belirli bir dönemde aldýðý veya gönderdiði faturalarýn özetini içeren bir dokümandýr. 
+</h2>
+Ýþletmenin belirli bir dönemde aldýðý veya gönderdiði faturalarýn özetini içeren bir dokümandýr. 
 Ýþletmenin alacak ve borç durumunu gösteren faturalarýn listesidir. 

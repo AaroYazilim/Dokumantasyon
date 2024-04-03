@@ -168,14 +168,21 @@ Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanabilirsiniz.
 - İşlem yapılan Şirket-Şube bilgisini seçiniz.
 - İşlem tarihini seçiniz.
 - Belge Numarası var ise belge numarasını giriniz. Sistem otomatik olarakta belge numarası tanımlamaktadır.
-- Cari tahsilat yapan cari hesabının seçimini yapınız.
-- Banka Adı hangi banka hesabınızdan işlem yapılacak ise onu seçiniz.
-- Tutar tahsilat edilen miktarının tutarını giriniz.
-- Taksit Adedi taksit miktarını giriniz.
+- Banka Hesap çek ödemesinin yapıldığı bankayı giriniz.
+- Döviz bankanın çalıştığı döviz birimini seçiniz.
+- Kur
 - Açıklama işleme ait açıklamayı belirtir.Doldurulması zorunlu alan değildir belirtmek istediğiniz açıklamalar için kullanım sağlayabilirsiniz.
-- Beklenen Tahsilatlar ve Ödemeler buradan bir sonraki ödemesi gereken tahsilatı seçebilirsiniz.
-- Tip
 
+**Detay**
+- Proje
+- PLasiyer
+- Alt Tip
+
+**Açıklamalar**
+Ek açıklamalar ekleyebilirsiniz.
+
+**Etiketler**
+Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanabilirsiniz.
 
 ### **Diğer İşlemler**
 
@@ -189,3 +196,24 @@ Senet Bankadan Tahsil Edildi
 Senet Bankadan İade Alındı
 Devir
 Karma Transfer Hareketi
+
+<h2>
+<span style="color: orange;">
+**Kartlar**
+</span>
+</h2>
+**Banka Hesap Kartı Listesi:** Burada sistemde kaydetmiş olduğumuz kasa kartlarının hepsini gösterir borç-alacaklı hesapları gösterir. 
+Verilerimiz çok olduğunda kod kısımlarına ekleme yaptığımız özel özelliklere göre filtreleme sağlayabiliriz.
+
+**POS Hesaba Geçiş Tanımı Listesi:** Burada POS hesabının banka kartları ile işlem hareketlerini görüntüleyebilmekteyiz.
+
+<h2>
+<span style="color: orange;">
+**Listeler**
+</span>
+</h2>
+**Banka Hareketleri Listesi:** Burada banka hareketlerini listeler. Sisteme girmiş olduğumuz özelliklerde arama yapma seçeneklerimiz mevcuttur.
+
+**POS Tahsilat Hesaba Geçiş Hareketleri:** Burada POS tahsilat hareketlerini listeler. Sisteme girmiş olduğumuz özelliklerde arama yapma seçeneklerimiz mevcuttur.
+
+**Sanal POS Tahsilat Linkleri:** Burada Sanal POS Tahsilat hareketlerini listeler. Sisteme girmiş olduğumuz özelliklerde arama yapma seçeneklerimiz mevcuttur.
