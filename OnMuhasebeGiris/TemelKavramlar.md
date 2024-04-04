@@ -22,7 +22,8 @@ Kýsacasý Borç-Alacak dengesinin kaydýnýn yapýlmasýný saðlamaktadýr.
  **Borç - Alacak Dengesi**
 </span>
 </h2>
-**Borç**, þirketin ödeyeceði toplam tutarý gösterir.
+**Borç**,Sisteme kaydedilen borç bilgileri karþý tarafýn Firmaya olan borcunu gösterir. 
+Örneðin bir satýcýya ödeme yapýldýðýnda satýcýnýn hesabýna borç olarak iþlenir.
 
 **Alacak**, bakiyesinde ise diðer þirketlerden tahsil edeceðiniz tutar kayýtlýdýr.
 
