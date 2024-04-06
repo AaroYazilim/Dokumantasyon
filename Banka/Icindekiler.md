@@ -1,8 +1,4 @@
-<h2>
-<span style="color:orange;">
-**Banka Modülü**
-</span>
-</h2>
+# Banka Modülü**
 
 Bir işletme muhasebe sistemine entegre edilen banka modülü" genellikle banka işlemlerini yönetmek,
 banka hesaplarını izlemek ve finansal işlemleri kaydetmek için kullanılan bir bileşendir.

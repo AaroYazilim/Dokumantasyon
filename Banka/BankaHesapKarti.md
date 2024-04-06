@@ -8,13 +8,13 @@
 
 **Hesap Adı:** Bu kartın kendine özel adıdır.
 
-**Hesap Kodu:** Kartın kendine özel kodudur. [Kart Kodu](/TemelOzellikler/KartKodu.md "Hesap Kodu")
+**Hesap Kodu:** Kartın kendine özel kodudur. [Hesap Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
 
 **Tip:** Banka hesap kartının tipini belirtir. Çek, cari, pos vb.
 
 **Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 
-**Kodlar:**Gruplamak için kullanılır. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Kodlar:** Gruplamak için kullanılır. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
 
 **Banka Şube:** Cari kartının banka hesap şube bilgilerini belirtir.
 
@@ -32,7 +32,7 @@
 
 **Web:** Karta ait web adresini ifade eder.
 
-**Muhasebe Tanımları: **[Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
+**Muhasebe Tanımları:** [Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
 
 **Gelişmiş** 
 
