@@ -1,5 +1,9 @@
 
-<h2><span style="color:purple;">Banka Hesap Kartı</span></h2>
+<h2>
+<span style="color:purple;">
+**Banka Hesap Kartı**
+</span>
+</h2>
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Banka -> Banka Modülü -> Banka Hesap Kartı şeklinde ulaşım sağlayabilirsiniz. 
