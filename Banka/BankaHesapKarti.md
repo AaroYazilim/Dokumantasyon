@@ -13,11 +13,11 @@ Hesap Adı: Bu kartın kendine özel adıdır.
 
 **Hesap Kodu: **Kartın kendine özel kodudur. [Kart Kodu](/TemelOzellikler/KartKodu.md "Hesap Kodu")
 
-**Tip: ** Banka hesap kartının tipini belirtir. Çek, cari, pos vb.
+**Tip:** Banka hesap kartının tipini belirtir. Çek, cari, pos vb.
 
-**Döviz: **Bu işlemin çalıştığı döviz cinsini belirtir.
+**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 
-**Kodlar: **Gruplamak için kullanılır. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Kodlar:**Gruplamak için kullanılır. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
 **Banka Şube: **Cari kartının banka hesap şube bilgilerini belirtir.
 **Iban No: **Cari kartının banka hesap iban bilgilerini belirtir.
 **Etiketler: **Gruplamak için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
