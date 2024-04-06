@@ -1,3 +1,4 @@
-<span style="color:orange;">**Tarih**</span>
+## Tarih;
+
 Ýþlemin yapýldýðý tarihi belirtir.
 **Girilmesi zorunludur.**

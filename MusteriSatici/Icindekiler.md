@@ -1,7 +1,5 @@
-<h2>
-<span style="color:orange;">
-**Müşteri Satıcı Modülü**</span>
-</h2>
+# Müşteri Satıcı Modülü
+
 Buradan Yeni müşteri/satıcı kartı ekle dediğimizde cari hesabı açmak için kullanılır. 
 Ürün alımı yaptığımız işletmeleri ya da ürün satıcı yaptığımız işletme, müşterileri ekleyebilir hareketlerini takip edebiliriz.
 erp.aaro.com.tr adresine girdikten sonra modüller kısmında Musteri/Satici – Modül Sayfası yazan kısımdan ulaşım sağlayabiliriz.

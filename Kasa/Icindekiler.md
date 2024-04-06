@@ -1,8 +1,4 @@
-<h2>
-<span style="color:orange;">
-**Kasa Modülü**
-</span>
-</h2>
+# Kasa Modülü
 
 Bu kısımda; Kasadan gerçekleşen her işlem için bu kısmı kullanmamız gerekmektedir. 
 Kasa ile ilgili kartları bu modül aracılığıyla ekleyebilir ve düzenleyebiliriz.

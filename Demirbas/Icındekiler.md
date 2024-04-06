@@ -1,13 +1,8 @@
-<h2>
-<span style="color:orange;">
-**Demirbaþ Modülü**
-</span>
-</h2>
+# Demirbaþ Modülü
 
-Bu kýsýmda; Stok ve depoda gerçekleþen her iþlem için bu kýsmý kullanmamýz gerekmektedir. 
-Stok ve Depo ile ilgili kartlarý bu modül aracýlýðýyla ekleyebilir ve düzenleyebiliriz.
-Sayým giriþleri, sayým farký iþleme, giriþ, çýkýþlar,stok kartý kod aðacý,stok vergi tanýmlarý gibi bütün hareketleri iþlemleri iþleyeceðimiz yerdir. 
-Düzenli tutmamýz hareket takibi yapabilmemiz için çok önemlidir.
+Bir iþletmenin sahip olduðu sabit kýymetlerin (demirbaþlarýn) kayýt altýna alýndýðý ve izlendiði bir muhasebe sürecidir. 
+Demirbaþlar, genellikle uzun süreli kullaným için satýn alýnan ve iþletmenin faaliyetlerini sürdürmek için gerekli olan varlýklardýr. 
+Ofis mobilyalarý, bilgisayar ekipmanlarý, araçlar, makinalar gibi öðeler demirbaþlar arasýnda yer alabilir.
 
 - [Demirbaþ Kartý](/Demirbas/DemirbasKarti.md "Demirbaþ Kartý")
 - [Demirbaþ Kartý Listesi](/Demirbas/DemirbasKartiListesi.md "Demirbaþ Kartý Listesi")

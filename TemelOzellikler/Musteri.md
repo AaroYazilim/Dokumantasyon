@@ -1,3 +1,4 @@
-<span style="color:orange;">**Müþteri**</span>
+## Müþteri; 
+
 Ýþlemin yapýldýðýný cari kartýný ifade eder. 
 **Girilmesi Zorunludur.**

@@ -1,8 +1,5 @@
-<h2>
-<span style="color:orange;">
-**Gelir Gider Modülü**
-</span>
-</h2>
+# Gelir Gider Modülü  
+
 Gelir-Gider Kartı, bir işletmenin veya bireyin gelirlerini ve giderlerini kaydederek takip etmesine yardımcı olan bir muhasebe aracıdır. 
 Düzenli tutmamız hareket takibi yapabilmemiz için çok önemlidir.
 

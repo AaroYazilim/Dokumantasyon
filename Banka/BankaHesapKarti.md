@@ -36,7 +36,7 @@
 
 **Gelişmiş** 
 
-Şirket-Şube [Şirket-Şube](/TemelOzellikler/SirketSube.md "Şirket-Şube")
-Durum [Durum](/TemelOzellikler/Durum.md "Durum")
+**Şirket-Şube:** [Şirket-Şube](/TemelOzellikler/SirketSube.md "Şirket-Şube")
+**Durum:** [Durum](/TemelOzellikler/Durum.md "Durum")
 
 Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna basarak Müşteri/Satıcı kartı açma işlemimizi bitirebiliriz.

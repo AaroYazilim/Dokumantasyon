@@ -1,4 +1,5 @@
-<span style="color:orange;">**KDV Dahil**</span>
+## KDV Dahil;
+
 KDV (Katma Deðer Vergisi) dahil ifadesi, bir ürün veya hizmetin fiyatýnýn KDV dahil olduðunu belirtir. 
 Bu ifade, tüketiciye ürün veya hizmetin toplam maliyetini açýklar.
 

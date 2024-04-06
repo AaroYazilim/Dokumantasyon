@@ -1,8 +1,4 @@
-<h2>
-<span style="color:orange;">
-**Stok Modülü**
-</span>
-</h2>
+# Stok Modülü
 
 Bu kýsýmda; Stok ve depoda gerçekleþen her iþlem için bu kýsmý kullanmamýz gerekmektedir. 
 Stok ve Depo ile ilgili kartlarý bu modül aracýlýðýyla ekleyebilir ve düzenleyebiliriz.

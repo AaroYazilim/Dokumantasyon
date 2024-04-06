@@ -1,2 +1,2 @@
-<span style="color:orange;">**Açýklama **</span>
+### Açýklama
 Ýþleme ait açýklamayý belirtir.

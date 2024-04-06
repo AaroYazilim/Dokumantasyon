@@ -1,4 +1,5 @@
-<span style="color:orange;">**Vade**</span>
+## Vade
+
 Ýþlemin yapýldýðý vadeyi belirtir.
 Cari ile ilgili iþlem yapýldýðýnda otomatik buradaki vade gelecektir.Ay sonu seçeneði belirtilen günden sonraki ay sonuna alýr. 0 ise ayýn sonuna alýr.
 
