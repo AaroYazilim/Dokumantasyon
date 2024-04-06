@@ -1,14 +1,14 @@
 
-<h2 style="color:purple;">
+
 Banka Hesap Kartı
-</h2>
+
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Banka -> Banka Modülü -> Banka Hesap Kartı şeklinde ulaşım sağlayabilirsiniz. 
 - Sol menüden Banka -> Kartlar -> Banka Hesap Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
 
-<h3>Genel</h3>
-<strong>Hesap Adı:<strong/> Bu kartın kendine özel adıdır.
+Genel<
+Hesap Adı: Bu kartın kendine özel adıdır.
 **Hesap Kodu: **Kartın kendine özel kodudur. [Kart Kodu](/TemelOzellikler/KartKodu.md "Hesap Kodu")
 **Tip: ** Banka hesap kartının tipini belirtir. Çek, cari, pos vb.
 **Döviz: **Bu işlemin çalıştığı döviz cinsini belirtir.
