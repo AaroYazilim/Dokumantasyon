@@ -38,11 +38,11 @@ Bu plan, iþletmenin finansal yapýsýný, varlýklarýný, borçlarýný, gelirlerini ve 
 
 Örneðin;
 
-1000 Serisi: Kasa ve Banka Hesaplarý
+100 Serisi: Kasa ve Banka Hesaplarý
 
-1100 Serisi: Ticari Alacaklar
+110 Serisi: Ticari Alacaklar
 
-1200 Serisi: Stoklar 
+120 Serisi: Stoklar 
 
 bu þekilde iþlemlere verilmiþ kodlardýr.
 

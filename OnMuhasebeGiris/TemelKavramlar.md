@@ -31,6 +31,12 @@ Tüm evraklarda borçlarýn ve alacaklarýn denkleþmesi gerekmektedir.
 
 Cari borç- alacak takibinin düzenli tutulmasý çok büyük önem arz etmektedir.
 
+Sisteme girilen tüm kayýtlarda. Bir taraf borçlu olurken diðer taraf alacaklý olur. Borç - Alacak = 0 þeklinde olmalýdýr. 
+Örneðin sisteme bir nakit tahsilat girildiðinde Müþterinin hesabýna 1000TL alacak girilir ayný zamanda Kasa 1000TL borçlanýr. 
+Yani kasanýn bakiyesi 1000 tl artar.
+
+
+
 ## Banka Hesabý 
 
 **Banka Hesabý** iþletmelerin bankaya yatýrdýðý paralarýn izlenmesinde kullandýklarý finansal bir hesaptýr. 
@@ -44,7 +50,7 @@ hesaplarýn borç ve alacaklarýný hareketlerinin takibinin yapýldýðý hesaplardýr.
 
 ## Stok
 
-**Stok:** Firmanýn üretim yapabilmek için elinde bulundurduðu hammadde, yarý mamul ya da varlýklarýn toplam miktarýdýr. 
+**Stok:** Firmalarýn, ticari iþlemlerde kullandýklarý ürünleri, üretimde kullanýdýklarý hammadde, yarý mamul ve mamul bilgilerinin tutulduðu kartlardýr.
 
 Ýþletmeler, faaliyetlerini düzenli bir þekilde sürdürebilmek için stok alýþveriþinin alýþ ya da satýþ takibini kontrolünü saðlamak adýna stok tutulur. 
 

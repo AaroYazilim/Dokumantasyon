@@ -72,6 +72,11 @@ Ayrıca, mal iadesi sonucunda oluşan finansal işlemlerin doğru bir şekilde k
 
 ## Fatura Nedir?
 
+
+Fatura, bir mal veya hizmetin satışı veya alımı için yapılan ticari bir belgedir. 
+
+İki taraf arasındaki işlemi belgelemek, fiyatı göstermek, ödeme koşullarını belirlemek ve vergilendirme amacıyla kullanılmak üzere düzenlenir. 
+
 Fatura, ödemeyi tahsil etmesi için satıcı tarafından alıcıya verilen bir belgedir.
 
 Fatura belgesinde ödemeye konu olan kalemler ve ilgili kalemlerin vergi oranları yer alır. 
@@ -89,7 +94,7 @@ fiyatı, toplam bedeli, KDV oranı, istisnai durumları, iskonto) belirterek öd
 kestiği faturalardır. Her satışın belgelenerek yasallaşması gerekir.
 
 Satış faturasında borç alacak ilişkisinde cari(ürün ya da hizmet satın alan işletme veya şahıs) borçludur, 
-stok alacaklıdır. (Stok miktarında eksilme olacağından dolayı oluşan açık alacaklıdır.)
+stok alacaklıdır. 
 
 ### Satış faturasında detaylar;
 

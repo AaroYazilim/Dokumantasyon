@@ -1,6 +1,9 @@
 # Sayým 
 
-Bir iþletmelerin belirli günlerde veya aralýklarda elinde mevcut olan varlýklarýn sayarak, stoklarýný kontrol ederek kayýtta ki verilerle karþýlaþtýrýlmadýr. 
-Stoklardaki varlýklarýn doðruluðunu saðlamak, envanter kayýplarýný tespit etmek ve muhasebe kayýtlarýný güncellemektir. 
+Sayým bir nesnenin veya bir þeyin miktarýný belirlemek için yapýlan bir iþlem veya bu iþlemin sonucunu ifade eden bir terimdir.
 
-Sayýmda verilerin sisteme girilmesiyle stoklar otomatik olarak güncellenecektir.
+**Stok Sayýmý:** Ticari bir iþletmede, belirli bir zamanda mevcut olan stok miktarýnýn fiziksel olarak sayýlmasý ve kaydedilmesi iþlemidir. 
+
+Stok sayýmý, bir iþletmenin envanter yönetimi ve muhasebe iþlemleri için önemlidir. 
+
+Doðru stok sayýmý, iþletmenin stok düzenlemesini saðlar ve hatalý envanter kayýtlarýný düzeltir.
