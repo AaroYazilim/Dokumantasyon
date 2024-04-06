@@ -28,12 +28,16 @@ Ortak bu tiplerden seçim yapabiliriz.
 
 Vergi Dairesi - No (müşterinin vergi numarası var ise vergi dairesi- no yazılır, yok ise T.C. kimlik numarasını yazılmalıdır. 
 Vergi Numarası yazıldığında bilgiler otomatik gelir.) Kodlar-Etiketler kısmına istediğiniz özel kodları ve etiketleri ekleyebilirsiniz.
+
 **Adres Bilgileri**
 Adres Adı, İlçe, Sokak Adı, Bina Adı, Bina No, Kapı No, Posta Kodu, Telefon, Telefon2, Telefon3, Fax, Email, Web bilgileri doldurabilirsiniz.
+
 **İlgili Bilgileri**
 İlgili Adı, Telefon, Fax, Email, Not(ilgili kişiye ait notlar), Doğum, Ünvan bilgilerinin doldurabilirsiniz.
+
 **Banka Hesapları**
 Iban No, Banka şubesi bilgileri doldurulmalıdır.
+
 **Risk Limitleri**
 
 **Muhasebe Tanımları**
@@ -43,5 +47,5 @@ Muh. Adı adını girebilirsiniz.
 **Tip** bu kısma Alış-Satış hareketi muhasebe hesabı bilgileri girilmelidir mevcuttan ya da yeni giriş yapılabilir.
 **Gelişmiş**
 Şirket-Şube, Durum, Çalışma Para Birimi, Vade, Fiyat Grup, Plasiyer, Muhtelif Cari, Görüntülenme Grubu bilgileri seçilmelidir. 
-Bütün işlemler bittikten sonra kaydet butonuna basarak cari açma işleminizi tamamlayabilirsiniz. 
+**Bütün işlemler bittikten sonra kaydet butonuna basarak cari açma işleminizi tamamlayabilirsiniz.**
 
