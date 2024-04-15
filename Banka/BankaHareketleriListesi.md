@@ -1,13 +1,14 @@
 
 # **Banka Hareket Listesi**
 
-- Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "Banka hesap listesi" aratarak ulaþým saðlayabilirsiniz.
+- Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "Banka hareket listesi" aratarak ulaþým saðlayabilirsiniz.
 - Sol menüden Banka -> Banka Modülü -> Banka Hareketleri Listesi þeklinde ulaþým saðlayabilirsiniz. 
-- Sol menüden Banka -> Listeler -> Banka Hesap Listesi üzerinden ulaþým saðlayarak yeni kart ekleyebilir yada mevcutlarý düzenleyebilirsiniz.
+- Sol menüden Banka -> Listeler -> Banka Hareketleri Listesi üzerinden ulaþým saðlayabilirsiniz.
 
-Banka hesaplarýn hareketlerini burada görüntüleyebiliriz.
+Banka hesaplarýnýn hareketlerini burada görüntüleyebiliriz.
 Banka hesaplarýnýn güncel borç ve bakiyelerini görüntüleyerek güncel verilere ulaþým saðlayabilirsiniz.
 
+Sayfada bulunan filtreleme özelliði ile gelen veriyi istediðiniz þekilde sýnýrlandýrabilirsiniz. [Sayfa Kýsýtlarý](/TemelOzellikler/SayfaKisitlari.md  "Sayfa Kýsýtlarý")
 Filtreleme özelliði mevcuttur gerekli bilgileri buradan grid sütun ayarlarýndan seçerek filtreleme seçeneði oluþturabilirsiniz, bu þekilde istediðiniz listelemeye ulaþým saðlayabilirsiniz.
 
 ### Üç Ýþlem Butonu
