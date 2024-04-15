@@ -1,0 +1,8 @@
+- [Banka Hesap](/TemelKartlar/BankaHesap.md "Banka Hesap")
+- [Çek Senet](/TemelKartlar/CekSenet.md "Çek Senet")
+- [Demirbaş](/TemelKartlar/Demirbas.md "Demirbaş")
+- [Depo](/TemelKartlar/Depo.md "Depo")
+- [Gelir Gider](/TemelKartlar/GelirGider.md "Gelir Gider")
+- [Kasa](/TemelKartlar/Kasa.md "Kasa")
+- [Müşteri Satıcı](/TemelKartlar/MusteriSatici.md "Müşteri Satıcı")
+- [Stok](/TemelKartlar/Stok.md "Stok")

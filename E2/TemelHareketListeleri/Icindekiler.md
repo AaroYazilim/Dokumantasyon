@@ -1,0 +1,8 @@
+- [Banka Hesap Hareketleri](/TemelKartlar/BankaHesapHareketleri.md "Banka Hesap Hareketleri")
+- [Çek Senet Hareketleri](/TemelKartlar/CekSenetHareketleri.md "Çek Senet Hareketleri")
+- [Demirbaş Hareketleri](/TemelKartlar/DemirbasHareketleri.md "Demirbaş Hareketleri")
+- [Depo Hareketleri](/TemelKartlar/DepoHareketleri.md "Depo Hareketleri")
+- [Gelir Gider Hareketleri](/TemelKartlar/GelirGiderHareketleri.md "Gelir Gider Hareketleri")
+- [Kasa Hareketleri](/TemelKartlar/KasaHareketleri.md "Kasa Hareketleri")
+- [Müşteri Satıcı Hareketleri](/TemelKartlar/MusteriSaticiHareketleri.md "Müşteri Satıcı Hareketleri")
+- [Stok Hareketleri](/TemelKartlar/StokHareketleri.md "Stok Hareketleri")
