@@ -1,24 +1,31 @@
 
 # **Banka Hareket Listesi**
 
+### Ulaþým 
+
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "Banka hareket listesi" aratarak ulaþým saðlayabilirsiniz.
 - Sol menüden Banka -> Banka Modülü -> Banka Hareketleri Listesi þeklinde ulaþým saðlayabilirsiniz. 
 - Sol menüden Banka -> Listeler -> Banka Hareketleri Listesi üzerinden ulaþým saðlayabilirsiniz.
 
-Banka hesaplarýnýn hareketlerini burada görüntüleyebiliriz.
-Banka hesaplarýnýn güncel borç ve bakiyelerini görüntüleyerek güncel verilere ulaþým saðlayabilirsiniz.
+### Taným 
 
-Sayfada bulunan [Filtreleme](/TemelOzellikler/SayfaKisitlari.md  "Filtreleme") özelliði ile gelen veriyi istediðiniz þekilde sýnýrlandýrabilirsiniz. 
-Filtreleme özelliði mevcuttur gerekli bilgileri buradan grid sütun ayarlarýndan seçerek filtreleme seçeneði oluþturabilirsiniz, bu þekilde istediðiniz listelemeye ulaþým saðlayabilirsiniz.
+- Banka hesaplarýnýn hareketlerini burada görüntüleyebiliriz.
+- Banka hesaplarýnýn güncel borç ve bakiyelerini görüntüleyerek güncel verilere ulaþým saðlayabilirsiniz.
 
-### Üç Ýþlem Butonu
+### Ek Özellikler 
 
-Anasayfaya Kýsayol Olarak Ekle [Anasayfaya Kýsayol Olarak Ekle](/TemelHareketler/KisaYollaraEkleme.md "Anasayfaya Kýsayol Olarak Ekle")
-Toplu Deðiþtir [Toplu Deðiþtir](/TemelHareketler/TopluDegistir.md "Toplu Deðiþtir")
-Grid Sütunlarý Ayarla [Grid Sütunlarý Ayarla](/TemelHareketler/GridSutunAyarlari.md "Grid Sütunlarý Ayarla")
+- Sayfanýn üst kýsmýnda bulunan [Filtreleme](/TemelOzellikler/SayfaKisitlari.md  "Filtreleme") özelliði ile gelen veriyi istediðiniz þekilde sýnýrlandýrabilirsiniz.
 
 
-# Banka Hareketleri
+### Ýþlem Butonu
+
+- Sayfanýn sað üstünde bulunan alt altta üç çizgi þeklinde olan düðme ile ek iþlemlere ulaþýlýr.
+- [Anasayfaya Kýsayol Olarak Ekle](/TemelHareketler/KisaYollaraEkleme.md "Anasayfaya Kýsayol Olarak Ekle")
+- [Toplu Deðiþtir](/TemelHareketler/TopluDegistir.md "Toplu Deðiþtir")
+- [Grid Sütunlarý Ayarla](/TemelHareketler/GridSutunAyarlari.md "Grid Sütunlarý Ayarla")
+
+
+### Banka Hareketleri
 
 - [Havale EFT Alma](/TemelHareketler/HavaleEftAlma.md "Havale EFT Alma")
 - [Havale EFT Gönderme](TemelHareketler/HavaleEftGonderme.md "Havale EFT Gönderme")
