@@ -1,10 +1,10 @@
 ## Banka Hesap Kartı
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Banka hesap kartı" aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Banka -> Banka Modülü -> Banka Hesap Kartı şeklinde ulaşım sağlayabilirsiniz. 
 - Sol menüden Banka -> Kartlar -> Banka Hesap Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
 
-**Genel**
+### Genel
 
 **Hesap Adı:** Bu kartın kendine özel adıdır.
 
@@ -16,13 +16,13 @@
 
 **Kodlar:** Gruplamak için kullanılır. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
 
-**Banka Şube:** Cari kartının banka hesap şube bilgilerini belirtir.
+**Banka Şube:** Kartın kayıtlı olduğu banka şubesini belirtir.
 
-**Iban No:** Cari kartının banka hesap iban bilgilerini belirtir.
+**Iban No:** Kartın banka hesap iban bilgilerini belirtir.
 
 **Etiketler:** Gruplamak için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
-**İletişim** 
+### İletişim
 
 **Telefon:** Karta ait telefon numarasını ifade eder.
 
@@ -32,11 +32,14 @@
 
 **Web:** Karta ait web adresini ifade eder.
 
-**Muhasebe Tanımları:** [Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
+### Muhasebe Tanımları:
 
-**Gelişmiş** 
+[Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
+
+### Gelişmiş
 
 **Şirket-Şube:** [Şirket-Şube](/TemelOzellikler/SirketSube.md "Şirket-Şube")
+
 **Durum:** [Durum](/TemelOzellikler/Durum.md "Durum")
 
 Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna basarak Müşteri/Satıcı kartı açma işlemimizi bitirebiliriz.

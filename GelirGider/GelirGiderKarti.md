@@ -10,7 +10,7 @@
 
 **Gelir Gider Kodu:** Kartýn kendine özel kodudur. [Kart Kodu](/TemelOzellikler/KartKodu.md "Gelir Gider Kodu")
 
-**Birim 1:** Stok kartýnýn hangi birim cinsinden takip edileceðini belirtir.
+**Birim 1:** Bu kartýn hangi birim cinsinden takip edileceðini belirtir.
 
 **Kodlar:** Gruplamak için kullanýlýr. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
 
@@ -19,18 +19,18 @@
 
 **Ölçü Birimleri**
 
-**Birim 2:** Bu stok kartý için ikinci ölçü birimidir.Kolay hesap yapmak ve raporlarda farklý cins rapor alabilmek için kullanýlýr.
+**Birim 2:** Bu kart için ikinci ölçü birimidir.Kolay hesap yapmak ve raporlarda farklý cins rapor alabilmek için kullanýlýr.
 
-**Birim 3:** Bu stok kartý için üçüncü ölçü birimidir.Kolay hesap yapmak ve raporlarda farklý cins rapor alabilmek için kullanýlýr.
+**Birim 3:** Bu kart için üçüncü ölçü birimidir.Kolay hesap yapmak ve raporlarda farklý cins rapor alabilmek için kullanýlýr.
 
-**Çevrimiçi Birim2:** Birim-1 cinsinden bu stoðun kaç Birim-2 cinsinden olduðunu belirtir.Örneðin; Birim-1:Adet ve Birim-2:Deste ise bu deger = 0,1(1/10) olur.
+**Çevrimiçi Birim2:** Birim-1 cinsinden kaç Birim-2 cinsinden olduðunu belirtir.Örneðin; Birim-1:Adet ve Birim-2:Deste ise bu deger = 0,1(1/10) olur.
 
-**Çevrimiçi Birim3:** Birim-1 cinsinden bu stoðun kaç Birim-3 cinsinden olduðunu belirtir.Örneðin; Birim-1:Adet ve Birim-3:Düzine ise bu deger = 0,083(1/12) olur.
+**Çevrimiçi Birim3:** Birim-1 cinsinden kaç Birim-3 cinsinden olduðunu belirtir.Örneðin; Birim-1:Adet ve Birim-3:Düzine ise bu deger = 0,083(1/12) olur.
 
 
 **Vergi Oranlarý**
 
-**Vergi Oranlarý:** Bu stok kartý için yapýlacak iþlemlerde kullanýlacak vergi oranlarýný belirtir. **Girilmesi Zorunludur.**
+**Vergi Oranlarý:** Bu kart için yapýlacak iþlemlerde kullanýlacak vergi oranlarýný belirtir. **Girilmesi Zorunludur.**
 
 
 **Muhasebe Tanýmlarý: **[Muhasebeleþme Tanýmlarý](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleþme Tanýmlarý")
@@ -46,11 +46,11 @@
 
 **Kýsa Adý:** Raporlama için gereklidir. 
 
-**GTIP:** Ýhracat tipindeki e-faturalarda, stoða ait GTIP deðerinin doldurulmasý zorunludur.
+**GTIP:** Ýhracat tipindeki e-faturalarda, karta ait GTIP deðerinin doldurulmasý zorunludur.
 
 **Cari Zorunlu:** Bu kart için yapýlan hareketlerde hareketin hangi cariye ait olduðunun raporlanabilmesi için seçilir. Her harekette istenecektir.
 
-**Demirbaþ Zorunlu:** Bu kartiçin yapýlan hareketlerde hareketin hangi demirbaþa ait olduðunun raporlanabilmesi için seçilir. Her harekette istenecektir.
+**Demirbaþ Zorunlu:** Bu kart için yapýlan hareketlerde hareketin hangi demirbaþa ait olduðunun raporlanabilmesi için seçilir. Her harekette istenecektir.
 
 **Dekont Zorunlu:** Bu kart için yapýlan hareketlerde hareketin hangi dekonta ait olduðunun raporlanabilmesi için seçilir. Her harekette istenecektir.
 
