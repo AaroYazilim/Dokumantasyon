@@ -9,20 +9,21 @@
 
 ### Taným 
 
-- Banka hesaplarýnýn hareketlerini burada görüntüleyebiliriz.
-- Banka hesaplarýnýn güncel borç ve bakiyelerini görüntüleyerek güncel verilere ulaþým saðlayabilirsiniz.
+- Banka hesaplarýnýn hareketlerini bu sayfadan görüntüleyebilirsiniz.
+- Banka hesaplarýnýn güncel ve belirli bir tarihte ki bakiyelerini görüntüleyebilirsiniz.
 
 ### Ek Özellikler 
 
 - Sayfanýn üst kýsmýnda bulunan [Filtreleme](/TemelOzellikler/SayfaKisitlari.md  "Filtreleme") özelliði ile gelen veriyi istediðiniz þekilde sýnýrlandýrabilirsiniz.
+- Sayfada ki listeyi [Özel Listeleme](/TemelOzellikler/ListeNesnesi.md  "Özel Listeleme") sýralayabilir, yeniden boyutlandýrabilir ve sayfa sayfa görüntüleyebilirsiniz.
 
-
-### Ýþlem Butonu
+### Ek Ýþlem Butonu
 
 - Sayfanýn sað üstünde bulunan alt altta üç çizgi þeklinde olan düðme ile ek iþlemlere ulaþýlýr.
-- [Anasayfaya Kýsayol Olarak Ekle](/TemelHareketler/KisaYollaraEkleme.md "Anasayfaya Kýsayol Olarak Ekle")
-- [Toplu Deðiþtir](/TemelHareketler/TopluDegistir.md "Toplu Deðiþtir")
-- [Grid Sütunlarý Ayarla](/TemelHareketler/GridSutunAyarlari.md "Grid Sütunlarý Ayarla")
+- [Anasayfaya Kýsayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kýsayol Olarak Ekle")
+- [Toplu Deðiþtir](/TemelOzellikler/TopluDegistir.md "Toplu Deðiþtir")
+- [Grid Sütunlarý Ayarla](/TemelOzellikler/GridSutunAyarlari.md "Grid Sütunlarý Ayarla")
+- [Listeyi Excele Aktar](/TemelOzellikler/ListeyiExceleAktar.md "Listeyi Excele Aktar")
 
 
 ### Banka Hareketleri

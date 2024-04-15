@@ -1,15 +1,31 @@
-<span style="color:aqua;">
-**Banka Hesap Kartlarý**</span>
-- Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan aratarak ulaþým saðlayabilirsiniz.
-- erp.aaro.com.tr adresine giderek, sol sekmede yer alan modüller kýsmýndan Banka -> Banka Modülü -> Banka Hesap Kartlarý(sað üst köþede Liste hemen altýnda yer almaktadýr.) 
-- erp.aaro.com.tr adresine giderek, sol sekmede yer alan modüller kýsmýndan Banka -> Kartlar -> Banka Hesap Kartý Listesi 
 
-	Bu panelde sisteme girmiþ olduðumuz banka hesaplarýnýn detaylarýný görüntüleyebilmekteyiz.
-	Banka hesaplarýnýn güncel borç ve bakiyelerini görüntüleyerek güncel verilere ulaþým saðlayabilirsiniz.
-	Hesap Kodu, Hesap Adý, Bakiye, Bakiye Döviz, Döviz, Tipi, Kod1, Kod2, Etiket1, Etiket2, Muhabeleþme Kodu, Muhasebeleþme Adý, Þirket Kodu, Þube Kodu gibi detaylarýný görüntüleyebilirsiniz.
-	Filtreleme yaparak istediðiniz banka hesabýna kolayca ulaþým saðlayabilirsiniz.
-	Grid Sütunlarýný Ayarlayabilir burada banka detaylarýnýn gözükmesinde deðiþiklikler yapabilirsiniz. Grid Sütun Ayarlarý 
-	Kýsa y
-	
-	Yeni banka hesap kartý ekleyebilirsiniz.
-	Mevcut banka hesaplaýný düzenleyebilirsiniz.
+# **Banka Hesap Kartý Listesi**
+
+### Ulaþým 
+
+- Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "Banka hareket listesi" aratarak ulaþým saðlayabilirsiniz.
+- Sol menüden Banka -> Banka Modülü -> Banka Hareketleri Listesi þeklinde ulaþým saðlayabilirsiniz. 
+- Sol menüden Banka -> Listeler -> Banka Hareketleri Listesi üzerinden ulaþým saðlayabilirsiniz.
+
+### Taným 
+
+- Banka hesaplarýnýn genel bilgilerini bu sayfadan görüntüleyebilirsiniz.
+- Banka hesaplarýnýn güncel bakiyelerini görüntüleyebilirsiniz.
+- Mevcut banka hesaplarýný düzenleyebilir, silebilir veya yeni banka hesaplarýný bu sayfadan ekleyebilirisiniz.
+
+### Ek Özellikler 
+
+- Sayfanýn üst kýsmýnda bulunan [Filtreleme](/TemelOzellikler/SayfaKisitlari.md  "Filtreleme") özelliði ile gelen veriyi istediðiniz þekilde sýnýrlandýrabilirsiniz.
+- Sayfada ki listeyi [Özel Listeleme](/TemelOzellikler/ListeNesnesi.md  "Özel Listeleme") sýralayabilir, yeniden boyutlandýrabilir ve sayfa sayfa görüntüleyebilirsiniz.
+
+
+### Ek Ýþlem Butonu
+
+- Sayfanýn sað üstünde bulunan alt altta üç çizgi þeklinde olan düðme ile ek iþlemlere ulaþýlýr.
+- [Anasayfaya Kýsayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kýsayol Olarak Ekle")
+- [Toplu Deðiþtir](/TemelOzellikler/TopluDegistir.md "Toplu Deðiþtir")
+- [Grid Sütunlarý Ayarla](/TemelOzellikler/GridSutunAyarlari.md "Grid Sütunlarý Ayarla")
+- [Listeyi Excele Aktar](/TemelOzellikler/ListeyiExceleAktar.md "Listeyi Excele Aktar")
+
+
+

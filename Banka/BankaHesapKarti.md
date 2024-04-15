@@ -10,15 +10,17 @@
 
 **Hesap Kodu:** Kartın kendine özel kodudur. [Hesap Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
 
-**Tip:** Banka hesap kartının tipini belirtir. Çek, cari, pos vb.
+**Tip:** Banka hesap kartının tipini belirtir. Cari, Pos, Kredi seçeneklerinden biri olabilir. Pos ve kredi banka hesapları için bir adet cari tipli banka hesabı açılmalıdır. 
 
-**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
+**Cari Banka Hesap:** Pos ve kredi tipli banka hesaplarının bağlı olduğu cari tipli banka hesabı seçilir.
 
-**Kodlar:** Gruplamak için kullanılır. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Döviz:** Bu banka hesabının çalıştığı döviz cinsini belirtir.tTürk lirası haricinde başka bir döviz serçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 **Banka Şube:** Kartın kayıtlı olduğu banka şubesini belirtir.
 
 **Iban No:** Kartın banka hesap iban bilgilerini belirtir.
+
+**Kodlar:** Gruplamak için kullanılır. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
 
 **Etiketler:** Gruplamak için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
@@ -38,8 +40,8 @@
 
 ### Gelişmiş
 
-**Şirket-Şube:** [Şirket-Şube](/TemelOzellikler/SirketSube.md "Şirket-Şube")
+**Şirket-Şube:** [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
 
 **Durum:** [Durum](/TemelOzellikler/Durum.md "Durum")
 
-Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna basarak Müşteri/Satıcı kartı açma işlemimizi bitirebiliriz.
+Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna basarak değişiklikleri kaydebilirsiniz.
