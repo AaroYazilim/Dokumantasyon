@@ -8,7 +8,7 @@
 Banka hesaplarýnýn hareketlerini burada görüntüleyebiliriz.
 Banka hesaplarýnýn güncel borç ve bakiyelerini görüntüleyerek güncel verilere ulaþým saðlayabilirsiniz.
 
-Sayfada bulunan filtreleme özelliði ile gelen veriyi istediðiniz þekilde sýnýrlandýrabilirsiniz. [Sayfa Kýsýtlarý](/TemelOzellikler/SayfaKisitlari.md  "Sayfa Kýsýtlarý")
+Sayfada bulunan [Filtreleme](/TemelOzellikler/SayfaKisitlari.md  "Filtreleme") özelliði ile gelen veriyi istediðiniz þekilde sýnýrlandýrabilirsiniz. 
 Filtreleme özelliði mevcuttur gerekli bilgileri buradan grid sütun ayarlarýndan seçerek filtreleme seçeneði oluþturabilirsiniz, bu þekilde istediðiniz listelemeye ulaþým saðlayabilirsiniz.
 
 ### Üç Ýþlem Butonu
