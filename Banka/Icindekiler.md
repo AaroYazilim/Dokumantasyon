@@ -1,4 +1,4 @@
-# Banka Modülü**
+# Banka Modülü
 
 Bu modül, işletmelerin banka hesaplarını yönetmek için gereken çeşitli işlevleri sağlar. 
 Bu modülde yer alan işlemler;

@@ -1,5 +1,5 @@
 
-# **Banka Hesap Kartý Listesi**
+# Banka Hesap Kartý Listesi
 
 ### Ulaþým 
 
@@ -11,7 +11,7 @@
 
 - Banka hesaplarýnýn genel bilgilerini bu sayfadan görüntüleyebilirsiniz.
 - Banka hesaplarýnýn güncel bakiyelerini görüntüleyebilirsiniz.
-- Mevcut banka hesaplarýný düzenleyebilir, silebilir veya yeni banka hesaplarýný bu sayfadan ekleyebilirisiniz.
+- Mevcut banka hesaplarýný düzenleyebilir, silebilir veya yeni banka hesaplarýný bu sayfadan ekleyebilirsiniz.
 
 ### Ek Özellikler 
 
@@ -23,7 +23,6 @@
 
 - Sayfanýn sað üstünde bulunan alt altta üç çizgi þeklinde olan düðme ile ek iþlemlere ulaþýlýr.
 - [Anasayfaya Kýsayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kýsayol Olarak Ekle")
-- [Toplu Deðiþtir](/TemelOzellikler/TopluDegistir.md "Toplu Deðiþtir")
 - [Grid Sütunlarý Ayarla](/TemelOzellikler/GridSutunAyarlari.md "Grid Sütunlarý Ayarla")
 - [Listeyi Excele Aktar](/TemelOzellikler/ListeyiExceleAktar.md "Listeyi Excele Aktar")
 

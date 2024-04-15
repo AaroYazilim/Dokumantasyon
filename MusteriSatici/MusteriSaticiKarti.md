@@ -1,10 +1,11 @@
-## Müşteri/Satıcı Kartı
+
+# Müşteri/Satıcı Kartı
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "müşteri satıcı kartı" aratarak ulaşım sağlayabilirsiniz.
 - Sol menüdenn Musteri/Satici -> Modül Sayfası -> Yeni Musteri/Satici Kartı şeklinde ulaşım sağlayabilirsiniz.
 - Sol menüden Musteri/Satici -> Kartlar -> Müşteri/Satıcı Kartı Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
 
-**Genel**
+### Genel
 
 **Adı:** Bu kartın kendine özel adıdır.
 
@@ -21,7 +22,7 @@
 **Etiketler:** Gruplamak için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 
-**Adres Bilgileri**
+### Adres Bilgileri
 
 **Adres Adı:** Karta ait kişinin adresini ifade eder.
 
@@ -46,7 +47,7 @@
 **Web:** Karta ait web adresini ifade eder.
 
 
-**İlgili Bilgileri**
+### İlgili Bilgileri
 
 **İlgili Adı:** Bu karta ait ilgili kişinin adını ifade eder.
 
@@ -65,7 +66,7 @@
 **Ünvan:** İlgili kişiye ait firma ünvanını ifade eder.
 
 
-**Banka Hesapları**
+### Banka Hesapları
 
 **Iban No:** Cari kartının banka hesap iban bilgilerini belirtir.
 
@@ -78,9 +79,9 @@
 **Muhasebe Tanımları:** [Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
 
 
-**Gelişmiş** 
+### Gelişmiş
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](/TemelOzellikler/SirketSube.md "Şirket-Şube")
+**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
 
 **Durum:** Kartın kullanabilirliğini belirtir. Pasif kartlar işlemde kullanılamaz.
 

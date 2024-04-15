@@ -1,5 +1,5 @@
 
-# **Banka Hareket Listesi**
+# Banka Hareket Listesi
 
 ### Ulaşım 
 
