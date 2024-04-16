@@ -1,16 +1,17 @@
-## Müşteri/Satıcı Kartı
+
+# Müşteri/Satıcı Kartı
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "müşteri satıcı kartı" aratarak ulaşım sağlayabilirsiniz.
 - Sol menüdenn Musteri/Satici -> Modül Sayfası -> Yeni Musteri/Satici Kartı şeklinde ulaşım sağlayabilirsiniz.
 - Sol menüden Musteri/Satici -> Kartlar -> Müşteri/Satıcı Kartı Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
 
-**Genel**
+### Genel
 
 **Adı:** Bu kartın kendine özel adıdır.
 
 **Kodu:** Bu kartın kendine özel kodudur.Seri takibi yapılabilir. [Kart Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
 
-**Tip:** Banka hesap kartının tipini belirtir. Çek, cari, pos vb.
+**Tip:** Müşteri/Satıcı kartının tipini belirtir. Müşteri, satıcı, karaliste, potansiyel, personel, kamu veya ortak değerlerinden biri olabilir .
 
 **Vergi Dairesi:** Bu carinin vergi dairesini belirtir.Şahıslar için 'TC' giriniz.**Girilmesi Zorunludur.**
 
@@ -21,7 +22,7 @@
 **Etiketler:** Gruplamak için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 
-**Adres Bilgileri**
+### Adres Bilgileri
 
 **Adres Adı:** Karta ait kişinin adresini ifade eder.
 
@@ -46,7 +47,7 @@
 **Web:** Karta ait web adresini ifade eder.
 
 
-**İlgili Bilgileri**
+### İlgili Bilgileri
 
 **İlgili Adı:** Bu karta ait ilgili kişinin adını ifade eder.
 
@@ -65,7 +66,7 @@
 **Ünvan:** İlgili kişiye ait firma ünvanını ifade eder.
 
 
-**Banka Hesapları**
+### Banka Hesapları
 
 **Iban No:** Cari kartının banka hesap iban bilgilerini belirtir.
 
@@ -78,15 +79,15 @@
 **Muhasebe Tanımları:** [Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
 
 
-**Gelişmiş** 
+### Gelişmiş
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](/TemelOzellikler/SirketSube.md "Şirket-Şube")
+**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
 
 **Durum:** Kartın kullanabilirliğini belirtir. Pasif kartlar işlemde kullanılamaz.
 
-**Çalışma Para Birimi:** Bu işlemin çalıştığı döviz cinsini belirtir.
+**Çalışma Para Birimi:** Bu kartın çalıştığı döviz cinsini belirtir.
 
-**Vade:** Bu carinin vadesidir. [Vade](/TemelOzellikler/Vade.md "Vade")
+**Vade:** Bu carinin vadesidir. [Vade](/TemelOzellikler/CariVade.md "Vade")
 
 **Fiyat Grup:** Carinin hangi fiyat listesinden % kaç iskonto alacağını belirten fiyat grubudur.
 
@@ -97,4 +98,4 @@
 **Görüntülenme:** Kartın ve hareketlerinin hangi kullanıcılar tarafından görüntülenebileceğinin ayarlanması için kullanılır.
 
 
-Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna basarak Müşteri/Satıcı kartı açma işlemimizi bitirebiliriz.
+Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi bitirebiliriz.

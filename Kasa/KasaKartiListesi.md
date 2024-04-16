@@ -1,10 +1,27 @@
-<span style="color:purple;">
-**Kasa Kartları**</span>
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan aratarak ulaşım sağlayabilirsiniz.
-- erp.aaro.com.tr adresine giderek, sol sekmede yer alan modüller kısmından Kasa -> Kasa Modülü -> Kasa Kartları (sağ üst köşede Liste hemen altında yer almaktadır.) 
-- erp.aaro.com.tr adresine giderek, sol sekmede yer alan modüller kısmından Kasa -> Kartlar -> Kasa Kartı Listesi
 
-<span style="color:purple;">
-**Kasa Hareketleri Listesi**</span>
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan aratarak ulaşım sağlayabilirsiniz.
-- erp.aaro.com.tr adresine giderek, sol sekmede yer alan modüller kısmından Kasa -> Kasa Modülü -> Kasa Hareketleri Listesi (sağ üst köşede Liste hemen altında yer almaktadır.) 
+# Kasa Kartı Listesi
+
+### Ulaşım
+
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "kasa kartı listesi" aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden Kasa -> Kasa Modülü -> Kasa Kartı Listesi buradan ulaşım sağlayabilirsiniz. 
+- Sol menüden Kasa -> Kasa Modülü -> Kartlar -> Kasa Kartı Listesi buradan ulaşım sağlayabilirsiniz. 
+
+### Tanım 
+
+- Kasa hesaplarının genel bilgilerini bu sayfadan görüntüleyebilirsiniz.
+- Kasa hesaplarının güncel bakiyelerini görüntüleyebilirsiniz.
+- Mevcut müşteri/satıcı hesaplarını düzenleyebilir, silebilir veya yeni müşteri/satıcı bu sayfadan ekleyebilirsiniz.
+
+### Ek Özellikler 
+
+- Sayfanın üst kısmında bulunan [Filtreleme](/TemelOzellikler/SayfaKisitlari.md  "Filtreleme") özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
+- Sayfada ki listeyi [Özel Listeleme](/TemelOzellikler/ListeNesnesi.md  "Özel Listeleme") sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
+
+### Ek İşlem Butonu
+
+- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+- [Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle")
+- [Grid Sütunları Ayarla](/TemelOzellikler/GridSutunAyarlari.md "Grid Sütunları Ayarla")
+- [Listeyi Excele Aktar](/TemelOzellikler/ListeyiExceleAktar.md "Listeyi Excele Aktar")
+

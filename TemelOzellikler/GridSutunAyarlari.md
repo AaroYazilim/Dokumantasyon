@@ -1,6 +1,6 @@
 ## Grid Sütunları Ayarlama; 
 
-Grid Sütunlarını Ayarlayabilir burada banka detaylarının gözükmesinde değişiklikler yapabilirsiniz. 
+Grid Sütunlarını Ayarlayabilir burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz. 
 
 ### Grid Sütunlarınında değişiklik yapma; 
 

@@ -1,3 +1,4 @@
+
 # Kasa Modülü
 
 Bu kısımda; Kasadan gerçekleşen her işlem için bu kısmı kullanmamız gerekmektedir. 

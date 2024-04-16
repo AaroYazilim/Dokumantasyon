@@ -1,17 +1,24 @@
-<span style="color:purple;">
-**Satýþ Faturasý**</span>
+# **Satýþ Faturasý**
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan aratarak ulaþým saðlayabilirsiniz.
 - erp.aaro.com.tr adresine giderek, sol sekmede yer alan modüller kýsmýndan Musteri/Satici -> Hareket Oluþtur -> Satýþ Faturasý
 
 **Genel**
 Þirket-Þube [Þirket-Þube](/TemelOzellikler/SirketSube.md "Þirket-Þube")
+
 Tarih [Tarih](/TemelOzellikler/Tarih.md "Tarih")
+
 Belge No [Belge No](/TemelOzellikler/BelgeNo.md "Belge No")
-Müþteri [Müþteri](/TemelOzellikler/Musteri.md "Müþteri")
+
+**Müþteri:** Ýþlemin yapýldýðýný cari kartýný ifade eder. 
+
 Döviz [Döviz](/TemelOzellikler/Doviz.md "Döviz")
+
 Depo [Depo](/TemelOzellikler/Depo.md "Depo")
+
 Vade [Vade](/TemelOzellikler/Vade.md "Vade")
+
 Açýklama [Açýklama](/TemelOzellikler/Aciklama.md "Açýklama")
+
 KDV Dahil [KDV Dahil](/TemelOzellikler/KDVdahil.md "KDV Dahil")
 
 **Detay**

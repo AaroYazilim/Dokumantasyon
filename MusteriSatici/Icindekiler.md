@@ -6,6 +6,6 @@ erp.aaro.com.tr adresine girdikten sonra modüller kısmında Musteri/Satici –
 Karşımıza çıkan ekranda cari hareketlerini görüntüleyebiliriz.
 Cari ekleme, cari ziyareti ekleme, kartları görüntüleme, cari hareketleri listesi, cari kod ağacı, ziyaret listesine kolayca ulaşım sağlayabiliriz.
 
-- [Musteri/Satici Hesap Kartı](/MusteriSatici/MusteriSaticiHesapKarti.md "Musteri/Satici Hesap Kartı")
-- [Musteri/Satici Hesap Listesi](/MusteriSatici/MusteriSaticiHesapListesi.md "Musteri/Satici Hesap Listesi")
-- [Musteri/Satici Hareketleri Listesi](/MusteriSatici/MusteriSaticiHesapHareketleriListesi.md "Musteri/Satici Hareketleri Listesi")
+- [Musteri/Satici Kartı](/MusteriSatici/MusteriSaticiKarti.md "Musteri/Satici Kartı")
+- [Musteri/Satici Listesi](/MusteriSatici/MusteriSaticiListesi.md "Musteri/Satici Listesi")
+- [Musteri/Satici Hareketleri Listesi](/MusteriSatici/MusteriSaticiHareketleriListesi.md "Musteri/Satici Hareketleri Listesi")
