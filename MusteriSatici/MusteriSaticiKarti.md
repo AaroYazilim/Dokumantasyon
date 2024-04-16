@@ -11,7 +11,7 @@
 
 **Kodu:** Bu kartın kendine özel kodudur.Seri takibi yapılabilir. [Kart Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
 
-**Tip:** Banka hesap kartının tipini belirtir. Çek, cari, pos vb.
+**Tip:** Müşteri/Satıcı kartının tipini belirtir. Müşteri, satıcı, karaliste, potansiyel, personel, kamu veya ortak değerlerinden biri olabilir .
 
 **Vergi Dairesi:** Bu carinin vergi dairesini belirtir.Şahıslar için 'TC' giriniz.**Girilmesi Zorunludur.**
 
@@ -85,9 +85,9 @@
 
 **Durum:** Kartın kullanabilirliğini belirtir. Pasif kartlar işlemde kullanılamaz.
 
-**Çalışma Para Birimi:** Bu işlemin çalıştığı döviz cinsini belirtir.
+**Çalışma Para Birimi:** Bu kartın çalıştığı döviz cinsini belirtir.
 
-**Vade:** Bu carinin vadesidir. [Vade](/TemelOzellikler/Vade.md "Vade")
+**Vade:** Bu carinin vadesidir. [Vade](/TemelOzellikler/CariVade.md "Vade")
 
 **Fiyat Grup:** Carinin hangi fiyat listesinden % kaç iskonto alacağını belirten fiyat grubudur.
 
@@ -98,4 +98,4 @@
 **Görüntülenme:** Kartın ve hareketlerinin hangi kullanıcılar tarafından görüntülenebileceğinin ayarlanması için kullanılır.
 
 
-Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna basarak Müşteri/Satıcı kartı açma işlemimizi bitirebiliriz.
+Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi bitirebiliriz.

@@ -1,10 +1,11 @@
+
 ## Kasa Kartı
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Kasa kartı" aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Kasa -> Kasa Modülü -> Yeni Kasa Kartı Ekle şeklinde ulaşım sağlayabilirsiniz.
 - Sol menüden Kasa -> Kartlar -> Kasa Kartı Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
 
-**Genel**
+### Genel
 
 **Kasa Adı:** Bu kartın kendine özel adıdır.
 
@@ -17,9 +18,9 @@
 **Etiketler:** Gruplamak için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 
-**Muhasebe Tanımları:** [Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
+### Muhasebe Tanımları: [Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
 
-**Gelişmiş** 
+### Gelişmiş
 
 **Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](/TemelOzellikler/SirketSube.md "Şirket-Şube")
 

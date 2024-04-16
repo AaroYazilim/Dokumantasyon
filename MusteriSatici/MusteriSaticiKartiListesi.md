@@ -4,14 +4,14 @@
 ### Ulaþým
 
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "müþter satýcý" aratarak ulaþým saðlayabilirsiniz.
-- Sol menüden Musteri/Satici -> Modül Sayfasý -> Müþteri/Satýcý Kartý Listesi buradan ulaþým saðlayabilirsiniz. 
-- Sol menüden Musteri/Satici -> Modül Sayfasý -> Kartlar -> Müþteri/Satýcý Kartý Listesi buradan ulaþým saðlayabilirsiniz. 
+- Sol menüden Musteri/Satici -> Modül Sayfasý -> Müþteri/Satýcý Kartý Listesi üzerinden ulaþým saðlayabilirsiniz. 
+- Sol menüden Musteri/Satici -> Modül Sayfasý -> Kartlar -> Müþteri/Satýcý Kartý Listesi üzerinden ulaþým saðlayabilirsiniz. 
 
 ### Taným 
 
-- Müþteri/Satýcý hesaplarýnýn genel bilgilerini bu sayfadan görüntüleyebilirsiniz.
-- Müþteri/Satýcý hesaplarýnýn güncel bakiyelerini görüntüleyebilirsiniz.
-- Mevcut müþteri/satýcý hesaplarýný düzenleyebilir, silebilir veya yeni müþteri/satýcý bu sayfadan ekleyebilirsiniz.
+- Müþteri/Satýcý kartlarýnýn genel bilgilerini bu sayfadan görüntüleyebilirsiniz.
+- Müþteri/Satýcý kartlarýnýn güncel bakiyelerini görüntüleyebilirsiniz.
+- Mevcut müþteri/satýcý kartlarýný düzenleyebilir, silebilir veya yeni müþteri/satýcý kartlarýný bu sayfadan ekleyebilirsiniz.
 
 ### Ek Özellikler 
 
