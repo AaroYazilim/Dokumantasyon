@@ -9,8 +9,8 @@
 
 ### Taným 
 
-- Gelir Gider hesaplarýnýn genel bilgilerini bu sayfadan görüntüleyebilirsiniz.
-- Gelir Gider hesaplarýnýn güncel bakiyelerini görüntüleyebilirsiniz.
+- Gelir Gider kartlarýnýn genel bilgilerini bu sayfadan görüntüleyebilirsiniz.
+- Gelir Gider kartlarýnýn güncel bakiyelerini görüntüleyebilirsiniz.
 
 ### Ek Özellikler 
 

@@ -4,7 +4,7 @@
 - Sol menüden Gelir Gider -> Gelir Gider Modülü -> Gelir Gider Kartý þeklinde ulaþým saðlayabilirsiniz. 
 - Sol menüden Gelir Gider -> Kartlar -> Gelir/Gider Kartý Listesi üzerinden ulaþým saðlayarak yeni kart ekleyebilir yada mevcutlarý düzenleyebilirsiniz.
 
-**Genel**
+### Genel
 
 **Gelir Gider Adý:** Bu kartýn kendine özel adýdýr.
 
@@ -17,7 +17,7 @@
 **Etiketler:** Gruplamak için kullanýlýr. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 
-**Ölçü Birimleri**
+### Ölçü Birimleri
 
 **Birim 2:** Bu kart için ikinci ölçü birimidir.Kolay hesap yapmak ve raporlarda farklý cins rapor alabilmek için kullanýlýr.
 
@@ -28,7 +28,7 @@
 **Çevrimiçi Birim3:** Birim-1 cinsinden kaç Birim-3 cinsinden olduðunu belirtir.Örneðin; Birim-1:Adet ve Birim-3:Düzine ise bu deger = 0,083(1/12) olur.
 
 
-**Vergi Oranlarý**
+### Vergi Oranlarý
 
 **Vergi Oranlarý:** Bu kart için yapýlacak iþlemlerde kullanýlacak vergi oranlarýný belirtir. **Girilmesi Zorunludur.**
 
@@ -36,7 +36,7 @@
 **Muhasebe Tanýmlarý: **[Muhasebeleþme Tanýmlarý](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleþme Tanýmlarý")
 
 
-**Geliþmiþ** 
+### Geliþmiþ
 
 **Þirket-Þube:** [Þirket-Þube](/TemelOzellikler/SirketSube.md "Þirket-Þube")
 

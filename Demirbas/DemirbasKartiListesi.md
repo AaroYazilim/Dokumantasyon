@@ -9,9 +9,9 @@
 
 ### Taným 
 
-- Demirbaþ hesaplarýnýn genel bilgilerini bu sayfadan görüntüleyebilirsiniz.
-- Demirbaþ hesaplarýnýn güncel bakiyelerini görüntüleyebilirsiniz.
-- Mevcut demirbaþ hesaplarýný düzenleyebilir, silebilir veya yeni demirbaþ hesaplarýný bu sayfadan ekleyebilirsiniz.
+- Demirbaþ kartlarýnýn genel bilgilerini bu sayfadan görüntüleyebilirsiniz.
+- Demirbaþ kartlarýnýn güncel bakiyelerini görüntüleyebilirsiniz.
+- Mevcut demirbaþ kartlarýný düzenleyebilir, silebilir veya yeni demirbaþ hesaplarýný bu sayfadan ekleyebilirsiniz.
 
 ### Ek Özellikler 
 

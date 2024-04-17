@@ -1,3 +1,4 @@
+
 ## **Etiketler: **
 
 Genellikle bir iþletmenin veya kurumun fatura iþlemlerini yönetmek için kullanýlan kategorileri veya tanýmlarý ifade eder. 

@@ -5,7 +5,7 @@
 - Sol menüden Demirbaþ -> Demirbaþ Modülü -> Demirbaþ Kartý þeklinde ulaþým saðlayabilirsiniz. 
 - Sol menüden Demirbaþ -> Kartlar -> Demirbaþ Kartý Listesi üzerinden ulaþým saðlayarak yeni kart ekleyebilir yada mevcutlarý düzenleyebilirsiniz.
 
-**Genel**
+### Genel
 
 **Demirbaþ Adý:** Bu kartýn kendine özel adýdýr.
 
@@ -18,7 +18,7 @@
 **Etiketler Gruplamak için kullanýlýr. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 
-**Ölçü Birimleri**
+### Ölçü Birimleri
 
 **Birim 2:** Bu demirbaþ kartý için ikinci ölçü birimidir.Kolay hesap yapmak ve raporlarda farklý cins rapor alabilmek için kullanýlýr.
 
@@ -44,14 +44,14 @@
 **Aðýrlýk:** Demirbaþýn aðýrlýk ölçüsünü belirtir.
 
 
-**Vergi Oranlarý**
+### Vergi Oranlarý
 
 **Vergi Oranlarý:** Bu demirbaþ kartý için yapýlacak iþlemlerde kullanýlacak vergi oranlarýný belirtir. **Girilmesi Zorunludur.**
 
 **Muhasebe Tanýmlarý:** [Muhasebeleþme Tanýmlarý](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleþme Tanýmlarý")
 
 
-**Geliþmiþ** 
+### Geliþmiþ
 
 **Þirket-Þube:** [Þirket-Þube](/TemelOzellikler/SirketSube.md "Þirket-Þube")
 

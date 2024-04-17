@@ -1,10 +1,11 @@
+
 ## Stok Kartý
 
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "Stok kartý" olarak aratarak ulaþým saðlayabilirsiniz.
 - Sol menüden Stok -> Stok Modülü -> Yeni Stok Kartý þeklinde ulaþým saðlayabilirsiniz. 
 - Sol menüden Stok -> Kartlar -> Stok Kartý Listesi üzerinden ulaþým saðlayarak yeni kart ekleyebilir yada mevcutlarý düzenleyebilirsiniz.
 
-**Genel**
+### Genel
 
 **Stok Adý:** Bu kartýn kendine özel adýdýr.
 
@@ -17,7 +18,7 @@
 **Etiketler:** Gruplamak için kullanýlýr. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 
-**Fiyat** 
+### Fiyat
 
 **Alýþ Fiyat:** Bu karta ait ürün veya hizmetin satýn alýnýrken ödenen fiyatýný ifade eder.
 
@@ -28,14 +29,14 @@
 **Döviz Adý:** Satýþ fiyatýnýn çalýþtýðý döviz cinsini belirtir.
 
 
-**Barkod**
+### Barkod
 
 **Barkod1:** Bu stok kartýna ait barkod numarasýný belirtir.
 
 **Barkod2:** Bu stok kartýna ait ikinci barkod numarasýný belirtir.Birden fazla barkodu olan stoklar için kullaným saðlayabilirsiniz.
 
 
-**Ölçü Birimleri**
+### Ölçü Birimleri
 
 **Birim 2:** Bu stok kartý için ikinci ölçü birimidir.Kolay hesap yapmak ve raporlarda farklý cins rapor alabilmek için kullanýlýr.
 
@@ -60,14 +61,14 @@
 **Aðýrlýk:** Stoðun aðýrlýk ölçüsünü belirtir.
 
 
-**Vergi Oranlarý**
+### Vergi Oranlarý
 
 **Vergi Oranlarý:** Bu stok kartý için yapýlacak iþlemlerde kullanýlacak vergi oranlarýný belirtir. **Girilmesi Zorunludur.**
 
 **Muhasebe Tanýmlarý:** [Muhasebeleþme Tanýmlarý](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleþme Tanýmlarý")
 
 
-**Bayi Tanýmlarý**
+### Bayi Tanýmlarý
 
 **Bayide Göster:** Tüm stoklarýnýz bayilerinize gösterilmez.Bayi sisteminiz aktif ise göstermek istediðiniz bir stok ise iþartelemeniz gerekmektedir.
 
@@ -87,7 +88,7 @@ Bu alana 50 girilirse, bayileriniz bu stoðun miktarýný 50+ þeklinde görecektir.0
 **Paket Takibi:** Paket takibi yapýlýp yapýlmayacaðýný belirler. *Girilmesi Zorunludur.**
 
 
-**Geliþmiþ** 
+### Geliþmiþ
 
 **Þirket-Þube:** [Þirket-Þube](/TemelOzellikler/SirketSube.md "Þirket-Þube")
 
@@ -108,7 +109,7 @@ Bu alana 50 girilirse, bayileriniz bu stoðun miktarýný 50+ þeklinde görecektir.0
 **StandartMý:** Stok kartýnýn standart stok olarak deðerlendirilmesini saðlar. Filtreleyerek bulmamýzý kolaylaþtýrýr. 
 
 
-**Açýklamalar**
+### Açýklamalar
 
 Bu kýsma stok ilgili açýklama eklenebilir.
 

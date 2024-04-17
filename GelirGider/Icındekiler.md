@@ -1,3 +1,4 @@
+
 # Gelir Gider Modülü  
 
 Gelir-Gider Kartı, bir işletmenin veya bireyin gelirlerini ve giderlerini kaydederek takip etmesine yardımcı olan bir muhasebe aracıdır. 
