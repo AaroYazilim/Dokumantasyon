@@ -1,9 +1,19 @@
 
 ## Stok Kartý
 
+### Ulaþým
+
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "Stok kartý" olarak aratarak ulaþým saðlayabilirsiniz.
 - Sol menüden Stok -> Stok Modülü -> Yeni Stok Kartý þeklinde ulaþým saðlayabilirsiniz. 
 - Sol menüden Stok -> Kartlar -> Stok Kartý Listesi üzerinden ulaþým saðlayarak yeni kart ekleyebilir yada mevcutlarý düzenleyebilirsiniz.
+
+### Taným
+
+Stok, bir iþletmenin sahip olduðu ve satýþ veya üretim için kullanýlmak üzere depoladýðý tüm fiziksel varlýklarý ifade eder. 
+Bu varlýklar, malzemeler, hammadde, yarý mamul veya tamamlanmýþ ürünler olabilir. 
+Stok kartlarýnýzý tanýmlayarak, bu varlýklarýn miktarýný, deðerini ve döngüsünü izleyebilir ve optimize edebilirsiniz. 
+Stok seviyelerini belirlemek, stok hareketlerini iþlemek ve envanterin doðru bir þekilde yönetilmesi için stok kartlarý tanýmlanmalýdýr.
+Aþaðýdaki bilgiler doldurularak stok kartýnýzý tanýmlayabilirsiniz.
 
 ### Genel
 
@@ -114,4 +124,4 @@ Bu alana 50 girilirse, bayileriniz bu stoðun miktarýný 50+ þeklinde görecektir.0
 Bu kýsma stok ilgili açýklama eklenebilir.
 
 
-Doldurulmasý gereken alanlar girildikten sonra sað alt köþede bulunan Kaydet butonuna basarak Müþteri/Satýcý kartý açma iþlemimizi bitirebiliriz.
+Doldurulmasý gereken alanlar girildikten sonra sað alt köþede bulunan Kaydet butonuna basarak Müþteri/Satýcý kartý açma iþlemimizi tamamlayabilirsiniz.

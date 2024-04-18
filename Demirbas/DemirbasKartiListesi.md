@@ -9,7 +9,7 @@
 
 ### Taným 
 
-- Demirbaþ kartlarýnýn genel bilgilerini bu sayfadan görüntüleyebilirsiniz.
+- Demirbaþ kartlarýnýn genel bilgilerini bu sayfadan görüntüleyebilirsiniz.[Demirbaþ Kartý](/Demirbas/DemirbasKarti.md "Demirbaþ Kartý")
 - Demirbaþ kartlarýnýn güncel bakiyelerini görüntüleyebilirsiniz.
 - Mevcut demirbaþ kartlarýný düzenleyebilir, silebilir veya yeni demirbaþ hesaplarýný bu sayfadan ekleyebilirsiniz.
 

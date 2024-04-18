@@ -1,9 +1,17 @@
 
 # Müşteri/Satıcı Kartı
 
+### Ulaşım
+
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "müşteri satıcı kartı" aratarak ulaşım sağlayabilirsiniz.
 - Sol menüdenn Musteri/Satici -> Modül Sayfası -> Yeni Musteri/Satici Kartı şeklinde ulaşım sağlayabilirsiniz.
 - Sol menüden Musteri/Satici -> Kartlar -> Müşteri/Satıcı Kartı Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
+
+### Tanım
+
+Müşteri/Satıcı kartı, işletmenizin müşteri, satıcı, personel, kamu ve ortaklarla olan ilişkilerini yönetmek için kullanılacağı bir karttır. 
+Bu kişiler hakkında genel bilgileri içerir ve işletmenin onlarla olan etkileşimlerini, ziyaretlerinizi, borç/alacak takibi gibi işlemleri izlemeyi sağlar.
+Aşağıdaki bilgiler doldurularak müşteri/satıcı kartınızı tanımlayabilirsiniz.
 
 ### Genel
 
@@ -73,10 +81,12 @@
 **Banka Şube:** Cari kartının banka hesap şube bilgilerini belirtir.
 
 
-**Risk Limitleri:** [Risk Limitleri](/TemelOzellikler/RisLimitleri.md "Risk Limitleri")
+### Risk Limitleri: 
+[Risk Limitleri](/TemelOzellikler/RisLimitleri.md "Risk Limitleri")
 
 
-**Muhasebe Tanımları:** [Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
+### Muhasebe Tanımları: 
+[Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
 
 
 ### Gelişmiş
@@ -98,4 +108,4 @@
 **Görüntülenme:** Kartın ve hareketlerinin hangi kullanıcılar tarafından görüntülenebileceğinin ayarlanması için kullanılır.
 
 
-Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi bitirebiliriz.
+Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.

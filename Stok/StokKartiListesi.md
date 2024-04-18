@@ -9,7 +9,7 @@
 
 ### Taným 
 
-- [Stok Kart](/Stok/StokKarti.md "Stok Kart")larýnýn genel bilgilerini bu sayfadan görüntüleyebilirsiniz.
+- Stok kartlarýnýn genel bilgilerini bu sayfadan görüntüleyebilirsiniz.[Stok Kartý](/Stok/StokKarti.md "Stok Kartý")
 - Stok kartlarýnýn güncel bakiyelerini görüntüleyebilirsiniz.
 - Mevcut stok kartlarýný düzenleyebilir, silebilir veya yeni stok bu sayfadan ekleyebilirsiniz.
 

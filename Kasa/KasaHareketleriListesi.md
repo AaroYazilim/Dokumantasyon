@@ -9,7 +9,7 @@
 
 ### Taným 
 
-- Kasa hesaplarýnýn hareketlerini bu sayfadan görüntüleyebilirsiniz.
+- Kasa hesaplarýnýn hareketlerini bu sayfadan görüntüleyebilirsiniz.[Kasa Kartý](/Kasa/KasaKarti.md "Kasa Kartý")
 - Kasa hesaplarýnýn güncel ve belirli bir tarihte ki bakiyelerini görüntüleyebilirsiniz.
 
 ### Ek Özellikler 

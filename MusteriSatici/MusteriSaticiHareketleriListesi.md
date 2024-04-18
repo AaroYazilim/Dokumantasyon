@@ -9,7 +9,7 @@
 
 ### Taným 
 
-- Müþteri/satýcý kartlarýnýn hareketlerini bu sayfadan görüntüleyebilirsiniz.
+- Müþteri/satýcý kartlarýnýn hareketlerini bu sayfadan görüntüleyebilirsiniz.[Müþteri/Satýcý Kartý](/MusteriSatici/MusteriSaticiKarti.md "Müþteri/Satýcý Kartý")
 - Müþteri/satýcý kartlarýnýn güncel ve belirli bir tarihte ki bakiyelerini görüntüleyebilirsiniz.
 
 ### Ek Özellikler 

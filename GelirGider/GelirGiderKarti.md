@@ -1,8 +1,18 @@
+
 ## Gelir Gider Kartı
+
+### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Gelir Gider kartı" olarak aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Gelir Gider -> Gelir Gider Modülü -> Gelir Gider Kartı şeklinde ulaşım sağlayabilirsiniz. 
 - Sol menüden Gelir Gider -> Kartlar -> Gelir/Gider Kartı Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
+
+### Tanım
+
+Gelir-gider kartından, işletmenizin gelir ve giderlerini izleyebilir, kaydedebilir ve raporlayabilirsiniz. 
+Gelir-gider kartından, işletmenin finansal performansını izleyebilir ve yönetebilirsiniz. 
+Gelir-gider kartı, işletmenin gelir ve giderlerini detaylı bir şekilde takip edebilmesine ve finansal durumunu değerlendirmesine yardımcı olur. 
+Ayrıca, gelir-gider kartları, işletmenin bütçeleme, planlama ve karar verme süreçlerinde önemli bir rol oynar.
 
 ### Genel
 

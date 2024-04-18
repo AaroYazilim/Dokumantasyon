@@ -9,9 +9,9 @@
 
 ### Tanım 
 
-- Banka hesaplarının genel bilgilerini bu sayfadan görüntüleyebilirsiniz.
+- Banka hesaplarının genel bilgilerini bu sayfadan görüntüleyebilirsiniz. [Banka Hesap Kartı](/Banka/BankaHesapKarti.md "Banka Hesap Kartı")
 - Banka hesaplarının güncel bakiyelerini görüntüleyebilirsiniz.
-- Mevcut banka hesaplarını düzenleyebilir, silebilir veya yeni banka hesaplarını bu sayfadan ekleyebilirsiniz.
+- Mevcut Banka hesaplarını düzenleyebilir, silebilir veya yeni banka hesaplarını bu sayfadan ekleyebilirsiniz.
 
 ### Ek Özellikler 
 

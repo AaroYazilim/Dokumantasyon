@@ -1,9 +1,17 @@
 
 ## Demirbaþ Kartý
 
+### Ulaþým
+
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "Demirbaþ kartý" olarak aratarak ulaþým saðlayabilirsiniz.
 - Sol menüden Demirbaþ -> Demirbaþ Modülü -> Demirbaþ Kartý þeklinde ulaþým saðlayabilirsiniz. 
 - Sol menüden Demirbaþ -> Kartlar -> Demirbaþ Kartý Listesi üzerinden ulaþým saðlayarak yeni kart ekleyebilir yada mevcutlarý düzenleyebilirsiniz.
+
+### Taným
+
+ Demirbaþ kartýndan, iþletmenin sahip olduðu sabit varlýklarý, yani demirbaþlarý izleyebilir ve yönetebilirsiniz.
+ Demirbaþ kartýndan, demirbaþlarýn envanterini, deðerini, yerini ve kullaným durumunu takip edebilirsiniz.
+ Demirbaþ kartý, iþletmenin demirbaþlarýný etkin bir þekilde izlemesine, envanteri doðru bir þekilde yönetmesine ve finansal raporlama süreçlerini kolaylaþtýrmasýna yardýmcý olur.
 
 ### Genel
 

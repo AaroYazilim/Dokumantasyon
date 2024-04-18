@@ -1,9 +1,17 @@
 
 ## Kasa Kartı
 
+### Ulaşım
+
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Kasa kartı" aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Kasa -> Kasa Modülü -> Yeni Kasa Kartı Ekle şeklinde ulaşım sağlayabilirsiniz.
 - Sol menüden Kasa -> Kartlar -> Kasa Kartı Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
+
+### Tanım
+
+Kasa kartı, işletmenin nakit varlıklarını izlemek ve yönetmek için kullanılan bir hesap kartıdır. 
+Kasa kartı, işletmenin fiziksel kasalarındaki nakit miktarlarını, kasa hareketlerini ve işlemlerini takip edebilirsiniz.
+Kasa kartı, işletmenin günlük nakit akışını izleyebilir, kasadaki para miktarını doğru bir şekilde takip edebilir ve finansal raporlama yapabilirsiniz.
 
 ### Genel
 
