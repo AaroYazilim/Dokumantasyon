@@ -22,7 +22,8 @@ Banka hesabı genellikle banka adı, hesap numarası ve işletme adı gibi temel
 
 **Hesap Kodu:** Kartın kendine özel kodudur. [Hesap Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
 
-**Tip:** Banka hesap kartının tipini belirtir. Cari, Pos, Kredi seçeneklerinden biri olabilir. Pos ve kredi banka hesapları için bir adet cari tipli banka hesabı açılmalıdır. 
+**Tip:** Banka hesap kartının tipini belirtir. Cari, Pos, Kredi seçeneklerinden biri olabilir. Pos ve kredi banka hesapları için bir adet cari tipli banka hesabı açılmalıdır.
+	Detaylı açıklama için linke tıklayınız. [Tip](/Detaylar/BankaHesapTip.md "Tip")
 
 **Cari Banka Hesap:** Pos ve kredi tipli banka hesaplarının bağlı olduğu cari tipli banka hesabı seçilir.
 
