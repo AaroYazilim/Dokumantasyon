@@ -18,13 +18,13 @@ Ayrýca, gelir-gider kartlarý, iþletmenin bütçeleme, planlama ve karar verme süre
 
 **Gelir Gider Adý:** Bu kartýn kendine özel adýdýr.
 
-**Gelir Gider Kodu:** Kartýn kendine özel kodudur. [Kart Kodu](/TemelOzellikler/KartKodu.md "Gelir Gider Kodu")
+**Gelir Gider Kodu:** Bu kartýn kendine özel kodudur.Seri takibi yapýlabilir. Detaylý taným için linke týklayýnýz. [Kart Kodu](/TemelOzellikler/KartKodu.md "Gelir Gider Kodu")
 
 **Birim 1:** Bu kartýn hangi birim cinsinden takip edileceðini belirtir.
 
-**Kodlar:** Gruplamak için kullanýlýr. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Kodlar:** Kartlarý hiyerarþik olarak gruplamak için kullanýlýr. Detaylý taným için linke týklayýnýz. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
 
-**Etiketler:** Gruplamak için kullanýlýr. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**Etiketler:** Gruplamak için kullanýlýr. Detaylý taným için linke týklayýnýz. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 
 ### Ölçü Birimleri
@@ -40,17 +40,19 @@ Ayrýca, gelir-gider kartlarý, iþletmenin bütçeleme, planlama ve karar verme süre
 
 ### Vergi Oranlarý
 
-**Vergi Oranlarý:** Bu kart için yapýlacak iþlemlerde kullanýlacak vergi oranlarýný belirtir. **Girilmesi Zorunludur.**
+**Vergi Oranlarý:** Bu karta ait iþlemlerde kullanýlacak devletin belirlemiþ olduðu KDV oranýný(vergi oranýný) belirtir. **Girilmesi Zorunludur.**
 
+### Muhasebe Tanýmlarý: 
 
-**Muhasebe Tanýmlarý: **[Muhasebeleþme Tanýmlarý](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleþme Tanýmlarý")
+Muhasebeleþme tanýmlarýný ayarlayarak bu kart için hareket iþlendiðinde otomatikman belirli muhasebe hesaplarýna gerekli kayýtlarýn oluþmasýný saðlayabilirsiniz.
+[Muhasebeleþme Tanýmlarý](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleþme Tanýmlarý")Muhasebe Tanýmlarý: **[Muhasebeleþme Tanýmlarý](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleþme Tanýmlarý")
 
 
 ### Geliþmiþ
 
-**Þirket-Þube:** [Þirket-Þube](/TemelOzellikler/SirketSube.md "Þirket-Þube")
+**Þirket-Þube:** Kartýn ait olduðu þirket ve þubeyi belirtir. Þirket-Þube kullaným detaylarý için linke týklayýnýz. [Þirket-Þube](/TemelOzellikler/SirketSubeKart.md "Þirket-Þube")
 
-**Durum:** [Durum](/TemelOzellikler/Durum.md "Durum")
+**Durum:** Kartýn kullanabilirliðini belirtir. Pasif kartlar iþlemde kullanýlamaz.
 
 **Kýsa Kodu:** Raporlama için gereklidir. 
 

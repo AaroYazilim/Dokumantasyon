@@ -17,7 +17,7 @@ Aşağıdaki bilgiler doldurularak müşteri/satıcı kartınızı tanımlayabil
 
 **Adı:** Bu kartın kendine özel adıdır.
 
-**Kodu:** Bu kartın kendine özel kodudur.Seri takibi yapılabilir. [Kart Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
+**Kodu:** Bu kartın kendine özel kodudur.Seri takibi yapılabilir. Detaylı tanım için linke tıklayınız. [Kart Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
 
 **Tip:** Müşteri/Satıcı kartının tipini belirtir. Müşteri, satıcı, karaliste, potansiyel, personel, kamu veya ortak değerlerinden biri olabilir.
 
@@ -28,9 +28,9 @@ Aşağıdaki bilgiler doldurularak müşteri/satıcı kartınızı tanımlayabil
 	Aynı vergi numarası ile birden çok kart açılması ek yetkilerle ayarlanabilmektedir. Belirli kullanıcılara yetki vererek onların mükerrer vergi no ile kart açmalarına izin verebilirsiniz.
 	[Yetkiler](/TemelOzellikler/Yetkiler.md "Yetkiler")
 
-**Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
 
-**Etiketler:** Gruplamak için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 
 ### Adres Bilgileri

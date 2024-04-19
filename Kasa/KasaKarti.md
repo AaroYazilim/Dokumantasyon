@@ -15,18 +15,21 @@ Kasa kartı, işletmenin günlük nakit akışını izleyebilir, kasadaki para m
 
 ### Genel
 
-**Kasa Adı:** Bu kartın kendine özel adıdır.
+**Kasa Adı:** Kasa kartının kendine özel adıdır.
 
-**Kasa Kodu:** Bu kartın kendine özel kodudur.Seri takibi yapılabilir. [Kart Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
+**Kasa Kodu:** Kasa kartının kendine özel kodudur.Seri takibi yapılabilir. [Kart Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
 
-**Kodlar:** Gruplamak için kullanılır. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Kodlar:** Bu kartın kendine özel kodudur.Seri takibi yapılabilir. Detaylı tanım için linke tıklayınız. [Kart Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
 
-**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
+**Çalışma Para Birimi(Döviz):** Bu kartın çalıştığı döviz cinsini belirtir. Bilgi amaçlıdır.
 
-**Etiketler:** Gruplamak için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 
-### Muhasebe Tanımları: [Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
+### Muhasebe Tanımları: 
+
+Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde otomatikman belirli muhasebe hesaplarına gerekli kayıtların oluşmasını sağlayabilirsiniz.
+	Detaylı açıklama için linke tıklayınız. [Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
 
 ### Gelişmiş
 

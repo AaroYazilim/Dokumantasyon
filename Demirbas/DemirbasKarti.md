@@ -15,23 +15,21 @@
 
 ### Genel
 
-**Demirbaþ Adý:** Bu kartýn kendine özel adýdýr.
+**Demirbaþ Adý:** Bu kartýn kendine ait özel adýdýr.
 
-**Demirbaþ Kodu:** Kartýn kendine özel kodudur. [Kart Kodu](/TemelOzellikler/KartKodu.md "Gelir Gider Kodu")
+**Demirbaþ Kodu:** Kartýn kendine ait özel kodudur. Detaylý taným için linke týklayýnýz. [Kart Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
 
 **Birim 1:** Demirbaþ kartýnýn hangi birim cinsinden takip edileceðini belirtir.
 
-**Kodlar:** Gruplamak için kullanýlýr. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Kodlar:** Kartlarý hiyerarþik olarak gruplamak için kullanýlýr. Detaylý taným için linke týklayýnýz. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
 
-**Etiketler Gruplamak için kullanýlýr. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
-
+**Etiketler:** Gruplamak için kullanýlýr. Detaylý taným için linke týklayýnýz. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 ### Ölçü Birimleri
 
 **Birim 2:** Bu demirbaþ kartý için ikinci ölçü birimidir.Kolay hesap yapmak ve raporlarda farklý cins rapor alabilmek için kullanýlýr.
 
 **Birim 3:** Bu demirbaþ kartý için üçüncü ölçü birimidir.Kolay hesap yapmak ve raporlarda farklý cins rapor alabilmek için kullanýlýr.
-
 
 **Çevrimiçi Birim2:** Birim-1 cinsinden bu demirbaþýn kaç Birim-2 cinsinden olduðunu belirtir.Örneðin; Birim-1:Adet ve Birim-2:Deste ise bu deger = 0,1(1/10) olur.
 
@@ -54,16 +52,16 @@
 
 ### Vergi Oranlarý
 
-**Vergi Oranlarý:** Bu demirbaþ kartý için yapýlacak iþlemlerde kullanýlacak vergi oranlarýný belirtir. **Girilmesi Zorunludur.**
+**Vergi Oranlarý:** Bu demirbaþ kartý için yapýlacak iþlemlerde kullanýlacak vergi oranlarýný(KDV oranýnlarýný) belirtir. **Girilmesi Zorunludur.**
 
 **Muhasebe Tanýmlarý:** [Muhasebeleþme Tanýmlarý](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleþme Tanýmlarý")
 
 
 ### Geliþmiþ
 
-**Þirket-Þube:** [Þirket-Þube](/TemelOzellikler/SirketSube.md "Þirket-Þube")
+**Þirket-Þube:** Kartýn ait olduðu þirket ve þubeyi belirtir. Þirket-Þube kullaným detaylarý için linke týklayýnýz. [Þirket-Þube](/TemelOzellikler/SirketSubeKart.md "Þirket-Þube")
 
-**Durum:** [Durum](/TemelOzellikler/Durum.md "Durum")
+**Durum:** Kartýn kullanabilirliðini belirtir. Pasif kartlar iþlemde kullanýlamaz.
 
 **Kýsa Kodu:** Raporlama için gereklidir. 
 
