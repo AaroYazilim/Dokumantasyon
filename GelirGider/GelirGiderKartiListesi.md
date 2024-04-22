@@ -9,14 +9,13 @@
 
 ### Taným 
 
-- Gelir Gider hesaplarýnýn genel bilgilerini bu sayfadan görüntüleyebilirsiniz.
-- Gelir Gider hesaplarýnýn güncel bakiyelerini görüntüleyebilirsiniz.
+- Gelir Gider kartlarýnýn genel bilgilerini bu sayfadan görüntüleyebilirsiniz.[Gelir Gider Kartý](/GelirGider/GelirGiderKarti.md "Gelir Gider Kartý")
+- Gelir Gider kartlarýnýn güncel bakiyelerini görüntüleyebilirsiniz.
 
 ### Ek Özellikler 
 
 - Sayfanýn üst kýsmýnda bulunan [Filtreleme](/TemelOzellikler/SayfaKisitlari.md  "Filtreleme") özelliði ile gelen veriyi istediðiniz þekilde sýnýrlandýrabilirsiniz.
 - Sayfada ki listeyi [Özel Listeleme](/TemelOzellikler/ListeNesnesi.md  "Özel Listeleme") sýralayabilir, yeniden boyutlandýrabilir ve sayfa sayfa görüntüleyebilirsiniz.
-
 
 ### Ek Ýþlem Butonu
 

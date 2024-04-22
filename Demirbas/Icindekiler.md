@@ -1,3 +1,4 @@
+
 # Demirbaþ Modülü
 
 Bir iþletmenin sahip olduðu sabit kýymetlerin (demirbaþlarýn) kayýt altýna alýndýðý ve izlendiði bir muhasebe sürecidir. 

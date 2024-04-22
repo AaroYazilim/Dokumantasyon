@@ -1,23 +1,33 @@
+
 ## Gelir Gider Kartý
+
+### Ulaþým
 
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "Gelir Gider kartý" olarak aratarak ulaþým saðlayabilirsiniz.
 - Sol menüden Gelir Gider -> Gelir Gider Modülü -> Gelir Gider Kartý þeklinde ulaþým saðlayabilirsiniz. 
 - Sol menüden Gelir Gider -> Kartlar -> Gelir/Gider Kartý Listesi üzerinden ulaþým saðlayarak yeni kart ekleyebilir yada mevcutlarý düzenleyebilirsiniz.
 
-**Genel**
+### Taným
+
+Gelir-gider kartýndan, iþletmenizin gelir ve giderlerini izleyebilir, kaydedebilir ve raporlayabilirsiniz. 
+Gelir-gider kartýndan, iþletmenin finansal performansýný izleyebilir ve yönetebilirsiniz. 
+Gelir-gider kartý, iþletmenin gelir ve giderlerini detaylý bir þekilde takip edebilmesine ve finansal durumunu deðerlendirmesine yardýmcý olur. 
+Ayrýca, gelir-gider kartlarý, iþletmenin bütçeleme, planlama ve karar verme süreçlerinde önemli bir rol oynar.
+
+### Genel
 
 **Gelir Gider Adý:** Bu kartýn kendine özel adýdýr.
 
-**Gelir Gider Kodu:** Kartýn kendine özel kodudur. [Kart Kodu](/TemelOzellikler/KartKodu.md "Gelir Gider Kodu")
+**Gelir Gider Kodu:** Bu kartýn kendine özel kodudur.Seri takibi yapýlabilir. Detaylý taným için linke týklayýnýz. [Kart Kodu](/TemelOzellikler/KartKodu.md "Gelir Gider Kodu")
 
 **Birim 1:** Bu kartýn hangi birim cinsinden takip edileceðini belirtir.
 
-**Kodlar:** Gruplamak için kullanýlýr. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Kodlar:** Kartlarý hiyerarþik olarak gruplamak için kullanýlýr. Detaylý taným için linke týklayýnýz. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
 
-**Etiketler:** Gruplamak için kullanýlýr. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**Etiketler:** Gruplamak için kullanýlýr. Detaylý taným için linke týklayýnýz. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 
-**Ölçü Birimleri**
+### Ölçü Birimleri
 
 **Birim 2:** Bu kart için ikinci ölçü birimidir.Kolay hesap yapmak ve raporlarda farklý cins rapor alabilmek için kullanýlýr.
 
@@ -28,19 +38,21 @@
 **Çevrimiçi Birim3:** Birim-1 cinsinden kaç Birim-3 cinsinden olduðunu belirtir.Örneðin; Birim-1:Adet ve Birim-3:Düzine ise bu deger = 0,083(1/12) olur.
 
 
-**Vergi Oranlarý**
+### Vergi Oranlarý
 
-**Vergi Oranlarý:** Bu kart için yapýlacak iþlemlerde kullanýlacak vergi oranlarýný belirtir. **Girilmesi Zorunludur.**
+**Vergi Oranlarý:** Bu karta ait iþlemlerde kullanýlacak devletin belirlemiþ olduðu KDV oranýný(vergi oranýný) belirtir. **Girilmesi Zorunludur.**
+
+### Muhasebe Tanýmlarý: 
+
+Muhasebeleþme tanýmlarýný ayarlayarak bu kart için hareket iþlendiðinde otomatikman belirli muhasebe hesaplarýna gerekli kayýtlarýn oluþmasýný saðlayabilirsiniz.
+[Muhasebeleþme Tanýmlarý](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleþme Tanýmlarý")Muhasebe Tanýmlarý: **[Muhasebeleþme Tanýmlarý](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleþme Tanýmlarý")
 
 
-**Muhasebe Tanýmlarý: **[Muhasebeleþme Tanýmlarý](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleþme Tanýmlarý")
+### Geliþmiþ
 
+**Þirket-Þube:** Kartýn ait olduðu þirket ve þubeyi belirtir. Þirket-Þube kullaným detaylarý için linke týklayýnýz. [Þirket-Þube](/TemelOzellikler/SirketSubeKart.md "Þirket-Þube")
 
-**Geliþmiþ** 
-
-**Þirket-Þube:** [Þirket-Þube](/TemelOzellikler/SirketSube.md "Þirket-Þube")
-
-**Durum:** [Durum](/TemelOzellikler/Durum.md "Durum")
+**Durum:** Kartýn kullanabilirliðini belirtir. Pasif kartlar iþlemde kullanýlamaz.
 
 **Kýsa Kodu:** Raporlama için gereklidir. 
 

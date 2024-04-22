@@ -1,3 +1,4 @@
+
 # Stok Modülü
 
 Bu kýsýmda; Stok ve depoda gerçekleþen her iþlem için bu kýsmý kullanmamýz gerekmektedir. 

@@ -9,9 +9,9 @@
 
 ### Tanım 
 
-- Kasa hesaplarının genel bilgilerini bu sayfadan görüntüleyebilirsiniz.
-- Kasa hesaplarının güncel bakiyelerini görüntüleyebilirsiniz.
-- Mevcut müşteri/satıcı hesaplarını düzenleyebilir, silebilir veya yeni müşteri/satıcı bu sayfadan ekleyebilirsiniz.
+- Kasa kartlarının genel bilgilerini bu sayfadan görüntüleyebilirsiniz.
+- Kasa kartlarının güncel bakiyelerini görüntüleyebilirsiniz.
+- Mevcut kasa kartlarını düzenleyebilir, silebilir veya yeni kasa bu sayfadan ekleyebilirsiniz.
 
 ### Ek Özellikler 
 

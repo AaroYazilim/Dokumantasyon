@@ -1,3 +1,4 @@
+
 # Müşteri Satıcı Modülü
 
 Buradan Yeni müşteri/satıcı kartı ekle dediğimizde cari hesabı açmak için kullanılır. 
