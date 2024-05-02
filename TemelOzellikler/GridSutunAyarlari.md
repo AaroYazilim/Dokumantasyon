@@ -1,5 +1,5 @@
 
-## Grid Sütunları Ayarlama; 
+## Grid Sütunları Ayarlama
 
 Grid Sütunlarını Ayarlayabilir burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz. 
 
