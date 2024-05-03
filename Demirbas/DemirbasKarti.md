@@ -9,9 +9,9 @@
 
 ### Taným
 
- Demirbaþ kartýndan, iþletmenin sahip olduðu sabit varlýklarý, yani demirbaþlarý izleyebilir ve yönetebilirsiniz.
- Demirbaþ kartýndan, demirbaþlarýn envanterini, deðerini, yerini ve kullaným durumunu takip edebilirsiniz.
- Demirbaþ kartý, iþletmenin demirbaþlarýný etkin bir þekilde izlemesine, envanteri doðru bir þekilde yönetmesine ve finansal raporlama süreçlerini kolaylaþtýrmasýna yardýmcý olur.
+Demirbaþ kartýndan, iþletmenin sahip olduðu sabit varlýklarý, yani demirbaþlarý izleyebilir ve yönetebilirsiniz.
+Demirbaþ kartýndan, demirbaþlarýn envanterini, deðerini, yerini ve kullaným durumunu takip edebilirsiniz.
+Demirbaþ kartý, iþletmenin demirbaþlarýný etkin bir þekilde izlemesine, envanteri doðru bir þekilde yönetmesine ve finansal raporlama süreçlerini kolaylaþtýrmasýna yardýmcý olur.
 
 ### Genel
 

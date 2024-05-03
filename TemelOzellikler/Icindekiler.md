@@ -1,4 +1,5 @@
 
+
 - [Açýklama](/TemelOzellikler/Aciklama.md "Açýklama")
 - [Beklenen Tahsilat ve Ödemeler](/TemelOzellikler/BeklenenTahOd.md "Beklenen Tahsilat ve Ödemeler")
 - [Cari Vade](/TemelOzellikler/CariVade.md "Cari Vade")
