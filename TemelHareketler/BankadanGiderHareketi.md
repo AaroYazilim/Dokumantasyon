@@ -1,6 +1,13 @@
 
 # Bankadan Gider Hareketi
 
+## Ulaþým
+
+- Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan 'Banka gider hareketi' aratarak ulaþým saðlayabilirsiniz.
+- Sol sekmede yer alan modüller kýsmýndan Banka -> Hareket Oluþtur -> Bankadan Gider Hareketi þeklinde ulaþým saðlayabilirsiniz.
+
+## Taným
+
 Banka hesabýndan yapýlan harcamalarý veya ödemeleri ifade eder. 
 Bu terim, bir iþletmenin veya bireyin banka hesabýndan çekilen parayla gerçekleþtirilen herhangi bir finansal iþlemi kapsar.
 
@@ -24,7 +31,11 @@ Bankadan gider hareketleri, iþletmenin finansal durumunu izlemek ve bütçe yöneti
 Bu hareketlerin kaydedilmesi, muhasebe kayýtlarýnýn düzenlenmesi ve mali raporlarýn hazýrlanmasý için gereklidir. 
 Bu nedenle, iþletmeler genellikle bu tür harcamalarý dikkatle izler ve kaydeder.
 
-## **Genel**
+### Ek Ýþlem Butonu 
+
+[Anasayfaya Kýsayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kýsayol Olarak Ekle")
+
+## Genel
  
 **Þirket-Þube:** [Þirket-Þube](/TemelOzellikler/SirketSube.md "Þirket-Þube")
 
@@ -43,7 +54,7 @@ Bu nedenle, iþletmeler genellikle bu tür harcamalarý dikkatle izler ve kaydeder.
 
 **KDV Dahil:** Kalemlerde birim fiyat ve tutarýn 'KDV Dahil' olduðunu belirtir. [KDV Dahil](/TemelOzellikler/KDVdahil.md "KDV Dahil")
 
-## **Detay**
+## Detay
 
 **Proje:** Bu karta ait proje var ise buraya sözleþmeyi ekleyebiliriz.
 
@@ -51,10 +62,10 @@ Bu nedenle, iþletmeler genellikle bu tür harcamalarý dikkatle izler ve kaydeder.
 
 **Alt Tip:** Alt hareket tipini belirtir.
 
-## **Açýklamalar**
+## Açýklamalar
 
 Ýþleme ait detaylar açýklamaya eklenebilir. [Açýklama](/TemelOzellikler/Aciklama.md "Açýklama")
 
-## **Etiketler**
+## Etiketler
 
 Ýþleme ait detaylar açýklamaya eklenebilir. [Etiket](/TemelOzellikler/Etiketler.md "Etiket")

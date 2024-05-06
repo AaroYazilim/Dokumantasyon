@@ -4,7 +4,8 @@
 ## Ulaþým 
 
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan 'Alýþ iade irsaliyesi' aratarak ulaþým saðlayabilirsiniz.
-- Sol sekmede yer alan modüller kýsmýndan Musteri/Satici -> Hareket Oluþtur -> Satýþ ve Pazarlama -> Alýþ Ýade Ýrsaliyesi
+- Sol sekmede yer alan modüller kýsmýndan Musteri/Satici -> Hareket Oluþtur -> Satýþ ve Pazarlama -> Alýþ Ýade Ýrsaliyesi þeklinde ulaþým saðlayabilirsiniz.
+- Sol sekmede yer alan modüller kýsmýndan Satýþ&Pazarlama -> Hareket oluþtur -> Alýþ Ýade Ýrsaliyesi þeklinde ulaþým saðlayabilirsiniz.
 
 ## Taným
 

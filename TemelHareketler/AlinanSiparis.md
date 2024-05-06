@@ -4,7 +4,8 @@
 ## Ulaþým 
 
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan 'Alýnan sipariþ' aratarak ulaþým saðlayabilirsiniz.
-- Sol sekmede yer alan modüller kýsmýndan Musteri/Satici -> Hareket Oluþtur -> Satýþ ve Pazarlama -> Alýnan Sipariþ
+- Sol sekmede yer alan modüller kýsmýndan Musteri/Satici -> Hareket Oluþtur -> Satýþ ve Pazarlama -> Alýnan Sipariþ þeklinde ulaþým saðlayabilirsiniz.
+- Sol sekmede yer alan modüller kýsmýndan Satýi&Pazarlama -> Hareket Oluþtur -> Alýnan Sipariþ þeklinde ulaþým saðlayabilirsiniz.
 
 ## Taným
 

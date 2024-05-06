@@ -4,7 +4,8 @@
 ## Ulaþým 
 
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan 'Alýþ faturasý' aratarak ulaþým saðlayabilirsiniz.
-- Sol sekmede yer alan modüller kýsmýndan Musteri/Satici -> Hareket Oluþtur -> Alýþ Faturasý
+- Sol sekmede yer alan modüller kýsmýndan Musteri/Satici -> Hareket Oluþtur -> Alýþ Faturasý þeklinde ulaþým saðlayabilirsiniz.
+- Sol sekmede yer alan modüller kýsmýndan Satýn Alma -> Hareket Oluþtur -> Alýþ Faturasý þeklinde ulaþým saðlayabilirsiniz.
 
 ## Taným
 
