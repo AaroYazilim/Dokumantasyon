@@ -10,6 +10,7 @@ Sistemimizde kodlar kýsmý altý adete kadar desteklenmektedir.
 Kategoriler gibi her kod bir sonrakinin alt kategorisi olacak þekilde birbirlerine beðlý þekilde ilerlemektedir.
 Kod1 Ana kategori, kod2 detay, kod3 kategori vb. þekilde ilerlemektedir.
 Stok, gelir-gider gibi iþlemlerde ürünleri detaylandýrarak bu iþlemlerde ki kargaþayý azaltarak daha kolay bulmanýza, raporlayýp analiz yapmanýza yardýmcý olur.
+
 Çok sýk kullanýlan kodlar için; Bu parametreye özel tanýmlar, ek özellikler ekleyebiliriz.
 
 Örneðin, müþteri kayýtlarý için müþteri numaralarý, ürünler için SKU (Stock Keeping Unit) kodlarý,
@@ -42,8 +43,8 @@ Bu sayede, iþletmenin stok yönetimi süreçleri daha etkili ve verimli bir þekilde
 
 - Sol menüden Stok -> Stok Kartlarý Kod Aðacý -> Kod Ekle þeklinde kod ekleme iþlemini gerçekleþtirebiliriz.
 - Kodlar kýsmýnda Detaylý Ekle þeklinde kod ekleme iþlemini gerçekleþtirebiliriz.
-- Etiketler kýsmýnda Listeden Seç yapabilirsiniz.
-- Etiketler kýsmýnda -> Listeden Seç -> Yeni Etiket Ekle þeklinde yeni etiket ekleyebilirsiniz.
+- Kodlar kýsmýnda Listeden Seç yapabilirsiniz.
+- Kodlar kýsmýnda -> Listeden Seç -> Yeni Kod Ekle þeklinde yeni etiket ekleyebilirsiniz.
 
 ### Ek Özellikler 
 
