@@ -1,0 +1,10 @@
+
+- [Üretim Nedir?](/Uretim/UretimNedir.md "Üretim Nedir?")
+- [Ýþ Emri](/Uretim/IsEmri.md "Ýþ Emri")
+- [Operasyon](/Uretim/Operasyon.md "Operasyon")
+- [Planlama](/Uretim/Planlama.md "Planlama")
+- [Reçete](/Uretim/Recete.md "Reçete")
+- [Ýþ Emri Çýktý](/Uretim/IsEmriCikti.md "Ýþ Emri Çýktý")
+- [Operasyon Çýktý](/Uretim/OperasyonCikti.md "Operasyon Çýktý")
+- [Canlý Üretim Terminali](/Uretim/Terminal.md "Canlý Üretim Terminali")
+- [Üretim Verileri Girme](/Uretim/ManuelGiris.md "Üretim Verileri Girme")

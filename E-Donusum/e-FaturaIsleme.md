@@ -19,6 +19,8 @@ Tik iþareti var ise bu faturanýn onaylanmýþ olduðunu gösterir.
 
 ## Ýþleme yapmak için eþleþtirme seçeneklerimiz mevcutttur.
 
+### e-Fatura Ýçin;
+
 **Alýþ Faturasý OLarak Ýþle (Baþlýk + Tüm Satýrlar Stok)** Bu seçenek seçildiðinde stok alýþ faturasý olarak iþleyecektir.
 **Alýþ Faturasý OLarak Ýþle (Baþlýk + Tüm Satýrlar GelirGider)** Bu seçenek seçildiðinde gelir gider alýþ faturasý olarak iþleyecektir.
 **Alýþ Faturasý Olarak Ýþle (Sadece Baþlýk)** Bu seçenek seçildiðinde baþlýk alýþ faturasý olarak iþlenecektir.
@@ -30,6 +32,21 @@ Bu seçenek seçildiðinde alýþ faturasýný kasa ile eþleþtirerek gelir gider hareke
 
 **Bankadan Gider Hareketi Olarak Ýþle**
 Bu seçenek seçildiðinde alýþ faturasýný banka ile eþleþtirerek banka hesap hareketini otomatik gerçekleþtirir.
+
+
+**Mevcut Dekont Ýle Ýliþkilendir**
+Dekont ile eþleþtirme yaparak verileri otomatik getirir .
+
+**Mevcut Yevmiye Fiþi Ýle Ýliþkilendir**
+Yevmiye fiþi ile eþleþtirme yaparak verileri otomatik getirir.
+
+### e-Ýrsaliye Ýçin;
+
+**Alýþ Ýrsaliyesi OLarak Ýþle (Baþlýk + Tüm Satýrlar Stok)** Bu seçenek seçildiðinde stok alýþ irsaliyesi olarak iþleyecektir.
+**Alýþ Ýrsaliyesi OLarak Ýþle (Baþlýk + Tüm Satýrlar GelirGider)** Bu seçenek seçildiðinde gelir gider alýþ irsaliyesi olarak iþleyecektir.
+**Alýþ Ýrsaliyesi Olarak Ýþle (Sadece Baþlýk)** Bu seçenek seçildiðinde baþlýk alýþ irsaliyesi olarak iþlenecektir.
+
+**Alýþ Ýrsaliyesi Olarak Ýþle (Manuel)** Bu seçenek seçildiðinde alýþ irsaliyesini manuel deðiþiklik yapabilirsiniz.
 
 
 **Mevcut Dekont Ýle Ýliþkilendir**

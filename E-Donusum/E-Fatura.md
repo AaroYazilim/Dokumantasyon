@@ -30,6 +30,13 @@ Fatura seri numaralarý, muhasebe kayýtlarýnda ve diðer iþlemlerde referans olara
 
 Fatura belgesinizi, devletin belirlemiþ olduðu standartlar çercevesinde kiþiselleþtirerek þirketinizin logo, imza, detay bilgilerine yer verebilirsiniz. 
 Bu fatura verilerini nasýl biçimlendireceðinizi ve hangi bilgileri hangi þekilde görüntüleyeceðinizi belirler.
+E-faturada XML veya benzeri bir format kullanýr. Bu format, fatura bilgilerinin yapýsýný ve içeriðini tanýmlar.
+E-faturanýn görsel tasarýmý, kolay okunabilirlik ve profesyonel bir görünüm saðlamak için önemlidir. 
+Renklerin uyumu, yazý tipi vb düzenlemeler yapýlabilmektedir.
+UBL (Universal Business Language), iþletmeler arasýnda elektronik ticaretin standartlaþtýrýlmasý ve kolaylaþtýrýlmasý için geliþtirilmiþ bir XML tabanlý bir dil ve belirli bir veri modelidir. 
+UBL, ticari belgelerin elektronik olarak deðiþ tokuþ edilmesini saðlamak için genel kabul görmüþ bir formattýr.
+UBL, çeþitli ticari belgeler için standart þablonlar saðlar. Bunlar arasýnda fatura, sipariþ, teslimat notu, teklif gibi belgeler bulunur. Her belge türü için belirli bir XML þemasý mevcuttur.
+Fatura tasarýmlarýný XSLT ile düzenlemeler yapmaktayýz. Detaylý bilgiye buradan ulaþabilirsiniz. [Xslt Tasarýmý](/e-Donusum/xslt.md "Xslt Tasarýmý") 
 
 ## Ulaþým
 
