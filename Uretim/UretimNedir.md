@@ -1,6 +1,16 @@
 
 # Üretim
 
+# Ulaþým
+
+- Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "Üretim" aratarak ulaþým saðlayabilirsiniz.
+- Sol menüden Üretim -> Üretim Modülü þeklinde ulaþým saðlayabilirsiniz. 
+
+# Üretim Modülü 
+
+Modül Sayfasýnda üretim hareketlerini, hareket ekleme, listeler ve raporlara kolayca ulaþým saðlayabilirsiniz.
+
+
 Üretim modülü, ürünlerin üretim süreçlerini, aþamalarýný planlamak, yönetmek ve izlemek için kullanýlýr.
 Üretim sürecinin baþlangýçýný reçete oluþturmaktadýr. 
 
@@ -46,30 +56,10 @@ Otomatik planlama alternatif makineleri deðerlendirerek bir plan oluþturur. Kull
 Ýþlemenizin üretim faaliyetlerini takip ederken maliyetlerinide kontrol edebilirsiniz.
 Üretim maliyetlerini hesaplayarak ürünlerinin fiyatlandýrmasýný ve kar oranlarýnýzý hesaplamanýz kolaylaþýr.
 
-## Ýþçilik Maliyeti
+## Ýþçilik Maliyeti 
 
-Üretim sürecinde çalýþan iþçilerin çalýþma maliyetleridir. Ýþçilik maliyetleri, ücretler, primler, sigorta ve diðer personel giderlerini içerir.
-Ýþçilik maliyetleri, üretim sürecindeki personellerin üretim yapýldýðý zaman içerisinde ki alacaðý maliyettir. 
-
-Örn; Bir üretim diyelim ki 5 saat sürdü, 
-Üretim aþamasýnda 3 iþçi çalýþtý,
-iþçilerden biri kýdemli saatlik maaþý 300 tl'ye denk geliyor,
-Diðer iki çalýþanýn saatlik maaþlarý 150 tl'ye denk geliyor. 
-Bu üretimde çalýþan personellerin 1 saat için toplam iþçilik maliyeti = 300 + 150 + 150 = 600 TL 
-1 saat için iþçilik 600 tl ise üretim 5 saat sürdüðü için 5 ile çarpacaðýz.
-Üretim maliyeti = 600 * 5 = 3000 TL bu üretimin iþçilik maliyeti 3000 tl oluyor.
+Üretim sürecinde çalýþan iþçilerin çalýþma maliyetleridir. Detaylý bilgi için týklayýnýz. [Ýþçilik Maliyeti](/Uretim/ÝscilikMaliyeti.md "Ýþçilik Maliyeti")
 
 ## Birim Maliyeti
 
-Üretim sürecinde kullanýlan makine ve ekipmanlarýn maliyetleri de hesaba katýlmalýdýr. 
-Bu, makine alým maliyetleri, bakým ve onarým maliyetleri, enerji tüketimi ve amortisman giderlerini içerir.
-Birim fiyatý hesaplamak içim makine, ekipman maliyetleri ve iþçilik maliyetinin toplamýnýn alýnmasýdýr.
-
-# Ulaþým
-
-- Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "Üretim" aratarak ulaþým saðlayabilirsiniz.
-- Sol menüden Üretim -> Üretim Modülü þeklinde ulaþým saðlayabilirsiniz. 
-
-# Üretim Modülü 
-
-Modül Sayfasýnda üretim hareketlerini, hareket ekleme, listeler ve raporlara kolayca ulaþým saðlayabilirsiniz.
+Makine masraflarýnýn hesaplarý ve iþçilik hesaplarýnýn toplamýdýr. Detaylý bilgi için týklayýnýz. [Çalýþma Mal. / Saat](/Uretim/BirimMaliyeti.md "Çalýþma Mal. / Saat")
