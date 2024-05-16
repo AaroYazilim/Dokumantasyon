@@ -1,22 +1,22 @@
 
-# Çek/Senet Modülü
+# Ã‡ek/Senet ModÃ¼lÃ¼
 
-Bu modül, işletmelerin banka hesaplarını yönetmek için gereken çeşitli işlevleri sağlar. 
-Çek ve senet modülü, işletmenizin finansal süreçlerinde çek ve senetlerinizi izleyebilir, yönetebilir ve işleyebilirsiniz. 
-Bu modül, çek ve senetlerle ilgili tüm işlemlerinizi kolaylaştırır.
+Bu modÃ¼l, iÅŸletmelerin banka hesaplarÄ±nÄ± yÃ¶netmek iÃ§in gereken Ã§eÅŸitli iÅŸlevleri saÄŸlar. 
+Ã‡ek ve senet modÃ¼lÃ¼, iÅŸletmenizin finansal sÃ¼reÃ§lerinde Ã§ek ve senetlerinizi izleyebilir, yÃ¶netebilir ve iÅŸleyebilirsiniz. 
+Bu modÃ¼l, Ã§ek ve senetlerle ilgili tÃ¼m iÅŸlemlerinizi kolaylaÅŸtÄ±rÄ±r.
 
-- İşletmenizin aldığı veya verdiği çek ve senetlerinizi kaydedebilirsiniz. Bu, çek veya senetin tutarı, numarası, tarihi, vadesi ve ilgili kişi veya kurum gibi bilgilerin saklanmasını sağlar.
-- Çek ve senetlerinizin vadesini takip edebilirsiniz ve uyarılar sağlar. Bu sayede işletmenizin, vadesi gelen çek ve senetlerini zamanında işleme koyabilir veya gerektiğinde ilgili kişilerle iletişime geçebilirsiniz.
-- Çek ve senetlerin tahsilatını veya ödemesini yönetebilirsiniz. Bu, çek veya senetin bankaya ibraz edilmesi, tahsilatının yapılması veya ödemenin gerçekleştirilmesi gibi işlemleri içerir.
-- Vadesi gelen çek ve senetler için otomatik uyarılar ve hatırlatıcılar sağlayabilirsiniz. Bu, işletmenizin zamanında harekete geçmesini sağlar ve vadeyi kaçırmadan işlemleri tamamlamanıza yardımcı olur.
-- Çek ve senet işlemlerinzile ilgili detaylı raporlar ve analizler sunar. Bu raporlar, işletmenin çek ve senetlerle ilgili durumunu değerlendirmenize ve gelecekteki işlemlerinizi planlamanıza yardımcı olur.
+- Ä°ÅŸletmenizin aldÄ±ÄŸÄ± veya verdiÄŸi Ã§ek ve senetlerinizi kaydedebilirsiniz. Bu, Ã§ek veya senetin tutarÄ±, numarasÄ±, tarihi, vadesi ve ilgili kiÅŸi veya kurum gibi bilgilerin saklanmasÄ±nÄ± saÄŸlar.
+- Ã‡ek ve senetlerinizin vadesini takip edebilirsiniz ve uyarÄ±lar saÄŸlar. Bu sayede iÅŸletmenizin, vadesi gelen Ã§ek ve senetlerini zamanÄ±nda iÅŸleme koyabilir veya gerektiÄŸinde ilgili kiÅŸilerle iletiÅŸime geÃ§ebilirsiniz.
+- Ã‡ek ve senetlerin tahsilatÄ±nÄ± veya Ã¶demesini yÃ¶netebilirsiniz. Bu, Ã§ek veya senetin bankaya ibraz edilmesi, tahsilatÄ±nÄ±n yapÄ±lmasÄ± veya Ã¶demenin gerÃ§ekleÅŸtirilmesi gibi iÅŸlemleri iÃ§erir.
+- Vadesi gelen Ã§ek ve senetler iÃ§in otomatik uyarÄ±lar ve hatÄ±rlatÄ±cÄ±lar saÄŸlayabilirsiniz. Bu, iÅŸletmenizin zamanÄ±nda harekete geÃ§mesini saÄŸlar ve vadeyi kaÃ§Ä±rmadan iÅŸlemleri tamamlamanÄ±za yardÄ±mcÄ± olur.
+- Ã‡ek ve senet iÅŸlemlerinzile ilgili detaylÄ± raporlar ve analizler sunar. Bu raporlar, iÅŸletmenin Ã§ek ve senetlerle ilgili durumunu deÄŸerlendirmenize ve gelecekteki iÅŸlemlerinizi planlamanÄ±za yardÄ±mcÄ± olur.
 
-Çek ve senet modülü, işletmelerin finansal süreçlerini daha etkin bir şekilde yönetmenize yardımcı olur. 
-Bu modülden, çek ve senetlerin izleyebilir, takibi ve işlenmesini kolaylaştırırken aynı zamanda işletmenin nakit akışını etkin bir şekilde yönetmenize de olanak tanır.
+Ã‡ek ve senet modÃ¼lÃ¼, iÅŸletmelerin finansal sÃ¼reÃ§lerini daha etkin bir ÅŸekilde yÃ¶netmenize yardÄ±mcÄ± olur. 
+Bu modÃ¼lden, Ã§ek ve senetlerin izleyebilir, takibi ve iÅŸlenmesini kolaylaÅŸtÄ±rÄ±rken aynÄ± zamanda iÅŸletmenin nakit akÄ±ÅŸÄ±nÄ± etkin bir ÅŸekilde yÃ¶netmenize de olanak tanÄ±r.
 
-Bu modülde yer alan işlemler;
+Bu modÃ¼lde yer alan iÅŸlemler;
 
-- [Çek/Senet Hesap Kartı](/ÇekSenet/ÇekSenetHesapKarti.md "Çek/Senet Hesap Kartı")
-- [Çek/Senet Hesap Listesi](/ÇekSenet/ÇekSenetHesapListesi.md "Çek/Senet Hesap Listesi")
-- [Çek/Senet Hareketleri Listesi](/ÇekSenet/ÇekSenetHareketleriListesi.md "Çek/Senet Hareketleri Listesi")
-- [Hareket Oluştur](/Banka/HareketOlustur.md "Hareket Oluştur")
+- [Ã‡ek/Senet Hesap KartÄ±](/Ã‡ekSenet/Ã‡ekSenetHesapKarti.md "Ã‡ek/Senet Hesap KartÄ±")
+- [Ã‡ek/Senet Hesap Listesi](/Ã‡ekSenet/Ã‡ekSenetHesapListesi.md "Ã‡ek/Senet Hesap Listesi")
+- [Ã‡ek/Senet Hareketleri Listesi](/Ã‡ekSenet/Ã‡ekSenetHareketleriListesi.md "Ã‡ek/Senet Hareketleri Listesi")
+- [Hareket OluÅŸtur](/Banka/HareketOlustur.md "Hareket OluÅŸtur")
