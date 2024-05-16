@@ -21,3 +21,16 @@ Bu sayede firelerinizi ve çýkan ürünlerinizin süreçlerini, aþamalarýný, maliyetl
 - [Canlý Üretim Terminali](/Uretim/Terminal.md "Canlý Üretim Terminali")
 - [Üretim Verileri Girme](/Uretim/UretimHareketi.md "Üretim Verileri Girme")
 - [MRP](/Uretim/Mrp.md "MRP")
+- [Birim Maliyet](/Uretim/BirimMaliyet.md "Birim Maliyet")
+- [Ýþçilik Maliyet](/Uretim/IscilikMaliyet.md "Ýþçilik Maliyet")
+- [Operasyon Makine Eþleþtirme](/Uretim/OperasyonMakineEslestirme.md "Operasyon Makine Eþleþtirme")
+- [Otomatik Planlama](/Uretim/OtomatikPlanlama.md "Oyomatik Planlama")
+- [Terminal Kullanýcý Ekleme](/Uretim/TerminalKullaniciEkleme.md "Terminal Kullanýcý Ekleme")
+- [Üretim Hareketi](/Uretim/UretimHareketi.md "Üretim Hareketi")
+- [Yeni Ýþ Emri](/Uretim/Mrp.md "Yeni Ýþ Emri")
+
+
+
+
+
+

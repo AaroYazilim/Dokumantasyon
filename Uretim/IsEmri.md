@@ -27,4 +27,4 @@ Her bir görevin sorumluluðu ve beklentiler net bir þekilde tanýmlanmalýdýr.
 - Sol menüden Üretim -> Listeler -> Ýþ Emri Listesi þeklinde ulaþým saðlayabilirsiniz. 
 - Sol menüden Üretim -> Listeler -> Ýþ Emri Listesi -> Yeni Ýþ Emri þeklinde yeni iþ emri oluþturabilirsiniz. 
 
-[Planlama](/Uretim/Planlama.md "Planlama") yapmak için iþ emri oluþturmanýz gerekmektedir.
+[Yeni Ýþ Emri](/Uretim/YeniIsEmri.md "Yeni Ýþ Emri") týklayarak Yeni iþ emri ekleme detaylarýna ulaþabiliriz.

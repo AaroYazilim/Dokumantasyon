@@ -11,7 +11,8 @@ Manuel giriþ ise iþlem bittikten sonra verilerin sisteme manuel olarak girilmesi
 ## Ulaþým
 
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "üretim hareketi" aratarak ulaþým saðlayabilirsiniz.
-- Sol menüden Üretim -> Hareketler -> Hýzlý Üretim Hareketi Giriþi þeklinde ulaþým saðlayabilirsiniz.
+- Sol menüden Üretim -> Hareketler -> Hýzlý Üretim Hareketi Giriþi Sadece Ýþçilik þeklinde ulaþým saðlayabilirsiniz.
+	Sadece Ýþçilik giriþinde sadece operasyon ile ilgili detaylar girilir.
 
 ### Genel 
 
@@ -51,3 +52,27 @@ Operasyona ait detaylarý ve özel açýklamalar burada belirtilmelidir.
 
 
 Bütün alanlarý doldurduktan sonra kaydet butonuna basarak opersayon iþlemimizi baþarýyla tamamlamýþ bulunmaktayýz.
+
+
+# Hýzlý Üretim Giriþi
+
+## Ulaþým
+
+- Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "üretim hareketi" aratarak ulaþým saðlayabilirsiniz.
+- Sol menüden Üretim -> Hareketler -> Hýzlý Üretim Hareketi Giriþi þeklinde ulaþým saðlayabilirsiniz.
+
+Ýþlemler dýþýnda hammadde ya da mamul eklemesi yapýldýðýnda buradan hareket giriþi yapýlmalýdýr. 
+Burada iþlemler ayný fakat buradan hammadde ve mamul giriþi ekleyebilirsiniz.
+
+### Mamüller
+
+**Mamül Adý** Mamülün adýný giriniz.
+**Miktar** Kullanýlan miktar, kaç adet kullanýldýðýný giriniz.
+**Depo** Hangi depodan temin edildiðini çýkýþ yapýlacak olan depoyu seçiniz.
+
+### Hammmaddeler 
+
+**Hammadde Adý** Hammaddenin adýný giriniz.
+**Miktar** Kullanýlan miktar, kaç adet kullanýldýðýný giriniz.
+**Birim Fiyat** Kullanýlan hammaddenin birim fiyatýný ifade eder.
+**Depo** Hangi depodan temin edildiðini çýkýþ yapýlacak olan depoyu seçiniz.

@@ -40,7 +40,11 @@ Ayný zamanda üretim yapýlýrken canlý takip etme olanaðýnýz mevcuttur. Ýþçi ne za
 
 [Canlý Üretim Terminali](/Uretim/Terminal.md "Canlý Üretim Terminali") üretim süreçlerini izlemek, yönetmek ve kontrol etmek için kullanýlan bir araçtýr. 
 Canlý üretim terminali, fabrika veya üretim tesisindeki üretim faaliyetlerini gerçek zamanlý olarak takip etmeyi ve yönetmeyi saðlar. 
-[Üretim Hareketi](/Uretim/UretimHareketi.md "Üretim Hareketi")
+
+Bir diðer alternatif olarak üretim bittikten sonra [Üretim Hareketi](/Uretim/UretimHareketi.md "Üretim Hareketi") manuel giriþ yapabilirsiniz.
+Üretim hareketleri manuel gireceðiniz taktirde;
+[Ýþ Emri Çýktý](/Uretim/IsEmriCýktý.md "Ýþ Emri Çýktý")sýný alarak üretimden sorumlu usta baþý buradan bütün aþamalarý görecek þekilde çýktý alabilir.
+Her bir operasyon için sorumlu olacak personeller için [Operasyon Çýktýsý](/Uretim/OperasyonCikti.md "Operasyon Çýktýsý") alarak personellere iþ emri verebilir.
 
 Planlama üretim tanýmlarý sipariþ teslim tarihi gibi veriler girildiðinde otomatik planlama oluþturur.
 [Otomatik Planlama](/Uretim/OtomatikPlanlama.md "Otomatik Planlama") sisteminin oluþturduðu otomatik planlamayý kullanabilirsiniz, deðiþiklik yapabilirsiniz.
@@ -49,6 +53,8 @@ Otomatik planlama alternatif makineleri deðerlendirerek bir plan oluþturur. Kull
 Üretim yapýlýrken ayný zamanda stoðumuzu da yönetebiliriz. 
 [MRP](/Uretim/Mrp.md "MRP") malzeme gereksinim planlamasý takip etmemize, konrrol altýnda tutmamýza ve eksilen ürünler hammaddelere müdahale etmemize yardýmcý olur. 
 Üretim için gerekli miktarlarý hesaplar hesaplama yaparken depoda bulunmasý gereken miktarlarý ve üretilirken ne kadar gerekli olduðunu gösterir.
+Bu þekilde eksik olan hammadde, yarý mamul ve mamullerin tedariðini kolayca saðlayabiliriz.
+
 
 # Maliyet Hesaplamalarý 
 
