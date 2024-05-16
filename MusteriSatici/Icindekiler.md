@@ -1,7 +1,7 @@
 
 # Müşteri Satıcı Modülü
 
-Müşteri satıcı modülü, işletmenizin müşteri ilişkilerini yönetmek ve satış süreçlerini izlemek için kullanabilirsiniz. 
+Müşteri satıcı modülü, işletmenizin müşteri ilişkilerini yönetmek, satış ve alış süreçlerini izlemek için kullanabilirsiniz. 
 Bu modül, işletmenizin müşteri bilgilerini saklamak, satış işlemlerini takip etmek ve müşteri memnuniyetini artırmak için tasarlanmıştır.
 
 - Müşterilerinizle ilgili temel bilgilerin saklanmasını sağlar. Bu, müşteri adı, iletişim bilgileri, adres bilgileri gibi bilgileri içerir.

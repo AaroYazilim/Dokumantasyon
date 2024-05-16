@@ -5,7 +5,7 @@ Bu repository, Aaro Yazılım'ın ERP sistemi için dökümantasyon içeriğini 
 ## Dökümantasyon İçeriği
 
 - [Kullanıcı Kılavuzu](Icindekiler.md)
-- [API Referansı](Api/Icindekiler.md)
+- [API Referansı](API/Icindekiler.md)
 - [Sıkça Sorulan Sorular (SSS)](sss.md)
 
 Daha fazla bilgi ve güncellemeler için lütfen ilgili dökümanlara göz atın.
@@ -14,7 +14,7 @@ Daha fazla bilgi ve güncellemeler için lütfen ilgili dökümanlara göz atın
 
 Aaro Yazılım, işletmeler için özelleştirilebilir ve kullanıcı dostu ERP çözümleri sunan bir yazılım şirketidir. Müşterilerimize iş süreçlerini optimize etmelerine yardımcı olmak için kapsamlı bir ürün yelpazesi sunuyoruz.
 
-Web sitemizi ziyaret ederek daha fazla bilgi edinebilirsiniz: [Aaro Yazılım](https://www.aaro.com.tr)
+Web sitemizi ziyaret ederek daha fazla bilgi edinebilirsiniz: [aaro.com.tr](https://www.aaro.com.tr)
 
 ## Katkıda Bulunma
 
