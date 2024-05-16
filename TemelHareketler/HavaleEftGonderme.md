@@ -1,49 +1,49 @@
-## Havale EFT Gönderme
+## Havale EFT GÃ¶nderme
 
-**Havale:** aynı banka içinde veya farklı bankalar arasında, genellikle daha hızlı işleyen bir para transferi yöntemidir.
-**EFT:** Elektronik Fon Transferi'nin kısaltmasıdır ve genellikle daha büyük miktarlarda para transferlerinde kullanılır. EFT işlemleri genellikle bir bankadan diğerine birkaç iş günü içinde gerçekleşir.
+**Havale:** aynÄ± banka iÃ§inde veya farklÄ± bankalar arasÄ±nda, genellikle daha hÄ±zlÄ± iÅŸleyen bir para transferi yÃ¶ntemidir.
+**EFT:** Elektronik Fon Transferi'nin kÄ±saltmasÄ±dÄ±r ve genellikle daha bÃ¼yÃ¼k miktarlarda para transferlerinde kullanÄ±lÄ±r. EFT iÅŸlemleri genellikle bir bankadan diÄŸerine birkaÃ§ iÅŸ gÃ¼nÃ¼ iÃ§inde gerÃ§ekleÅŸir.
 
-Havale veya EFT yapmak istiyorsanız, bankanızın mobil uygulaması, internet bankacılığı veya bankanızın şubesini ziyaret ederek bu işlemi gerçekleştirebilirsiniz. 
-İşlem için alıcıya ait banka hesap numarası, IBAN numarası, isim ve transfer edilecek miktar gibi bilgilere ihtiyacınız olacaktır. 
-Ayrıca, transferin hızı ve ücretleri gibi konular bankadan bankaya değişiklik gösterebilir, bu yüzden işlem yapmadan önce bankanızdan bilgi almanız önemlidir.
+Havale veya EFT yapmak istiyorsanÄ±z, bankanÄ±zÄ±n mobil uygulamasÄ±, internet bankacÄ±lÄ±ÄŸÄ± veya bankanÄ±zÄ±n ÅŸubesini ziyaret ederek bu iÅŸlemi gerÃ§ekleÅŸtirebilirsiniz. 
+Ä°ÅŸlem iÃ§in alÄ±cÄ±ya ait banka hesap numarasÄ±, IBAN numarasÄ±, isim ve transfer edilecek miktar gibi bilgilere ihtiyacÄ±nÄ±z olacaktÄ±r. 
+AyrÄ±ca, transferin hÄ±zÄ± ve Ã¼cretleri gibi konular bankadan bankaya deÄŸiÅŸiklik gÃ¶sterebilir, bu yÃ¼zden iÅŸlem yapmadan Ã¶nce bankanÄ±zdan bilgi almanÄ±z Ã¶nemlidir.
 
-Havale veya EFT göndermek sizin banka hesabınızdan başka bir hesaba havale/EFT yapmanız durumunda takip edebilmek banka hareketlerini görüntülemek adına 
-banka hesabımızdan gönderilen havale/EFT bilgilerini buradan işleyerek banka hesabımızın takibini kolayca sağlayabilmekteyiz.
+Havale veya EFT gÃ¶ndermek sizin banka hesabÄ±nÄ±zdan baÅŸka bir hesaba havale/EFT yapmanÄ±z durumunda takip edebilmek banka hareketlerini gÃ¶rÃ¼ntÃ¼lemek adÄ±na 
+banka hesabÄ±mÄ±zdan gÃ¶nderilen havale/EFT bilgilerini buradan iÅŸleyerek banka hesabÄ±mÄ±zÄ±n takibini kolayca saÄŸlayabilmekteyiz.
 
 ## **Genel**
 
-**Şirket-Şube:** [Şirket-Şube](/TemelOzellikler/SirketSube.md "Şirket-Şube")
+**Åirket-Åube:** [Åirket-Åube](/TemelOzellikler/SirketSube.md "Åirket-Åube")
 
-**Tarih:** İşlemin yapıldığı tarihi belirtir.
+**Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir.
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasÄ±nÄ± ifade eder. Otomatik sÄ±radaki numara gelir. Ä°stenirse seri kullanÄ±labilir.
 **Girilmesi Zorunludur.**
 
-**Banka Hesap:** Bu hareket işlemi için hangi banka şubesiyle işlem yapılacağını belirtir. 
+**Banka Hesap:** Bu hareket iÅŸlemi iÃ§in hangi banka ÅŸubesiyle iÅŸlem yapÄ±lacaÄŸÄ±nÄ± belirtir. 
 **Girilmesi Zorunludur.**
 
-**Banka Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
+**Banka DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinsini belirtir.
 
-**Cari Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
+**Cari DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinsini belirtir.
 
-**Açıklama:** İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+**AÃ§Ä±klama:** Ä°ÅŸleme ait detaylar aÃ§Ä±klamaya eklenebilir. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
 
 ## **Detay**
 
 **Beklenen Tahsilat:** [Beklenen Tahsilat](/TemelOzellikler/BeklenenTahOd.md "Beklenen Tahsilat")
 
-**Sözleşme:** Bu karta ait sözleşme var ise buraya sözleşmeyi ekleyebiliriz.
+**SÃ¶zleÅŸme:** Bu karta ait sÃ¶zleÅŸme var ise buraya sÃ¶zleÅŸmeyi ekleyebiliriz.
 
-**Proje:** Bu karta ait proje var ise buraya sözleşmeyi ekleyebiliriz.
+**Proje:** Bu karta ait proje var ise buraya sÃ¶zleÅŸmeyi ekleyebiliriz.
 
-**Plasiyer:** Bu karta ait işlemi gerçekleştiren ya da sorumlu olan personel eklenir.
+**Plasiyer:** Bu karta ait iÅŸlemi gerÃ§ekleÅŸtiren ya da sorumlu olan personel eklenir.
 
 **Alt Tip:** Alt hareket tipini belirtir.
 
-## **Açıklamalar**
+## **AÃ§Ä±klamalar**
 
-İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+Ä°ÅŸleme ait detaylar aÃ§Ä±klamaya eklenebilir. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
 
 ## **Etiketler**
 
-İşleme ait detaylar açıklamaya eklenebilir. [Etiket](/TemelOzellikler/Etiketler.md "Etiket")
+Ä°ÅŸleme ait detaylar aÃ§Ä±klamaya eklenebilir. [Etiket](/TemelOzellikler/Etiketler.md "Etiket")

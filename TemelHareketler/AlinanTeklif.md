@@ -1,64 +1,64 @@
 
-# Alınan Teklif
+# AlÄ±nan Teklif
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'Alınan teklif' aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Alınan Teklif şeklinde ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Satın Alma -> Hareket Oluştur -> Alınan teklif şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan 'AlÄ±nan teklif' aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol sekmede yer alan modÃ¼ller kÄ±smÄ±ndan Musteri/Satici -> Hareket OluÅŸtur -> SatÄ±ÅŸ ve Pazarlama -> AlÄ±nan Teklif ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol sekmede yer alan modÃ¼ller kÄ±smÄ±ndan SatÄ±n Alma -> Hareket OluÅŸtur -> AlÄ±nan teklif ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-## Tanım
+## TanÄ±m
 
-Alınan teklif, bir müşterinin veya işletmenin bir ürünü veya hizmeti satın almak için belirli koşullar altında başka bir işletmeden alınan yazılı bir öneridir. 
-Alınan teklif genellikle ticari bir ilişki içinde bulunan iki taraf arasında gerçekleşir. Teklif genellikle şu unsurları içerir:
+AlÄ±nan teklif, bir mÃ¼ÅŸterinin veya iÅŸletmenin bir Ã¼rÃ¼nÃ¼ veya hizmeti satÄ±n almak iÃ§in belirli koÅŸullar altÄ±nda baÅŸka bir iÅŸletmeden alÄ±nan yazÄ±lÄ± bir Ã¶neridir. 
+AlÄ±nan teklif genellikle ticari bir iliÅŸki iÃ§inde bulunan iki taraf arasÄ±nda gerÃ§ekleÅŸir. Teklif genellikle ÅŸu unsurlarÄ± iÃ§erir:
 
-- **Fiyatlandırma:** Satıcı tarafından sunulan ürün veya hizmetin fiyatı.
+- **FiyatlandÄ±rma:** SatÄ±cÄ± tarafÄ±ndan sunulan Ã¼rÃ¼n veya hizmetin fiyatÄ±.
 
-- **Ürün/Hizmet Ayrıntıları:** Teklifin konusu olan ürün veya hizmetin detaylı açıklaması, özellikleri, miktarı veya süresi gibi bilgiler.
+- **ÃœrÃ¼n/Hizmet AyrÄ±ntÄ±larÄ±:** Teklifin konusu olan Ã¼rÃ¼n veya hizmetin detaylÄ± aÃ§Ä±klamasÄ±, Ã¶zellikleri, miktarÄ± veya sÃ¼resi gibi bilgiler.
 
-- **Ödeme Koşulları:** Ödemenin ne zaman ve nasıl yapılacağına ilişkin bilgiler. Örneğin, peşin ödeme, taksitler halinde ödeme veya belirli bir tarih aralığında ödeme gibi koşullar.
+- **Ã–deme KoÅŸullarÄ±:** Ã–demenin ne zaman ve nasÄ±l yapÄ±lacaÄŸÄ±na iliÅŸkin bilgiler. Ã–rneÄŸin, peÅŸin Ã¶deme, taksitler halinde Ã¶deme veya belirli bir tarih aralÄ±ÄŸÄ±nda Ã¶deme gibi koÅŸullar.
 
-- **Teslimat Şartları:** Ürünlerin veya hizmetlerin teslimatıyla ilgili bilgiler. Teslimat süresi, nakliye yöntemi, taşıma masrafları gibi detaylar bu bölümde yer alabilir.
+- **Teslimat ÅartlarÄ±:** ÃœrÃ¼nlerin veya hizmetlerin teslimatÄ±yla ilgili bilgiler. Teslimat sÃ¼resi, nakliye yÃ¶ntemi, taÅŸÄ±ma masraflarÄ± gibi detaylar bu bÃ¶lÃ¼mde yer alabilir.
 
-- **Geçerlilik Süresi:** Teklifin ne kadar süreyle geçerli olduğu. Genellikle teklifin belirli bir tarihe kadar geçerli olduğu belirtilir.
+- **GeÃ§erlilik SÃ¼resi:** Teklifin ne kadar sÃ¼reyle geÃ§erli olduÄŸu. Genellikle teklifin belirli bir tarihe kadar geÃ§erli olduÄŸu belirtilir.
 
-- **Genel Koşullar ve Şartlar:** İşlemle ilgili genel şartlar ve koşulların belirtildiği bölüm. Garanti, iade politikası, tedarik süresi gibi detaylar burada yer alabilir.
+- **Genel KoÅŸullar ve Åartlar:** Ä°ÅŸlemle ilgili genel ÅŸartlar ve koÅŸullarÄ±n belirtildiÄŸi bÃ¶lÃ¼m. Garanti, iade politikasÄ±, tedarik sÃ¼resi gibi detaylar burada yer alabilir.
 
-Alınan teklif, müşterilerin işletme tarafından sunulan ürün veya hizmete ilişkin bilgi edinmelerini sağlar ve satın alma kararlarını şekillendirir.
-İşletme tarafından alınan teklifler, karar alma sürecinde değerlendirilir, müzakere edilir ve uygun görülürse kabul edilir.
+AlÄ±nan teklif, mÃ¼ÅŸterilerin iÅŸletme tarafÄ±ndan sunulan Ã¼rÃ¼n veya hizmete iliÅŸkin bilgi edinmelerini saÄŸlar ve satÄ±n alma kararlarÄ±nÄ± ÅŸekillendirir.
+Ä°ÅŸletme tarafÄ±ndan alÄ±nan teklifler, karar alma sÃ¼recinde deÄŸerlendirilir, mÃ¼zakere edilir ve uygun gÃ¶rÃ¼lÃ¼rse kabul edilir.
 
 
-### Ek İşlem Butonu 
+### Ek Ä°ÅŸlem Butonu 
 
-[Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle")
+[Anasayfaya KÄ±sayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya KÄ±sayol Olarak Ekle")
 
 ### Genel 
 
-- **Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](/TemelOzellikler/SirketSubeHareket.md "Şirket-Şube")
-- **Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
-- **Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
-- **Satıcı:** İşlemin yapıldığı cari kartını ifade eder. **Girilmesi Zorunludur.**
-- **Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
-- **Depo:** Bu işlemin kullanıldığı depoyu belirtir.
-- **Vade:** İşlemin yapıldığı vadeyi belirtir.
-- **Açıklama:** İşleme ait açıklamayı belirtir.
-- **KDV Dahil:** Kalemlerde birim fiyat ve tutarın 'KDV Dahil' olduğunu belirtir.
+- **Åirket-Åube:** Bu kartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. [Åirket-Åube](/TemelOzellikler/SirketSubeHareket.md "Åirket-Åube")
+- **Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir. **Girilmesi Zorunludur.**
+- **Belge No:** Belge NumarasÄ±nÄ± ifade eder. Otomatik sÄ±radaki numara gelir. Ä°stenirse seri kullanÄ±labilir.
+- **SatÄ±cÄ±:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± cari kartÄ±nÄ± ifade eder. **Girilmesi Zorunludur.**
+- **DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinisini belirtir.
+- **Depo:** Bu iÅŸlemin kullanÄ±ldÄ±ÄŸÄ± depoyu belirtir.
+- **Vade:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± vadeyi belirtir.
+- **AÃ§Ä±klama:** Ä°ÅŸleme ait aÃ§Ä±klamayÄ± belirtir.
+- **KDV Dahil:** Kalemlerde birim fiyat ve tutarÄ±n 'KDV Dahil' olduÄŸunu belirtir.
 
 ### Detay
 
-- **Beklenen Tahsilat ve Ödemeler:**
+- **Beklenen Tahsilat ve Ã–demeler:**
 - **Alt Tip:** Alt hareket tipini belirtir.
-- **Sözleşme:** Bu hareketin hangi sözleşmeye ait olduğunu gösterir.
-- **Proje: Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir.
-- **Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir.
-- **Cari Adres:** Carinin adresini belirtir. Farklı adrese gönderilecekse seçilmelidir. Kalemlerde değiştirilebilir.
-- **Ref. İthalat İhracat:** Bu hareket bir ithalat yada ihracat ise seçilmelidir. Hangi ithlata veya ihracata ait odluğunu belirtir. Kalemlerde Değiştirilebilir.
-- **Teslim Tarihi:** Bu siparişin teslim edildiği tarihi belirtir.
+- **SÃ¶zleÅŸme:** Bu hareketin hangi sÃ¶zleÅŸmeye ait olduÄŸunu gÃ¶sterir.
+- **Proje: Bu hareketin hangi projeye ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir.
+- **Plasiyer:** Bu hareketin hangi plasiyere ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir.
+- **Cari Adres:** Carinin adresini belirtir. FarklÄ± adrese gÃ¶nderilecekse seÃ§ilmelidir. Kalemlerde deÄŸiÅŸtirilebilir.
+- **Ref. Ä°thalat Ä°hracat:** Bu hareket bir ithalat yada ihracat ise seÃ§ilmelidir. Hangi ithlata veya ihracata ait odluÄŸunu belirtir. Kalemlerde DeÄŸiÅŸtirilebilir.
+- **Teslim Tarihi:** Bu sipariÅŸin teslim edildiÄŸi tarihi belirtir.
 
-### Açıklamalar
+### AÃ§Ä±klamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+- **AÃ§Ä±klamalar:** Ek aÃ§Ä±klamalarÄ± belirtir. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lÄ±r. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")

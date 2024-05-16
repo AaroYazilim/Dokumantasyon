@@ -1,68 +1,68 @@
 
 # Stok Hareketleri Listesi
 
-### Ulaşım 
+### UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Stok hareket listesi" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Stok -> Stok Modülü -> Stok Hareketleri Listesi şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Stok -> Listeler -> Stok Hareketleri Listesi üzerinden ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "Stok hareket listesi" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Stok -> Stok ModÃ¼lÃ¼ -> Stok Hareketleri Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
+- Sol menÃ¼den Stok -> Listeler -> Stok Hareketleri Listesi Ã¼zerinden ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-### Tanım 
+### TanÄ±m 
 
-- Banka hesaplarının hareketlerini bu sayfadan görüntüleyebilirsiniz.
-- Banka hesaplarının güncel ve belirli bir tarihte ki bakiyelerini görüntüleyebilirsiniz.
+- Banka hesaplarÄ±nÄ±n hareketlerini bu sayfadan gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
+- Banka hesaplarÄ±nÄ±n gÃ¼ncel ve belirli bir tarihte ki bakiyelerini gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
 
-### Ek Özellikler 
+### Ek Ã–zellikler 
 
-- Sayfanın üst kısmında bulunan [Filtreleme](/TemelOzellikler/SayfaKisitlari.md  "Filtreleme") özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
-- Sayfada ki listeyi [Özel Listeleme](/TemelOzellikler/ListeNesnesi.md  "Özel Listeleme") sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
+- SayfanÄ±n Ã¼st kÄ±smÄ±nda bulunan [Filtreleme](/TemelOzellikler/SayfaKisitlari.md  "Filtreleme") Ã¶zelliÄŸi ile gelen veriyi istediÄŸiniz ÅŸekilde sÄ±nÄ±rlandÄ±rabilirsiniz.
+- Sayfada ki listeyi [Ã–zel Listeleme](/TemelOzellikler/ListeNesnesi.md  "Ã–zel Listeleme") sÄ±ralayabilir, yeniden boyutlandÄ±rabilir ve sayfa sayfa gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
 
-### Ek İşlem Butonu
+### Ek Ä°ÅŸlem Butonu
 
-- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- [Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle")
-- [Toplu Değiştir](/TemelOzellikler/TopluDegistir.md "Toplu Değiştir")
-- [Grid Sütunları Ayarla](/TemelOzellikler/GridSutunAyarlari.md "Grid Sütunları Ayarla")
+- SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan alt altta Ã¼Ã§ Ã§izgi ÅŸeklinde olan dÃ¼ÄŸme ile ek iÅŸlemlere ulaÅŸÄ±lÄ±r.
+- [Anasayfaya KÄ±sayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya KÄ±sayol Olarak Ekle")
+- [Toplu DeÄŸiÅŸtir](/TemelOzellikler/TopluDegistir.md "Toplu DeÄŸiÅŸtir")
+- [Grid SÃ¼tunlarÄ± Ayarla](/TemelOzellikler/GridSutunAyarlari.md "Grid SÃ¼tunlarÄ± Ayarla")
 - [Listeyi Excele Aktar](/TemelOzellikler/ListeyiExceleAktar.md "Listeyi Excele Aktar")
 
 ### Stok Hareketleri
 
 ## Genel
 
-- [Satış Faturası](/TemelHareketler/SatisFaturasi.md "Satış Faturası")
-- [Alış Faturası](/TemelHareketler/AlisFaturasi.md "Alış Faturası")
+- [SatÄ±ÅŸ FaturasÄ±](/TemelHareketler/SatisFaturasi.md "SatÄ±ÅŸ FaturasÄ±")
+- [AlÄ±ÅŸ FaturasÄ±](/TemelHareketler/AlisFaturasi.md "AlÄ±ÅŸ FaturasÄ±")
 - [Karma Transfer Hareketi](/TemelHareketler/KarmaTransferHareketi.md "Karma Transfer Hareketi")
 - [Devir](/TemelHareketler/Devir.md "Devir")
 
 ## Fatura 
 
-- [Satış Faturası](/TemelHareketler/SatisFaturasi.md "Satış Faturası")
-- [Alış Faturası](/TemelHareketler/AlisFaturasi.md "Alış Faturası")
-- [Satış İade Faturası](/TemelHareketler/SatısİadeFaturasi.md "Satış İade Faturası")
-- [Alış İade Faturası](/TemelHareketler/AlisİadeFaturasi.md "Alış İade Faturası")
+- [SatÄ±ÅŸ FaturasÄ±](/TemelHareketler/SatisFaturasi.md "SatÄ±ÅŸ FaturasÄ±")
+- [AlÄ±ÅŸ FaturasÄ±](/TemelHareketler/AlisFaturasi.md "AlÄ±ÅŸ FaturasÄ±")
+- [SatÄ±ÅŸ Ä°ade FaturasÄ±](/TemelHareketler/SatÄ±sÄ°adeFaturasi.md "SatÄ±ÅŸ Ä°ade FaturasÄ±")
+- [AlÄ±ÅŸ Ä°ade FaturasÄ±](/TemelHareketler/AlisÄ°adeFaturasi.md "AlÄ±ÅŸ Ä°ade FaturasÄ±")
 
-## İrsaliye 
+## Ä°rsaliye 
 
-- [Satış İrsaliyesi](/TemelHareketler/Satisİrsaliyesi.md "Satış İrsaliyesi")
-- [Alış İrsaliyesi](/TemelHareketler/Alisİrsaliyesi.md "Alış İrsaliyesi")
-- [Satış İade İrsaliyesi](/TemelHareketler/Satısİadeİrsaliyesi.md "Satış İade İrsaliyesi")
-- [Alış İade İrsaliyesi](/TemelHareketler/Alisİadeİrsaliyesi.md "Alış İade İrsaliyesi")
+- [SatÄ±ÅŸ Ä°rsaliyesi](/TemelHareketler/SatisÄ°rsaliyesi.md "SatÄ±ÅŸ Ä°rsaliyesi")
+- [AlÄ±ÅŸ Ä°rsaliyesi](/TemelHareketler/AlisÄ°rsaliyesi.md "AlÄ±ÅŸ Ä°rsaliyesi")
+- [SatÄ±ÅŸ Ä°ade Ä°rsaliyesi](/TemelHareketler/SatÄ±sÄ°adeÄ°rsaliyesi.md "SatÄ±ÅŸ Ä°ade Ä°rsaliyesi")
+- [AlÄ±ÅŸ Ä°ade Ä°rsaliyesi](/TemelHareketler/AlisÄ°adeÄ°rsaliyesi.md "AlÄ±ÅŸ Ä°ade Ä°rsaliyesi")
 
-## Sipariş 
+## SipariÅŸ 
 
-- [Alınan Sipariş](/TemelHareketler/AlinanSiparis.md "Alınan Sipariş")
-- [Verilen Sipariş](/TemelHareketler/VerilenSiparis.md "Verilen Sipariş")
+- [AlÄ±nan SipariÅŸ](/TemelHareketler/AlinanSiparis.md "AlÄ±nan SipariÅŸ")
+- [Verilen SipariÅŸ](/TemelHareketler/VerilenSiparis.md "Verilen SipariÅŸ")
 
 ## Teklif 
 
-- [Alınan Teklif](/TemelHareketler/AlinanSiparis.md "Alınan Teklif")
+- [AlÄ±nan Teklif](/TemelHareketler/AlinanSiparis.md "AlÄ±nan Teklif")
 - [Verilen Teklif](/TemelHareketler/VerilenSiparis.md "Verilen Teklif")
 
-## Diğerleri 
+## DiÄŸerleri 
 
-- [Depolar Arası Transfer](/TemelHareketler/DepolarArasiTransfer.md "Depolar Arası Transfer")
-- [Depolar Arası Transfer-Doğrudan Sevk](/TemelHareketler/DepolarArasiTransfer.md "Depolar Arası Transfer-Doğrudan Sevk")
-- [Sayım Farkı İşlemi](/TemelHareketler/SayimFarkiIslemi.md "Sayım Farkı İşlemi")
-- [Üretime Hammadde Çıkışı](/TemelHareketler/ÜretimeHammaddeCikisi.md "Üretime Hammadde Çıkışı")
-- [Üretimden Mamül Giriş](/TemelHareketler/SayimFarkiIslemi.md "Üretimden Mamül Giriş")
+- [Depolar ArasÄ± Transfer](/TemelHareketler/DepolarArasiTransfer.md "Depolar ArasÄ± Transfer")
+- [Depolar ArasÄ± Transfer-DoÄŸrudan Sevk](/TemelHareketler/DepolarArasiTransfer.md "Depolar ArasÄ± Transfer-DoÄŸrudan Sevk")
+- [SayÄ±m FarkÄ± Ä°ÅŸlemi](/TemelHareketler/SayimFarkiIslemi.md "SayÄ±m FarkÄ± Ä°ÅŸlemi")
+- [Ãœretime Hammadde Ã‡Ä±kÄ±ÅŸÄ±](/TemelHareketler/ÃœretimeHammaddeCikisi.md "Ãœretime Hammadde Ã‡Ä±kÄ±ÅŸÄ±")
+- [Ãœretimden MamÃ¼l GiriÅŸ](/TemelHareketler/SayimFarkiIslemi.md "Ãœretimden MamÃ¼l GiriÅŸ")
 

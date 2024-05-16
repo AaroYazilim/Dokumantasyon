@@ -1,18 +1,18 @@
 
-# Operasyon Çıktı
+# Operasyon Ã‡Ä±ktÄ±
 
-Operasyon çıktıları üretim aşamalarının tek tek her süreç için olmasıdır. 
+Operasyon Ã§Ä±ktÄ±larÄ± Ã¼retim aÅŸamalarÄ±nÄ±n tek tek her sÃ¼reÃ§ iÃ§in olmasÄ±dÄ±r. 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> Operasyon Listesi şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "operasyon" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartlar -> Operasyon Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-**İş emrinde her bir operasyonu tek tek almak için;**
+**Ä°ÅŸ emrinde her bir operasyonu tek tek almak iÃ§in;**
 
-- İşlem yapmak istediğimiz iş emrinin yanındaki büyüteçe tıklayınız,
-- Açılan pencerenin en alt kısmında kutucuklar yer almaktadır. 
+- Ä°ÅŸlem yapmak istediÄŸimiz iÅŸ emrinin yanÄ±ndaki bÃ¼yÃ¼teÃ§e tÄ±klayÄ±nÄ±z,
+- AÃ§Ä±lan pencerenin en alt kÄ±smÄ±nda kutucuklar yer almaktadÄ±r. 
 
-- Kırmızı üretime başlanmamış iş emrini ifade eder.
-- Sarı devam eden ya da yarım kalan tamamlanması gereken iş emrini ifade eder.
-- Yeşil üretimi tamamlanmış olan iş emrini ifade eder.
+- KÄ±rmÄ±zÄ± Ã¼retime baÅŸlanmamÄ±ÅŸ iÅŸ emrini ifade eder.
+- SarÄ± devam eden ya da yarÄ±m kalan tamamlanmasÄ± gereken iÅŸ emrini ifade eder.
+- YeÅŸil Ã¼retimi tamamlanmÄ±ÅŸ olan iÅŸ emrini ifade eder.
 
-- Çıktı almak istediğimiz iş emrinde yazıcı sembolüne tıklayarak çıktı ekranına ulaşım sağlayabilirsiniz.
+- Ã‡Ä±ktÄ± almak istediÄŸimiz iÅŸ emrinde yazÄ±cÄ± sembolÃ¼ne tÄ±klayarak Ã§Ä±ktÄ± ekranÄ±na ulaÅŸÄ±m saÄŸlayabilirsiniz.

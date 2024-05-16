@@ -1,83 +1,83 @@
 
-# Reçete
+# ReÃ§ete
 
-Üretim sürecinin başlangıçını reçete oluşturmaktadır. 
-Reçete bir ürünün yapımında kullanılan malzemenin ve bu malzemlerin hangi oranlarda ve nasıl kullanılacağının belirtildiği bir belgedir.
-Üretim endüstrisinde ürünlerin seri üretiminde, restoran ve yemekhane gibi yerlerde yemeklerin hazırlanmasında, ilaç endüstrisinde ilaçların formülasyonunda ve daha birçok alanda reçeteler kullanılır.
-Reçete, malzemelerin nasıl kullanılacağını ve işlem adımlarını içerir. 
-Bu adımlar sırayla listelenir ve ürünün yapımının adım adım nasıl gerçekleştirileceğini açıklar.
-Malzeminin miktarı belirli ölçü birimleriyle belirtilir. Örneğin; kg, gram, litre gibi ayrıca her malzemenin toplam miktar içindeki oranı da belirtilmelidir.
-Reçetelerde belirtilen adımların nasıl uygulanacağını ve malzemelerin nasıl hazırlanacağını detaylı olarak açıklanmalıdır.
+Ãœretim sÃ¼recinin baÅŸlangÄ±Ã§Ä±nÄ± reÃ§ete oluÅŸturmaktadÄ±r. 
+ReÃ§ete bir Ã¼rÃ¼nÃ¼n yapÄ±mÄ±nda kullanÄ±lan malzemenin ve bu malzemlerin hangi oranlarda ve nasÄ±l kullanÄ±lacaÄŸÄ±nÄ±n belirtildiÄŸi bir belgedir.
+Ãœretim endÃ¼strisinde Ã¼rÃ¼nlerin seri Ã¼retiminde, restoran ve yemekhane gibi yerlerde yemeklerin hazÄ±rlanmasÄ±nda, ilaÃ§ endÃ¼strisinde ilaÃ§larÄ±n formÃ¼lasyonunda ve daha birÃ§ok alanda reÃ§eteler kullanÄ±lÄ±r.
+ReÃ§ete, malzemelerin nasÄ±l kullanÄ±lacaÄŸÄ±nÄ± ve iÅŸlem adÄ±mlarÄ±nÄ± iÃ§erir. 
+Bu adÄ±mlar sÄ±rayla listelenir ve Ã¼rÃ¼nÃ¼n yapÄ±mÄ±nÄ±n adÄ±m adÄ±m nasÄ±l gerÃ§ekleÅŸtirileceÄŸini aÃ§Ä±klar.
+Malzeminin miktarÄ± belirli Ã¶lÃ§Ã¼ birimleriyle belirtilir. Ã–rneÄŸin; kg, gram, litre gibi ayrÄ±ca her malzemenin toplam miktar iÃ§indeki oranÄ± da belirtilmelidir.
+ReÃ§etelerde belirtilen adÄ±mlarÄ±n nasÄ±l uygulanacaÄŸÄ±nÄ± ve malzemelerin nasÄ±l hazÄ±rlanacaÄŸÄ±nÄ± detaylÄ± olarak aÃ§Ä±klanmalÄ±dÄ±r.
 
-Reçetede renklerin anlamları;
+ReÃ§etede renklerin anlamlarÄ±;
 
 **Mavi renkli:** Operasyon belirtir.
 **Turuncu renkli:** Hammadde belirtir.
-**Bordo renkli:** Mamül belirtir.
-**Bordor-Turuncu renkli:** Hem hammadde hem mamül belirtir.
+**Bordo renkli:** MamÃ¼l belirtir.
+**Bordo-Turuncu renkli:** Hem hammadde hem mamÃ¼l belirtir.
 
-Reçeteleri girebilmemiz için her bir hammadde, mamul ve yarı mamul için stok kaydımızın olması gerekmektedir.
+ReÃ§eteleri girebilmemiz iÃ§in her bir hammadde, mamul ve yarÄ± mamul iÃ§in stok kaydÄ±mÄ±zÄ±n olmasÄ± gerekmektedir.
 
-Taslak Reçete oluşturarak üretim aşamalarına başlayabiliriz.
+Taslak ReÃ§ete oluÅŸturarak Ã¼retim aÅŸamalarÄ±na baÅŸlayabiliriz.
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> Taslak Reçete Listesi -> Yeni Reçete Taslağı Ekle şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> İş Emri Reçete Listesi -> Yeni Reçete Taslağı Ekle şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "reÃ§ete" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartlar -> Taslak ReÃ§ete Listesi -> Yeni ReÃ§ete TaslaÄŸÄ± Ekle ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartlar -> Ä°ÅŸ Emri ReÃ§ete Listesi -> Yeni ReÃ§ete TaslaÄŸÄ± Ekle ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-### Yeni Reçete Taslağı Ekle
+### Yeni ReÃ§ete TaslaÄŸÄ± Ekle
 
 #### Genel
 
-**Reçete Kodu** Sistem otomatik kod atıyor kodu kullanabiliriz ya da kendi kodumuzu oluşturabiliriz.
-**Reçete Adı** Reçete adımızı girebiliriz.
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
-**Kodlar** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Kodlar hakkında detaylı bilgiler için tıklayınız. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
-**Etiketler** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Etiketler hakkında detaylı bilgiler için tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
-**Döviz** Bu işleme ait döviz birimini seçiniz.
+**ReÃ§ete Kodu** Sistem otomatik kod atÄ±yor kodu kullanabiliriz ya da kendi kodumuzu oluÅŸturabiliriz.
+**ReÃ§ete AdÄ±** ReÃ§ete adÄ±mÄ±zÄ± girebiliriz.
+**AÃ§Ä±klama** ReÃ§eteye ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
+**Kodlar** ReÃ§eteyi gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lanabilirsiniz. Kodlar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Etiketler** ReÃ§eteyi gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lanabilirsiniz. Etiketler hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**DÃ¶viz** Bu iÅŸleme ait dÃ¶viz birimini seÃ§iniz.
 
-#### Mamül Bilgileri
+#### MamÃ¼l Bilgileri
 
-Hazırladğınız bu reçetede üretmek istediğiniz mamül bilgilerini ifade eder. Daha sonra diagram üzerinden düzenleyebilirsiniz.
+HazÄ±rladÄŸÄ±nÄ±z bu reÃ§etede Ã¼retmek istediÄŸiniz mamÃ¼l bilgilerini ifade eder. Daha sonra diagram Ã¼zerinden dÃ¼zenleyebilirsiniz.
 
-**Mamül** Oluşturacağımız mamülü seçelim, olmayan stoğumuzu için detaylı ekle, hızlı ekle yaparakta mamül girişi yapabiliriz.
-**Miktar** Kaç adet oluşturacağımızı girelim.
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
-**Ek Maliyet** Birim başı ek maliyeti gösterir. Mamül için ek maliyetimiz var ise onu girelim.
+**MamÃ¼l** OluÅŸturacaÄŸÄ±mÄ±z mamÃ¼lÃ¼ seÃ§elim, olmayan stoÄŸumuzu iÃ§in detaylÄ± ekle, hÄ±zlÄ± ekle yaparakta mamÃ¼l giriÅŸi yapabiliriz.
+**Miktar** KaÃ§ adet oluÅŸturacaÄŸÄ±mÄ±zÄ± girelim.
+**AÃ§Ä±klama** ReÃ§eteye ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
+**Ek Maliyet** Birim baÅŸÄ± ek maliyeti gÃ¶sterir. MamÃ¼l iÃ§in ek maliyetimiz var ise onu girelim.
 
 #### Hammadde Bilgileri
 
-**Hammmadde** Oluşturacağımız mamül için hammadde seçelim, detaylı ekle, hızlı ekle yaparakta mamül girişi yapabiliriz.
-**Miktar** Oluşturacağımız mamül için birim başına ne kadar hammadde gireceğini girelim. 
-**Birim Fiyatı** Oluşturacağımız mamül için birim başına hammadde maliyetini girelim. (Alış işlemi girilmiş ise sistem bize en son alım maliyetini otomatik getirecektir.)
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+**Hammmadde** OluÅŸturacaÄŸÄ±mÄ±z mamÃ¼l iÃ§in hammadde seÃ§elim, detaylÄ± ekle, hÄ±zlÄ± ekle yaparakta mamÃ¼l giriÅŸi yapabiliriz.
+**Miktar** OluÅŸturacaÄŸÄ±mÄ±z mamÃ¼l iÃ§in birim baÅŸÄ±na ne kadar hammadde gireceÄŸini girelim. 
+**Birim FiyatÄ±** OluÅŸturacaÄŸÄ±mÄ±z mamÃ¼l iÃ§in birim baÅŸÄ±na hammadde maliyetini girelim. (AlÄ±ÅŸ iÅŸlemi girilmiÅŸ ise sistem bize en son alÄ±m maliyetini otomatik getirecektir.)
+**AÃ§Ä±klama** ReÃ§eteye ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
 
 #### Opeasyon Bilgileri
 
-**Operasyon** Operasyon makinemizi seçelim. Yeni bir operasyon eklemek için Detaylı Ekle yapalım 
+**Operasyon** Operasyon makinemizi seÃ§elim. Yeni bir operasyon eklemek iÃ§in DetaylÄ± Ekle yapalÄ±m 
 **Makine**
-**İşci Adedi**
-**Hazırlık Süre**
-**Üretim Süresi**
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
-**Hesap Açıklaması**
-**İşçilik / Saat**
-**Çalışma Mal. / Saat**
+**Ä°ÅŸci Adedi**
+**HazÄ±rlÄ±k SÃ¼re**
+**Ãœretim SÃ¼resi**
+**AÃ§Ä±klama** ReÃ§eteye ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
+**Hesap AÃ§Ä±klamasÄ±**
+**Ä°ÅŸÃ§ilik / Saat**
+**Ã‡alÄ±ÅŸma Mal. / Saat**
 
-#### Gelişmiş
+#### GeliÅŸmiÅŸ
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
-**Şarj Kg**
+**Åirket-Åube:** KartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](/TemelOzellikler/SirketSubeKart.md "Åirket-Åube")
+**Åarj Kg**
 
 
-# Sonradan Reçete Düzenlemesi Yapmak 
+# Sonradan ReÃ§ete DÃ¼zenlemesi Yapmak 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartalar -> İş Emri Reçeteleri Listesi şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "reÃ§ete" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartalar -> Ä°ÅŸ Emri ReÃ§eteleri Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 
-Reçete ekranımızı açalım, işlem yapacağımız yani önüne ya da arkasına ürün gelecek operasyonu seçiniz. 
+ReÃ§ete ekranÄ±mÄ±zÄ± aÃ§alÄ±m, iÅŸlem yapacaÄŸÄ±mÄ±z yani Ã¶nÃ¼ne ya da arkasÄ±na Ã¼rÃ¼n gelecek operasyonu seÃ§iniz. 
 
-### Hammadeye tıklayalım hammadde düzelttebilir, hammadde silebilir, operasyon ekleyebilir(öncesi ve sonrası), reçete getirebiliriz.
+### Hammadeye tÄ±klayalÄ±m hammadde dÃ¼zelttebilir, hammadde silebilir, operasyon ekleyebilir(Ã¶ncesi ve sonrasÄ±), reÃ§ete getirebiliriz.
 
-### Operasyona tıklayalım Operasyon düzeletebilir
+### Operasyona tÄ±klayalÄ±m Operasyon dÃ¼zeletebilir

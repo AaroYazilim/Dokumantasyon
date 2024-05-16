@@ -1,50 +1,50 @@
 
 # Makine
 
-Makine, bir ürünün veya bileşenin üretiminde kullanılan herhangi bir ekipman olabilir. 
-Üretim makineleri, üretim hattında farklı işlevlere sahip olabilir; 
-Bazıları hammaddeleri işleyebilir, bazıları montaj yapabilir, bazıları test edebilir ve diğerleri ise ambalajlama gibi son işlemleri gerçekleştirebilir.
+Makine, bir Ã¼rÃ¼nÃ¼n veya bileÅŸenin Ã¼retiminde kullanÄ±lan herhangi bir ekipman olabilir. 
+Ãœretim makineleri, Ã¼retim hattÄ±nda farklÄ± iÅŸlevlere sahip olabilir; 
+BazÄ±larÄ± hammaddeleri iÅŸleyebilir, bazÄ±larÄ± montaj yapabilir, bazÄ±larÄ± test edebilir ve diÄŸerleri ise ambalajlama gibi son iÅŸlemleri gerÃ§ekleÅŸtirebilir.
 
-Üretimde makineler üretim aşamaların izlenmesi, takip edilmesi, iş emirleri akışı, planlamalar, işin maliyet hesaplamaları gibi detaylar için her verilerin girilmesi gereklidir. 
-Bunlar arasında, iş emirleri akışı, planlamalar, maliyet hesaplamaları, arıza süreleri, bakım süreleri, makine kullanımı ve üretim performansı gibi detaylar yer alır. 
-Bu verilerin doğru ve güncel olarak kaydedilmesi, işletmenin üretim sürecini etkili bir şekilde yönetmesine ve planlamasına yardımcı olur.
+Ãœretimde makineler Ã¼retim aÅŸamalarÄ±n izlenmesi, takip edilmesi, iÅŸ emirleri akÄ±ÅŸÄ±, planlamalar, iÅŸin maliyet hesaplamalarÄ± gibi detaylar iÃ§in her verilerin girilmesi gereklidir. 
+Bunlar arasÄ±nda, iÅŸ emirleri akÄ±ÅŸÄ±, planlamalar, maliyet hesaplamalarÄ±, arÄ±za sÃ¼releri, bakÄ±m sÃ¼releri, makine kullanÄ±mÄ± ve Ã¼retim performansÄ± gibi detaylar yer alÄ±r. 
+Bu verilerin doÄŸru ve gÃ¼ncel olarak kaydedilmesi, iÅŸletmenin Ã¼retim sÃ¼recini etkili bir ÅŸekilde yÃ¶netmesine ve planlamasÄ±na yardÄ±mcÄ± olur.
 
-Üretim makineleri, Aaro ile entegre edildiğinde, verilerin otomatik olarak çekilmesine ve kaydedilmesine olanak sağlar. 
-Bu entegrasyon sayesinde, manuel giriş gereksinimi ortadan kalkar ve verimlilik artar. 
-Ayrıca, üretim makinelerine cihazlar takılarak, bu süreçlerin otomatikleştirilmesi ve verilerin gerçek zamanlı olarak izlenmesi mümkün hale gelir.
+Ãœretim makineleri, Aaro ile entegre edildiÄŸinde, verilerin otomatik olarak Ã§ekilmesine ve kaydedilmesine olanak saÄŸlar. 
+Bu entegrasyon sayesinde, manuel giriÅŸ gereksinimi ortadan kalkar ve verimlilik artar. 
+AyrÄ±ca, Ã¼retim makinelerine cihazlar takÄ±larak, bu sÃ¼reÃ§lerin otomatikleÅŸtirilmesi ve verilerin gerÃ§ek zamanlÄ± olarak izlenmesi mÃ¼mkÃ¼n hale gelir.
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "makine" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> Makine -> Makine Listesi -> Yeni Makine Ekle şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "makine" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartlar -> Makine -> Makine Listesi -> Yeni Makine Ekle ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
 ### Yemi Makine Ekle 
 
 #### Genel
 
-**Makine Kodu:** Sistem otomatik kod atar bu kodu kullanabiliriz ya da kendimize özgü kodda verebiliriz.
-**Makine Adı:** Makinemizin adını giriniz.
-**Kodlar** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Kodlar hakkında detaylı bilgiler için tıklayınız. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
-**Etiketler** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Etiketler hakkında detaylı bilgiler için tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**Makine Kodu:** Sistem otomatik kod atar bu kodu kullanabiliriz ya da kendimize Ã¶zgÃ¼ kodda verebiliriz.
+**Makine AdÄ±:** Makinemizin adÄ±nÄ± giriniz.
+**Kodlar** ReÃ§eteyi gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lanabilirsiniz. Kodlar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Etiketler** ReÃ§eteyi gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lanabilirsiniz. Etiketler hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 #### Konum 
 
-**Bölüm Adı:** Kayıtlardan seçebilirsiniz ya da detaylı ekle yaparak ekleme sağlayabilirsiniz.
+**BÃ¶lÃ¼m AdÄ±:** KayÄ±tlardan seÃ§ebilirsiniz ya da detaylÄ± ekle yaparak ekleme saÄŸlayabilirsiniz.
 **X Konumu:** Fabrika da makinenin x eksenindeki konumunu giriniz.
 **Y Konumu:** Fabrika da makinenin y eksenindeki konumunu giriniz.
 **Z Konumu:** Fabrika da makinenin z eksenindeki konumunu giriniz.
 
-#### Ölçüler 
+#### Ã–lÃ§Ã¼ler 
 
-**En:** Makinenin en ölçüsünü giriniz.
-**Yükseklik:** Makinenin yükseklik ölçüsünü giriniz.
-**Boy:** Makinenin boy ölçüsünü giriniz.
+**En:** Makinenin en Ã¶lÃ§Ã¼sÃ¼nÃ¼ giriniz.
+**YÃ¼kseklik:** Makinenin yÃ¼kseklik Ã¶lÃ§Ã¼sÃ¼nÃ¼ giriniz.
+**Boy:** Makinenin boy Ã¶lÃ§Ã¼sÃ¼nÃ¼ giriniz.
 
-#### Gelişmiş
+#### GeliÅŸmiÅŸ
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
+**Åirket-Åube:** KartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](/TemelOzellikler/SirketSubeKart.md "Åirket-Åube")
 **Tip** 
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
-**Demirbaş**
-**Plan Gösterim Sıra**
+**AÃ§Ä±klama** ReÃ§eteye ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
+**DemirbaÅŸ**
+**Plan GÃ¶sterim SÄ±ra**
 

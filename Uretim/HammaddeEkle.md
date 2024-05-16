@@ -1,67 +1,67 @@
 
-# Hammadde Düzenle/Ekle
+# Hammadde DÃ¼zenle/Ekle
 
-## Hammadde Düzelt 
+## Hammadde DÃ¼zelt 
 
 #### Genel
 
-**Hammadde** Hammaddeyi seçelim yok ise detaylı ekle yaparak istediğimiz hammadde kaydını oluşturabiliriz.
-**Miktar** Kaç adet,kg vs ne kadar hammadde kullanımı sağlanacaksa o miktarı giriniz. Örneğin; 1 adet sehpa için 2 m2 ahşap gidecektik o halde 2 m2 olarak seçim yapmamız gerekmektedir.
-**Birim Fiyatı** 1 adet, kg, m2 vs için birim fiyatlarını giriniz.
-**Açıklama** Hammaddeye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
-**Hesap Açıklaması** Maliyet hesaplamaların yapıldığı formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
+**Hammadde** Hammaddeyi seÃ§elim yok ise detaylÄ± ekle yaparak istediÄŸimiz hammadde kaydÄ±nÄ± oluÅŸturabiliriz.
+**Miktar** KaÃ§ adet,kg vs ne kadar hammadde kullanÄ±mÄ± saÄŸlanacaksa o miktarÄ± giriniz. Ã–rneÄŸin; 1 adet sehpa iÃ§in 2 m2 ahÅŸap gidecektik o halde 2 m2 olarak seÃ§im yapmamÄ±z gerekmektedir.
+**Birim FiyatÄ±** 1 adet, kg, m2 vs iÃ§in birim fiyatlarÄ±nÄ± giriniz.
+**AÃ§Ä±klama** Hammaddeye ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
+**Hesap AÃ§Ä±klamasÄ±** Maliyet hesaplamalarÄ±n yapÄ±ldÄ±ÄŸÄ± formÃ¼lÃ¼ ifade eder. Ã–zel hesaplamalar burada belirtilmelidir.
 
-#### Fiyat Listesi Fiyatları 
+#### Fiyat Listesi FiyatlarÄ± 
 
-Bu tabloda, son 3 ay içinde alınan hammadde ve mamül fiyatları, son alınan fiyatlar ve ortalama alınan fiyatlar yer almaktadır. 
-Bu bilgiler, işletmenin alım faturalarını analiz etmek ve fiyatlar üzerindeki değişiklikleri izleyerek verileri girmeniz için kullanılabilir.
+Bu tabloda, son 3 ay iÃ§inde alÄ±nan hammadde ve mamÃ¼l fiyatlarÄ±, son alÄ±nan fiyatlar ve ortalama alÄ±nan fiyatlar yer almaktadÄ±r. 
+Bu bilgiler, iÅŸletmenin alÄ±m faturalarÄ±nÄ± analiz etmek ve fiyatlar Ã¼zerindeki deÄŸiÅŸiklikleri izleyerek verileri girmeniz iÃ§in kullanÄ±labilir.
 
-#### Gelişmiş
+#### GeliÅŸmiÅŸ
 
-**Depo** Hammaddenin çıkış yapılacağı depoyu seçiniz. 
+**Depo** Hammaddenin Ã§Ä±kÄ±ÅŸ yapÄ±lacaÄŸÄ± depoyu seÃ§iniz. 
 
-#### Kısayollar
+#### KÄ±sayollar
 
-#### Kayıt Bilgileri
+#### KayÄ±t Bilgileri
 
 #### Belgeler 
 
-Buraya PDF, JPEG, PNG gibi belgeleri eklemek mümkündür. Bu belgelere erişim izni olanlar, belgelere ulaşabilir, indirebilir ve kontrol edebilirler. 
+Buraya PDF, JPEG, PNG gibi belgeleri eklemek mÃ¼mkÃ¼ndÃ¼r. Bu belgelere eriÅŸim izni olanlar, belgelere ulaÅŸabilir, indirebilir ve kontrol edebilirler. 
 
 #### Notlar 
 
-Hammaddeye ait not girilebilir. Hammadde ile ilgili dikkat edilmesi gereken püf noktalar gibi notlar eklenebilir.
+Hammaddeye ait not girilebilir. Hammadde ile ilgili dikkat edilmesi gereken pÃ¼f noktalar gibi notlar eklenebilir.
 
 
 ## Hammadde Sil
 
-ham maddeyi silmek işlemi, artık kullanılmayan veya yanlışlıkla kaydedilmiş bir hammadde girdisini sistemden kaldırmak amacıyla yapılır.
+ham maddeyi silmek iÅŸlemi, artÄ±k kullanÄ±lmayan veya yanlÄ±ÅŸlÄ±kla kaydedilmiÅŸ bir hammadde girdisini sistemden kaldÄ±rmak amacÄ±yla yapÄ±lÄ±r.
 
 
-## Yeni Reçete Operasyon Ekle(Öncesi-Sonrası)
+## Yeni ReÃ§ete Operasyon Ekle(Ã–ncesi-SonrasÄ±)
 
 #### Genel
 
-**Operasyon** Yapılacak operasyonu seçelim.
-**Makine** Kullanılacak makineyi seçelim.
-**İşçi Adedi** Operasyonda çalışacak işçi adetini giriniz.
-**Hazırlık Süre** Operasyonun hazırlık aşaması, makinenin ısınması vb gibi hazırlık sürelerini giriniz.
-**Üretim Süre** Üretim operasyon ne kadar sürüyor, mamul ne kadar zamanda çıkıyor ise o süreyi giriniz.
-**İşçilik/Saat** Operasyonda çalışan işçinin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [İşçiliyet Maliyeti](/Uretim/IscilikMaliyeti.md "İşçilik Maliyeti")
-**Çalışma Mal/Saat** Operasyonda çalışan işçi, makine, elektrik gibi giderlerin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [Birim Maliyeti](/Uretim/BirimMaliyeti.md "Birim Maliyeti")
-**Açıklama** Operasyona ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
-**Hesap Açıklaması** Maliyet hesaplamaların yapıldığı formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
+**Operasyon** YapÄ±lacak operasyonu seÃ§elim.
+**Makine** KullanÄ±lacak makineyi seÃ§elim.
+**Ä°ÅŸÃ§i Adedi** Operasyonda Ã§alÄ±ÅŸacak iÅŸÃ§i adetini giriniz.
+**HazÄ±rlÄ±k SÃ¼re** Operasyonun hazÄ±rlÄ±k aÅŸamasÄ±, makinenin Ä±sÄ±nmasÄ± vb gibi hazÄ±rlÄ±k sÃ¼relerini giriniz.
+**Ãœretim SÃ¼re** Ãœretim operasyon ne kadar sÃ¼rÃ¼yor, mamul ne kadar zamanda Ã§Ä±kÄ±yor ise o sÃ¼reyi giriniz.
+**Ä°ÅŸÃ§ilik/Saat** Operasyonda Ã§alÄ±ÅŸan iÅŸÃ§inin saatlik Ã¼cretini ifade eder. Maliyet hesaplamasÄ± detaylarÄ± iÃ§in tÄ±klayÄ±nÄ±z. [Ä°ÅŸÃ§iliyet Maliyeti](/Uretim/IscilikMaliyeti.md "Ä°ÅŸÃ§ilik Maliyeti")
+**Ã‡alÄ±ÅŸma Mal/Saat** Operasyonda Ã§alÄ±ÅŸan iÅŸÃ§i, makine, elektrik gibi giderlerin saatlik Ã¼cretini ifade eder. Maliyet hesaplamasÄ± detaylarÄ± iÃ§in tÄ±klayÄ±nÄ±z. [Birim Maliyeti](/Uretim/BirimMaliyeti.md "Birim Maliyeti")
+**AÃ§Ä±klama** Operasyona ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
+**Hesap AÃ§Ä±klamasÄ±** Maliyet hesaplamalarÄ±n yapÄ±ldÄ±ÄŸÄ± formÃ¼lÃ¼ ifade eder. Ã–zel hesaplamalar burada belirtilmelidir.
 
-#### Gelişmiş
+#### GeliÅŸmiÅŸ
 
-Bekleme Süresi** Sonraki operasyona başlamadan önce beklenmesi gereken süreyi Vardiya cinsinden belirtiniz. 3 vardiya 1 gün olarak değerlendirilir.
-Benzerlik** Bu Operasyonun yapımında üretim şekli benzer olan reçeteleri gruplayarak daha verimli şekilde planlama yapabilirsiniz.
-
-
-**Kaydet butonuna basarak yeni reçete operasyon ekleme işlemimizi başarıyla tamamlamış bulunmaktayız.**
+Bekleme SÃ¼resi** Sonraki operasyona baÅŸlamadan Ã¶nce beklenmesi gereken sÃ¼reyi Vardiya cinsinden belirtiniz. 3 vardiya 1 gÃ¼n olarak deÄŸerlendirilir.
+Benzerlik** Bu Operasyonun yapÄ±mÄ±nda Ã¼retim ÅŸekli benzer olan reÃ§eteleri gruplayarak daha verimli ÅŸekilde planlama yapabilirsiniz.
 
 
-## Reçete Getir
+**Kaydet butonuna basarak yeni reÃ§ete operasyon ekleme iÅŸlemimizi baÅŸarÄ±yla tamamlamÄ±ÅŸ bulunmaktayÄ±z.**
 
-Bu özellik, belirli bir ürünün üretiminde kullanılacak olan reçeteyi sisteme çağırmak veya getirmek için kullanılır. 
-Bir ürünün reçetesinde, o ürünün üretiminde kullanılacak olan hammaddelerin ve malzemelerin listesi, miktarları, üretim prosedürleri ve diğer gerekli bilgiler bulunur.
+
+## ReÃ§ete Getir
+
+Bu Ã¶zellik, belirli bir Ã¼rÃ¼nÃ¼n Ã¼retiminde kullanÄ±lacak olan reÃ§eteyi sisteme Ã§aÄŸÄ±rmak veya getirmek iÃ§in kullanÄ±lÄ±r. 
+Bir Ã¼rÃ¼nÃ¼n reÃ§etesinde, o Ã¼rÃ¼nÃ¼n Ã¼retiminde kullanÄ±lacak olan hammaddelerin ve malzemelerin listesi, miktarlarÄ±, Ã¼retim prosedÃ¼rleri ve diÄŸer gerekli bilgiler bulunur.

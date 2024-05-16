@@ -1,13 +1,13 @@
 
-# İşçilik Maliyeti
+# Ä°ÅŸÃ§ilik Maliyeti
 
-Üretim sürecinde çalışan işçilerin çalışma maliyetleridir. İşçilik maliyetleri, ücretler, primler, sigorta ve diğer personel giderlerini içerir.
-İşçilik maliyetleri, üretim sürecindeki personellerin üretim yapıldığı zaman içerisinde ki alacağı maliyettir. 
+Ãœretim sÃ¼recinde Ã§alÄ±ÅŸan iÅŸÃ§ilerin Ã§alÄ±ÅŸma maliyetleridir. Ä°ÅŸÃ§ilik maliyetleri, Ã¼cretler, primler, sigorta ve diÄŸer personel giderlerini iÃ§erir.
+Ä°ÅŸÃ§ilik maliyetleri, Ã¼retim sÃ¼recindeki personellerin Ã¼retim yapÄ±ldÄ±ÄŸÄ± zaman iÃ§erisinde ki alacaÄŸÄ± maliyettir. 
 
-Örn; Bir üretim diyelim ki 5 saat sürdü, 
-Üretim aşamasında 3 işçi çalıştı,
-işçilerden biri kıdemli saatlik maaşı 300 tl'ye denk geliyor,
-Diğer iki çalışanın saatlik maaşları 150 tl'ye denk geliyor. 
-Bu üretimde çalışan personellerin 1 saat için toplam işçilik maliyeti = 300 + 150 + 150 = 600 TL 
-1 saat için işçilik 600 tl ise üretim 5 saat sürdüğü için 5 ile çarpacağız.
-Üretim maliyeti = 600 * 5 = 3000 TL bu üretimin işçilik maliyeti 3000 tl oluyor.
+Ã–rn; Bir Ã¼retim diyelim ki 5 saat sÃ¼rdÃ¼, 
+Ãœretim aÅŸamasÄ±nda 3 iÅŸÃ§i Ã§alÄ±ÅŸtÄ±,
+iÅŸÃ§ilerden biri kÄ±demli saatlik maaÅŸÄ± 300 tl'ye denk geliyor,
+DiÄŸer iki Ã§alÄ±ÅŸanÄ±n saatlik maaÅŸlarÄ± 150 tl'ye denk geliyor. 
+Bu Ã¼retimde Ã§alÄ±ÅŸan personellerin 1 saat iÃ§in toplam iÅŸÃ§ilik maliyeti = 300 + 150 + 150 = 600 TL 
+1 saat iÃ§in iÅŸÃ§ilik 600 tl ise Ã¼retim 5 saat sÃ¼rdÃ¼ÄŸÃ¼ iÃ§in 5 ile Ã§arpacaÄŸÄ±z.
+Ãœretim maliyeti = 600 * 5 = 3000 TL bu Ã¼retimin iÅŸÃ§ilik maliyeti 3000 tl oluyor.

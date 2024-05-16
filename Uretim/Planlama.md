@@ -1,13 +1,13 @@
 
 # Planlama
 
-Planlama işletmenizin belirli bir zaman diliminde hangi ürünleri ne zaman, ne kadar ve hangi kaynaklarla üreteceğinizi planlama sürecidir. 
-Üretim faaliyetlerini etkin bir şekilde organize etmeyi ve kaynakların en verimli şekilde kullanılmasını sağlar.
-Üretim planlamasının amacı, üretim süreçlerini optimize ederek stok maliyetlerini düşürmek, teslimat sürelerini iyileştirmek, müşteri taleplerini karşılamak ve işletme verimliliğini artırmaktır.
-Üretim planlaması, işletmenizin mevcut üretim kapasitesini ve kaynaklarını değerlendirir. 
-Makine kapasitesi, işçi sayısı, malzeme stokları ve diğer üretim kaynaklarını içerir.
-Üretim planlaması, malzeme ihtiyaçlarını belirlemek için malzeme ihtiyaçları planlaması (MRP) yöntemini kullanır. 
-MRP, üretim sürecinin her aşamasında hangi malzemelerin ne zaman ve ne kadar gerektiğini hesaplar.
+Planlama iÅŸletmenizin belirli bir zaman diliminde hangi Ã¼rÃ¼nleri ne zaman, ne kadar ve hangi kaynaklarla Ã¼reteceÄŸinizi planlama sÃ¼recidir. 
+Ãœretim faaliyetlerini etkin bir ÅŸekilde organize etmeyi ve kaynaklarÄ±n en verimli ÅŸekilde kullanÄ±lmasÄ±nÄ± saÄŸlar.
+Ãœretim planlamasÄ±nÄ±n amacÄ±, Ã¼retim sÃ¼reÃ§lerini optimize ederek stok maliyetlerini dÃ¼ÅŸÃ¼rmek, teslimat sÃ¼relerini iyileÅŸtirmek, mÃ¼ÅŸteri taleplerini karÅŸÄ±lamak ve iÅŸletme verimliliÄŸini artÄ±rmaktÄ±r.
+Ãœretim planlamasÄ±, iÅŸletmenizin mevcut Ã¼retim kapasitesini ve kaynaklarÄ±nÄ± deÄŸerlendirir. 
+Makine kapasitesi, iÅŸÃ§i sayÄ±sÄ±, malzeme stoklarÄ± ve diÄŸer Ã¼retim kaynaklarÄ±nÄ± iÃ§erir.
+Ãœretim planlamasÄ±, malzeme ihtiyaÃ§larÄ±nÄ± belirlemek iÃ§in malzeme ihtiyaÃ§larÄ± planlamasÄ± (MRP) yÃ¶ntemini kullanÄ±r. 
+MRP, Ã¼retim sÃ¼recinin her aÅŸamasÄ±nda hangi malzemelerin ne zaman ve ne kadar gerektiÄŸini hesaplar.
 
-[İş Emri Ekleme](/Uretim/YeniIsEmri.md "İş Emri Ekleme") yaparak planlama aşamanıza başlayabilirsiniz. 
+[Ä°ÅŸ Emri Ekleme](/Uretim/YeniIsEmri.md "Ä°ÅŸ Emri Ekleme") yaparak planlama aÅŸamanÄ±za baÅŸlayabilirsiniz. 
 

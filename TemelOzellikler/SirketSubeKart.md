@@ -1,21 +1,21 @@
 
-## Şirket-Şube;
+## Åirket-Åube;
 
-Kartın ait olduğu şirket ve şubeyi içerir. 
-Şirket şube bilgisi genellikle bir şirketin farklı yerlerde bulunan şubelerinin muhasebe sistemine nasıl tanımlandığını ve kaydedildiğini ifade eder. 
-Bu tanımlar, muhasebe departmanının şubeler arasındaki finansal işlemleri takip etmesine ve raporlamasına olanak tanır.
+KartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi iÃ§erir. 
+Åirket ÅŸube bilgisi genellikle bir ÅŸirketin farklÄ± yerlerde bulunan ÅŸubelerinin muhasebe sistemine nasÄ±l tanÄ±mlandÄ±ÄŸÄ±nÄ± ve kaydedildiÄŸini ifade eder. 
+Bu tanÄ±mlar, muhasebe departmanÄ±nÄ±n ÅŸubeler arasÄ±ndaki finansal iÅŸlemleri takip etmesine ve raporlamasÄ±na olanak tanÄ±r.
 
-ERP sistemlerinde kartlar, genellikle işletmenin farklı birimlerini veya organizasyonel yapılarını temsil etmek için kullanılır. 
-Bu birimler genellikle şirketler ve şubeler olarak tanımlanır.
+ERP sistemlerinde kartlar, genellikle iÅŸletmenin farklÄ± birimlerini veya organizasyonel yapÄ±larÄ±nÄ± temsil etmek iÃ§in kullanÄ±lÄ±r. 
+Bu birimler genellikle ÅŸirketler ve ÅŸubeler olarak tanÄ±mlanÄ±r.
 
-**Şirketler:** ERP sistemindeki kartlar genellikle bir işletmenin genel yapısal birimlerini temsil eder. 
-Bu birimler genellikle farklı hukuki varlıklara sahip işletmeleri ifade eder. 
-Örneğin, bir holding şirketi birden fazla alt şirketi veya iştirakleri yönetiyorsa, her bir alt şirket bir "şirket" kartı olarak tanımlanabilir.
-**Şubeler:** Şirket kartları altında, fiziksel olarak farklı konumlarda bulunan ve işletme faaliyetlerini yürüten şubeler bulunabilir. 
-Bu şubeler, genellikle coğrafi olarak farklı lokasyonlarda bulunur ve farklı operasyonel işlevlere veya pazarlara hizmet edebilir. 
-Örneğin, bir perakende zinciri birden fazla mağazaya sahipse, her bir mağaza bir "şube" kartı olarak tanımlanabilir.
-ERP sisteminde şirket ve şube kartları genellikle aşağıdaki bilgileri içerir:
+**Åirketler:** ERP sistemindeki kartlar genellikle bir iÅŸletmenin genel yapÄ±sal birimlerini temsil eder. 
+Bu birimler genellikle farklÄ± hukuki varlÄ±klara sahip iÅŸletmeleri ifade eder. 
+Ã–rneÄŸin, bir holding ÅŸirketi birden fazla alt ÅŸirketi veya iÅŸtirakleri yÃ¶netiyorsa, her bir alt ÅŸirket bir "ÅŸirket" kartÄ± olarak tanÄ±mlanabilir.
+**Åubeler:** Åirket kartlarÄ± altÄ±nda, fiziksel olarak farklÄ± konumlarda bulunan ve iÅŸletme faaliyetlerini yÃ¼rÃ¼ten ÅŸubeler bulunabilir. 
+Bu ÅŸubeler, genellikle coÄŸrafi olarak farklÄ± lokasyonlarda bulunur ve farklÄ± operasyonel iÅŸlevlere veya pazarlara hizmet edebilir. 
+Ã–rneÄŸin, bir perakende zinciri birden fazla maÄŸazaya sahipse, her bir maÄŸaza bir "ÅŸube" kartÄ± olarak tanÄ±mlanabilir.
+ERP sisteminde ÅŸirket ve ÅŸube kartlarÄ± genellikle aÅŸaÄŸÄ±daki bilgileri iÃ§erir:
 
-Şirket veya Şube Adı: Birimin adını belirtir.
-Bu şekilde, ERP sisteminde kartlar kullanılarak işletmenizin yapısal birimleri olan şirket ve şubelerinizi kolayca tanımlayabilir, izleyebilir ve yönetebilirsiniz. 
-Bu da işletme yönetiminize genel bir bakış sağlar ve karar alma süreçlerinizi kolaylaştırır.
+Åirket veya Åube AdÄ±: Birimin adÄ±nÄ± belirtir.
+Bu ÅŸekilde, ERP sisteminde kartlar kullanÄ±larak iÅŸletmenizin yapÄ±sal birimleri olan ÅŸirket ve ÅŸubelerinizi kolayca tanÄ±mlayabilir, izleyebilir ve yÃ¶netebilirsiniz. 
+Bu da iÅŸletme yÃ¶netiminize genel bir bakÄ±ÅŸ saÄŸlar ve karar alma sÃ¼reÃ§lerinizi kolaylaÅŸtÄ±rÄ±r.

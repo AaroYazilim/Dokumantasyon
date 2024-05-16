@@ -1,2 +1,2 @@
-## Mercek İşareti
-Mercek işareti ile kalem detayları görüntülenebilmekte düzenleme modunda ise mercek butonuna basılarak kalem bazında düzenlemeler yapılabilmektedir. 
+## Mercek Ä°ÅŸareti
+Mercek iÅŸareti ile kalem detaylarÄ± gÃ¶rÃ¼ntÃ¼lenebilmekte dÃ¼zenleme modunda ise mercek butonuna basÄ±larak kalem bazÄ±nda dÃ¼zenlemeler yapÄ±labilmektedir. 

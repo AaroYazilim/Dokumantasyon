@@ -1,3 +1,3 @@
 ### Beklenen Tah
 
-Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılan hiyerarşik olmayan tanımlardır.
+Bu kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lan hiyerarÅŸik olmayan tanÄ±mlardÄ±r.

@@ -1,9 +1,9 @@
-# Sayım 
+# SayÄ±m 
 
-Sayım bir nesnenin veya bir şeyin miktarını belirlemek için yapılan bir işlem veya bu işlemin sonucunu ifade eden bir terimdir.
+SayÄ±m bir nesnenin veya bir ÅŸeyin miktarÄ±nÄ± belirlemek iÃ§in yapÄ±lan bir iÅŸlem veya bu iÅŸlemin sonucunu ifade eden bir terimdir.
 
-**Stok Sayımı:** Ticari bir işletmede, belirli bir zamanda mevcut olan stok miktarının fiziksel olarak sayılması ve kaydedilmesi işlemidir. 
+**Stok SayÄ±mÄ±:** Ticari bir iÅŸletmede, belirli bir zamanda mevcut olan stok miktarÄ±nÄ±n fiziksel olarak sayÄ±lmasÄ± ve kaydedilmesi iÅŸlemidir. 
 
-Stok sayımı, bir işletmenin envanter yönetimi ve muhasebe işlemleri için önemlidir. 
+Stok sayÄ±mÄ±, bir iÅŸletmenin envanter yÃ¶netimi ve muhasebe iÅŸlemleri iÃ§in Ã¶nemlidir. 
 
-Doğru stok sayımı, işletmenin stok düzenlemesini sağlar ve hatalı envanter kayıtlarını düzeltir.
+DoÄŸru stok sayÄ±mÄ±, iÅŸletmenin stok dÃ¼zenlemesini saÄŸlar ve hatalÄ± envanter kayÄ±tlarÄ±nÄ± dÃ¼zeltir.

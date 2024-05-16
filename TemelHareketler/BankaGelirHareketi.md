@@ -1,60 +1,60 @@
 
 # Bankadan Gider Hareketi
 
-Banka hesabına giren parayı veya geliri ifade eder. 
-Bu terim, bir işletmenin veya bireyin banka hesabına yapılan herhangi bir finansal işlemi içerir ve genellikle gelir veya para girişi anlamına gelir.
+Banka hesabÄ±na giren parayÄ± veya geliri ifade eder. 
+Bu terim, bir iÅŸletmenin veya bireyin banka hesabÄ±na yapÄ±lan herhangi bir finansal iÅŸlemi iÃ§erir ve genellikle gelir veya para giriÅŸi anlamÄ±na gelir.
 
-Banka gelir hareketleri genellikle şunları içerebilir:
+Banka gelir hareketleri genellikle ÅŸunlarÄ± iÃ§erebilir:
 
-**Satış Gelirleri:** Bir işletmenin ürünlerini veya hizmetlerini satarak elde ettiği gelirler.
+**SatÄ±ÅŸ Gelirleri:** Bir iÅŸletmenin Ã¼rÃ¼nlerini veya hizmetlerini satarak elde ettiÄŸi gelirler.
 
-**Müşteri Ödemeleri:** İşletme sahipleri veya müşteriler tarafından yapılan ödemeler.
+**MÃ¼ÅŸteri Ã–demeleri:** Ä°ÅŸletme sahipleri veya mÃ¼ÅŸteriler tarafÄ±ndan yapÄ±lan Ã¶demeler.
 
-**Kira Gelirleri:** Kiralanan bir mülkten elde edilen kira gelirleri.
+**Kira Gelirleri:** Kiralanan bir mÃ¼lkten elde edilen kira gelirleri.
 
-**Faiz Gelirleri:** Banka hesabındaki birikimlerden veya yatırımlardan elde edilen faiz gelirleri.
+**Faiz Gelirleri:** Banka hesabÄ±ndaki birikimlerden veya yatÄ±rÄ±mlardan elde edilen faiz gelirleri.
 
-**Yatırım Getirileri:** Hisse senedi, tahvil veya diğer yatırım araçlarından elde edilen gelirler.
+**YatÄ±rÄ±m Getirileri:** Hisse senedi, tahvil veya diÄŸer yatÄ±rÄ±m araÃ§larÄ±ndan elde edilen gelirler.
 
-**İade veya Geri Ödemeler:** Bir işletme veya bireyin daha önce ödediği bir miktarın geri iadesi.
+**Ä°ade veya Geri Ã–demeler:** Bir iÅŸletme veya bireyin daha Ã¶nce Ã¶dediÄŸi bir miktarÄ±n geri iadesi.
 
-**Hibe veya Bağışlar:** İşletmeye veya bireye yapılan bağışlar veya hibeler.
+**Hibe veya BaÄŸÄ±ÅŸlar:** Ä°ÅŸletmeye veya bireye yapÄ±lan baÄŸÄ±ÅŸlar veya hibeler.
 
-Banka gelir hareketleri, bir işletmenin finansal performansını değerlendirmek, nakit akışını izlemek ve bütçe yönetimini sağlamak için önemlidir. 
-Bu hareketlerin düzenli olarak kaydedilmesi, muhasebe kayıtlarının doğru olmasını sağlar ve mali raporların hazırlanmasına yardımcı olur. 
-Bu nedenle, işletmeler genellikle banka gelir hareketlerini dikkatle izler ve kaydeder.
+Banka gelir hareketleri, bir iÅŸletmenin finansal performansÄ±nÄ± deÄŸerlendirmek, nakit akÄ±ÅŸÄ±nÄ± izlemek ve bÃ¼tÃ§e yÃ¶netimini saÄŸlamak iÃ§in Ã¶nemlidir. 
+Bu hareketlerin dÃ¼zenli olarak kaydedilmesi, muhasebe kayÄ±tlarÄ±nÄ±n doÄŸru olmasÄ±nÄ± saÄŸlar ve mali raporlarÄ±n hazÄ±rlanmasÄ±na yardÄ±mcÄ± olur. 
+Bu nedenle, iÅŸletmeler genellikle banka gelir hareketlerini dikkatle izler ve kaydeder.
 
 ## **Genel**
  
-**Şirket-Şube:** [Şirket-Şube](/TemelOzellikler/SirketSube.md "Şirket-Şube")
+**Åirket-Åube:** [Åirket-Åube](/TemelOzellikler/SirketSube.md "Åirket-Åube")
 
-**Tarih:** İşlemin yapıldığı tarihi belirtir.
+**Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir.
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasÄ±nÄ± ifade eder. Otomatik sÄ±radaki numara gelir. Ä°stenirse seri kullanÄ±labilir.
 
-**Banka Hesap:** Bu hareket işlemi için hangi banka şubesiyle işlem yapılacağını belirtir. 
+**Banka Hesap:** Bu hareket iÅŸlemi iÃ§in hangi banka ÅŸubesiyle iÅŸlem yapÄ±lacaÄŸÄ±nÄ± belirtir. 
 **Girilmesi Zorunludur.**
 
-**Banka Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
+**Banka DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinsini belirtir.
 
-**Cari Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
+**Cari DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinsini belirtir.
 
-**Açıklama:** İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+**AÃ§Ä±klama:** Ä°ÅŸleme ait detaylar aÃ§Ä±klamaya eklenebilir. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
 
-**KDV Dahil:** Kalemlerde birim fiyat ve tutarın 'KDV Dahil' olduğunu belirtir. [KDV Dahil](/TemelOzellikler/KDVdahil.md "KDV Dahil")
+**KDV Dahil:** Kalemlerde birim fiyat ve tutarÄ±n 'KDV Dahil' olduÄŸunu belirtir. [KDV Dahil](/TemelOzellikler/KDVdahil.md "KDV Dahil")
 
 ## **Detay**
 
-**Proje:** Bu karta ait proje var ise buraya sözleşmeyi ekleyebiliriz.
+**Proje:** Bu karta ait proje var ise buraya sÃ¶zleÅŸmeyi ekleyebiliriz.
 
-**Plasiyer:** Bu karta ait işlemi gerçekleştiren ya da sorumlu olan personel eklenir.
+**Plasiyer:** Bu karta ait iÅŸlemi gerÃ§ekleÅŸtiren ya da sorumlu olan personel eklenir.
 
 **Alt Tip:** Alt hareket tipini belirtir.
 
-## **Açıklamalar**
+## **AÃ§Ä±klamalar**
 
-İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+Ä°ÅŸleme ait detaylar aÃ§Ä±klamaya eklenebilir. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
 
 ## **Etiketler**
 
-İşleme ait detaylar açıklamaya eklenebilir. [Etiket](/TemelOzellikler/Etiketler.md "Etiket")
+Ä°ÅŸleme ait detaylar aÃ§Ä±klamaya eklenebilir. [Etiket](/TemelOzellikler/Etiketler.md "Etiket")

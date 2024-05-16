@@ -1,27 +1,27 @@
 
 # Operasyon 
 
-Operasyon, bir üretim sürecinin belirli bir aşamasında gerçekleştirilen belirli bir faaliyettir.
-Bir operasyon, hammaddelerin işlenmesi, parçaların montajı, ürünlerin test edilmesi gibi çeşitli işlemleri içerebilir. 
-Operasyonlar genellikle belirli bir ürün veya hizmetin üretimini tamamlamak için gerekli adımları içeren bir operasyonel planın parçasıdır.
-Operasyon listesiyle makinaların eşleştirmesi sağlanmaktadır.
+Operasyon, bir Ã¼retim sÃ¼recinin belirli bir aÅŸamasÄ±nda gerÃ§ekleÅŸtirilen belirli bir faaliyettir.
+Bir operasyon, hammaddelerin iÅŸlenmesi, parÃ§alarÄ±n montajÄ±, Ã¼rÃ¼nlerin test edilmesi gibi Ã§eÅŸitli iÅŸlemleri iÃ§erebilir. 
+Operasyonlar genellikle belirli bir Ã¼rÃ¼n veya hizmetin Ã¼retimini tamamlamak iÃ§in gerekli adÄ±mlarÄ± iÃ§eren bir operasyonel planÄ±n parÃ§asÄ±dÄ±r.
+Operasyon listesiyle makinalarÄ±n eÅŸleÅŸtirmesi saÄŸlanmaktadÄ±r.
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> Operasyon -> Operasyon Listesi -> Yeni Operasyon Ekle şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "operasyon" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartlar -> Operasyon -> Operasyon Listesi -> Yeni Operasyon Ekle ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
 ### Operasyon Ekleme
 
 #### Genel
 
-**Operasyon Kodu** Sistemin vermiş olduğu otomatik kodu kullanım sağlayabilirsiniz ya da kendin kodunuzu girebilirsiniz.
-**Operasyon Adı** Yapılacak operasyonun adını buraya giriniz.
-**Kodlar** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Kodlar hakkında detaylı bilgiler için tıklayınız. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
-**Etiketler** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Etiketler hakkında detaylı bilgiler için tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**Operasyon Kodu** Sistemin vermiÅŸ olduÄŸu otomatik kodu kullanÄ±m saÄŸlayabilirsiniz ya da kendin kodunuzu girebilirsiniz.
+**Operasyon AdÄ±** YapÄ±lacak operasyonun adÄ±nÄ± buraya giriniz.
+**Kodlar** ReÃ§eteyi gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lanabilirsiniz. Kodlar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Etiketler** ReÃ§eteyi gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lanabilirsiniz. Etiketler hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
-#### Eşleşmiş Makine Listesi
+#### EÅŸleÅŸmiÅŸ Makine Listesi
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
-**Hız Birim** Operasyonun hangi birimle adet, metre, metrekare, gram litre gibi birimini seçiniz.
+**Åirket-Åube:** KartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](/TemelOzellikler/SirketSubeKart.md "Åirket-Åube")
+**AÃ§Ä±klama** ReÃ§eteye ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
+**HÄ±z Birim** Operasyonun hangi birimle adet, metre, metrekare, gram litre gibi birimini seÃ§iniz.

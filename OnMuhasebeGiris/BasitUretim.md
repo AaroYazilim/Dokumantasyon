@@ -1,15 +1,15 @@
 ## Hammadde
 
-Üretim sürecinin başlangıcında kullanılan, henüz işlenmemiş ve doğrudan üretimde kullanılabilen malzemelere hammadde denir. 
+Ãœretim sÃ¼recinin baÅŸlangÄ±cÄ±nda kullanÄ±lan, henÃ¼z iÅŸlenmemiÅŸ ve doÄŸrudan Ã¼retimde kullanÄ±labilen malzemelere hammadde denir. 
 
-## Yarı Mamul
+## YarÄ± Mamul
 
-Üretim sürecinde bir veya daha fazla aşamadan geçirilmiş, ancak son ürüne dönüşmemiş malzemelere yarı mamul denir. 
+Ãœretim sÃ¼recinde bir veya daha fazla aÅŸamadan geÃ§irilmiÅŸ, ancak son Ã¼rÃ¼ne dÃ¶nÃ¼ÅŸmemiÅŸ malzemelere yarÄ± mamul denir. 
 
-Yarı mamul, hammadde olarak başlar ve belirli bir aşamada işlenerek ürün haline gelir.
+YarÄ± mamul, hammadde olarak baÅŸlar ve belirli bir aÅŸamada iÅŸlenerek Ã¼rÃ¼n haline gelir.
 
 ## Mamul
 
-Üretim sürecinin sonunda elde edilen ve satışa hazır olan tamamlanmış ürünlere mamul denir.
+Ãœretim sÃ¼recinin sonunda elde edilen ve satÄ±ÅŸa hazÄ±r olan tamamlanmÄ±ÅŸ Ã¼rÃ¼nlere mamul denir.
 
-Mamuller, hammadde ve yarı mamullerin işlenmesiyle elde edilir ve son tüketiciye sunulabilir durumdadır.
+Mamuller, hammadde ve yarÄ± mamullerin iÅŸlenmesiyle elde edilir ve son tÃ¼keticiye sunulabilir durumdadÄ±r.

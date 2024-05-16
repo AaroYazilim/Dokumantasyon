@@ -2,16 +2,16 @@
 ### Kasa Hareketleri 
 
 - [Nakit Tahsilat](/TemelHareketler/NakitTahsilat.md "Nakit Tahsilat")
-- [Nakit Ödeme](TemelHareketler/NakitOdeme.md "Nakit Ödeme")
+- [Nakit Ã–deme](TemelHareketler/NakitOdeme.md "Nakit Ã–deme")
 - [Kasadan Gider Hareketi](/TemelHareketler/KasadanGiderHareketi.md "Kasadan Gider Hareketi")
 - [Kasa Gelir Hareketi](/TemelHareketler/KasaGelirHareketi.md "Kasa Gelir Hareketi")
-- [Kasa Hesapları Arası Transfer](/TemelHareketler/KasaHesaplariArasiTransfer.md "Kasa Hesapları Arası Transfer")
+- [Kasa HesaplarÄ± ArasÄ± Transfer](/TemelHareketler/KasaHesaplariArasiTransfer.md "Kasa HesaplarÄ± ArasÄ± Transfer")
 
-- [Çek Kasadan Tahsil Edildi](/TemelHareketler/CekKasadanTahsilEdildi.md "Çek Kasadan Tahsil Edildi")
-- [Çek Kasadan Ödendi](/TemelHareketler/CekKasadanOdendi.md "Çek Kasadan Ödendi")
+- [Ã‡ek Kasadan Tahsil Edildi](/TemelHareketler/CekKasadanTahsilEdildi.md "Ã‡ek Kasadan Tahsil Edildi")
+- [Ã‡ek Kasadan Ã–dendi](/TemelHareketler/CekKasadanOdendi.md "Ã‡ek Kasadan Ã–dendi")
 - [Senet Kasadan Tahsil Edildi](/TemelHareketler/CekKasadanTahsilEdildi.md "Senet Kasadan Tahsil Edildi")
-- [Senet Kasadan Ödendi](/TemelHareketler/SenetKasadanOdendi.md "Senet Kasadan Ödendi")
-- [Bankaya Para Yatırma](/TemelHareketler/BankayaParaYatırma.md "Bankaya Para Yatırma")
-- [Bankadan Para Çekme](/TemelHareketler/BankadanParaCekme.md "Bankadan Para Çekme")
+- [Senet Kasadan Ã–dendi](/TemelHareketler/SenetKasadanOdendi.md "Senet Kasadan Ã–dendi")
+- [Bankaya Para YatÄ±rma](/TemelHareketler/BankayaParaYatÄ±rma.md "Bankaya Para YatÄ±rma")
+- [Bankadan Para Ã‡ekme](/TemelHareketler/BankadanParaCekme.md "Bankadan Para Ã‡ekme")
 - [Devir](/TemelHareketler/Devir.md "Devir")
 - [Karma Transfer Hareketi](/TemelHareketler/KarmaTransferHareketi.md "Karma Transfer Hareketi")

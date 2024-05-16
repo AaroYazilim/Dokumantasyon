@@ -1,2 +1,2 @@
-## Şirket Şube Değiştirme
-Sol üstte isminizin altında bulunan bölümde şirket-şube isminiz görünmektedir yanındaki oktan diğer şirket şubenize geçiş sağlanılabilmektedir. 
+## Åirket Åube DeÄŸiÅŸtirme
+Sol Ã¼stte isminizin altÄ±nda bulunan bÃ¶lÃ¼mde ÅŸirket-ÅŸube isminiz gÃ¶rÃ¼nmektedir yanÄ±ndaki oktan diÄŸer ÅŸirket ÅŸubenize geÃ§iÅŸ saÄŸlanÄ±labilmektedir. 

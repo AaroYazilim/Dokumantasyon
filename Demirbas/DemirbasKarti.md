@@ -1,75 +1,75 @@
 
-## Demirbaş Kartı
+## DemirbaÅŸ KartÄ±
 
-### Ulaşım
+### UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Demirbaş kartı" olarak aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Demirbaş -> Demirbaş Modülü -> Demirbaş Kartı şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Demirbaş -> Kartlar -> Demirbaş Kartı Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "DemirbaÅŸ kartÄ±" olarak aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den DemirbaÅŸ -> DemirbaÅŸ ModÃ¼lÃ¼ -> DemirbaÅŸ KartÄ± ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
+- Sol menÃ¼den DemirbaÅŸ -> Kartlar -> DemirbaÅŸ KartÄ± Listesi Ã¼zerinden ulaÅŸÄ±m saÄŸlayarak yeni kart ekleyebilir yada mevcutlarÄ± dÃ¼zenleyebilirsiniz.
 
-### Tanım
+### TanÄ±m
 
-Demirbaş kartından, işletmenin sahip olduğu sabit varlıkları, yani demirbaşları izleyebilir ve yönetebilirsiniz.
-Demirbaş kartından, demirbaşların envanterini, değerini, yerini ve kullanım durumunu takip edebilirsiniz.
-Demirbaş kartı, işletmenin demirbaşlarını etkin bir şekilde izlemesine, envanteri doğru bir şekilde yönetmesine ve finansal raporlama süreçlerini kolaylaştırmasına yardımcı olur.
+DemirbaÅŸ kartÄ±ndan, iÅŸletmenin sahip olduÄŸu sabit varlÄ±klarÄ±, yani demirbaÅŸlarÄ± izleyebilir ve yÃ¶netebilirsiniz.
+DemirbaÅŸ kartÄ±ndan, demirbaÅŸlarÄ±n envanterini, deÄŸerini, yerini ve kullanÄ±m durumunu takip edebilirsiniz.
+DemirbaÅŸ kartÄ±, iÅŸletmenin demirbaÅŸlarÄ±nÄ± etkin bir ÅŸekilde izlemesine, envanteri doÄŸru bir ÅŸekilde yÃ¶netmesine ve finansal raporlama sÃ¼reÃ§lerini kolaylaÅŸtÄ±rmasÄ±na yardÄ±mcÄ± olur.
 
 ### Genel
 
-**Demirbaş Adı:** Bu kartın kendine ait özel adıdır.
+**DemirbaÅŸ AdÄ±:** Bu kartÄ±n kendine ait Ã¶zel adÄ±dÄ±r.
 
-**Demirbaş Kodu:** Kartın kendine ait özel kodudur. Detaylı tanım için linke tıklayınız. [Kart Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
+**DemirbaÅŸ Kodu:** KartÄ±n kendine ait Ã¶zel kodudur. DetaylÄ± tanÄ±m iÃ§in linke tÄ±klayÄ±nÄ±z. [Kart Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
 
-**Birim 1:** Demirbaş kartının hangi birim cinsinden takip edileceğini belirtir.
+**Birim 1:** DemirbaÅŸ kartÄ±nÄ±n hangi birim cinsinden takip edileceÄŸini belirtir.
 
-**Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Kodlar:** KartlarÄ± hiyerarÅŸik olarak gruplamak iÃ§in kullanÄ±lÄ±r. DetaylÄ± tanÄ±m iÃ§in linke tÄ±klayÄ±nÄ±z. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
 
-**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**Etiketler:** Gruplamak iÃ§in kullanÄ±lÄ±r. DetaylÄ± tanÄ±m iÃ§in linke tÄ±klayÄ±nÄ±z. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
-### Ölçü Birimleri
+### Ã–lÃ§Ã¼ Birimleri
 
-**Birim 2:** Bu demirbaş kartı için ikinci ölçü birimidir.Kolay hesap yapmak ve raporlarda farklı cins rapor alabilmek için kullanılır.
+**Birim 2:** Bu demirbaÅŸ kartÄ± iÃ§in ikinci Ã¶lÃ§Ã¼ birimidir.Kolay hesap yapmak ve raporlarda farklÄ± cins rapor alabilmek iÃ§in kullanÄ±lÄ±r.
 
-**Birim 3:** Bu demirbaş kartı için üçüncü ölçü birimidir.Kolay hesap yapmak ve raporlarda farklı cins rapor alabilmek için kullanılır.
+**Birim 3:** Bu demirbaÅŸ kartÄ± iÃ§in Ã¼Ã§Ã¼ncÃ¼ Ã¶lÃ§Ã¼ birimidir.Kolay hesap yapmak ve raporlarda farklÄ± cins rapor alabilmek iÃ§in kullanÄ±lÄ±r.
 
-**Çevrimiçi Birim2:** Birim-1 cinsinden bu demirbaşın kaç Birim-2 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-2:Deste ise bu deger = 0,1(1/10) olur.
+**Ã‡evrimiÃ§i Birim2:** Birim-1 cinsinden bu demirbaÅŸÄ±n kaÃ§ Birim-2 cinsinden olduÄŸunu belirtir.Ã–rneÄŸin; Birim-1:Adet ve Birim-2:Deste ise bu deger = 0,1(1/10) olur.
 
-**Çevrimiçi Birim3:** Birim-1 cinsinden bu demirbaşın kaç Birim-3 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-3:Düzine ise bu deger = 0,083(1/12) olur.
+**Ã‡evrimiÃ§i Birim3:** Birim-1 cinsinden bu demirbaÅŸÄ±n kaÃ§ Birim-3 cinsinden olduÄŸunu belirtir.Ã–rneÄŸin; Birim-1:Adet ve Birim-3:DÃ¼zine ise bu deger = 0,083(1/12) olur.
 
-**Üretim Birim:** Üretimle ilgili raporlarda seçilen birim cinsinden rapor almanızı kolaylaştırır.
+**Ãœretim Birim:** Ãœretimle ilgili raporlarda seÃ§ilen birim cinsinden rapor almanÄ±zÄ± kolaylaÅŸtÄ±rÄ±r.
 
-**Rapor Birim:** Raporlarda seçilen birim cinsinden rapor almanızı kolaylaştırır.
+**Rapor Birim:** Raporlarda seÃ§ilen birim cinsinden rapor almanÄ±zÄ± kolaylaÅŸtÄ±rÄ±r.
 
-**Kalınlık:** Demirbaşın kalınlık ölçüsünü belirtir.
+**KalÄ±nlÄ±k:** DemirbaÅŸÄ±n kalÄ±nlÄ±k Ã¶lÃ§Ã¼sÃ¼nÃ¼ belirtir.
 
-**En:** Demirbaşın en ölçüsünü belirtir.
+**En:** DemirbaÅŸÄ±n en Ã¶lÃ§Ã¼sÃ¼nÃ¼ belirtir.
 
-**Boy:** Demirbaşın boy ölçüsünü belirtir.
+**Boy:** DemirbaÅŸÄ±n boy Ã¶lÃ§Ã¼sÃ¼nÃ¼ belirtir.
 
-**Yoğunluk:** Demirbaşın yoğunluk ölçüsünü belirtir.
+**YoÄŸunluk:** DemirbaÅŸÄ±n yoÄŸunluk Ã¶lÃ§Ã¼sÃ¼nÃ¼ belirtir.
 
-**Ağırlık:** Demirbaşın ağırlık ölçüsünü belirtir.
-
-
-### Vergi Oranları
-
-**Vergi Oranları:** Bu demirbaş kartı için yapılacak işlemlerde kullanılacak vergi oranlarını(KDV oranınlarını) belirtir. **Girilmesi Zorunludur.**
-
-**Muhasebe Tanımları:** [Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
+**AÄŸÄ±rlÄ±k:** DemirbaÅŸÄ±n aÄŸÄ±rlÄ±k Ã¶lÃ§Ã¼sÃ¼nÃ¼ belirtir.
 
 
-### Gelişmiş
+### Vergi OranlarÄ±
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
+**Vergi OranlarÄ±:** Bu demirbaÅŸ kartÄ± iÃ§in yapÄ±lacak iÅŸlemlerde kullanÄ±lacak vergi oranlarÄ±nÄ±(KDV oranÄ±nlarÄ±nÄ±) belirtir. **Girilmesi Zorunludur.**
 
-**Durum:** Kartın kullanabilirliğini belirtir. Pasif kartlar işlemde kullanılamaz.
-
-**Kısa Kodu:** Raporlama için gereklidir. 
-
-**Miktarsız:** Bu demirbaş miktarsız olarak belirtilirse miktar takibi yapılmaz, depoda gözükmez,eski bakiye kontrolü yapılmaz.
-
-**Kısa Adı:** Raporlama için gereklidir. 
-
-**GTIP:** İhracat tipindeki e-faturalarda, demirbaşa ait GTIP değerinin doldurulması zorunludur.
+**Muhasebe TanÄ±mlarÄ±:** [MuhasebeleÅŸme TanÄ±mlarÄ±](/TemelOzellikler/MuhasebelesmeTanimlari.md "MuhasebeleÅŸme TanÄ±mlarÄ±")
 
 
-Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna basarak Müşteri/Satıcı kartı açma işlemimizi bitirebiliriz.
+### GeliÅŸmiÅŸ
+
+**Åirket-Åube:** KartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](/TemelOzellikler/SirketSubeKart.md "Åirket-Åube")
+
+**Durum:** KartÄ±n kullanabilirliÄŸini belirtir. Pasif kartlar iÅŸlemde kullanÄ±lamaz.
+
+**KÄ±sa Kodu:** Raporlama iÃ§in gereklidir. 
+
+**MiktarsÄ±z:** Bu demirbaÅŸ miktarsÄ±z olarak belirtilirse miktar takibi yapÄ±lmaz, depoda gÃ¶zÃ¼kmez,eski bakiye kontrolÃ¼ yapÄ±lmaz.
+
+**KÄ±sa AdÄ±:** Raporlama iÃ§in gereklidir. 
+
+**GTIP:** Ä°hracat tipindeki e-faturalarda, demirbaÅŸa ait GTIP deÄŸerinin doldurulmasÄ± zorunludur.
+
+
+DoldurulmasÄ± gereken alanlar girildikten sonra saÄŸ alt kÃ¶ÅŸede bulunan Kaydet butonuna basarak MÃ¼ÅŸteri/SatÄ±cÄ± kartÄ± aÃ§ma iÅŸlemimizi bitirebiliriz.

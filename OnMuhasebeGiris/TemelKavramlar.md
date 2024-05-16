@@ -1,103 +1,103 @@
 ## Muhasebe Nedir? 
 
-Genel **muhasebe**, diğer adıyla finansal muhasebenin mali işlemleri kaydetme, sınıflandırma, raporlama ve analiz sürecidir.
+GenelÂ **muhasebe**, diÄŸer adÄ±yla finansal muhasebenin mali iÅŸlemleri kaydetme, sÄ±nÄ±flandÄ±rma, raporlama ve analiz sÃ¼recidir.
 
-Firmaların hareketlerini görmek kayıt altına almak borç-alacak takibini yaparak son durumlarını görüntüleyebilmektir.
+FirmalarÄ±n hareketlerini gÃ¶rmek kayÄ±t altÄ±na almak borÃ§-alacak takibini yaparak son durumlarÄ±nÄ± gÃ¶rÃ¼ntÃ¼leyebilmektir.
 
-## Ön Muhasebe Nedir? 
+## Ã–n Muhasebe Nedir? 
 
-Ön muhasebe, bir şirketin ilk evrak kayıtlarının yapıldığı aşamadır. Cari, fatura, stok takipleri, 
-nakit akışı yönetimi, banka hesapları gibi işlemlerin yapılmasını içermektedir. 
+Ã–n muhasebe, bir ÅŸirketin ilk evrak kayÄ±tlarÄ±nÄ±n yapÄ±ldÄ±ÄŸÄ± aÅŸamadÄ±r. Cari, fatura, stok takipleri, 
+nakit akÄ±ÅŸÄ± yÃ¶netimi, banka hesaplarÄ± gibi iÅŸlemlerin yapÄ±lmasÄ±nÄ± iÃ§ermektedir. 
 
-Kısacası Borç-Alacak dengesinin kaydının yapılmasını sağlamaktadır. 
+KÄ±sacasÄ± BorÃ§-Alacak dengesinin kaydÄ±nÄ±n yapÄ±lmasÄ±nÄ± saÄŸlamaktadÄ±r. 
 
-Ödeme yapan taraf alacaklı olurken, ödeme alan taraf borçludur.
+Ã–deme yapan taraf alacaklÄ± olurken, Ã¶deme alan taraf borÃ§ludur.
 
-## Borç - Alacak Dengesi
+## BorÃ§ - Alacak Dengesi
 
-**Borç** ,Sisteme kaydedilen borç bilgileri karşı tarafın Firmaya olan borcunu gösterir. 
+**BorÃ§** ,Sisteme kaydedilen borÃ§ bilgileri karÅŸÄ± tarafÄ±n Firmaya olan borcunu gÃ¶sterir. 
 
-Örneğin bir satıcıya ödeme yapıldığında satıcının hesabına borç olarak işlenir.
+Ã–rneÄŸin bir satÄ±cÄ±ya Ã¶deme yapÄ±ldÄ±ÄŸÄ±nda satÄ±cÄ±nÄ±n hesabÄ±na borÃ§ olarak iÅŸlenir.
 
-**Alacak**, Sisteme kaydedilen alacak bilgileri karşı tarafın Firmaya olan alacağını gösterir. 
+**Alacak**, Sisteme kaydedilen alacak bilgileri karÅŸÄ± tarafÄ±n Firmaya olan alacaÄŸÄ±nÄ± gÃ¶sterir. 
 
-Örneğin bir müşteriden tahsilat yapıldığında müşterinin hesabına alacak olarak işlenir.
+Ã–rneÄŸin bir mÃ¼ÅŸteriden tahsilat yapÄ±ldÄ±ÄŸÄ±nda mÃ¼ÅŸterinin hesabÄ±na alacak olarak iÅŸlenir.
 
-Örneğin bir müşteriden fatura kesildiğinde müşterinin hesabına borç olarak işlenir.
+Ã–rneÄŸin bir mÃ¼ÅŸteriden fatura kesildiÄŸinde mÃ¼ÅŸterinin hesabÄ±na borÃ§ olarak iÅŸlenir.
 
-Borç alacak takibi iki taraf arasındaki alışverişin kayıt altına alınmasıdır. 
+BorÃ§ alacak takibi iki taraf arasÄ±ndaki alÄ±ÅŸveriÅŸin kayÄ±t altÄ±na alÄ±nmasÄ±dÄ±r. 
 
-Tüm evraklarda borçların ve alacakların denkleşmesi gerekmektedir. 
+TÃ¼m evraklarda borÃ§larÄ±n ve alacaklarÄ±n denkleÅŸmesi gerekmektedir. 
 
-Cari borç- alacak takibinin düzenli tutulması çok büyük önem arz etmektedir.
+Cari borÃ§- alacak takibinin dÃ¼zenli tutulmasÄ± Ã§ok bÃ¼yÃ¼k Ã¶nem arz etmektedir.
 
-Sisteme girilen tüm kayıtlarda. Bir taraf borçlu olurken diğer taraf alacaklı olur. Borç - Alacak = 0 şeklinde olmalıdır. 
-Örneğin sisteme bir nakit tahsilat girildiğinde Müşterinin hesabına 1000TL alacak girilir aynı zamanda Kasa 1000TL borçlanır. 
-Yani kasanın bakiyesi 1000 tl artar.
+Sisteme girilen tÃ¼m kayÄ±tlarda. Bir taraf borÃ§lu olurken diÄŸer taraf alacaklÄ± olur. BorÃ§ - Alacak = 0 ÅŸeklinde olmalÄ±dÄ±r. 
+Ã–rneÄŸin sisteme bir nakit tahsilat girildiÄŸinde MÃ¼ÅŸterinin hesabÄ±na 1000TL alacak girilir aynÄ± zamanda Kasa 1000TL borÃ§lanÄ±r. 
+Yani kasanÄ±n bakiyesi 1000 tl artar.
 
 
 
-## Banka Hesabı 
+## Banka HesabÄ± 
 
-**Banka Hesabı** işletmelerin bankaya yatırdığı paraların izlenmesinde kullandıkları finansal bir hesaptır. 
+**Banka HesabÄ±** iÅŸletmelerin bankaya yatÄ±rdÄ±ÄŸÄ± paralarÄ±n izlenmesinde kullandÄ±klarÄ± finansal bir hesaptÄ±r. 
 
-Banka hesabı hem borçlu hem alacaklı olarak çalışır.
+Banka hesabÄ± hem borÃ§lu hem alacaklÄ± olarak Ã§alÄ±ÅŸÄ±r.
 
 ## Cari
 
-**Cari:** Bir işletmenin mali veya ticari ilişkide bulunduğu alıcı, satıcı, banka vs. 
-hesapların borç ve alacaklarını hareketlerinin takibinin yapıldığı hesaplardır.
+**Cari:** Bir iÅŸletmenin mali veya ticari iliÅŸkide bulunduÄŸu alÄ±cÄ±, satÄ±cÄ±, banka vs. 
+hesaplarÄ±n borÃ§ ve alacaklarÄ±nÄ± hareketlerinin takibinin yapÄ±ldÄ±ÄŸÄ± hesaplardÄ±r.
 
 ## Stok
 
-**Stok:** Firmaların, ticari işlemlerde kullandıkları ürünleri, üretimde kullanıdıkları hammadde, yarı mamul ve mamul bilgilerinin tutulduğu kartlardır.
+**Stok:** FirmalarÄ±n, ticari iÅŸlemlerde kullandÄ±klarÄ± Ã¼rÃ¼nleri, Ã¼retimde kullanÄ±dÄ±klarÄ± hammadde, yarÄ± mamul ve mamul bilgilerinin tutulduÄŸu kartlardÄ±r.
 
-İşletmeler, faaliyetlerini düzenli bir şekilde sürdürebilmek için stok alışverişinin alış ya da satış takibini kontrolünü sağlamak adına stok tutulur. 
+Ä°ÅŸletmeler, faaliyetlerini dÃ¼zenli bir ÅŸekilde sÃ¼rdÃ¼rebilmek iÃ§in stok alÄ±ÅŸveriÅŸinin alÄ±ÅŸ ya da satÄ±ÅŸ takibini kontrolÃ¼nÃ¼ saÄŸlamak adÄ±na stok tutulur. 
 
 ## Depo
 
-**Depo:** Ticari ürünlerin muhafazası amacıyla yapılmış özel yapılardır.
+**Depo:** Ticari Ã¼rÃ¼nlerin muhafazasÄ± amacÄ±yla yapÄ±lmÄ±ÅŸ Ã¶zel yapÄ±lardÄ±r.
 
 ## Kasa
 
-**Kasa:** Şirketlerin nakit giriş ve çıkışını kaydettikleri hesaba denir.
+**Kasa:** Åirketlerin nakit giriÅŸ ve Ã§Ä±kÄ±ÅŸÄ±nÄ± kaydettikleri hesaba denir.
 
-Kasadan çıkış yapılabilmesi için kasada nakit para bulunması gerekmektedir. 
+Kasadan Ã§Ä±kÄ±ÅŸ yapÄ±labilmesi iÃ§in kasada nakit para bulunmasÄ± gerekmektedir. 
 
-Kasada ne kadar nakit para varsa en fazla o kadar çıkış sağlanabilir. 
+Kasada ne kadar nakit para varsa en fazla o kadar Ã§Ä±kÄ±ÅŸ saÄŸlanabilir. 
 
-Banka, cari, çek/senet veya başka kasaya yapılan her nakit ödeme kasa üzerinden girilmektedir. 
+Banka, cari, Ã§ek/senet veya baÅŸka kasaya yapÄ±lan her nakit Ã¶deme kasa Ã¼zerinden girilmektedir. 
 
-Kasadan çıkışı yapılan her nakit kasayı alacaklı duruma getirir. 
+Kasadan Ã§Ä±kÄ±ÅŸÄ± yapÄ±lan her nakit kasayÄ± alacaklÄ± duruma getirir. 
 
-Ödeme yapılan taraf ise borçlu taraf olacaktır. Bir şirketin birden fazla kasası olabilir.
+Ã–deme yapÄ±lan taraf ise borÃ§lu taraf olacaktÄ±r. Bir ÅŸirketin birden fazla kasasÄ± olabilir.
 
-## Çek
+## Ã‡ek
 
-**Çek:** Kıymetli evrak niteliğine sahip düzenleyen alacaklı ve banka arasındaki üçlü bir havale ilişkisini barındıran bir alacak hakkını içerir.
+**Ã‡ek:** KÄ±ymetli evrak niteliÄŸine sahip dÃ¼zenleyen alacaklÄ± ve banka arasÄ±ndaki Ã¼Ã§lÃ¼ bir havale iliÅŸkisini barÄ±ndÄ±ran bir alacak hakkÄ±nÄ± iÃ§erir.
 
-Çekin muhatabı bankadır. Çek veren kişi borçludur, bankaya çek verildiğinde banka borçlanır.
+Ã‡ekin muhatabÄ± bankadÄ±r. Ã‡ek veren kiÅŸi borÃ§ludur, bankaya Ã§ek verildiÄŸinde banka borÃ§lanÄ±r.
 
-## Pos Hesabı
+## Pos HesabÄ±
 
-**Pos Hesabı:** Alınan ürün veya hizmet karşılığında hesap kartı, kredi kartı ya da NFC ile temassız 
-işlem özelliği sayesinde ödeme yapılan bir bankacılık sistemidir.
+**Pos HesabÄ±:** AlÄ±nan Ã¼rÃ¼n veya hizmet karÅŸÄ±lÄ±ÄŸÄ±nda hesap kartÄ±, kredi kartÄ± ya da NFC ile temassÄ±z 
+iÅŸlem Ã¶zelliÄŸi sayesinde Ã¶deme yapÄ±lan bir bankacÄ±lÄ±k sistemidir.
 
 ## Devir Nedir? 
 
-İşletmenin mevcut kullanımda bulunduğu sistemi değişmesiyle sisteminde mevcut olan hesap verilerin 
-(müşteri, kasa, banka, stok, satıcı vs.) en son durumlarının net tutarların aktarılmasına devir denilmektedir.
+Ä°ÅŸletmenin mevcut kullanÄ±mda bulunduÄŸu sistemi deÄŸiÅŸmesiyle sisteminde mevcut olan hesap verilerin 
+(mÃ¼ÅŸteri, kasa, banka, stok, satÄ±cÄ± vs.) en son durumlarÄ±nÄ±n net tutarlarÄ±n aktarÄ±lmasÄ±na devir denilmektedir.
 
 ## Tevkifat
 
-Tevkifat, belirli gelir veya ödemelerin, ödeme yapılan kişinin eline geçmeden önce vergi kesintisi yapılarak vergi dairesine ödenmesini ifade eder. 
+Tevkifat, belirli gelir veya Ã¶demelerin, Ã¶deme yapÄ±lan kiÅŸinin eline geÃ§meden Ã¶nce vergi kesintisi yapÄ±larak vergi dairesine Ã¶denmesini ifade eder. 
 
-Tevkifat, vergi toplama sürecini hızlandırır ve vergi kaçakçılığını önlemeye yardımcı olur. 
+Tevkifat, vergi toplama sÃ¼recini hÄ±zlandÄ±rÄ±r ve vergi kaÃ§akÃ§Ä±lÄ±ÄŸÄ±nÄ± Ã¶nlemeye yardÄ±mcÄ± olur. 
 
-Ayrıca, gelirin elde edildiği anda verginin toplanmasını sağlayarak, vergi dairesinin gelir akışını düzenler. 
+AyrÄ±ca, gelirin elde edildiÄŸi anda verginin toplanmasÄ±nÄ± saÄŸlayarak, vergi dairesinin gelir akÄ±ÅŸÄ±nÄ± dÃ¼zenler. 
 
-Bu nedenle, tevkifat vergi sistemlerinde sıkça kullanılan bir uygulamadır.
+Bu nedenle, tevkifat vergi sistemlerinde sÄ±kÃ§a kullanÄ±lan bir uygulamadÄ±r.
 
-Tevkifat hesaplanması, genellikle ödeme yapılan tutar üzerinden belirli bir oranda yapılır. 
+Tevkifat hesaplanmasÄ±, genellikle Ã¶deme yapÄ±lan tutar Ã¼zerinden belirli bir oranda yapÄ±lÄ±r. 
 
-Tevkifat oranı, vergilendirmeyle ilgili yasal düzenlemelere ve vergi türüne göre değişiklik gösterebilir.
+Tevkifat oranÄ±, vergilendirmeyle ilgili yasal dÃ¼zenlemelere ve vergi tÃ¼rÃ¼ne gÃ¶re deÄŸiÅŸiklik gÃ¶sterebilir.

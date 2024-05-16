@@ -1,25 +1,25 @@
-# **Satýþ Faturasý**
-- Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan aratarak ulaþým saðlayabilirsiniz.
-- erp.aaro.com.tr adresine giderek, sol sekmede yer alan modüller kýsmýndan Musteri/Satici -> Hareket Oluþtur -> Satýþ Faturasý
+# **SatÄ±ÅŸ FaturasÄ±**
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- erp.aaro.com.tr adresine giderek, sol sekmede yer alan modÃ¼ller kÄ±smÄ±ndan Musteri/Satici -> Hareket OluÅŸtur -> SatÄ±ÅŸ FaturasÄ±
 
 **Genel**
-Þirket-Þube [Þirket-Þube](/TemelOzellikler/SirketSube.md "Þirket-Þube")
+Åžirket-Åžube [Åžirket-Åžube](/TemelOzellikler/SirketSube.md "Åžirket-Åžube")
 
 Tarih [Tarih](/TemelOzellikler/Tarih.md "Tarih")
 
 Belge No [Belge No](/TemelOzellikler/BelgeNo.md "Belge No")
 
-**Müþteri:** Ýþlemin yapýldýðýný cari kartýný ifade eder. 
+**MÃ¼ÅŸteri:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ±nÄ± cari kartÄ±nÄ± ifade eder. 
 
-Döviz [Döviz](/TemelOzellikler/Doviz.md "Döviz")
+DÃ¶viz [DÃ¶viz](/TemelOzellikler/Doviz.md "DÃ¶viz")
 
 Depo [Depo](/TemelOzellikler/Depo.md "Depo")
 
 Vade [Vade](/TemelOzellikler/Vade.md "Vade")
 
-Açýklama [Açýklama](/TemelOzellikler/Aciklama.md "Açýklama")
+AÃ§Ä±klama [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
 
 KDV Dahil [KDV Dahil](/TemelOzellikler/KDVdahil.md "KDV Dahil")
 
 **Detay**
-Beklenen Tahsilatlar ve Ödemeler [Beklenen Tahsilatlar ve Ödemeler](/TemelOzellikler/BeklenenTahOd.md "Beklenen Tahsilatlar ve Ödemeler")
+Beklenen Tahsilatlar ve Ã–demeler [Beklenen Tahsilatlar ve Ã–demeler](/TemelOzellikler/BeklenenTahOd.md "Beklenen Tahsilatlar ve Ã–demeler")

@@ -1,2 +1,2 @@
-## Kısa Yollarım Sekmesi
-Kişiler sık kullandıkları raporları filtreleri ile buraya ekleyebilmektedirler. Aynı zamanda sık kullandıkları hareketleri de buraya ekleyerek hzılıca ulaşarak işlemler yapabilmektedirler. 
+## KÄ±sa YollarÄ±m Sekmesi
+KiÅŸiler sÄ±k kullandÄ±klarÄ± raporlarÄ± filtreleri ile buraya ekleyebilmektedirler. AynÄ± zamanda sÄ±k kullandÄ±klarÄ± hareketleri de buraya ekleyerek hzÄ±lÄ±ca ulaÅŸarak iÅŸlemler yapabilmektedirler. 

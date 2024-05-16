@@ -1,7 +1,7 @@
 ## KDV Dahil;
 
-KDV (Katma Değer Vergisi) dahil ifadesi, bir ürün veya hizmetin fiyatının KDV dahil olduğunu belirtir. 
-Bu ifade, tüketiciye ürün veya hizmetin toplam maliyetini açıklar.
+KDV (Katma DeÄŸer Vergisi) dahil ifadesi, bir Ã¼rÃ¼n veya hizmetin fiyatÄ±nÄ±n KDV dahil olduÄŸunu belirtir. 
+Bu ifade, tÃ¼keticiye Ã¼rÃ¼n veya hizmetin toplam maliyetini aÃ§Ä±klar.
 
-Örneğin, bir ürünün fiyatı 100 birim olsun ve bu fiyat KDV dahilse, tüketici bu ürünü 100 birim karşılığında alabilir. 
-Bu durumda, ürünün fiyatı KDV hariç 100 birimdir ve KDV dahil fiyatı tüketiciye sunulan toplam maliyeti ifade eder.
+Ã–rneÄŸin, bir Ã¼rÃ¼nÃ¼n fiyatÄ± 100 birim olsun ve bu fiyat KDV dahilse, tÃ¼ketici bu Ã¼rÃ¼nÃ¼ 100 birim karÅŸÄ±lÄ±ÄŸÄ±nda alabilir. 
+Bu durumda, Ã¼rÃ¼nÃ¼n fiyatÄ± KDV hariÃ§ 100 birimdir ve KDV dahil fiyatÄ± tÃ¼keticiye sunulan toplam maliyeti ifade eder.

@@ -1,17 +1,17 @@
 
-## Şirket-Şube;
+## Åirket-Åube;
 
-Hareketler, genellikle işletmenin farklı birimleri veya operasyonel yapıları arasında gerçekleşen işlem veya aktiviteleri temsil eder. 
-Bu birimler genellikle şirketler ve şubeler olarak tanımlanır ve her bir hareket, belirli bir şirket ve şube içinde veya arasında gerçekleşir.
+Hareketler, genellikle iÅŸletmenin farklÄ± birimleri veya operasyonel yapÄ±larÄ± arasÄ±nda gerÃ§ekleÅŸen iÅŸlem veya aktiviteleri temsil eder. 
+Bu birimler genellikle ÅŸirketler ve ÅŸubeler olarak tanÄ±mlanÄ±r ve her bir hareket, belirli bir ÅŸirket ve ÅŸube iÃ§inde veya arasÄ±nda gerÃ§ekleÅŸir.
 
-**Şirketler:** ERP sistemlerinde hareketler genellikle bir işletmenin farklı hukuki varlıklarını veya operasyonel birimlerini ifade eder. 
-Her bir şirket, genellikle ayrı bir muhasebe ve finansal raporlama birimi olarak ele alınır. 
-Örneğin, bir holding şirketi bünyesinde birden fazla iştiraki veya iş kolunu yönetiyorsa, her bir iştirak veya iş kolu ayrı bir "şirket" olarak tanımlanabilir.
-**Şubeler:** Şirketlerin altında, genellikle farklı coğrafi lokasyonlarda bulunan ve belirli bir işlevi yerine getiren şubeler bulunur. 
-Her bir şube, genellikle belirli bir bölgede faaliyet gösteren veya belirli bir pazarda hizmet sunan bir operasyonel birim olarak kabul edilir. 
-Örneğin, bir perakende zinciri farklı şehirlerde veya ülkelerde bulunan mağazalara sahipse, her bir mağaza bir "şube" olarak tanımlanabilir.
-ERP sisteminde hareketler genellikle şirket ve şube bilgilerini içerir ve bu bilgiler, her bir işlem veya aktivitenin hangi birim veya birimler arasında gerçekleştiğini belirtir. 
-Bu bilgiler, işletmenizin faaliyetlerini izlemek, raporlamak ve yönetmek için önemlidir ve işletme yöneticilerinize genel bir bakış sunar.
+**Åirketler:** ERP sistemlerinde hareketler genellikle bir iÅŸletmenin farklÄ± hukuki varlÄ±klarÄ±nÄ± veya operasyonel birimlerini ifade eder. 
+Her bir ÅŸirket, genellikle ayrÄ± bir muhasebe ve finansal raporlama birimi olarak ele alÄ±nÄ±r. 
+Ã–rneÄŸin, bir holding ÅŸirketi bÃ¼nyesinde birden fazla iÅŸtiraki veya iÅŸ kolunu yÃ¶netiyorsa, her bir iÅŸtirak veya iÅŸ kolu ayrÄ± bir "ÅŸirket" olarak tanÄ±mlanabilir.
+**Åubeler:** Åirketlerin altÄ±nda, genellikle farklÄ± coÄŸrafi lokasyonlarda bulunan ve belirli bir iÅŸlevi yerine getiren ÅŸubeler bulunur. 
+Her bir ÅŸube, genellikle belirli bir bÃ¶lgede faaliyet gÃ¶steren veya belirli bir pazarda hizmet sunan bir operasyonel birim olarak kabul edilir. 
+Ã–rneÄŸin, bir perakende zinciri farklÄ± ÅŸehirlerde veya Ã¼lkelerde bulunan maÄŸazalara sahipse, her bir maÄŸaza bir "ÅŸube" olarak tanÄ±mlanabilir.
+ERP sisteminde hareketler genellikle ÅŸirket ve ÅŸube bilgilerini iÃ§erir ve bu bilgiler, her bir iÅŸlem veya aktivitenin hangi birim veya birimler arasÄ±nda gerÃ§ekleÅŸtiÄŸini belirtir. 
+Bu bilgiler, iÅŸletmenizin faaliyetlerini izlemek, raporlamak ve yÃ¶netmek iÃ§in Ã¶nemlidir ve iÅŸletme yÃ¶neticilerinize genel bir bakÄ±ÅŸ sunar.
 
-Hareketlerin şirket ve şube bazında izlenmesi, işletmenizin farklı birimleri arasındaki etkileşimleri anlamak ve gerektiğinde stratejik kararlar almak için önemlidir. 
-Bu bilgiler, işletmenizin performansını değerlendirmek ve operasyonel verimliliği artırmak için kullanılabilir.
+Hareketlerin ÅŸirket ve ÅŸube bazÄ±nda izlenmesi, iÅŸletmenizin farklÄ± birimleri arasÄ±ndaki etkileÅŸimleri anlamak ve gerektiÄŸinde stratejik kararlar almak iÃ§in Ã¶nemlidir. 
+Bu bilgiler, iÅŸletmenizin performansÄ±nÄ± deÄŸerlendirmek ve operasyonel verimliliÄŸi artÄ±rmak iÃ§in kullanÄ±labilir.

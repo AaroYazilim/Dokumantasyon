@@ -1,20 +1,20 @@
 
-# E-Arşiv
+# E-ArÅŸiv
 
-E-Arşiv elektronik arşivleme anlamına gelir ve elektronik ortamda saklanan faturaları ifade eder. 
-Türkiye'de e-arşiv uygulaması, kağıt fatura yerine elektronik ortamda düzenlenen ve saklanan faturaların kullanılmasını sağlayan bir sistemdir.
+E-ArÅŸiv elektronik arÅŸivleme anlamÄ±na gelir ve elektronik ortamda saklanan faturalarÄ± ifade eder. 
+TÃ¼rkiye'de e-arÅŸiv uygulamasÄ±, kaÄŸÄ±t fatura yerine elektronik ortamda dÃ¼zenlenen ve saklanan faturalarÄ±n kullanÄ±lmasÄ±nÄ± saÄŸlayan bir sistemdir.
 
-## E-Arşiv Nedir ?
+## E-ArÅŸiv Nedir ?
 
-Gelir İdaresi başkanlığı tarafından belirlenen standartlara uygun olarak düzenlenen faturaların elektronik ortama taşınması, muhafaza edilmesi ve elektronik ortamda düzenlenmesidir.
-Vergi Usul Kanunu VUK 509  hükümlerine göre, e-Arşiv  kullanıcısı olabilmek için e-Fatura kullanıcısı olma zorunluluğu vardır.
-Elektronik ortamda oluşturulan fatura alıcısına kağıt olarak gönderilen veya elektronik ortamda iletilen şekli aslını oluşturur ve düzenleyen tarafından muhafaza edilen elektronik hali ise ikinci nüsha hükmündedir. 
-GİB’den e-Arşiv izni alan mükellefler, elektronik ortamda oluşturdukları faturayı, elektronik ortamda muhafaza etmektedirler.
+Gelir Ä°daresi baÅŸkanlÄ±ÄŸÄ± tarafÄ±ndan belirlenen standartlara uygun olarak dÃ¼zenlenen faturalarÄ±n elektronik ortama taÅŸÄ±nmasÄ±, muhafaza edilmesi ve elektronik ortamda dÃ¼zenlenmesidir.
+Vergi Usul Kanunu VUK 509  hÃ¼kÃ¼mlerine gÃ¶re, e-ArÅŸiv  kullanÄ±cÄ±sÄ± olabilmek iÃ§in e-Fatura kullanÄ±cÄ±sÄ± olma zorunluluÄŸu vardÄ±r.
+Elektronik ortamda oluÅŸturulan fatura alÄ±cÄ±sÄ±na kaÄŸÄ±t olarak gÃ¶nderilen veya elektronik ortamda iletilen ÅŸekli aslÄ±nÄ± oluÅŸturur ve dÃ¼zenleyen tarafÄ±ndan muhafaza edilen elektronik hali ise ikinci nÃ¼sha hÃ¼kmÃ¼ndedir. 
+GÄ°Bâ€™den e-ArÅŸiv izni alan mÃ¼kellefler, elektronik ortamda oluÅŸturduklarÄ± faturayÄ±, elektronik ortamda muhafaza etmektedirler.
 
-## E-Arşiv Koşulları
+## E-ArÅŸiv KoÅŸullarÄ±
 
-- E-Arşiv faturası oluşturabilmek için Gelir İdaresi Başkanlığı tarafından belirlenen esaslara uygun olmanız gerekmektedir.
-- 7 iş günü otomatik ters kayıt ve onay bildirimi gibi akıllı algoritma hizmetleri sunulmaktadır.
-- E-Arşiv sisteminden sadece e-Fatura sistemine kayıtlı olan kullanıcılar faydalanabilir.
-- Fatura gönderimi yapan firmalar zaman, iş gücü,dağıtım ve arşivlemede tasarruf sağlamaktadırlar. 
-- Vergi mükellefi olmayanların, E-Arşiv faturası oluşturmaları, alıcıya elektronik veya kağıt ortamda iletmeleri, oluşturulan faturaların ikinci nüshasını elektronik ortamda saklanlamalıdır.
+- E-ArÅŸiv faturasÄ± oluÅŸturabilmek iÃ§in Gelir Ä°daresi BaÅŸkanlÄ±ÄŸÄ± tarafÄ±ndan belirlenen esaslara uygun olmanÄ±z gerekmektedir.
+- 7 iÅŸ gÃ¼nÃ¼ otomatik ters kayÄ±t ve onay bildirimi gibi akÄ±llÄ± algoritma hizmetleri sunulmaktadÄ±r.
+- E-ArÅŸiv sisteminden sadece e-Fatura sistemine kayÄ±tlÄ± olan kullanÄ±cÄ±lar faydalanabilir.
+- Fatura gÃ¶nderimi yapan firmalar zaman, iÅŸ gÃ¼cÃ¼,daÄŸÄ±tÄ±m ve arÅŸivlemede tasarruf saÄŸlamaktadÄ±rlar. 
+- Vergi mÃ¼kellefi olmayanlarÄ±n, E-ArÅŸiv faturasÄ± oluÅŸturmalarÄ±, alÄ±cÄ±ya elektronik veya kaÄŸÄ±t ortamda iletmeleri, oluÅŸturulan faturalarÄ±n ikinci nÃ¼shasÄ±nÄ± elektronik ortamda saklanlamalÄ±dÄ±r.

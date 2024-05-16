@@ -1,3 +1,3 @@
-## REÇETE KOPYALAMA
+## REÃ‡ETE KOPYALAMA
 
-Taslak reçete diyagramı ekranında sol üstte bulunan **üç çizgi** butonundan **‘Reçete kopyalama’** seçeneği ile taslak reçete kopyalanabilmektedir. Açılan sayfada sağda bulunan butonlar ile sayfada hızlı gezinme yapılabilmektedir. **Genel** başlığından Reçete kodu, reçete adı, açıklama, kodlar ve etiketler belirlenebilmektedir. **Gelişmiş** başlığından pakete tanımlıysa şirket-şube seçimi yapılabilmekte ve şarj kg bilgisi tanımlanabilmektedir. **Kaydet** butonu ile reçete kopyalanmaktadır.  
+Taslak reÃ§ete diyagramÄ± ekranÄ±nda sol Ã¼stte bulunan **Ã¼Ã§ Ã§izgi** butonundan **â€˜ReÃ§ete kopyalamaâ€™** seÃ§eneÄŸi ile taslak reÃ§ete kopyalanabilmektedir. AÃ§Ä±lan sayfada saÄŸda bulunan butonlar ile sayfada hÄ±zlÄ± gezinme yapÄ±labilmektedir. **Genel** baÅŸlÄ±ÄŸÄ±ndan ReÃ§ete kodu, reÃ§ete adÄ±, aÃ§Ä±klama, kodlar ve etiketler belirlenebilmektedir. **GeliÅŸmiÅŸ** baÅŸlÄ±ÄŸÄ±ndan pakete tanÄ±mlÄ±ysa ÅŸirket-ÅŸube seÃ§imi yapÄ±labilmekte ve ÅŸarj kg bilgisi tanÄ±mlanabilmektedir. **Kaydet** butonu ile reÃ§ete kopyalanmaktadÄ±r.  

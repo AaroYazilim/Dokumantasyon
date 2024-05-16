@@ -1,16 +1,16 @@
 
-# E-fatura Süreçleri
+# E-fatura SÃ¼reÃ§leri
 
-## E-Fatura -> Entegratör -> GIB -> Entegratör -> Alıcı
+## E-Fatura -> EntegratÃ¶r -> GIB -> EntegratÃ¶r -> AlÄ±cÄ±
 
-İlk aşama olarak E-fatura düzenlememiz gerekmektedir;
-**Fatura Düzenleme:** İşletmeniz, bir mal veya hizmet satışı gerçekleştirdiğinde, e-fatura düzenleme süreciniz başlar. 
-Faturanızın detayları, vergi kimlik numarası (VKN) olan alıcı ve satıcı tarafından belirlenir.
-**Entegratör:** E-fatura işlemleri tamamlandıktan sonra entegratöre gönderilir.
-**Elektronik İmza:** E-faturanızı, düzenlendikten sonra entegratör GIB'e ulaşım sağlanır GIB tarafından dijital olarak imzalanır. 
-**Entegratör:** GIB'ten imzalanan fatura tekrar entegratöre gönderilir.
-**Gönderme:** İmzalanan e-faturanız, gönderilecek alıcıya elektronik ortamda iletilir.
+Ä°lk aÅŸama olarak E-fatura dÃ¼zenlememiz gerekmektedir;
+**Fatura DÃ¼zenleme:** Ä°ÅŸletmeniz, bir mal veya hizmet satÄ±ÅŸÄ± gerÃ§ekleÅŸtirdiÄŸinde, e-fatura dÃ¼zenleme sÃ¼reciniz baÅŸlar. 
+FaturanÄ±zÄ±n detaylarÄ±, vergi kimlik numarasÄ± (VKN) olan alÄ±cÄ± ve satÄ±cÄ± tarafÄ±ndan belirlenir.
+**EntegratÃ¶r:** E-fatura iÅŸlemleri tamamlandÄ±ktan sonra entegratÃ¶re gÃ¶nderilir.
+**Elektronik Ä°mza:** E-faturanÄ±zÄ±, dÃ¼zenlendikten sonra entegratÃ¶r GIB'e ulaÅŸÄ±m saÄŸlanÄ±r GIB tarafÄ±ndan dijital olarak imzalanÄ±r. 
+**EntegratÃ¶r:** GIB'ten imzalanan fatura tekrar entegratÃ¶re gÃ¶nderilir.
+**GÃ¶nderme:** Ä°mzalanan e-faturanÄ±z, gÃ¶nderilecek alÄ±cÄ±ya elektronik ortamda iletilir.
 
-**Alıcı Tarafında ki İşlemler**
-**E-Fatura Alımı:** Alıcı, faturayı aldıktan sonra e-faturayı kaydeder ve muhasebe sistemine entegre eder. Bu, alınan hizmet veya malın ödemesini yapma sürecinin başlamasını sağlar.
-**Muhasebe Kaydı:** Alıcı, e-faturayı muhasebe sistemine kaydeder ve vergiye tabi işlemleri raporlamak için kullanılır.
+**AlÄ±cÄ± TarafÄ±nda ki Ä°ÅŸlemler**
+**E-Fatura AlÄ±mÄ±:** AlÄ±cÄ±, faturayÄ± aldÄ±ktan sonra e-faturayÄ± kaydeder ve muhasebe sistemine entegre eder. Bu, alÄ±nan hizmet veya malÄ±n Ã¶demesini yapma sÃ¼recinin baÅŸlamasÄ±nÄ± saÄŸlar.
+**Muhasebe KaydÄ±:** AlÄ±cÄ±, e-faturayÄ± muhasebe sistemine kaydeder ve vergiye tabi iÅŸlemleri raporlamak iÃ§in kullanÄ±lÄ±r.

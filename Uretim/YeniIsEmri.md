@@ -1,30 +1,30 @@
 
-# İş Emri Ekleme
+# Ä°ÅŸ Emri Ekleme
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "İş emri" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Listeler -> İş Emri Listesi -> Yeni İş Emri şeklinde yeni iş emri oluşturabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "Ä°ÅŸ emri" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Listeler -> Ä°ÅŸ Emri Listesi -> Yeni Ä°ÅŸ Emri ÅŸeklinde yeni iÅŸ emri oluÅŸturabilirsiniz. 
 
 ### Genel
 
-**İş Emri No:** Sistemin veröiş olduğu otomatik kodu kullanım sağlayabilirsiniz ya da size özel kodunuzu kullanım sağlayabilirsiniz.
-**Tarih:** İşleme başlanacak tarihi seçiniz.
-**Teslim Tarihi:** Teslim edilmesi gerek tarihi seçiniz.
-**Reçete:** Yapılacak olan reçeteyi seçiniz.
-**İş Emri Adı:** İş emri için bir ad verebilirsiniz.
-**Miktar:** Ka. adet yapılacağını giriniz.
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+**Ä°ÅŸ Emri No:** Sistemin verÃ¶iÅŸ olduÄŸu otomatik kodu kullanÄ±m saÄŸlayabilirsiniz ya da size Ã¶zel kodunuzu kullanÄ±m saÄŸlayabilirsiniz.
+**Tarih:** Ä°ÅŸleme baÅŸlanacak tarihi seÃ§iniz.
+**Teslim Tarihi:** Teslim edilmesi gerek tarihi seÃ§iniz.
+**ReÃ§ete:** YapÄ±lacak olan reÃ§eteyi seÃ§iniz.
+**Ä°ÅŸ Emri AdÄ±:** Ä°ÅŸ emri iÃ§in bir ad verebilirsiniz.
+**Miktar:** Ka. adet yapÄ±lacaÄŸÄ±nÄ± giriniz.
+**AÃ§Ä±klama** ReÃ§eteye ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
 
-### Gelişmiş
+### GeliÅŸmiÅŸ
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
-**Renk:** Özel renk seçimi yapabilirsiniz.
-**Üst İş Emri** 
-**Öncelik:** Öncelik sıralama sayısını seçiniz.
-**Şarj Kg:**
+**Åirket-Åube:** KartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](/TemelOzellikler/SirketSubeKart.md "Åirket-Åube")
+**Renk:** Ã–zel renk seÃ§imi yapabilirsiniz.
+**Ãœst Ä°ÅŸ Emri** 
+**Ã–ncelik:** Ã–ncelik sÄ±ralama sayÄ±sÄ±nÄ± seÃ§iniz.
+**Åarj Kg:**
 
-Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna basarak işleminizi kaydebilirsiniz.
-İş emriniz oluşmuştur sistem size otomatik planlama yapacaktır bu planlama üzerinden devam edebilir ya da değişiklik yapabilirsiniz.
+DoldurulmasÄ± gereken alanlar girildikten sonra saÄŸ alt kÃ¶ÅŸede bulunan Kaydet butonuna basarak iÅŸleminizi kaydebilirsiniz.
+Ä°ÅŸ emriniz oluÅŸmuÅŸtur sistem size otomatik planlama yapacaktÄ±r bu planlama Ã¼zerinden devam edebilir ya da deÄŸiÅŸiklik yapabilirsiniz.
 
-### Değişiklik yapmak için;
+### DeÄŸiÅŸiklik yapmak iÃ§in;
 
-- Sol menüden Üretim -> Listeler -> Üretim Planı buradan işlem günleri sıralama gibi değişiklikler yapabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Listeler -> Ãœretim PlanÄ± buradan iÅŸlem gÃ¼nleri sÄ±ralama gibi deÄŸiÅŸiklikler yapabilirsiniz.

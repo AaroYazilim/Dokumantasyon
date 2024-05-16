@@ -1,131 +1,131 @@
 
-## Stok Kartı
+## Stok KartÄ±
 
-### Ulaşım
+### UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Stok kartı" olarak aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Stok -> Stok Modülü -> Yeni Stok Kartı şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Stok -> Kartlar -> Stok Kartı Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "Stok kartÄ±" olarak aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Stok -> Stok ModÃ¼lÃ¼ -> Yeni Stok KartÄ± ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
+- Sol menÃ¼den Stok -> Kartlar -> Stok KartÄ± Listesi Ã¼zerinden ulaÅŸÄ±m saÄŸlayarak yeni kart ekleyebilir yada mevcutlarÄ± dÃ¼zenleyebilirsiniz.
 
-### Tanım
+### TanÄ±m
 
-Stok, bir işletmenin sahip olduğu satış veya üretim için kullanılmak üzere depoladığı tüm fiziksel varlıkları ifade eder. 
-Bu varlıklar, malzemeler, hammadde, yarı mamul veya tamamlanmış ürünler olabilir. 
-Stok kartlarınızı tanımlayarak, bu varlıkların miktarını, değerini ve döngüsünü izleyebilir ve optimize edebilirsiniz. 
-Stok seviyelerini belirlemek, stok hareketlerini işlemek ve envanterin doğru bir şekilde yönetilmesi için stok kartları tanımlanmalıdır.
-Aşağıdaki bilgiler doldurularak stok kartınızı tanımlayabilirsiniz.
+Stok, bir iÅŸletmenin sahip olduÄŸu satÄ±ÅŸ veya Ã¼retim iÃ§in kullanÄ±lmak Ã¼zere depoladÄ±ÄŸÄ± tÃ¼m fiziksel varlÄ±klarÄ± ifade eder. 
+Bu varlÄ±klar, malzemeler, hammadde, yarÄ± mamul veya tamamlanmÄ±ÅŸ Ã¼rÃ¼nler olabilir. 
+Stok kartlarÄ±nÄ±zÄ± tanÄ±mlayarak, bu varlÄ±klarÄ±n miktarÄ±nÄ±, deÄŸerini ve dÃ¶ngÃ¼sÃ¼nÃ¼ izleyebilir ve optimize edebilirsiniz. 
+Stok seviyelerini belirlemek, stok hareketlerini iÅŸlemek ve envanterin doÄŸru bir ÅŸekilde yÃ¶netilmesi iÃ§in stok kartlarÄ± tanÄ±mlanmalÄ±dÄ±r.
+AÅŸaÄŸÄ±daki bilgiler doldurularak stok kartÄ±nÄ±zÄ± tanÄ±mlayabilirsiniz.
 
 ### Genel
 
-**Stok Adı:** Bu stok kartının kendine özel adıdır.
+**Stok AdÄ±:** Bu stok kartÄ±nÄ±n kendine Ã¶zel adÄ±dÄ±r.
 
-**Stok Kodu:** Kartın kendine özel kodudur. Detaylı tanım için linke tıklayınız. [Kart Kodu](/TemelOzellikler/KartKodu.md "Stok Kodu")
+**Stok Kodu:** KartÄ±n kendine Ã¶zel kodudur. DetaylÄ± tanÄ±m iÃ§in linke tÄ±klayÄ±nÄ±z. [Kart Kodu](/TemelOzellikler/KartKodu.md "Stok Kodu")
 
-**Birim 1:** Stok kartının hangi birim cinsinden takip edileceğini belirtir. Girilecek ürünün ölçü ya da sayım birimi yani adet m3 kg litre desi koli plaka gibi özellikler eklenebilir.
+**Birim 1:** Stok kartÄ±nÄ±n hangi birim cinsinden takip edileceÄŸini belirtir. Girilecek Ã¼rÃ¼nÃ¼n Ã¶lÃ§Ã¼ ya da sayÄ±m birimi yani adet m3 kg litre desi koli plaka gibi Ã¶zellikler eklenebilir.
 
-**Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Kodlar:** KartlarÄ± hiyerarÅŸik olarak gruplamak iÃ§in kullanÄ±lÄ±r. DetaylÄ± tanÄ±m iÃ§in linke tÄ±klayÄ±nÄ±z. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
 
-**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**Etiketler:** Gruplamak iÃ§in kullanÄ±lÄ±r. DetaylÄ± tanÄ±m iÃ§in linke tÄ±klayÄ±nÄ±z. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 
 ### Fiyat
 
-**Alış Fiyat:** Bu stok kartına ait ürün veya hizmetin satın alınırken ödenen fiyatını ifade eder.
+**AlÄ±ÅŸ Fiyat:** Bu stok kartÄ±na ait Ã¼rÃ¼n veya hizmetin satÄ±n alÄ±nÄ±rken Ã¶denen fiyatÄ±nÄ± ifade eder.
 
-**Döviz Adı:** Bu stok kartına ait alış fiyatının çalıştığı döviz cinsini belirtir. Bilgi amaçlıdır.
+**DÃ¶viz AdÄ±:** Bu stok kartÄ±na ait alÄ±ÅŸ fiyatÄ±nÄ±n Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinsini belirtir. Bilgi amaÃ§lÄ±dÄ±r.
 
-**Satış Fiyat:** Bu karta ait ürün veya hizmetin müşterilere satıldığı fiyatı ifade eder.
+**SatÄ±ÅŸ Fiyat:** Bu karta ait Ã¼rÃ¼n veya hizmetin mÃ¼ÅŸterilere satÄ±ldÄ±ÄŸÄ± fiyatÄ± ifade eder.
 
-**Döviz Adı:** Bu stok kartın aiat alış fiyatının çalıştığı döviz cinsini belirtir. Bilgi amaçlıdır.
+**DÃ¶viz AdÄ±:** Bu stok kartÄ±n aiat alÄ±ÅŸ fiyatÄ±nÄ±n Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinsini belirtir. Bilgi amaÃ§lÄ±dÄ±r.
 
 
 ### Barkod
 
-**Barkod1:** Bu stok kartına ait barkod numarasını belirtir. 
+**Barkod1:** Bu stok kartÄ±na ait barkod numarasÄ±nÄ± belirtir. 
 
-**Barkod2:** Bu stok kartına ait ikinci barkod numarasını belirtir. Birden fazla barkodu olan stoklar için kullanım sağlayabilirsiniz.
-
-
-### Ölçü Birimleri
-
-**Birim 2:** Bu stok kartı için ikinci ölçü birimidir.Kolay hesap yapmak ve raporlarda farklı cins rapor alabilmek için kullanılır.
-
-**Birim 3:** Bu stok kartı için üçüncü ölçü birimidir.Kolay hesap yapmak ve raporlarda farklı cins rapor alabilmek için kullanılır.
-
-**Çevrimiçi Birim2:** Birim-1 cinsinden bu stoğun kaç Birim-2 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-2:Deste ise bu deger = 0,1(1/10) olur.
-
-**Çevrimiçi Birim3:** Birim-1 cinsinden bu stoğun kaç Birim-3 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-3:Düzine ise bu deger = 0,083(1/12) olur.
-
-**Üretim Birim:** Üretimle ilgili raporlarda seçilen birim cinsinden rapor almanızı kolaylaştırır.
-
-**Rapor Birim:** Raporlarda seçilen birim cinsinden rapor almanızı kolaylaştırır.
-
-**Kalınlık:** Stoğun kalınlık ölçüsünü belirtir.
-
-**En:** Stoğun en ölçüsünü belirtir.
-
-**Boy:** Stoğun boy ölçüsünü belirtir.
-
-**Yoğunluk:** Stoğun yoğunluk ölçüsünü belirtir.
-
-**Ağırlık:** Stoğun ağırlık ölçüsünü belirtir.
+**Barkod2:** Bu stok kartÄ±na ait ikinci barkod numarasÄ±nÄ± belirtir. Birden fazla barkodu olan stoklar iÃ§in kullanÄ±m saÄŸlayabilirsiniz.
 
 
-### Vergi Oranları
+### Ã–lÃ§Ã¼ Birimleri
 
-**Vergi Oranları:** Bu stok kartı ait işlemlerde kullanılacak devletin belirlemiş olduğu KDV oranını(vergi oranını) belirtir. **Girilmesi Zorunludur.**
+**Birim 2:** Bu stok kartÄ± iÃ§in ikinci Ã¶lÃ§Ã¼ birimidir.Kolay hesap yapmak ve raporlarda farklÄ± cins rapor alabilmek iÃ§in kullanÄ±lÄ±r.
 
-### Muhasebe Tanımları
+**Birim 3:** Bu stok kartÄ± iÃ§in Ã¼Ã§Ã¼ncÃ¼ Ã¶lÃ§Ã¼ birimidir.Kolay hesap yapmak ve raporlarda farklÄ± cins rapor alabilmek iÃ§in kullanÄ±lÄ±r.
 
-Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde otomatikman belirli muhasebe hesaplarına gerekli kayıtların oluşmasını sağlayabilirsiniz.
-[Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
+**Ã‡evrimiÃ§i Birim2:** Birim-1 cinsinden bu stoÄŸun kaÃ§ Birim-2 cinsinden olduÄŸunu belirtir.Ã–rneÄŸin; Birim-1:Adet ve Birim-2:Deste ise bu deger = 0,1(1/10) olur.
 
+**Ã‡evrimiÃ§i Birim3:** Birim-1 cinsinden bu stoÄŸun kaÃ§ Birim-3 cinsinden olduÄŸunu belirtir.Ã–rneÄŸin; Birim-1:Adet ve Birim-3:DÃ¼zine ise bu deger = 0,083(1/12) olur.
 
+**Ãœretim Birim:** Ãœretimle ilgili raporlarda seÃ§ilen birim cinsinden rapor almanÄ±zÄ± kolaylaÅŸtÄ±rÄ±r.
 
-### Bayi Tanımları
+**Rapor Birim:** Raporlarda seÃ§ilen birim cinsinden rapor almanÄ±zÄ± kolaylaÅŸtÄ±rÄ±r.
 
-**Bayide Göster:** Tüm stoklarınız bayilerinize gösterilmez.Bayi sisteminiz aktif ise göstermek istediğiniz bir stok ise işartelemeniz gerekmektedir.
+**KalÄ±nlÄ±k:** StoÄŸun kalÄ±nlÄ±k Ã¶lÃ§Ã¼sÃ¼nÃ¼ belirtir.
 
-**Bayi Maks. Miktar:** Bayileriniz, belirleyeceğiniz sayının üzerindeki stok miktarını göremez. Örneğin;Deponuzda 100 birim ABC stoğu var.
-Bu alana 50 girilirse, bayileriniz bu stoğun miktarını 50+ şeklinde görecektir.0 girerseniz asdece'Stokta Var' ya da 'Stokta Yok' şeklinde görürler.
+**En:** StoÄŸun en Ã¶lÃ§Ã¼sÃ¼nÃ¼ belirtir.
 
-**Stok Yönetimi**
+**Boy:** StoÄŸun boy Ã¶lÃ§Ã¼sÃ¼nÃ¼ belirtir.
 
-**Takip Yöntemi:** Stok miktar takibi yapılırken Seri veya Lot takibi yapılıp yapılmadığını belirler. **Girilmesi Zorunludur.**
+**YoÄŸunluk:** StoÄŸun yoÄŸunluk Ã¶lÃ§Ã¼sÃ¼nÃ¼ belirtir.
 
-**TY Kod Ön Eki:** Otomatik başlatılan Seri ve Lot numaralarında No'nun istenilen seri ile başlasını sağlar. **Girilmesi Zorunludur.**
-
-**TY Üretim Bire Bir ilişki:** Üretim hareketlerinde bu stok üretilirken her bir Seri ve Lot için hangi hammaddelerin bire bir kontrolünün yapılması için kullanılır. **Girilmesi Zorunludur.**
-
-**Raf Takibi:** Raf takibi yapılıp yapılmayacağını belirler. *Girilmesi Zorunludur.**
-
-**Paket Takibi:** Paket takibi yapılıp yapılmayacağını belirler. *Girilmesi Zorunludur.**
+**AÄŸÄ±rlÄ±k:** StoÄŸun aÄŸÄ±rlÄ±k Ã¶lÃ§Ã¼sÃ¼nÃ¼ belirtir.
 
 
-### Gelişmiş
+### Vergi OranlarÄ±
 
-**Şirket-Şube:**  Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
+**Vergi OranlarÄ±:** Bu stok kartÄ± ait iÅŸlemlerde kullanÄ±lacak devletin belirlemiÅŸ olduÄŸu KDV oranÄ±nÄ±(vergi oranÄ±nÄ±) belirtir. **Girilmesi Zorunludur.**
 
-**Durum:** Kartın kullanabilirliğini belirtir. Pasif kartlar işlemde kullanılamaz.
+### Muhasebe TanÄ±mlarÄ±
 
-**GTIP:** İhracat tipindeki e-faturalarda, stoğa ait GTIP değerinin doldurulması zorunludur.
-
-**Harici Depo Miktar:** Depo dışında kalan miktarı belirtir.
-
-**Hizmet Mi:** Bu seçenek hizmet takibi olarak seçilirse miktar takibi yapılmaz, depoda gözükmez, eski bakiye kontrolü yapılmaz.
-
-**Stok Kısa Kodu:** Raporlama için gereklidir. 
-
-**Stok Kısa Adı:** Raporlama için gereklidir. 
-
-**Kargo ücreti:** Kargo ücreti 
-
-**StandartMı:** Stok kartının standart stok olarak değerlendirilmesini sağlar. Filtreleyerek bulmamızı kolaylaştırır. 
+MuhasebeleÅŸme tanÄ±mlarÄ±nÄ± ayarlayarak bu kart iÃ§in hareket iÅŸlendiÄŸinde otomatikman belirli muhasebe hesaplarÄ±na gerekli kayÄ±tlarÄ±n oluÅŸmasÄ±nÄ± saÄŸlayabilirsiniz.
+[MuhasebeleÅŸme TanÄ±mlarÄ±](/TemelOzellikler/MuhasebelesmeTanimlari.md "MuhasebeleÅŸme TanÄ±mlarÄ±")
 
 
-### Açıklamalar
 
-Bu kısma stok ile ilgili açıklama eklenebilir.
+### Bayi TanÄ±mlarÄ±
+
+**Bayide GÃ¶ster:** TÃ¼m stoklarÄ±nÄ±z bayilerinize gÃ¶sterilmez.Bayi sisteminiz aktif ise gÃ¶stermek istediÄŸiniz bir stok ise iÅŸartelemeniz gerekmektedir.
+
+**Bayi Maks. Miktar:** Bayileriniz, belirleyeceÄŸiniz sayÄ±nÄ±n Ã¼zerindeki stok miktarÄ±nÄ± gÃ¶remez. Ã–rneÄŸin;Deponuzda 100 birim ABC stoÄŸu var.
+Bu alana 50 girilirse, bayileriniz bu stoÄŸun miktarÄ±nÄ± 50+ ÅŸeklinde gÃ¶recektir.0 girerseniz asdece'Stokta Var' ya da 'Stokta Yok' ÅŸeklinde gÃ¶rÃ¼rler.
+
+**Stok YÃ¶netimi**
+
+**Takip YÃ¶ntemi:** Stok miktar takibi yapÄ±lÄ±rken Seri veya Lot takibi yapÄ±lÄ±p yapÄ±lmadÄ±ÄŸÄ±nÄ± belirler. **Girilmesi Zorunludur.**
+
+**TY Kod Ã–n Eki:** Otomatik baÅŸlatÄ±lan Seri ve Lot numaralarÄ±nda No'nun istenilen seri ile baÅŸlasÄ±nÄ± saÄŸlar. **Girilmesi Zorunludur.**
+
+**TY Ãœretim Bire Bir iliÅŸki:** Ãœretim hareketlerinde bu stok Ã¼retilirken her bir Seri ve Lot iÃ§in hangi hammaddelerin bire bir kontrolÃ¼nÃ¼n yapÄ±lmasÄ± iÃ§in kullanÄ±lÄ±r. **Girilmesi Zorunludur.**
+
+**Raf Takibi:** Raf takibi yapÄ±lÄ±p yapÄ±lmayacaÄŸÄ±nÄ± belirler. *Girilmesi Zorunludur.**
+
+**Paket Takibi:** Paket takibi yapÄ±lÄ±p yapÄ±lmayacaÄŸÄ±nÄ± belirler. *Girilmesi Zorunludur.**
 
 
-Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna basarak Stok kartı açma işlemimizi tamamlayabilirsiniz.
+### GeliÅŸmiÅŸ
+
+**Åirket-Åube:**  KartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](/TemelOzellikler/SirketSubeKart.md "Åirket-Åube")
+
+**Durum:** KartÄ±n kullanabilirliÄŸini belirtir. Pasif kartlar iÅŸlemde kullanÄ±lamaz.
+
+**GTIP:** Ä°hracat tipindeki e-faturalarda, stoÄŸa ait GTIP deÄŸerinin doldurulmasÄ± zorunludur.
+
+**Harici Depo Miktar:** Depo dÄ±ÅŸÄ±nda kalan miktarÄ± belirtir.
+
+**Hizmet Mi:** Bu seÃ§enek hizmet takibi olarak seÃ§ilirse miktar takibi yapÄ±lmaz, depoda gÃ¶zÃ¼kmez, eski bakiye kontrolÃ¼ yapÄ±lmaz.
+
+**Stok KÄ±sa Kodu:** Raporlama iÃ§in gereklidir. 
+
+**Stok KÄ±sa AdÄ±:** Raporlama iÃ§in gereklidir. 
+
+**Kargo Ã¼creti:** Kargo Ã¼creti 
+
+**StandartMÄ±:** Stok kartÄ±nÄ±n standart stok olarak deÄŸerlendirilmesini saÄŸlar. Filtreleyerek bulmamÄ±zÄ± kolaylaÅŸtÄ±rÄ±r. 
+
+
+### AÃ§Ä±klamalar
+
+Bu kÄ±sma stok ile ilgili aÃ§Ä±klama eklenebilir.
+
+
+DoldurulmasÄ± gereken alanlar girildikten sonra saÄŸ alt kÃ¶ÅŸede bulunan Kaydet butonuna basarak Stok kartÄ± aÃ§ma iÅŸlemimizi tamamlayabilirsiniz.

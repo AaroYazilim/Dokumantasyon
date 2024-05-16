@@ -1,65 +1,65 @@
 
-# Alış İrsaliyesi
+# AlÄ±ÅŸ Ä°rsaliyesi
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'Alış irsaliyesi' aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Alış İrsaliyesi şeklinde ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Satış&Pazarlama -> Hareket Oluştur -> Alış İrsaliyesi şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan 'AlÄ±ÅŸ irsaliyesi' aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol sekmede yer alan modÃ¼ller kÄ±smÄ±ndan Musteri/Satici -> Hareket OluÅŸtur -> SatÄ±ÅŸ ve Pazarlama -> AlÄ±ÅŸ Ä°rsaliyesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol sekmede yer alan modÃ¼ller kÄ±smÄ±ndan SatÄ±ÅŸ&Pazarlama -> Hareket OluÅŸtur -> AlÄ±ÅŸ Ä°rsaliyesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-## Tanım
+## TanÄ±m
 
-Alış irsaliyesi, bir işletmenin tedarikçisinden satın aldığı mal veya hizmetin teslimatının yapıldığını belgeleyen resmi bir evraktır. 
-Alış irsaliyesi genellikle malın veya hizmetin sevkiyatı sırasında tedarikçi tarafından düzenlenir ve müşteriye (alıcıya) iletilir. 
-Bu belge, işletmenin stok yönetimi, muhasebe kayıtları ve ticari ilişkileri düzenlemek için kullanılır.
+AlÄ±ÅŸ irsaliyesi, bir iÅŸletmenin tedarikÃ§isinden satÄ±n aldÄ±ÄŸÄ± mal veya hizmetin teslimatÄ±nÄ±n yapÄ±ldÄ±ÄŸÄ±nÄ± belgeleyen resmi bir evraktÄ±r. 
+AlÄ±ÅŸ irsaliyesi genellikle malÄ±n veya hizmetin sevkiyatÄ± sÄ±rasÄ±nda tedarikÃ§i tarafÄ±ndan dÃ¼zenlenir ve mÃ¼ÅŸteriye (alÄ±cÄ±ya) iletilir. 
+Bu belge, iÅŸletmenin stok yÃ¶netimi, muhasebe kayÄ±tlarÄ± ve ticari iliÅŸkileri dÃ¼zenlemek iÃ§in kullanÄ±lÄ±r.
 
-Alış irsaliyesi genellikle şu bilgileri içerir:
+AlÄ±ÅŸ irsaliyesi genellikle ÅŸu bilgileri iÃ§erir:
 
-- **Tedarikçi Bilgileri:** İrsaliyenin düzenlendiği tedarikçinin adı, adresi ve iletişim bilgileri.
+- **TedarikÃ§i Bilgileri:** Ä°rsaliyenin dÃ¼zenlendiÄŸi tedarikÃ§inin adÄ±, adresi ve iletiÅŸim bilgileri.
 
-- **Alıcı Bilgileri:** Malın veya hizmetin teslim edildiği alıcının adı, adresi ve iletişim bilgileri.
+- **AlÄ±cÄ± Bilgileri:** MalÄ±n veya hizmetin teslim edildiÄŸi alÄ±cÄ±nÄ±n adÄ±, adresi ve iletiÅŸim bilgileri.
 
-- **Ürün/Hizmet Bilgileri:** Teslim edilen ürün veya hizmetin detayları, miktarı, birim fiyatı ve toplam tutarı gibi bilgiler.
+- **ÃœrÃ¼n/Hizmet Bilgileri:** Teslim edilen Ã¼rÃ¼n veya hizmetin detaylarÄ±, miktarÄ±, birim fiyatÄ± ve toplam tutarÄ± gibi bilgiler.
 
-- **Sevkiyat Bilgileri:** Ürünlerin teslim edildiği yer, tarih ve zaman gibi bilgiler.
+- **Sevkiyat Bilgileri:** ÃœrÃ¼nlerin teslim edildiÄŸi yer, tarih ve zaman gibi bilgiler.
 
-- **Irsaliye Numarası ve Tarihi:** İrsaliyenin benzersiz bir numarası ve düzenlenme tarihi.
+- **Irsaliye NumarasÄ± ve Tarihi:** Ä°rsaliyenin benzersiz bir numarasÄ± ve dÃ¼zenlenme tarihi.
 
-Alış irsaliyesi, alınan mal veya hizmetin teslimatını belgelemek için önemlidir. 
-Bu belge, işletmenin stok hareketlerini takip etmesine, muhasebe kayıtlarını düzenlemesine ve ödeme işlemlerini gerçekleştirmesine yardımcı olur. 
-Ayrıca, alış irsaliyesi, tedarikçi ile yapılan anlaşmalarda anlaşmazlıkların çözülmesine ve iade veya değişim işlemlerinin yönetilmesine yardımcı olur.
+AlÄ±ÅŸ irsaliyesi, alÄ±nan mal veya hizmetin teslimatÄ±nÄ± belgelemek iÃ§in Ã¶nemlidir. 
+Bu belge, iÅŸletmenin stok hareketlerini takip etmesine, muhasebe kayÄ±tlarÄ±nÄ± dÃ¼zenlemesine ve Ã¶deme iÅŸlemlerini gerÃ§ekleÅŸtirmesine yardÄ±mcÄ± olur. 
+AyrÄ±ca, alÄ±ÅŸ irsaliyesi, tedarikÃ§i ile yapÄ±lan anlaÅŸmalarda anlaÅŸmazlÄ±klarÄ±n Ã§Ã¶zÃ¼lmesine ve iade veya deÄŸiÅŸim iÅŸlemlerinin yÃ¶netilmesine yardÄ±mcÄ± olur.
 
-### Ek İşlem Butonu 
+### Ek Ä°ÅŸlem Butonu 
 
-[Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle")
+[Anasayfaya KÄ±sayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya KÄ±sayol Olarak Ekle")
 
 ### Genel 
 
-- **Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](/TemelOzellikler/SirketSubeHareket.md "Şirket-Şube")
-- **Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
-- **Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
-- **Satıcı:** İşlemin yapıldığı cari kartını ifade eder. **Girilmesi Zorunludur.**
-- **Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
-- **Depo:** Bu işlemin kullanıldığı depoyu belirtir.
-- **Vade:** İşlemin yapıldığı vadeyi belirtir.
-- **Açıklama:** İşleme ait açıklamayı belirtir.
-- **KDV Dahil:** Kalemlerde birim fiyat ve tutarın 'KDV Dahil' olduğunu belirtir.
+- **Åirket-Åube:** Bu kartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. [Åirket-Åube](/TemelOzellikler/SirketSubeHareket.md "Åirket-Åube")
+- **Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir. **Girilmesi Zorunludur.**
+- **Belge No:** Belge NumarasÄ±nÄ± ifade eder. Otomatik sÄ±radaki numara gelir. Ä°stenirse seri kullanÄ±labilir.
+- **SatÄ±cÄ±:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± cari kartÄ±nÄ± ifade eder. **Girilmesi Zorunludur.**
+- **DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinisini belirtir.
+- **Depo:** Bu iÅŸlemin kullanÄ±ldÄ±ÄŸÄ± depoyu belirtir.
+- **Vade:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± vadeyi belirtir.
+- **AÃ§Ä±klama:** Ä°ÅŸleme ait aÃ§Ä±klamayÄ± belirtir.
+- **KDV Dahil:** Kalemlerde birim fiyat ve tutarÄ±n 'KDV Dahil' olduÄŸunu belirtir.
 
 ### Detay
 
-- **Beklenen Tahsilat ve Ödemeler:**
+- **Beklenen Tahsilat ve Ã–demeler:**
 - **Alt Tip:** Alt hareket tipini belirtir.
-- **Sözleşme:** Bu hareketin hangi sözleşmeye ait olduğunu gösterir.
-- **Proje: Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir.
-- **Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir.
-- **Cari Adres:** Carinin adresini belirtir. Farklı adrese gönderilecekse seçilmelidir. Kalemlerde değiştirilebilir.
-- **Ref. İthalat İhracat:** Bu hareket bir ithalat yada ihracat ise seçilmelidir. Hangi ithlata veya ihracata ait odluğunu belirtir. Kalemlerde Değiştirilebilir.
-- **Teslim Tarihi:** Bu siparişin teslim edildiği tarihi belirtir.
+- **SÃ¶zleÅŸme:** Bu hareketin hangi sÃ¶zleÅŸmeye ait olduÄŸunu gÃ¶sterir.
+- **Proje: Bu hareketin hangi projeye ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir.
+- **Plasiyer:** Bu hareketin hangi plasiyere ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir.
+- **Cari Adres:** Carinin adresini belirtir. FarklÄ± adrese gÃ¶nderilecekse seÃ§ilmelidir. Kalemlerde deÄŸiÅŸtirilebilir.
+- **Ref. Ä°thalat Ä°hracat:** Bu hareket bir ithalat yada ihracat ise seÃ§ilmelidir. Hangi ithlata veya ihracata ait odluÄŸunu belirtir. Kalemlerde DeÄŸiÅŸtirilebilir.
+- **Teslim Tarihi:** Bu sipariÅŸin teslim edildiÄŸi tarihi belirtir.
 
-### Açıklamalar
+### AÃ§Ä±klamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+- **AÃ§Ä±klamalar:** Ek aÃ§Ä±klamalarÄ± belirtir. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lÄ±r. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")

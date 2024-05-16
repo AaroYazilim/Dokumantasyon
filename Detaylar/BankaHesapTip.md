@@ -1,27 +1,27 @@
 
 ## Tip
 
-Banka hesap kartının "tipi" alanı, Cari, Pos veya Kredi gibi seçeneklerden birini belirtir. 
-Bu seçeneklerden Pos ve Kredi için bir adet cari tipi banka hesabı açılması gerekmektedir.
-Bu durum, Pos veya Kredi tipindeki banka hesaplarının işlem yapabilmeleri için bir aracı hesaba ihtiyaç duymalarından kaynaklanır. 
-Bu aracı hesap cari tipinde bir banka hesabıdır. 
-Dolayısıyla, Pos veya Kredi hesaplarından herhangi biri kullanılmak istendiğinde, bu hesaplarla ilişkilendirilmek üzere bir cari tipinde banka hesabı açılmalıdır.
-Bu yaklaşım, işletmelerin tüm banka hesaplarını etkin bir şekilde yönetmelerini sağlar ve özellikle Pos veya Kredi işlemleri için gereken altyapıyı sağlar. 
+Banka hesap kartÄ±nÄ±n "tipi" alanÄ±, Cari, Pos veya Kredi gibi seÃ§eneklerden birini belirtir. 
+Bu seÃ§eneklerden Pos ve Kredi iÃ§in bir adet cari tipi banka hesabÄ± aÃ§Ä±lmasÄ± gerekmektedir.
+Bu durum, Pos veya Kredi tipindeki banka hesaplarÄ±nÄ±n iÅŸlem yapabilmeleri iÃ§in bir aracÄ± hesaba ihtiyaÃ§ duymalarÄ±ndan kaynaklanÄ±r. 
+Bu aracÄ± hesap cari tipinde bir banka hesabÄ±dÄ±r. 
+DolayÄ±sÄ±yla, Pos veya Kredi hesaplarÄ±ndan herhangi biri kullanÄ±lmak istendiÄŸinde, bu hesaplarla iliÅŸkilendirilmek Ã¼zere bir cari tipinde banka hesabÄ± aÃ§Ä±lmalÄ±dÄ±r.
+Bu yaklaÅŸÄ±m, iÅŸletmelerin tÃ¼m banka hesaplarÄ±nÄ± etkin bir ÅŸekilde yÃ¶netmelerini saÄŸlar ve Ã¶zellikle Pos veya Kredi iÅŸlemleri iÃ§in gereken altyapÄ±yÄ± saÄŸlar. 
 
-#### Detaylarıyla açıklamak gerekirse:
+#### DetaylarÄ±yla aÃ§Ä±klamak gerekirse:
 
-**Cari Tipi Banka Hesabı:**
-Cari hesaplar genellikle işletmelerin günlük nakit akışını yönetmek için kullanılır. 
-Gelir ve giderlerin izlenmesi, bu hesap üzerinden gerçekleşir. 
-İşletmeler, müşterilerden gelen ödemeleri bu hesap üzerinden alır ve tedarikçilere ödemelerini yapar. 
-Cari hesaplar, işletmenin finansal işlemlerini genel olarak yönetir.
+**Cari Tipi Banka HesabÄ±:**
+Cari hesaplar genellikle iÅŸletmelerin gÃ¼nlÃ¼k nakit akÄ±ÅŸÄ±nÄ± yÃ¶netmek iÃ§in kullanÄ±lÄ±r. 
+Gelir ve giderlerin izlenmesi, bu hesap Ã¼zerinden gerÃ§ekleÅŸir. 
+Ä°ÅŸletmeler, mÃ¼ÅŸterilerden gelen Ã¶demeleri bu hesap Ã¼zerinden alÄ±r ve tedarikÃ§ilere Ã¶demelerini yapar. 
+Cari hesaplar, iÅŸletmenin finansal iÅŸlemlerini genel olarak yÃ¶netir.
 
-**Pos Tipi Banka Hesabı:**
-Pos hesapları, işletmelerin kredi kartı veya banka kartıyla yapılan işlemleri işlemek için kullanılır. 
-Ancak, kredi kartı veya banka kartı işlemleri doğrudan Cari hesabına geçmez; bunun yerine, bir pos hesap aracılığıyla geçer. 
-Dolayısıyla, Pos hesaplarının işlem yapabilmesi için bir cari hesap gereklidir.
+**Pos Tipi Banka HesabÄ±:**
+Pos hesaplarÄ±, iÅŸletmelerin kredi kartÄ± veya banka kartÄ±yla yapÄ±lan iÅŸlemleri iÅŸlemek iÃ§in kullanÄ±lÄ±r. 
+Ancak, kredi kartÄ± veya banka kartÄ± iÅŸlemleri doÄŸrudan Cari hesabÄ±na geÃ§mez; bunun yerine, bir pos hesap aracÄ±lÄ±ÄŸÄ±yla geÃ§er. 
+DolayÄ±sÄ±yla, Pos hesaplarÄ±nÄ±n iÅŸlem yapabilmesi iÃ§in bir cari hesap gereklidir.
 
-**Kredi Tipi Banka Hesabı:**
-Kredi hesapları, işletmelerin bankadan kredi almak veya kredi kartı üzerinden kredi kullanmak için kullanılır. 
-Bu tür hesaplar, işletmenin finansal ihtiyaçlarını karşılamak için ek bir kaynak sağlar. 
-Kredi hesaplarının işlem yapabilmesi için bir cari hesap gereklidir.
+**Kredi Tipi Banka HesabÄ±:**
+Kredi hesaplarÄ±, iÅŸletmelerin bankadan kredi almak veya kredi kartÄ± Ã¼zerinden kredi kullanmak iÃ§in kullanÄ±lÄ±r. 
+Bu tÃ¼r hesaplar, iÅŸletmenin finansal ihtiyaÃ§larÄ±nÄ± karÅŸÄ±lamak iÃ§in ek bir kaynak saÄŸlar. 
+Kredi hesaplarÄ±nÄ±n iÅŸlem yapabilmesi iÃ§in bir cari hesap gereklidir.

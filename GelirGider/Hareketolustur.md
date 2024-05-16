@@ -5,8 +5,8 @@
 
 - [Bankadan Gider Hareketi](/TemelHareketler/BankadanGiderHareketi.md "Bankadan Gider Hareketi")
 - [Banka Gelir Hareketi](TemelHareketler/BankaGelirHareketi.md "Banka Gelir Hareketi")
-- [Satış Faturası](/TemelHareketler/SatisFaturasi.md "Satış Faturası")
-- [Alış Faturası](TemelHareketler/AlisFaturasi.md "Alış Faturası")
+- [SatÄ±ÅŸ FaturasÄ±](/TemelHareketler/SatisFaturasi.md "SatÄ±ÅŸ FaturasÄ±")
+- [AlÄ±ÅŸ FaturasÄ±](TemelHareketler/AlisFaturasi.md "AlÄ±ÅŸ FaturasÄ±")
 - [Kasadan Gider Hareketi](/TemelHareketler/KasadanGiderHareketi.md "Kasadan Gider Hareketi")
 - [Kasa Gelir Hareketi](/TemelHareketler/KasaGelirHareketi.md "Kasa Gelir Hareketi")
 - [Karma Transfer Hareketi](/TemelHareketler/KarmaTransferHareketi.md "Karma Transfer Hareketi")
@@ -24,33 +24,33 @@
 
 ### Fatura
 
-- [Satış Faturası](/TemelHareketler/SatisFaturasi.md "Satış Faturası")
-- [Alış Faturası](TemelHareketler/AlisFaturasi.md "Alış Faturası")
-- [Satış İade Faturası](/TemelHareketler/SatisİadeFaturasi.md "Satış İade Faturası")
-- [Alış İade Faturası](/TemelHareketler/AlisİadeFaturasi.md "Alış İade Faturası")
+- [SatÄ±ÅŸ FaturasÄ±](/TemelHareketler/SatisFaturasi.md "SatÄ±ÅŸ FaturasÄ±")
+- [AlÄ±ÅŸ FaturasÄ±](TemelHareketler/AlisFaturasi.md "AlÄ±ÅŸ FaturasÄ±")
+- [SatÄ±ÅŸ Ä°ade FaturasÄ±](/TemelHareketler/SatisÄ°adeFaturasi.md "SatÄ±ÅŸ Ä°ade FaturasÄ±")
+- [AlÄ±ÅŸ Ä°ade FaturasÄ±](/TemelHareketler/AlisÄ°adeFaturasi.md "AlÄ±ÅŸ Ä°ade FaturasÄ±")
 
-### İrsaliye
+### Ä°rsaliye
 
-- [Satış İrsaliyesi](/TemelHareketler/Satisİrsaliyesi.md "Satış İrsaliyesi")
-- [Alış İrsaliyesi](TemelHareketler/Alisİrsaliyesi.md "Alış İrsaliyesi")
-- [Satış İade İrsaliyesi](/TemelHareketler/SatisİadeFaturasi.md "Satış İade İrsaliyesi")
-- [Alış İade İrsaliyesi](/TemelHareketler/AlisİadeFaturasi.md "Alış İade İrsaliyesi")
+- [SatÄ±ÅŸ Ä°rsaliyesi](/TemelHareketler/SatisÄ°rsaliyesi.md "SatÄ±ÅŸ Ä°rsaliyesi")
+- [AlÄ±ÅŸ Ä°rsaliyesi](TemelHareketler/AlisÄ°rsaliyesi.md "AlÄ±ÅŸ Ä°rsaliyesi")
+- [SatÄ±ÅŸ Ä°ade Ä°rsaliyesi](/TemelHareketler/SatisÄ°adeFaturasi.md "SatÄ±ÅŸ Ä°ade Ä°rsaliyesi")
+- [AlÄ±ÅŸ Ä°ade Ä°rsaliyesi](/TemelHareketler/AlisÄ°adeFaturasi.md "AlÄ±ÅŸ Ä°ade Ä°rsaliyesi")
 
-### Sipariş
+### SipariÅŸ
 
-- [Alınan Sipariş](/TemelHareketler/AlinanSiparis.md "Alınan Sipariş")
-- [Verilen Sipariş](TemelHareketler/VerilenSiparis.md "Verilen Sipariş")
+- [AlÄ±nan SipariÅŸ](/TemelHareketler/AlinanSiparis.md "AlÄ±nan SipariÅŸ")
+- [Verilen SipariÅŸ](TemelHareketler/VerilenSiparis.md "Verilen SipariÅŸ")
 
 ### Teklif
 
-- [Alınan Teklif](/TemelHareketler/AlinanTeklif.md "Alınan Teklif")
+- [AlÄ±nan Teklif](/TemelHareketler/AlinanTeklif.md "AlÄ±nan Teklif")
 - [Verilen Teklif](TemelHareketler/VerilenTeklif.md "Verilen Teklif")
 
-### Diğerleri
+### DiÄŸerleri
 
-- [Depolar Arası Transfer](/TemelHareketler/DepolarArasiTransfer.md "Depolar Arası Transfer")
-- [Depolar Arası Transfer (Doğrudan Sevk)](TemelHareketler/DepolarArasiTransferDogrudanSevk.md "Depolar Arası Transfer (Doğrudan Sevk)")
-- [Sayım Farkı İşlemi](/TemelHareketler/SayimFarkiIslemi.md "Sayım Farkı İşlemi")
+- [Depolar ArasÄ± Transfer](/TemelHareketler/DepolarArasiTransfer.md "Depolar ArasÄ± Transfer")
+- [Depolar ArasÄ± Transfer (DoÄŸrudan Sevk)](TemelHareketler/DepolarArasiTransferDogrudanSevk.md "Depolar ArasÄ± Transfer (DoÄŸrudan Sevk)")
+- [SayÄ±m FarkÄ± Ä°ÅŸlemi](/TemelHareketler/SayimFarkiIslemi.md "SayÄ±m FarkÄ± Ä°ÅŸlemi")
 - [Devir](/TemelHareketler/Devir.md "Devir")
 - [Karma Transfer Hareketi](/TemelHareketler/KarmaTransferHareketi.md "Karma Transfer Hareketi")
-- [Kur Farkı Hareketi](/TemelHareketler/KurFarkiHareketi.md "Kur Farkı Hareketi")
+- [Kur FarkÄ± Hareketi](/TemelHareketler/KurFarkiHareketi.md "Kur FarkÄ± Hareketi")

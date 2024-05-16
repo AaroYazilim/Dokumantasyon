@@ -1,27 +1,27 @@
 
 # Otomatik Planlama
 
-Otomatik planlama istem tarafından kullanılacak olan verilerin toplanmasıyla başlar.
-Veriler üretim planı, stok seviyeleri, tedarikçi bilgileri, talep tahminleri gibi çeşitli kaynaklardan gelir. 
-Veriler daha sonra analiz edilir ve işlenir.
-Otomatik planlama süreci, üretilecek ürünlerin bileşenlerini, her bir ürün için hangi malzemelerin gerektiğini, bu malzemelerin hangi tedarikçilerden temin edileceği gibi bilgileri belirler.
-Mevcut makine ve işgücü kapasiteleri göz önüne alınarak, belirli bir zaman diliminde hangi ürünlerin ne kadarının üretilebileceğini hesaplar.
-Otomatik planlama işlem süresi için takvim - personel kartıyla eşleştirir.
-Takvime göre diyelim ki;
-A tarihinde 540 dk çalışılır,
-B tarihinde 450 dk çalışılır,
-C tarihinde çalışılmaz. 
-İşçi takvimi girilir, elimizde ki verilerde yer alan saatlere göre otomatik planlama yapılır.
-Otomatik planlama boşta olan her makineyi değerlendirerek alternatif makinelere eşit şekilde işi dağıtır.
+Otomatik planlama istem tarafÄ±ndan kullanÄ±lacak olan verilerin toplanmasÄ±yla baÅŸlar.
+Veriler Ã¼retim planÄ±, stok seviyeleri, tedarikÃ§i bilgileri, talep tahminleri gibi Ã§eÅŸitli kaynaklardan gelir. 
+Veriler daha sonra analiz edilir ve iÅŸlenir.
+Otomatik planlama sÃ¼reci, Ã¼retilecek Ã¼rÃ¼nlerin bileÅŸenlerini, her bir Ã¼rÃ¼n iÃ§in hangi malzemelerin gerektiÄŸini, bu malzemelerin hangi tedarikÃ§ilerden temin edileceÄŸi gibi bilgileri belirler.
+Mevcut makine ve iÅŸgÃ¼cÃ¼ kapasiteleri gÃ¶z Ã¶nÃ¼ne alÄ±narak, belirli bir zaman diliminde hangi Ã¼rÃ¼nlerin ne kadarÄ±nÄ±n Ã¼retilebileceÄŸini hesaplar.
+Otomatik planlama iÅŸlem sÃ¼resi iÃ§in takvim - personel kartÄ±yla eÅŸleÅŸtirir.
+Takvime gÃ¶re diyelim ki;
+A tarihinde 540 dk Ã§alÄ±ÅŸÄ±lÄ±r,
+B tarihinde 450 dk Ã§alÄ±ÅŸÄ±lÄ±r,
+C tarihinde Ã§alÄ±ÅŸÄ±lmaz. 
+Ä°ÅŸÃ§i takvimi girilir, elimizde ki verilerde yer alan saatlere gÃ¶re otomatik planlama yapÄ±lÄ±r.
+Otomatik planlama boÅŸta olan her makineyi deÄŸerlendirerek alternatif makinelere eÅŸit ÅŸekilde iÅŸi daÄŸÄ±tÄ±r.
 
-Vardiyaları parametreler kısmından değiştirebilir 2 ya da 3 vardiya olarak değişiklik yapabiliriz.
+VardiyalarÄ± parametreler kÄ±smÄ±ndan deÄŸiÅŸtirebilir 2 ya da 3 vardiya olarak deÄŸiÅŸiklik yapabiliriz.
 
-Vardiya parametresine ulaşım için;
-Sol sekmeden Modüller -> Ayarlar -> Parametre Listesi -> Uretim_VardiyaSayisi -> Büyüteç -> Değer buradan veri değişikliği yapabilirsiniz.
-Kaç vardiya çalıyor iseniz; normal ise 1, 2 vardiya çalışıyorsanız 2, 3 vardiyalı çalışıyorsanız 3 değerini girerek vardiyanızı seçebilirsiniz.
+Vardiya parametresine ulaÅŸÄ±m iÃ§in;
+Sol sekmeden ModÃ¼ller -> Ayarlar -> Parametre Listesi -> Uretim_VardiyaSayisi -> BÃ¼yÃ¼teÃ§ -> DeÄŸer buradan veri deÄŸiÅŸikliÄŸi yapabilirsiniz.
+KaÃ§ vardiya Ã§alÄ±yor iseniz; normal ise 1, 2 vardiya Ã§alÄ±ÅŸÄ±yorsanÄ±z 2, 3 vardiyalÄ± Ã§alÄ±ÅŸÄ±yorsanÄ±z 3 deÄŸerini girerek vardiyanÄ±zÄ± seÃ§ebilirsiniz.
 
-Otomatik planlama süreci sonunda elde edilen planlama sonuçları değerlendirilir. 
-Bu değerlendirme, planlama hedeflerinize ne kadar uygun olduğunu, maliyet etkinliğini ve diğer performans ölçütlerini içerir.
-Otomatik planlamanın oluştuğu takvimde planma değişikliği yapabilirsiniz.
+Otomatik planlama sÃ¼reci sonunda elde edilen planlama sonuÃ§larÄ± deÄŸerlendirilir. 
+Bu deÄŸerlendirme, planlama hedeflerinize ne kadar uygun olduÄŸunu, maliyet etkinliÄŸini ve diÄŸer performans Ã¶lÃ§Ã¼tlerini iÃ§erir.
+Otomatik planlamanÄ±n oluÅŸtuÄŸu takvimde planma deÄŸiÅŸikliÄŸi yapabilirsiniz.
 
-[İş Emri Ekleme](/Uretim/YeniIsEmri.md "İş Emri Ekleme") yaparak otomatik planlamaya ulaşım sağlayabilirsiniz. 
+[Ä°ÅŸ Emri Ekleme](/Uretim/YeniIsEmri.md "Ä°ÅŸ Emri Ekleme") yaparak otomatik planlamaya ulaÅŸÄ±m saÄŸlayabilirsiniz. 

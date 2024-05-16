@@ -1,2 +1,2 @@
-## Kısayollar
-Hareket kayıtlarında kısayollar hareketin ilgili olduğu raporlara hızlıca erişilmesini sağlamaktadır. Örneğin Alınan siparişte kısayollarda bulunan **’Sipariş için gerekli stok durumu’** raporu ile o siparişin stok durumları hızlıca kontrol edilebilir, eksiklikler ve fazlalıklara göre aksiyon alınabilmektedir. 
+## KÄ±sayollar
+Hareket kayÄ±tlarÄ±nda kÄ±sayollar hareketin ilgili olduÄŸu raporlara hÄ±zlÄ±ca eriÅŸilmesini saÄŸlamaktadÄ±r. Ã–rneÄŸin AlÄ±nan sipariÅŸte kÄ±sayollarda bulunan **â€™SipariÅŸ iÃ§in gerekli stok durumuâ€™** raporu ile o sipariÅŸin stok durumlarÄ± hÄ±zlÄ±ca kontrol edilebilir, eksiklikler ve fazlalÄ±klara gÃ¶re aksiyon alÄ±nabilmektedir. 

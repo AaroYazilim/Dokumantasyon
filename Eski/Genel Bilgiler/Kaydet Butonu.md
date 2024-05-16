@@ -1,2 +1,2 @@
 ## Kaydet Butonu
-Hareketi kaydetmeyi sağlamaktadır. Yanında bulunan ok ile **’kaydet ve yeni aç’** seçeneği ile üst üste eklemek gereken kayıtlarda kaydet kapat tekrar aç yapmak yerine kaydedip yeni sayfa açarak yeni kaydı oluşturmaya olanak sağlamaktadır. 
+Hareketi kaydetmeyi saÄŸlamaktadÄ±r. YanÄ±nda bulunan ok ile **â€™kaydet ve yeni aÃ§â€™** seÃ§eneÄŸi ile Ã¼st Ã¼ste eklemek gereken kayÄ±tlarda kaydet kapat tekrar aÃ§ yapmak yerine kaydedip yeni sayfa aÃ§arak yeni kaydÄ± oluÅŸturmaya olanak saÄŸlamaktadÄ±r. 

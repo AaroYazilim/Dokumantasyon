@@ -1,14 +1,14 @@
 
 ## Kart Kodu;
 
-Kartın kendine özel kodudur. Seri takibi yapılabilir.
-İstediğiniz kodu verebilirsiniz ya da sistemin size vermiş olduğu kodu kullanım sağlayabilirsiniz.
+KartÄ±n kendine Ã¶zel kodudur. Seri takibi yapÄ±labilir.
+Ä°stediÄŸiniz kodu verebilirsiniz ya da sistemin size vermiÅŸ olduÄŸu kodu kullanÄ±m saÄŸlayabilirsiniz.
 
-Kart kodu, belirli bir kaydı veya varlığı benzersiz bir şekilde tanımlayan ve ayırt eden bir numaradır veya kodudur. 
-Bu kodlar, genellikle işletmenin içinde kullanılan ve farklı kayıtları veya varlıkları tanımlamak için kullanılan alfasayısal veya sayısal bir dizedir.
-Kart kodları, işletme içindeki çeşitli kayıtları veya varlıkları (örneğin, müşteriler, tedarikçiler, ürünler, departmanlar) tanımlamak için kullanılır. 
-Her bir kayıt veya varlık için benzersiz bir kart kodu atanır ve bu kodlar genellikle otomatik olarak veya elle oluşturulur.
+Kart kodu, belirli bir kaydÄ± veya varlÄ±ÄŸÄ± benzersiz bir ÅŸekilde tanÄ±mlayan ve ayÄ±rt eden bir numaradÄ±r veya kodudur. 
+Bu kodlar, genellikle iÅŸletmenin iÃ§inde kullanÄ±lan ve farklÄ± kayÄ±tlarÄ± veya varlÄ±klarÄ± tanÄ±mlamak iÃ§in kullanÄ±lan alfasayÄ±sal veya sayÄ±sal bir dizedir.
+Kart kodlarÄ±, iÅŸletme iÃ§indeki Ã§eÅŸitli kayÄ±tlarÄ± veya varlÄ±klarÄ± (Ã¶rneÄŸin, mÃ¼ÅŸteriler, tedarikÃ§iler, Ã¼rÃ¼nler, departmanlar) tanÄ±mlamak iÃ§in kullanÄ±lÄ±r. 
+Her bir kayÄ±t veya varlÄ±k iÃ§in benzersiz bir kart kodu atanÄ±r ve bu kodlar genellikle otomatik olarak veya elle oluÅŸturulur.
 
-Kart kodları, kayıtların izlenmesini, sınıflandırılmasını ve yönetilmesini kolaylaştırır. 
-Ayrıca, bu kodlar sayesinde işletme içindeki çeşitli süreçlerde hızlı erişim ve tanımlama sağlanır. 
-Örneğin, bir müşteri veya ürün kartı için atanmış olan kart kodu, ilgili kaydı kolayca bulmaya veya işlemleri hızlı bir şekilde tamamlamaya olanak tanır.
+Kart kodlarÄ±, kayÄ±tlarÄ±n izlenmesini, sÄ±nÄ±flandÄ±rÄ±lmasÄ±nÄ± ve yÃ¶netilmesini kolaylaÅŸtÄ±rÄ±r. 
+AyrÄ±ca, bu kodlar sayesinde iÅŸletme iÃ§indeki Ã§eÅŸitli sÃ¼reÃ§lerde hÄ±zlÄ± eriÅŸim ve tanÄ±mlama saÄŸlanÄ±r. 
+Ã–rneÄŸin, bir mÃ¼ÅŸteri veya Ã¼rÃ¼n kartÄ± iÃ§in atanmÄ±ÅŸ olan kart kodu, ilgili kaydÄ± kolayca bulmaya veya iÅŸlemleri hÄ±zlÄ± bir ÅŸekilde tamamlamaya olanak tanÄ±r.

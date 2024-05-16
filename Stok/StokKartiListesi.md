@@ -1,27 +1,27 @@
 
-# Stok Kartı Listesi
+# Stok KartÄ± Listesi
 
-### Ulaşım
+### UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "stok kartı listesi" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Stok -> Stok Modülü -> Stok Kartı Listesi buradan ulaşım sağlayabilirsiniz. 
-- Sol menüden Stok -> Stok Modülü -> Kartlar -> Stok Kartı Listesi buradan ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "stok kartÄ± listesi" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Stok -> Stok ModÃ¼lÃ¼ -> Stok KartÄ± Listesi buradan ulaÅŸÄ±m saÄŸlayabilirsiniz. 
+- Sol menÃ¼den Stok -> Stok ModÃ¼lÃ¼ -> Kartlar -> Stok KartÄ± Listesi buradan ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 
-### Tanım 
+### TanÄ±m 
 
-- Stok kartlarının genel bilgilerini bu sayfadan görüntüleyebilirsiniz.[Stok Kartı](/Stok/StokKarti.md "Stok Kartı")
-- Stok kartlarının güncel bakiyelerini görüntüleyebilirsiniz.
-- Mevcut stok kartlarını düzenleyebilir, silebilir veya yeni stok bu sayfadan ekleyebilirsiniz.
+- Stok kartlarÄ±nÄ±n genel bilgilerini bu sayfadan gÃ¶rÃ¼ntÃ¼leyebilirsiniz.[Stok KartÄ±](/Stok/StokKarti.md "Stok KartÄ±")
+- Stok kartlarÄ±nÄ±n gÃ¼ncel bakiyelerini gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
+- Mevcut stok kartlarÄ±nÄ± dÃ¼zenleyebilir, silebilir veya yeni stok bu sayfadan ekleyebilirsiniz.
 
-### Ek Özellikler 
+### Ek Ã–zellikler 
 
-- Sayfanın üst kısmında bulunan [Filtreleme](/TemelOzellikler/SayfaKisitlari.md  "Filtreleme") özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
-- Sayfada ki listeyi [Özel Listeleme](/TemelOzellikler/ListeNesnesi.md  "Özel Listeleme") sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
+- SayfanÄ±n Ã¼st kÄ±smÄ±nda bulunan [Filtreleme](/TemelOzellikler/SayfaKisitlari.md  "Filtreleme") Ã¶zelliÄŸi ile gelen veriyi istediÄŸiniz ÅŸekilde sÄ±nÄ±rlandÄ±rabilirsiniz.
+- Sayfada ki listeyi [Ã–zel Listeleme](/TemelOzellikler/ListeNesnesi.md  "Ã–zel Listeleme") sÄ±ralayabilir, yeniden boyutlandÄ±rabilir ve sayfa sayfa gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
 
-### Ek İşlem Butonu
+### Ek Ä°ÅŸlem Butonu
 
-- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- [Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle")
-- [Grid Sütunları Ayarla](/TemelOzellikler/GridSutunAyarlari.md "Grid Sütunları Ayarla")
+- SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan alt altta Ã¼Ã§ Ã§izgi ÅŸeklinde olan dÃ¼ÄŸme ile ek iÅŸlemlere ulaÅŸÄ±lÄ±r.
+- [Anasayfaya KÄ±sayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya KÄ±sayol Olarak Ekle")
+- [Grid SÃ¼tunlarÄ± Ayarla](/TemelOzellikler/GridSutunAyarlari.md "Grid SÃ¼tunlarÄ± Ayarla")
 - [Listeyi Excele Aktar](/TemelOzellikler/ListeyiExceleAktar.md "Listeyi Excele Aktar")
 

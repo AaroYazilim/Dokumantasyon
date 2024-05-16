@@ -1,2 +1,2 @@
-## Modüller Sekmesi
-Sol panelde bulunan **’Modüller’** sekmesi ileayarlar, banka, bayi, çek senet, demirbaş, e-dönüşüm, gelir gider, görevler, iş akış yönetimi, kasa, muhasebe, müşteri satıcı, personel, rapor, satın alma, satış pazarlama, stok, üretim modüllerine ulaşabilir aynı zamanda kullanım videolarına erişim sağlanabilmektedir. Bu bölümde destek talebinde de bulunulabilmektedir. 
+## ModÃ¼ller Sekmesi
+Sol panelde bulunan **â€™ModÃ¼llerâ€™** sekmesi ileayarlar, banka, bayi, Ã§ek senet, demirbaÅŸ, e-dÃ¶nÃ¼ÅŸÃ¼m, gelir gider, gÃ¶revler, iÅŸ akÄ±ÅŸ yÃ¶netimi, kasa, muhasebe, mÃ¼ÅŸteri satÄ±cÄ±, personel, rapor, satÄ±n alma, satÄ±ÅŸ pazarlama, stok, Ã¼retim modÃ¼llerine ulaÅŸabilir aynÄ± zamanda kullanÄ±m videolarÄ±na eriÅŸim saÄŸlanabilmektedir. Bu bÃ¶lÃ¼mde destek talebinde de bulunulabilmektedir. 
