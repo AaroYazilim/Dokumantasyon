@@ -1,56 +1,56 @@
 
-# Fatura İşleme 
+# Fatura Ä°ÅŸleme 
 
-- Sol sekmeden E-Dönüşüm -> Listeler -> Gelen E-Fatura Listesi şeklinde işletmenize kesilen faturalara ulaşım sağlayabiliriz.
-- Sol sekmeden E-Dönüşüm -> Listeler -> Gelen E-Fatura Listesi şeklinde işletmenize kesilen faturalara ulaşım sağlayabiliriz.
+- Sol sekmeden E-DÃ¶nÃ¼ÅŸÃ¼m -> Listeler -> Gelen E-Fatura Listesi ÅŸeklinde iÅŸletmenize kesilen faturalara ulaÅŸÄ±m saÄŸlayabiliriz.
+- Sol sekmeden E-DÃ¶nÃ¼ÅŸÃ¼m -> Listeler -> Gelen E-Fatura Listesi ÅŸeklinde iÅŸletmenize kesilen faturalara ulaÅŸÄ±m saÄŸlayabiliriz.
 
-Fatura işlemi genellikle satış veya satın alma işlemlerinin sonunda gelir. 
-Fatura oluşturulduktan sonra, birkaç aşamalı onay süreci olabilir. Bu süreçte fatura, belirlenmiş kişiler veya departmanlar tarafından incelenir ve onaylanır. 
-Onay süreci tamamlandıktan sonra fatura resmi olarak geçerli hale gelir.
-Yanlışlıkla oluşturulan veya hatalı faturalar düzeltilebilir veya iptal edilebilir.
-Açılan liste ekranında fatura satırlarında tik veya çarpı işareti yer almaktadır. 
-Tik işareti var ise bu faturanın onaylanmış olduğunu gösterir.
-Çarpı işareti var ise bu faturanın işlem yapılması gerektiğini işlenmesi ya da iptal edilmesi gerektiğini belirtir.
+Fatura iÅŸlemi genellikle satÄ±ÅŸ veya satÄ±n alma iÅŸlemlerinin sonunda gelir. 
+Fatura oluÅŸturulduktan sonra, birkaÃ§ aÅŸamalÄ± onay sÃ¼reci olabilir. Bu sÃ¼reÃ§te fatura, belirlenmiÅŸ kiÅŸiler veya departmanlar tarafÄ±ndan incelenir ve onaylanÄ±r. 
+Onay sÃ¼reci tamamlandÄ±ktan sonra fatura resmi olarak geÃ§erli hale gelir.
+YanlÄ±ÅŸlÄ±kla oluÅŸturulan veya hatalÄ± faturalar dÃ¼zeltilebilir veya iptal edilebilir.
+AÃ§Ä±lan liste ekranÄ±nda fatura satÄ±rlarÄ±nda tik veya Ã§arpÄ± iÅŸareti yer almaktadÄ±r. 
+Tik iÅŸareti var ise bu faturanÄ±n onaylanmÄ±ÅŸ olduÄŸunu gÃ¶sterir.
+Ã‡arpÄ± iÅŸareti var ise bu faturanÄ±n iÅŸlem yapÄ±lmasÄ± gerektiÄŸini iÅŸlenmesi ya da iptal edilmesi gerektiÄŸini belirtir.
 
-## Fatura Redddetme Seçenekleri
+## Fatura Redddetme SeÃ§enekleri
 
-**Sadece Aaro'da Reddet** Bu seçeneği seçtiğimizde oluşturulan faturayı onaylar fakat sistemde gözükmez. 
-**e-Fatura Reddet** Bu seçeneği seçtiğimizde e-Faturayı reddetmiş oluruz.
+**Sadece Aaro'da Reddet** Bu seÃ§eneÄŸi seÃ§tiÄŸimizde oluÅŸturulan faturayÄ± onaylar fakat sistemde gÃ¶zÃ¼kmez. 
+**e-Fatura Reddet** Bu seÃ§eneÄŸi seÃ§tiÄŸimizde e-FaturayÄ± reddetmiÅŸ oluruz.
 
-## İşleme yapmak için eşleştirme seçeneklerimiz mevcutttur.
+## Ä°ÅŸleme yapmak iÃ§in eÅŸleÅŸtirme seÃ§eneklerimiz mevcutttur.
 
-### e-Fatura İçin;
+### e-Fatura Ä°Ã§in;
 
-**Alış Faturası OLarak İşle (Başlık + Tüm Satırlar Stok)** Bu seçenek seçildiğinde stok alış faturası olarak işleyecektir.
-**Alış Faturası OLarak İşle (Başlık + Tüm Satırlar GelirGider)** Bu seçenek seçildiğinde gelir gider alış faturası olarak işleyecektir.
-**Alış Faturası Olarak İşle (Sadece Başlık)** Bu seçenek seçildiğinde başlık alış faturası olarak işlenecektir.
+**AlÄ±ÅŸ FaturasÄ± OLarak Ä°ÅŸle (BaÅŸlÄ±k + TÃ¼m SatÄ±rlar Stok)** Bu seÃ§enek seÃ§ildiÄŸinde stok alÄ±ÅŸ faturasÄ± olarak iÅŸleyecektir.
+**AlÄ±ÅŸ FaturasÄ± OLarak Ä°ÅŸle (BaÅŸlÄ±k + TÃ¼m SatÄ±rlar GelirGider)** Bu seÃ§enek seÃ§ildiÄŸinde gelir gider alÄ±ÅŸ faturasÄ± olarak iÅŸleyecektir.
+**AlÄ±ÅŸ FaturasÄ± Olarak Ä°ÅŸle (Sadece BaÅŸlÄ±k)** Bu seÃ§enek seÃ§ildiÄŸinde baÅŸlÄ±k alÄ±ÅŸ faturasÄ± olarak iÅŸlenecektir.
 
-**Alış Faturası Olarak İşle (Manuel)** Bu seçenek seçildiğinde alış faturasını manuel değişiklik yapabilirsiniz.
+**AlÄ±ÅŸ FaturasÄ± Olarak Ä°ÅŸle (Manuel)** Bu seÃ§enek seÃ§ildiÄŸinde alÄ±ÅŸ faturasÄ±nÄ± manuel deÄŸiÅŸiklik yapabilirsiniz.
 
-**Alış Faturası Olarak İşle (Kasadan Gelir Hareketi OLarak İşle)** 
-Bu seçenek seçildiğinde alış faturasını kasa ile eşleştirerek gelir gider hareketini otomatik gerçekleştirir.
+**AlÄ±ÅŸ FaturasÄ± Olarak Ä°ÅŸle (Kasadan Gelir Hareketi OLarak Ä°ÅŸle)** 
+Bu seÃ§enek seÃ§ildiÄŸinde alÄ±ÅŸ faturasÄ±nÄ± kasa ile eÅŸleÅŸtirerek gelir gider hareketini otomatik gerÃ§ekleÅŸtirir.
 
-**Bankadan Gider Hareketi Olarak İşle**
-Bu seçenek seçildiğinde alış faturasını banka ile eşleştirerek banka hesap hareketini otomatik gerçekleştirir.
-
-
-**Mevcut Dekont İle İlişkilendir**
-Dekont ile eşleştirme yaparak verileri otomatik getirir .
-
-**Mevcut Yevmiye Fişi İle İlişkilendir**
-Yevmiye fişi ile eşleştirme yaparak verileri otomatik getirir.
-
-### e-İrsaliye İçin;
-
-**Alış İrsaliyesi OLarak İşle (Başlık + Tüm Satırlar Stok)** Bu seçenek seçildiğinde stok alış irsaliyesi olarak işleyecektir.
-**Alış İrsaliyesi OLarak İşle (Başlık + Tüm Satırlar GelirGider)** Bu seçenek seçildiğinde gelir gider alış irsaliyesi olarak işleyecektir.
-**Alış İrsaliyesi Olarak İşle (Sadece Başlık)** Bu seçenek seçildiğinde başlık alış irsaliyesi olarak işlenecektir.
-
-**Alış İrsaliyesi Olarak İşle (Manuel)** Bu seçenek seçildiğinde alış irsaliyesini manuel değişiklik yapabilirsiniz.
+**Bankadan Gider Hareketi Olarak Ä°ÅŸle**
+Bu seÃ§enek seÃ§ildiÄŸinde alÄ±ÅŸ faturasÄ±nÄ± banka ile eÅŸleÅŸtirerek banka hesap hareketini otomatik gerÃ§ekleÅŸtirir.
 
 
-**Mevcut Dekont İle İlişkilendir**
-Dekont ile eşleştirme yaparak verileri otomatik getirir .
+**Mevcut Dekont Ä°le Ä°liÅŸkilendir**
+Dekont ile eÅŸleÅŸtirme yaparak verileri otomatik getirir .
 
-**Mevcut Yevmiye Fişi İle İlişkilendir**
-Yevmiye fişi ile eşleştirme yaparak verileri otomatik getirir.
+**Mevcut Yevmiye FiÅŸi Ä°le Ä°liÅŸkilendir**
+Yevmiye fiÅŸi ile eÅŸleÅŸtirme yaparak verileri otomatik getirir.
+
+### e-Ä°rsaliye Ä°Ã§in;
+
+**AlÄ±ÅŸ Ä°rsaliyesi OLarak Ä°ÅŸle (BaÅŸlÄ±k + TÃ¼m SatÄ±rlar Stok)** Bu seÃ§enek seÃ§ildiÄŸinde stok alÄ±ÅŸ irsaliyesi olarak iÅŸleyecektir.
+**AlÄ±ÅŸ Ä°rsaliyesi OLarak Ä°ÅŸle (BaÅŸlÄ±k + TÃ¼m SatÄ±rlar GelirGider)** Bu seÃ§enek seÃ§ildiÄŸinde gelir gider alÄ±ÅŸ irsaliyesi olarak iÅŸleyecektir.
+**AlÄ±ÅŸ Ä°rsaliyesi Olarak Ä°ÅŸle (Sadece BaÅŸlÄ±k)** Bu seÃ§enek seÃ§ildiÄŸinde baÅŸlÄ±k alÄ±ÅŸ irsaliyesi olarak iÅŸlenecektir.
+
+**AlÄ±ÅŸ Ä°rsaliyesi Olarak Ä°ÅŸle (Manuel)** Bu seÃ§enek seÃ§ildiÄŸinde alÄ±ÅŸ irsaliyesini manuel deÄŸiÅŸiklik yapabilirsiniz.
+
+
+**Mevcut Dekont Ä°le Ä°liÅŸkilendir**
+Dekont ile eÅŸleÅŸtirme yaparak verileri otomatik getirir .
+
+**Mevcut Yevmiye FiÅŸi Ä°le Ä°liÅŸkilendir**
+Yevmiye fiÅŸi ile eÅŸleÅŸtirme yaparak verileri otomatik getirir.

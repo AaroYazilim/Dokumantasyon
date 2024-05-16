@@ -1,14 +1,14 @@
 
-# Xslt ile Fatura Tasarımı 
+# Xslt ile Fatura TasarÄ±mÄ± 
 
-UBL (Universal Business Language), işletmeler arasında elektronik ticaretin standartlaştırılması ve kolaylaştırılması için geliştirilmiş bir XML tabanlı bir dil ve belirli bir veri modelidir. 
-UBL, uluslararası standartlarla uyumlu olarak geliştirilmiştir. 
-UBLTR, Türkiye'deki elektronik ticaret ve işletme çözümlerinde kullanılan bir XML tabanlı veri modeli ve standarttır. 
-"UBLTR", "Universal Business Language Türkiye"nin kısaltmasıdır.
+UBL (Universal Business Language), iÅŸletmeler arasÄ±nda elektronik ticaretin standartlaÅŸtÄ±rÄ±lmasÄ± ve kolaylaÅŸtÄ±rÄ±lmasÄ± iÃ§in geliÅŸtirilmiÅŸ bir XML tabanlÄ± bir dil ve belirli bir veri modelidir. 
+UBL, uluslararasÄ± standartlarla uyumlu olarak geliÅŸtirilmiÅŸtir. 
+UBLTR, TÃ¼rkiye'deki elektronik ticaret ve iÅŸletme Ã§Ã¶zÃ¼mlerinde kullanÄ±lan bir XML tabanlÄ± veri modeli ve standarttÄ±r. 
+"UBLTR", "Universal Business Language TÃ¼rkiye"nin kÄ±saltmasÄ±dÄ±r.
 
 ## XSLT
 
-UBLTR XML şemasına dayanarak, istenen çıktıyı elde etmek için bir veya daha fazla XSLT dosyası oluşturulur. 
-XSLT dosyaları, XML belgesini hedef formata dönüştüren veya biçimlendiren XSLT şablonlarını içerir.
+UBLTR XML ÅŸemasÄ±na dayanarak, istenen Ã§Ä±ktÄ±yÄ± elde etmek iÃ§in bir veya daha fazla XSLT dosyasÄ± oluÅŸturulur. 
+XSLT dosyalarÄ±, XML belgesini hedef formata dÃ¶nÃ¼ÅŸtÃ¼ren veya biÃ§imlendiren XSLT ÅŸablonlarÄ±nÄ± iÃ§erir.
 
-Bu xslt dili aracılığıyla faturalarımızı devletin belirlemiş olduğu çerçevede özelleştirerek işletmemize ait logolar, metin, renk, font vb. gibi stil özelliklerini düzenleyebilirsiniz. vb. düzenlemlere yer verebiliriz.
+Bu xslt dili aracÄ±lÄ±ÄŸÄ±yla faturalarÄ±mÄ±zÄ± devletin belirlemiÅŸ olduÄŸu Ã§erÃ§evede Ã¶zelleÅŸtirerek iÅŸletmemize ait logolar, metin, renk, font vb. gibi stil Ã¶zelliklerini dÃ¼zenleyebilirsiniz. vb. dÃ¼zenlemlere yer verebiliriz.

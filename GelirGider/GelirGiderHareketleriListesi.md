@@ -1,27 +1,27 @@
 
 # Gelir Gider Hareketleri Listesi
 
-### Ulaşım 
+### UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Gelir Gider hesap kartı" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Gelir Gider -> Gelir Gider Modülü -> Gelir - Gider Hareketleri Listesi şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Gelir Gider -> Kartlar -> Gelir/Gider Hareketleri Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "Gelir Gider hesap kartÄ±" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Gelir Gider -> Gelir Gider ModÃ¼lÃ¼ -> Gelir - Gider Hareketleri Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
+- Sol menÃ¼den Gelir Gider -> Kartlar -> Gelir/Gider Hareketleri Listesi Ã¼zerinden ulaÅŸÄ±m saÄŸlayarak yeni kart ekleyebilir yada mevcutlarÄ± dÃ¼zenleyebilirsiniz.
 
-### Tanım 
+### TanÄ±m 
 
-- Gelir Gider hesaplarının hareketlerini bu sayfadan görüntüleyebilirsiniz.
-- Gelir Gider hesaplarının güncel ve belirli bir tarihte ki bakiyelerini görüntüleyebilirsiniz.
+- Gelir Gider hesaplarÄ±nÄ±n hareketlerini bu sayfadan gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
+- Gelir Gider hesaplarÄ±nÄ±n gÃ¼ncel ve belirli bir tarihte ki bakiyelerini gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
 
-### Ek Özellikler 
+### Ek Ã–zellikler 
 
-- Sayfanın üst kısmında bulunan [Filtreleme](/TemelOzellikler/SayfaKisitlari.md  "Filtreleme") özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
-- Sayfada ki listeyi [Özel Listeleme](/TemelOzellikler/ListeNesnesi.md  "Özel Listeleme") sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
+- SayfanÄ±n Ã¼st kÄ±smÄ±nda bulunan [Filtreleme](/TemelOzellikler/SayfaKisitlari.md  "Filtreleme") Ã¶zelliÄŸi ile gelen veriyi istediÄŸiniz ÅŸekilde sÄ±nÄ±rlandÄ±rabilirsiniz.
+- Sayfada ki listeyi [Ã–zel Listeleme](/TemelOzellikler/ListeNesnesi.md  "Ã–zel Listeleme") sÄ±ralayabilir, yeniden boyutlandÄ±rabilir ve sayfa sayfa gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
 
-### Ek İşlem Butonu
+### Ek Ä°ÅŸlem Butonu
 
-- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- [Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle")
-- [Toplu Değiştir](/TemelOzellikler/TopluDegistir.md "Toplu Değiştir")
-- [Grid Sütunları Ayarla](/TemelOzellikler/GridSutunAyarlari.md "Grid Sütunları Ayarla")
+- SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan alt altta Ã¼Ã§ Ã§izgi ÅŸeklinde olan dÃ¼ÄŸme ile ek iÅŸlemlere ulaÅŸÄ±lÄ±r.
+- [Anasayfaya KÄ±sayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya KÄ±sayol Olarak Ekle")
+- [Toplu DeÄŸiÅŸtir](/TemelOzellikler/TopluDegistir.md "Toplu DeÄŸiÅŸtir")
+- [Grid SÃ¼tunlarÄ± Ayarla](/TemelOzellikler/GridSutunAyarlari.md "Grid SÃ¼tunlarÄ± Ayarla")
 - [Listeyi Excele Aktar](/TemelOzellikler/ListeyiExceleAktar.md "Listeyi Excele Aktar")
 

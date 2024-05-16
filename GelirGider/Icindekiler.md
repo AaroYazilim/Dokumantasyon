@@ -1,18 +1,18 @@
 
-# Gelir Gider Modülü  
+# Gelir Gider ModÃ¼lÃ¼  
 
-Gelir-Gider Kartı, bir işletmenin veya bireyin gelirlerini ve giderlerini kaydederek takip etmesine yardımcı olan bir muhasebe aracıdır. 
-Düzenli tutmamız hareket takibi yapabilmemiz için çok önemlidir.
+Gelir-Gider KartÄ±, bir iÅŸletmenin veya bireyin gelirlerini ve giderlerini kaydederek takip etmesine yardÄ±mcÄ± olan bir muhasebe aracÄ±dÄ±r. 
+DÃ¼zenli tutmamÄ±z hareket takibi yapabilmemiz iÃ§in Ã§ok Ã¶nemlidir.
 
-- İşletmenizin elde ettiği gelirleri kaydedebilirsiniz. Bu, satış gelirleri, kira gelirleri, faiz gelirleri gibi çeşitli gelir kalemlerini içerir.
-- İşletmenizin gerçekleştirdiği harcamaları kaydedebilirsiniz. Bu, personel maaşları, kira giderleri, fatura ödemeleri, tedarik maliyetleri gibi çeşitli gider kalemlerini içerir.
-- Gelir ve gider kalemlerini farklı kategorilere ayırabilir ve yönetebilirsiniz. Bu, işletmenizin gelir ve giderlerini daha iyi anlamasına ve raporlamasına yardımcı olur.
-- İşletmenizin gelir ve giderlerini bütçeyle karşılaştırabilirsiniz. Bu, işletmenizin bütçe hedeflerine ne kadar yakın olduğunu değerlendirmenize yardımcı olur.
-- Gelir ve gider modülü, işletmenin finansal durumuyla ilgili detaylı raporlar ve analizler sunar. Bu raporlar, işletmenin gelir ve giderlerini izlemesine, trendleri belirlemesine ve gerektiğinde stratejik kararlar almanıza yardımcı olur.
+- Ä°ÅŸletmenizin elde ettiÄŸi gelirleri kaydedebilirsiniz. Bu, satÄ±ÅŸ gelirleri, kira gelirleri, faiz gelirleri gibi Ã§eÅŸitli gelir kalemlerini iÃ§erir.
+- Ä°ÅŸletmenizin gerÃ§ekleÅŸtirdiÄŸi harcamalarÄ± kaydedebilirsiniz. Bu, personel maaÅŸlarÄ±, kira giderleri, fatura Ã¶demeleri, tedarik maliyetleri gibi Ã§eÅŸitli gider kalemlerini iÃ§erir.
+- Gelir ve gider kalemlerini farklÄ± kategorilere ayÄ±rabilir ve yÃ¶netebilirsiniz. Bu, iÅŸletmenizin gelir ve giderlerini daha iyi anlamasÄ±na ve raporlamasÄ±na yardÄ±mcÄ± olur.
+- Ä°ÅŸletmenizin gelir ve giderlerini bÃ¼tÃ§eyle karÅŸÄ±laÅŸtÄ±rabilirsiniz. Bu, iÅŸletmenizin bÃ¼tÃ§e hedeflerine ne kadar yakÄ±n olduÄŸunu deÄŸerlendirmenize yardÄ±mcÄ± olur.
+- Gelir ve gider modÃ¼lÃ¼, iÅŸletmenin finansal durumuyla ilgili detaylÄ± raporlar ve analizler sunar. Bu raporlar, iÅŸletmenin gelir ve giderlerini izlemesine, trendleri belirlemesine ve gerektiÄŸinde stratejik kararlar almanÄ±za yardÄ±mcÄ± olur.
 
-Bu modülde yer alan işlemler;
+Bu modÃ¼lde yer alan iÅŸlemler;
 
-- [Gelir Gider Kartı](/GelirGider/GelirGiderKarti.md "Gelir Gider Kartı")
-- [Gelir Gider Kartı Listesi](/GelirGider/GelirGiderKartiListesi.md "Gelir Gider Kartı Listesi")
+- [Gelir Gider KartÄ±](/GelirGider/GelirGiderKarti.md "Gelir Gider KartÄ±")
+- [Gelir Gider KartÄ± Listesi](/GelirGider/GelirGiderKartiListesi.md "Gelir Gider KartÄ± Listesi")
 - [Gelir Gider Hareketleri Listesi](/GelirGider/GelirGiderHareketleriListesi.md "Gelir Gider Hareketleri Listesi")
-- [Hareket Oluştur](/Banka/HareketOlustur.md "Hareket Oluştur")
+- [Hareket OluÅŸtur](/Banka/HareketOlustur.md "Hareket OluÅŸtur")

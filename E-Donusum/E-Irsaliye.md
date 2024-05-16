@@ -1,22 +1,22 @@
 
-# E-İrsaliye
+# E-Ä°rsaliye
 
-e-İrsaliye, kağıt formatındaki fiziksel irsaliyelerin elektronik ortama taşınmış halidir. 
-Ürünlerin sevkiyatı sırasında, alıcıya malın ne zaman ve nereden gönderildiğini gösteren belgedir.
-Türkiye'de e-İrsaliye uygulaması, Vergi Usul Kanunu'nda yapılan değişikliklerle başlamıştır. 
-Düzenlemelerin temel amacı, kağıt irsaliye kullanımını azaltmak ve işlemleri daha hızlı ve verimli hale getirmektir.
-Aaro, kullanıcıların e-İrsaliye oluşturmasını, göndermesini, saklamasını ve raporlamasını sağlayan bir araç olarak kullanabilirsiniz.
-Oluşturulan e-İrsaliyenin onaylanması ve dijital olarak imzalanması gerekebilir. 
-Aaro, bu süreçleri kolaylaştırır ve kullanıcılarına güvenli bir şekilde e-İrsaliye oluşturma imkanı sunar.
-Oluşturulan ve onaylanan e-İrsaliyeler, genellikle e-posta veya diğer elektronik iletişim yöntemleriyle alıcıya gönderilir. 
-Aaro, bu iletişim sürecini otomatikleştirir ve izlenebilir hale getirir.
-e-İrsaliyelerin saklanması ve arşivlenmesi yasal bir gerekliliktir. 
-Aaro, bu belgeleri güvenli bir şekilde depolar ve gerektiğinde kolayca erişilebilir hale getirir.
+e-Ä°rsaliye, kaÄŸÄ±t formatÄ±ndaki fiziksel irsaliyelerin elektronik ortama taÅŸÄ±nmÄ±ÅŸ halidir. 
+ÃœrÃ¼nlerin sevkiyatÄ± sÄ±rasÄ±nda, alÄ±cÄ±ya malÄ±n ne zaman ve nereden gÃ¶nderildiÄŸini gÃ¶steren belgedir.
+TÃ¼rkiye'de e-Ä°rsaliye uygulamasÄ±, Vergi Usul Kanunu'nda yapÄ±lan deÄŸiÅŸikliklerle baÅŸlamÄ±ÅŸtÄ±r. 
+DÃ¼zenlemelerin temel amacÄ±, kaÄŸÄ±t irsaliye kullanÄ±mÄ±nÄ± azaltmak ve iÅŸlemleri daha hÄ±zlÄ± ve verimli hale getirmektir.
+Aaro, kullanÄ±cÄ±larÄ±n e-Ä°rsaliye oluÅŸturmasÄ±nÄ±, gÃ¶ndermesini, saklamasÄ±nÄ± ve raporlamasÄ±nÄ± saÄŸlayan bir araÃ§ olarak kullanabilirsiniz.
+OluÅŸturulan e-Ä°rsaliyenin onaylanmasÄ± ve dijital olarak imzalanmasÄ± gerekebilir. 
+Aaro, bu sÃ¼reÃ§leri kolaylaÅŸtÄ±rÄ±r ve kullanÄ±cÄ±larÄ±na gÃ¼venli bir ÅŸekilde e-Ä°rsaliye oluÅŸturma imkanÄ± sunar.
+OluÅŸturulan ve onaylanan e-Ä°rsaliyeler, genellikle e-posta veya diÄŸer elektronik iletiÅŸim yÃ¶ntemleriyle alÄ±cÄ±ya gÃ¶nderilir. 
+Aaro, bu iletiÅŸim sÃ¼recini otomatikleÅŸtirir ve izlenebilir hale getirir.
+e-Ä°rsaliyelerin saklanmasÄ± ve arÅŸivlenmesi yasal bir gerekliliktir. 
+Aaro, bu belgeleri gÃ¼venli bir ÅŸekilde depolar ve gerektiÄŸinde kolayca eriÅŸilebilir hale getirir.
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol sekmeden Satış&Pazarlama -> Listeler -> Satış İrsaliyesi Listesi şeklinde kestiğimiz faturalara ulaşım sağlayabiliriz.
-- Sol sekmeden E-Dönüşüm -> Listeler -> Giden e-İrsaliye Listesi şeklinde kestiğimiz faturalara ulaşım sağlayabiliriz.
+- Sol sekmeden SatÄ±ÅŸ&Pazarlama -> Listeler -> SatÄ±ÅŸ Ä°rsaliyesi Listesi ÅŸeklinde kestiÄŸimiz faturalara ulaÅŸÄ±m saÄŸlayabiliriz.
+- Sol sekmeden E-DÃ¶nÃ¼ÅŸÃ¼m -> Listeler -> Giden e-Ä°rsaliye Listesi ÅŸeklinde kestiÄŸimiz faturalara ulaÅŸÄ±m saÄŸlayabiliriz.
 
-- Sol sekmedem Satın Alma -> Listeler -> Alış İrsaliyesi Listesi şeklinde işletmenize kesilen faturalara ulaşım sağlayabiliriz.
-- Sol sekmeden E-Dönüşüm -> Listeler -> Gelen e-İrsaliye Listesi şeklinde işletmenize kesilen faturalara ulaşım sağlayabiliriz.
+- Sol sekmedem SatÄ±n Alma -> Listeler -> AlÄ±ÅŸ Ä°rsaliyesi Listesi ÅŸeklinde iÅŸletmenize kesilen faturalara ulaÅŸÄ±m saÄŸlayabiliriz.
+- Sol sekmeden E-DÃ¶nÃ¼ÅŸÃ¼m -> Listeler -> Gelen e-Ä°rsaliye Listesi ÅŸeklinde iÅŸletmenize kesilen faturalara ulaÅŸÄ±m saÄŸlayabiliriz.

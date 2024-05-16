@@ -1,21 +1,21 @@
 
-# MRP Malzeme Gereksinim PLanlaması 
+# MRP Malzeme Gereksinim PLanlamasÄ± 
 
-Bir üretim işletmesinizin üretim süreçlerini düzenlemek ve malzeme ihtiyaçlarını doğru bir şekilde tahmin etmek için kullanılan bir planlama ve envanter yönetimi tekniğidir. 
-MRP, belirli bir ürünün üretimeniz için hangi malzemelerin ne zaman ve ne kadarının gerektiğini belirlemeye yardımcı olan bir sistemdir.
+Bir Ã¼retim iÅŸletmesinizin Ã¼retim sÃ¼reÃ§lerini dÃ¼zenlemek ve malzeme ihtiyaÃ§larÄ±nÄ± doÄŸru bir ÅŸekilde tahmin etmek iÃ§in kullanÄ±lan bir planlama ve envanter yÃ¶netimi tekniÄŸidir. 
+MRP, belirli bir Ã¼rÃ¼nÃ¼n Ã¼retimeniz iÃ§in hangi malzemelerin ne zaman ve ne kadarÄ±nÄ±n gerektiÄŸini belirlemeye yardÄ±mcÄ± olan bir sistemdir.
 
-- Üretilecek ürünlerin bileşenleri (malzemeleri) belirlenir.
-- Ürünlerin talep edilen miktarları ve üretim süreçlerinde hangi malzemelerin ne kadarının gerektiği belirlenir.
-- Mevcut stoklar göz önünde bulundurularak, hangi malzemelerin ne zaman sipariş edilmesi gerektiği belirlenir.
-- Malzemelerin zamanında sipariş edilmesi ve teslim edilmesi sağlanır.
-- Üretim süreci boyunca malzeme akışı izlenir ve gerektiğinde planlar güncellenir.
+- Ãœretilecek Ã¼rÃ¼nlerin bileÅŸenleri (malzemeleri) belirlenir.
+- ÃœrÃ¼nlerin talep edilen miktarlarÄ± ve Ã¼retim sÃ¼reÃ§lerinde hangi malzemelerin ne kadarÄ±nÄ±n gerektiÄŸi belirlenir.
+- Mevcut stoklar gÃ¶z Ã¶nÃ¼nde bulundurularak, hangi malzemelerin ne zaman sipariÅŸ edilmesi gerektiÄŸi belirlenir.
+- Malzemelerin zamanÄ±nda sipariÅŸ edilmesi ve teslim edilmesi saÄŸlanÄ±r.
+- Ãœretim sÃ¼reci boyunca malzeme akÄ±ÅŸÄ± izlenir ve gerektiÄŸinde planlar gÃ¼ncellenir.
 
-Diyelim ki bize 1000 adet üretilecek ürün siparişi geldi elimizde 250 adet var. 
-İş emrinde işlemde 500 adet var, 
-Mrp burada daha önceden girmiş olduğumuz minimum ve maksimum depo miktarını baz alarak üretilecek ürün miktarını belirlememize yardımcı olur. 
-Minimum Depo Miktarı = 500
-Maksimum Depo Miktarı = 2000 
-Üretilecek ürün adeti = 750 adet ürün üretilmesi gerekmektedir.
+Diyelim ki bize 1000 adet Ã¼retilecek Ã¼rÃ¼n sipariÅŸi geldi elimizde 250 adet var. 
+Ä°ÅŸ emrinde iÅŸlemde 500 adet var, 
+Mrp burada daha Ã¶nceden girmiÅŸ olduÄŸumuz minimum ve maksimum depo miktarÄ±nÄ± baz alarak Ã¼retilecek Ã¼rÃ¼n miktarÄ±nÄ± belirlememize yardÄ±mcÄ± olur. 
+Minimum Depo MiktarÄ± = 500
+Maksimum Depo MiktarÄ± = 2000 
+Ãœretilecek Ã¼rÃ¼n adeti = 750 adet Ã¼rÃ¼n Ã¼retilmesi gerekmektedir.
 
-Mrp aynı zamanda üretim için eksik olan hammadde eksikliklerini de belirler. 
-100 adet açığımız kalmış ise eksik olan hammaddeden üretilecek miktar için ne kadar gerekli olduğunu gösterir.
+Mrp aynÄ± zamanda Ã¼retim iÃ§in eksik olan hammadde eksikliklerini de belirler. 
+100 adet aÃ§Ä±ÄŸÄ±mÄ±z kalmÄ±ÅŸ ise eksik olan hammaddeden Ã¼retilecek miktar iÃ§in ne kadar gerekli olduÄŸunu gÃ¶sterir.

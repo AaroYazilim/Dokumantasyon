@@ -1,2 +1,2 @@
-## Ana Sayfaya Dönme
-Sol üstte bulunan **’Aaro’** amblemine tıklanılarak ana sayfaya dönülebilmektedir. 
+## Ana Sayfaya DÃ¶nme
+Sol Ã¼stte bulunan **â€™Aaroâ€™** amblemine tÄ±klanÄ±larak ana sayfaya dÃ¶nÃ¼lebilmektedir. 

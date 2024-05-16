@@ -1,8 +1,8 @@
 
 ## Birim Maliyeti
 
-Üretim sürecinde kullanılan makine ve ekipmanların maliyetleri de hesaba katılmalıdır. 
-Makine masraflarının hesapları ve işçilik hesaplarının toplamı birim maliyetini vermektedir. 
-Bu, makine alım maliyetleri, bakım ve onarım maliyetleri, enerji tüketimi ve amortisman giderlerini içerir.
-Birim fiyatı hesaplamak içim makine, ekipman maliyetleri ve işçilik maliyetinin toplamının alınmasıdır.
+Ãœretim sÃ¼recinde kullanÄ±lan makine ve ekipmanlarÄ±n maliyetleri de hesaba katÄ±lmalÄ±dÄ±r. 
+Makine masraflarÄ±nÄ±n hesaplarÄ± ve iÅŸÃ§ilik hesaplarÄ±nÄ±n toplamÄ± birim maliyetini vermektedir. 
+Bu, makine alÄ±m maliyetleri, bakÄ±m ve onarÄ±m maliyetleri, enerji tÃ¼ketimi ve amortisman giderlerini iÃ§erir.
+Birim fiyatÄ± hesaplamak iÃ§im makine, ekipman maliyetleri ve iÅŸÃ§ilik maliyetinin toplamÄ±nÄ±n alÄ±nmasÄ±dÄ±r.
 

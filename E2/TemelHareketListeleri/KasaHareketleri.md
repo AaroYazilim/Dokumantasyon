@@ -4,32 +4,32 @@
 </span>
 </h2>
 
-## Modüller -> Kasa -> Kasa Modülü-> Hareket Oluştur
+## ModÃ¼ller -> Kasa -> Kasa ModÃ¼lÃ¼-> Hareket OluÅŸtur
 <h2> 
-Bu kısımda; Kasadan gerçekleşen her işlem için bu kısmı kullanmamız gerekmektedir. 
-Tahsilatlar, transferler, giriş, çıkışlar bütün hareketleri işlemleri işleyeceğimiz yerdir. 
-Düzenli tutmamız hareket takibi yapabilmemiz için çok önemlidir.
+Bu kÄ±sÄ±mda; Kasadan gerÃ§ekleÅŸen her iÅŸlem iÃ§in bu kÄ±smÄ± kullanmamÄ±z gerekmektedir. 
+Tahsilatlar, transferler, giriÅŸ, Ã§Ä±kÄ±ÅŸlar bÃ¼tÃ¼n hareketleri iÅŸlemleri iÅŸleyeceÄŸimiz yerdir. 
+DÃ¼zenli tutmamÄ±z hareket takibi yapabilmemiz iÃ§in Ã§ok Ã¶nemlidir.
 <span style="color: orange;">
 **Nakit Tahsilat**
 </span>
 </h2>
 **Genel**
-- İşlem yapılacak Şirket-Şubeyi seçiniz.
-- İşlem tarihini giriniz.
-- Belge Numarası var ise belge numarasını giriniz. Sistem otomatik olarakta belge numarası tanımlamaktadır.
-- Kasa: tahsilat yapılacak kasayı seçiniz.
-- Döviz işlem yapılan döviz birimini seçiniz.
-- Tutar: İşlem yapılacak tutarı giriniz.
-- Açıklama işleme ait açıklamayı belirtir.Doldurulması zorunlu alan değildir belirtmek istediğiniz açıklamalar için kullanım sağlayabilirsiniz.
-- Cari işlem yapan cari bilgilerini seçin sistemde yok ise hızlı ekle ya da detaylı ekleme yaparak ekleyebilirsiniz.
-- Döviz işlem yapılan döviz birimini seçiniz.
-- Tutar: İşlem yapılacak tutarı giriniz.
-- Açıklama işleme ait açıklamayı belirtir.Doldurulması zorunlu alan değildir belirtmek istediğiniz açıklamalar için kullanım sağlayabilirsiniz.
-- Kaydet butonuna basarak işleminizi tamamlayabilirsiniz.
+- Ä°ÅŸlem yapÄ±lacak Åirket-Åubeyi seÃ§iniz.
+- Ä°ÅŸlem tarihini giriniz.
+- Belge NumarasÄ± var ise belge numarasÄ±nÄ± giriniz. Sistem otomatik olarakta belge numarasÄ± tanÄ±mlamaktadÄ±r.
+- Kasa: tahsilat yapÄ±lacak kasayÄ± seÃ§iniz.
+- DÃ¶viz iÅŸlem yapÄ±lan dÃ¶viz birimini seÃ§iniz.
+- Tutar: Ä°ÅŸlem yapÄ±lacak tutarÄ± giriniz.
+- AÃ§Ä±klama iÅŸleme ait aÃ§Ä±klamayÄ± belirtir.DoldurulmasÄ± zorunlu alan deÄŸildir belirtmek istediÄŸiniz aÃ§Ä±klamalar iÃ§in kullanÄ±m saÄŸlayabilirsiniz.
+- Cari iÅŸlem yapan cari bilgilerini seÃ§in sistemde yok ise hÄ±zlÄ± ekle ya da detaylÄ± ekleme yaparak ekleyebilirsiniz.
+- DÃ¶viz iÅŸlem yapÄ±lan dÃ¶viz birimini seÃ§iniz.
+- Tutar: Ä°ÅŸlem yapÄ±lacak tutarÄ± giriniz.
+- AÃ§Ä±klama iÅŸleme ait aÃ§Ä±klamayÄ± belirtir.DoldurulmasÄ± zorunlu alan deÄŸildir belirtmek istediÄŸiniz aÃ§Ä±klamalar iÃ§in kullanÄ±m saÄŸlayabilirsiniz.
+- Kaydet butonuna basarak iÅŸleminizi tamamlayabilirsiniz.
 
 **Detay**
 - Beklenen Tahsilat
-- Sözleşme
+- SÃ¶zleÅŸme
 - Proje
 - Plasiyer
 - Tip

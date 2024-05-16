@@ -1,30 +1,30 @@
 
-# İş Emri
+# Ä°ÅŸ Emri
 
-Üretimin önemli kısımlarındandır reçetelerin oluşumdan sonra iş emirleri oluşmaktadır.
-İş Emri bir işin yapılması için çalışanlara veya birimlere verilen talimatlardır. 
-İş emri bir işin ne zaman, nerede, nasıl ve kim tarafından yapılacağını belirtir.
-İmalat endüstrisinde üretim süreçlerinin yönetiminde, inşaat sektöründe proje ilerlemesinin izlenmesinde, hizmet sektöründe müşteri taleplerinin karşılanmasında ve daha birçok alanda iş emirleri kullanabilirsiniz.
-Her iş emrinin benzersiz bir numarası olmalıdır.
+Ãœretimin Ã¶nemli kÄ±sÄ±mlarÄ±ndandÄ±r reÃ§etelerin oluÅŸumdan sonra iÅŸ emirleri oluÅŸmaktadÄ±r.
+Ä°ÅŸ Emri bir iÅŸin yapÄ±lmasÄ± iÃ§in Ã§alÄ±ÅŸanlara veya birimlere verilen talimatlardÄ±r. 
+Ä°ÅŸ emri bir iÅŸin ne zaman, nerede, nasÄ±l ve kim tarafÄ±ndan yapÄ±lacaÄŸÄ±nÄ± belirtir.
+Ä°malat endÃ¼strisinde Ã¼retim sÃ¼reÃ§lerinin yÃ¶netiminde, inÅŸaat sektÃ¶rÃ¼nde proje ilerlemesinin izlenmesinde, hizmet sektÃ¶rÃ¼nde mÃ¼ÅŸteri taleplerinin karÅŸÄ±lanmasÄ±nda ve daha birÃ§ok alanda iÅŸ emirleri kullanabilirsiniz.
+Her iÅŸ emrinin benzersiz bir numarasÄ± olmalÄ±dÄ±r.
 
-İş emrinde;
-- İşin tanımı
-- Başlama ve bitiş tarihi 
-- İşin yapılacağı yer 
-- İşin önceliği
-- İşin yapılması gereken saatler gibi detaylar bulunur.
+Ä°ÅŸ emrinde;
+- Ä°ÅŸin tanÄ±mÄ±
+- BaÅŸlama ve bitiÅŸ tarihi 
+- Ä°ÅŸin yapÄ±lacaÄŸÄ± yer 
+- Ä°ÅŸin Ã¶nceliÄŸi
+- Ä°ÅŸin yapÄ±lmasÄ± gereken saatler gibi detaylar bulunur.
 
-Hangi görevlerin yapılması gerektiğini ve bu görevlerin kimler tarafından yapılacağını belirtir. 
-Her bir görevin sorumluluğu ve beklentiler net bir şekilde tanımlanmalıdır.
+Hangi gÃ¶revlerin yapÄ±lmasÄ± gerektiÄŸini ve bu gÃ¶revlerin kimler tarafÄ±ndan yapÄ±lacaÄŸÄ±nÄ± belirtir. 
+Her bir gÃ¶revin sorumluluÄŸu ve beklentiler net bir ÅŸekilde tanÄ±mlanmalÄ±dÄ±r.
 
-İş emri, işin ilerlemesini izlemek ve raporlamak için kullanılır. 
-İşin ne zaman başladığını, hangi aşamalarda olduğunu ve ne zaman tamamlandığını takip etmek için iş emri üzerinde güncel veriler tutulmalıdır.
-İş emri, yetkilendirilmiş kişiler tarafından onaylanmalıdır. Onay süreci, iş emrinin doğruluğunu ve uygunluğunu sağlamak için önemlidir.
+Ä°ÅŸ emri, iÅŸin ilerlemesini izlemek ve raporlamak iÃ§in kullanÄ±lÄ±r. 
+Ä°ÅŸin ne zaman baÅŸladÄ±ÄŸÄ±nÄ±, hangi aÅŸamalarda olduÄŸunu ve ne zaman tamamlandÄ±ÄŸÄ±nÄ± takip etmek iÃ§in iÅŸ emri Ã¼zerinde gÃ¼ncel veriler tutulmalÄ±dÄ±r.
+Ä°ÅŸ emri, yetkilendirilmiÅŸ kiÅŸiler tarafÄ±ndan onaylanmalÄ±dÄ±r. Onay sÃ¼reci, iÅŸ emrinin doÄŸruluÄŸunu ve uygunluÄŸunu saÄŸlamak iÃ§in Ã¶nemlidir.
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "İş emri" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Listeler -> İş Emri Listesi şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Üretim -> Listeler -> İş Emri Listesi -> Yeni İş Emri şeklinde yeni iş emri oluşturabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "Ä°ÅŸ emri" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Listeler -> Ä°ÅŸ Emri Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
+- Sol menÃ¼den Ãœretim -> Listeler -> Ä°ÅŸ Emri Listesi -> Yeni Ä°ÅŸ Emri ÅŸeklinde yeni iÅŸ emri oluÅŸturabilirsiniz. 
 
-[Yeni İş Emri](/Uretim/YeniIsEmri.md "Yeni İş Emri") tıklayarak Yeni iş emri ekleme detaylarına ulaşabiliriz.
+[Yeni Ä°ÅŸ Emri](/Uretim/YeniIsEmri.md "Yeni Ä°ÅŸ Emri") tÄ±klayarak Yeni iÅŸ emri ekleme detaylarÄ±na ulaÅŸabiliriz.

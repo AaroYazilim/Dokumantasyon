@@ -1,71 +1,71 @@
 
 # Bankadan Gider Hareketi
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'Banka gider hareketi' aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Banka -> Hareket Oluştur -> Bankadan Gider Hareketi şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan 'Banka gider hareketi' aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol sekmede yer alan modÃ¼ller kÄ±smÄ±ndan Banka -> Hareket OluÅŸtur -> Bankadan Gider Hareketi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-## Tanım
+## TanÄ±m
 
-Banka hesabından yapılan harcamaları veya ödemeleri ifade eder. 
-Bu terim, bir işletmenin veya bireyin banka hesabından çekilen parayla gerçekleştirilen herhangi bir finansal işlemi kapsar.
+Banka hesabÄ±ndan yapÄ±lan harcamalarÄ± veya Ã¶demeleri ifade eder. 
+Bu terim, bir iÅŸletmenin veya bireyin banka hesabÄ±ndan Ã§ekilen parayla gerÃ§ekleÅŸtirilen herhangi bir finansal iÅŸlemi kapsar.
 
-Bankadan gider hareketleri genellikle şunları içerebilir:
+Bankadan gider hareketleri genellikle ÅŸunlarÄ± iÃ§erebilir:
 
-**Fatura Ödemeleri:** Elektrik, su, gaz gibi faturaların ödenmesi.
+**Fatura Ã–demeleri:** Elektrik, su, gaz gibi faturalarÄ±n Ã¶denmesi.
 
-**Kira Ödemeleri:** Kiralanan bir mülk için yapılan kira ödemeleri.
+**Kira Ã–demeleri:** Kiralanan bir mÃ¼lk iÃ§in yapÄ±lan kira Ã¶demeleri.
 
-**Personel Maaşları:** İşletme sahipleri veya çalışanlar için yapılan maaş ödemeleri.
+**Personel MaaÅŸlarÄ±:** Ä°ÅŸletme sahipleri veya Ã§alÄ±ÅŸanlar iÃ§in yapÄ±lan maaÅŸ Ã¶demeleri.
 
-**Tedarikçi Ödemeleri:** İşletme için mal veya hizmet sağlayan tedarikçilere yapılan ödemeler.
+**TedarikÃ§i Ã–demeleri:** Ä°ÅŸletme iÃ§in mal veya hizmet saÄŸlayan tedarikÃ§ilere yapÄ±lan Ã¶demeler.
 
-**Kredi Kartı Ödemeleri:** Banka hesabından yapılan kredi kartı ödemeleri.
+**Kredi KartÄ± Ã–demeleri:** Banka hesabÄ±ndan yapÄ±lan kredi kartÄ± Ã¶demeleri.
 
-**Vergi Ödemeleri:** Vergi ödemeleri, KDV gibi vergilerin ödenmesi.
+**Vergi Ã–demeleri:** Vergi Ã¶demeleri, KDV gibi vergilerin Ã¶denmesi.
 
-**Kredi Ödemeleri:** Bankadan alınan kredilerin geri ödemeleri.
+**Kredi Ã–demeleri:** Bankadan alÄ±nan kredilerin geri Ã¶demeleri.
 
-Bankadan gider hareketleri, işletmenin finansal durumunu izlemek ve bütçe yönetimini sağlamak için önemlidir.
-Bu hareketlerin kaydedilmesi, muhasebe kayıtlarının düzenlenmesi ve mali raporların hazırlanması için gereklidir. 
-Bu nedenle, işletmeler genellikle bu tür harcamaları dikkatle izler ve kaydeder.
+Bankadan gider hareketleri, iÅŸletmenin finansal durumunu izlemek ve bÃ¼tÃ§e yÃ¶netimini saÄŸlamak iÃ§in Ã¶nemlidir.
+Bu hareketlerin kaydedilmesi, muhasebe kayÄ±tlarÄ±nÄ±n dÃ¼zenlenmesi ve mali raporlarÄ±n hazÄ±rlanmasÄ± iÃ§in gereklidir. 
+Bu nedenle, iÅŸletmeler genellikle bu tÃ¼r harcamalarÄ± dikkatle izler ve kaydeder.
 
-### Ek İşlem Butonu 
+### Ek Ä°ÅŸlem Butonu 
 
-[Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle")
+[Anasayfaya KÄ±sayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya KÄ±sayol Olarak Ekle")
 
 ## Genel
  
-**Şirket-Şube:** [Şirket-Şube](/TemelOzellikler/SirketSube.md "Şirket-Şube")
+**Åirket-Åube:** [Åirket-Åube](/TemelOzellikler/SirketSube.md "Åirket-Åube")
 
-**Tarih:** İşlemin yapıldığı tarihi belirtir.
+**Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir.
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasÄ±nÄ± ifade eder. Otomatik sÄ±radaki numara gelir. Ä°stenirse seri kullanÄ±labilir.
 
-**Banka Hesap:** Bu hareket işlemi için hangi banka şubesiyle işlem yapılacağını belirtir. 
+**Banka Hesap:** Bu hareket iÅŸlemi iÃ§in hangi banka ÅŸubesiyle iÅŸlem yapÄ±lacaÄŸÄ±nÄ± belirtir. 
 **Girilmesi Zorunludur.**
 
-**Banka Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
+**Banka DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinsini belirtir.
 
-**Cari Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
+**Cari DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinsini belirtir.
 
-**Açıklama:** İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+**AÃ§Ä±klama:** Ä°ÅŸleme ait detaylar aÃ§Ä±klamaya eklenebilir. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
 
-**KDV Dahil:** Kalemlerde birim fiyat ve tutarın 'KDV Dahil' olduğunu belirtir. [KDV Dahil](/TemelOzellikler/KDVdahil.md "KDV Dahil")
+**KDV Dahil:** Kalemlerde birim fiyat ve tutarÄ±n 'KDV Dahil' olduÄŸunu belirtir. [KDV Dahil](/TemelOzellikler/KDVdahil.md "KDV Dahil")
 
 ## Detay
 
-**Proje:** Bu karta ait proje var ise buraya sözleşmeyi ekleyebiliriz.
+**Proje:** Bu karta ait proje var ise buraya sÃ¶zleÅŸmeyi ekleyebiliriz.
 
-**Plasiyer:** Bu karta ait işlemi gerçekleştiren ya da sorumlu olan personel eklenir.
+**Plasiyer:** Bu karta ait iÅŸlemi gerÃ§ekleÅŸtiren ya da sorumlu olan personel eklenir.
 
 **Alt Tip:** Alt hareket tipini belirtir.
 
-## Açıklamalar
+## AÃ§Ä±klamalar
 
-İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+Ä°ÅŸleme ait detaylar aÃ§Ä±klamaya eklenebilir. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
 
 ## Etiketler
 
-İşleme ait detaylar açıklamaya eklenebilir. [Etiket](/TemelOzellikler/Etiketler.md "Etiket")
+Ä°ÅŸleme ait detaylar aÃ§Ä±klamaya eklenebilir. [Etiket](/TemelOzellikler/Etiketler.md "Etiket")

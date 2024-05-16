@@ -1,2 +1,2 @@
 ## TOPLAMLAR
-Hareketlerin üst orta bölümünde genel olarak toplam, iskonto sonrası, KDV’li ve genel toplam tutarları ile ilgili bilgiler bulunmaktadır. Bu bölümde hareket dövizli ise döviz ve TL karşılıklarının toplam bilgileri bulunmaktadır.
+Hareketlerin Ã¼st orta bÃ¶lÃ¼mÃ¼nde genel olarak toplam, iskonto sonrasÄ±, KDVâ€™li ve genel toplam tutarlarÄ± ile ilgili bilgiler bulunmaktadÄ±r. Bu bÃ¶lÃ¼mde hareket dÃ¶vizli ise dÃ¶viz ve TL karÅŸÄ±lÄ±klarÄ±nÄ±n toplam bilgileri bulunmaktadÄ±r.

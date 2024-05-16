@@ -1,72 +1,72 @@
 
-## Gelir Gider Kartı
+## Gelir Gider KartÄ±
 
-### Ulaşım
+### UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Gelir Gider kartı" olarak aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Gelir Gider -> Gelir Gider Modülü -> Gelir Gider Kartı şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Gelir Gider -> Kartlar -> Gelir/Gider Kartı Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "Gelir Gider kartÄ±" olarak aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Gelir Gider -> Gelir Gider ModÃ¼lÃ¼ -> Gelir Gider KartÄ± ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
+- Sol menÃ¼den Gelir Gider -> Kartlar -> Gelir/Gider KartÄ± Listesi Ã¼zerinden ulaÅŸÄ±m saÄŸlayarak yeni kart ekleyebilir yada mevcutlarÄ± dÃ¼zenleyebilirsiniz.
 
-### Tanım
+### TanÄ±m
 
-Gelir-gider kartından, işletmenizin gelir ve giderlerini izleyebilir, kaydedebilir ve raporlayabilirsiniz. 
-Gelir-gider kartından, işletmenin finansal performansını izleyebilir ve yönetebilirsiniz. 
-Gelir-gider kartı, işletmenin gelir ve giderlerini detaylı bir şekilde takip edebilmesine ve finansal durumunu değerlendirmesine yardımcı olur. 
-Ayrıca, gelir-gider kartları, işletmenin bütçeleme, planlama ve karar verme süreçlerinde önemli bir rol oynar.
+Gelir-gider kartÄ±ndan, iÅŸletmenizin gelir ve giderlerini izleyebilir, kaydedebilir ve raporlayabilirsiniz. 
+Gelir-gider kartÄ±ndan, iÅŸletmenin finansal performansÄ±nÄ± izleyebilir ve yÃ¶netebilirsiniz. 
+Gelir-gider kartÄ±, iÅŸletmenin gelir ve giderlerini detaylÄ± bir ÅŸekilde takip edebilmesine ve finansal durumunu deÄŸerlendirmesine yardÄ±mcÄ± olur. 
+AyrÄ±ca, gelir-gider kartlarÄ±, iÅŸletmenin bÃ¼tÃ§eleme, planlama ve karar verme sÃ¼reÃ§lerinde Ã¶nemli bir rol oynar.
 
 ### Genel
 
-**Gelir Gider Adı:** Bu kartın kendine özel adıdır.
+**Gelir Gider AdÄ±:** Bu kartÄ±n kendine Ã¶zel adÄ±dÄ±r.
 
-**Gelir Gider Kodu:** Bu kartın kendine özel kodudur.Seri takibi yapılabilir. Detaylı tanım için linke tıklayınız. [Kart Kodu](/TemelOzellikler/KartKodu.md "Gelir Gider Kodu")
+**Gelir Gider Kodu:** Bu kartÄ±n kendine Ã¶zel kodudur.Seri takibi yapÄ±labilir. DetaylÄ± tanÄ±m iÃ§in linke tÄ±klayÄ±nÄ±z. [Kart Kodu](/TemelOzellikler/KartKodu.md "Gelir Gider Kodu")
 
-**Birim 1:** Bu kartın hangi birim cinsinden takip edileceğini belirtir.
+**Birim 1:** Bu kartÄ±n hangi birim cinsinden takip edileceÄŸini belirtir.
 
-**Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Kodlar:** KartlarÄ± hiyerarÅŸik olarak gruplamak iÃ§in kullanÄ±lÄ±r. DetaylÄ± tanÄ±m iÃ§in linke tÄ±klayÄ±nÄ±z. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
 
-**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
-
-
-### Ölçü Birimleri
-
-**Birim 2:** Bu kart için ikinci ölçü birimidir.Kolay hesap yapmak ve raporlarda farklı cins rapor alabilmek için kullanılır.
-
-**Birim 3:** Bu kart için üçüncü ölçü birimidir.Kolay hesap yapmak ve raporlarda farklı cins rapor alabilmek için kullanılır.
-
-**Çevrimiçi Birim2:** Birim-1 cinsinden kaç Birim-2 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-2:Deste ise bu deger = 0,1(1/10) olur.
-
-**Çevrimiçi Birim3:** Birim-1 cinsinden kaç Birim-3 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-3:Düzine ise bu deger = 0,083(1/12) olur.
+**Etiketler:** Gruplamak iÃ§in kullanÄ±lÄ±r. DetaylÄ± tanÄ±m iÃ§in linke tÄ±klayÄ±nÄ±z. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 
-### Vergi Oranları
+### Ã–lÃ§Ã¼ Birimleri
 
-**Vergi Oranları:** Bu karta ait işlemlerde kullanılacak devletin belirlemiş olduğu KDV oranını(vergi oranını) belirtir. **Girilmesi Zorunludur.**
+**Birim 2:** Bu kart iÃ§in ikinci Ã¶lÃ§Ã¼ birimidir.Kolay hesap yapmak ve raporlarda farklÄ± cins rapor alabilmek iÃ§in kullanÄ±lÄ±r.
 
-### Muhasebe Tanımları: 
+**Birim 3:** Bu kart iÃ§in Ã¼Ã§Ã¼ncÃ¼ Ã¶lÃ§Ã¼ birimidir.Kolay hesap yapmak ve raporlarda farklÄ± cins rapor alabilmek iÃ§in kullanÄ±lÄ±r.
 
-Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde otomatikman belirli muhasebe hesaplarına gerekli kayıtların oluşmasını sağlayabilirsiniz.
-[Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")Muhasebe Tanımları: **[Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
+**Ã‡evrimiÃ§i Birim2:** Birim-1 cinsinden kaÃ§ Birim-2 cinsinden olduÄŸunu belirtir.Ã–rneÄŸin; Birim-1:Adet ve Birim-2:Deste ise bu deger = 0,1(1/10) olur.
 
-
-### Gelişmiş
-
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
-
-**Durum:** Kartın kullanabilirliğini belirtir. Pasif kartlar işlemde kullanılamaz.
-
-**Kısa Kodu:** Raporlama için gereklidir. 
-
-**Kısa Adı:** Raporlama için gereklidir. 
-
-**GTIP:** İhracat tipindeki e-faturalarda, karta ait GTIP değerinin doldurulması zorunludur.
-
-**Cari Zorunlu:** Bu kart için yapılan hareketlerde hareketin hangi cariye ait olduğunun raporlanabilmesi için seçilir. Her harekette istenecektir.
-
-**Demirbaş Zorunlu:** Bu kart için yapılan hareketlerde hareketin hangi demirbaşa ait olduğunun raporlanabilmesi için seçilir. Her harekette istenecektir.
-
-**Dekont Zorunlu:** Bu kart için yapılan hareketlerde hareketin hangi dekonta ait olduğunun raporlanabilmesi için seçilir. Her harekette istenecektir.
-
-**Masraf Merkezi zorunlu:** Hareket kaydı girilirken bu kart seçildiğinde masraf merkezi seçilmesinide zorunlu yapar.
+**Ã‡evrimiÃ§i Birim3:** Birim-1 cinsinden kaÃ§ Birim-3 cinsinden olduÄŸunu belirtir.Ã–rneÄŸin; Birim-1:Adet ve Birim-3:DÃ¼zine ise bu deger = 0,083(1/12) olur.
 
 
-Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna basarak Müşteri/Satıcı kartı açma işlemimizi bitirebiliriz.
+### Vergi OranlarÄ±
+
+**Vergi OranlarÄ±:** Bu karta ait iÅŸlemlerde kullanÄ±lacak devletin belirlemiÅŸ olduÄŸu KDV oranÄ±nÄ±(vergi oranÄ±nÄ±) belirtir. **Girilmesi Zorunludur.**
+
+### Muhasebe TanÄ±mlarÄ±: 
+
+MuhasebeleÅŸme tanÄ±mlarÄ±nÄ± ayarlayarak bu kart iÃ§in hareket iÅŸlendiÄŸinde otomatikman belirli muhasebe hesaplarÄ±na gerekli kayÄ±tlarÄ±n oluÅŸmasÄ±nÄ± saÄŸlayabilirsiniz.
+[MuhasebeleÅŸme TanÄ±mlarÄ±](/TemelOzellikler/MuhasebelesmeTanimlari.md "MuhasebeleÅŸme TanÄ±mlarÄ±")Muhasebe TanÄ±mlarÄ±: **[MuhasebeleÅŸme TanÄ±mlarÄ±](/TemelOzellikler/MuhasebelesmeTanimlari.md "MuhasebeleÅŸme TanÄ±mlarÄ±")
+
+
+### GeliÅŸmiÅŸ
+
+**Åirket-Åube:** KartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](/TemelOzellikler/SirketSubeKart.md "Åirket-Åube")
+
+**Durum:** KartÄ±n kullanabilirliÄŸini belirtir. Pasif kartlar iÅŸlemde kullanÄ±lamaz.
+
+**KÄ±sa Kodu:** Raporlama iÃ§in gereklidir. 
+
+**KÄ±sa AdÄ±:** Raporlama iÃ§in gereklidir. 
+
+**GTIP:** Ä°hracat tipindeki e-faturalarda, karta ait GTIP deÄŸerinin doldurulmasÄ± zorunludur.
+
+**Cari Zorunlu:** Bu kart iÃ§in yapÄ±lan hareketlerde hareketin hangi cariye ait olduÄŸunun raporlanabilmesi iÃ§in seÃ§ilir. Her harekette istenecektir.
+
+**DemirbaÅŸ Zorunlu:** Bu kart iÃ§in yapÄ±lan hareketlerde hareketin hangi demirbaÅŸa ait olduÄŸunun raporlanabilmesi iÃ§in seÃ§ilir. Her harekette istenecektir.
+
+**Dekont Zorunlu:** Bu kart iÃ§in yapÄ±lan hareketlerde hareketin hangi dekonta ait olduÄŸunun raporlanabilmesi iÃ§in seÃ§ilir. Her harekette istenecektir.
+
+**Masraf Merkezi zorunlu:** Hareket kaydÄ± girilirken bu kart seÃ§ildiÄŸinde masraf merkezi seÃ§ilmesinide zorunlu yapar.
+
+
+DoldurulmasÄ± gereken alanlar girildikten sonra saÄŸ alt kÃ¶ÅŸede bulunan Kaydet butonuna basarak MÃ¼ÅŸteri/SatÄ±cÄ± kartÄ± aÃ§ma iÅŸlemimizi bitirebiliriz.

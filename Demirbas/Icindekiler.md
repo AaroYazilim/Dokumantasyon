@@ -1,22 +1,22 @@
 
-# Demirbaş Modülü
+# DemirbaÅŸ ModÃ¼lÃ¼
 
-Bir işletmenin sahip olduğu sabit kıymetlerin (demirbaşların) kayıt altına alındığı ve izlendiği bir muhasebe sürecidir. 
-Demirbaşlar, genellikle uzun süreli kullanım için satın alınan ve işletmenin faaliyetlerini sürdürmek için gerekli olan varlıklardır. 
-Ofis mobilyaları, bilgisayar ekipmanları, araçlar, makinalar gibi öğeler demirbaşlar arasında yer alabilir.
+Bir iÅŸletmenin sahip olduÄŸu sabit kÄ±ymetlerin (demirbaÅŸlarÄ±n) kayÄ±t altÄ±na alÄ±ndÄ±ÄŸÄ± ve izlendiÄŸi bir muhasebe sÃ¼recidir. 
+DemirbaÅŸlar, genellikle uzun sÃ¼reli kullanÄ±m iÃ§in satÄ±n alÄ±nan ve iÅŸletmenin faaliyetlerini sÃ¼rdÃ¼rmek iÃ§in gerekli olan varlÄ±klardÄ±r. 
+Ofis mobilyalarÄ±, bilgisayar ekipmanlarÄ±, araÃ§lar, makinalar gibi Ã¶ÄŸeler demirbaÅŸlar arasÄ±nda yer alabilir.
 
-- İşletmenizin sahip olduğu sabit varlıkların (demirbaşların) detaylı kayıtlarını tutar. Bu kayıtlar genellikle demirbaşın adı, kodu, türü, satın alma tarihi, maliyeti, yerleştirildiği departman veya birim gibi bilgileri içerir.
-- Demirbaşların amortisman süreçlerini yönetir. Bu, demirbaşların amortisman planlarını oluşturma, amortisman giderlerini hesaplama ve ilgili muhasebe kayıtlarını otomatik olarak güncelleme işlemlerini içerir.
-- Demirbaşların transferi, tahsisi veya hurda edilmesi gibi tüm hareketlerin izlenmesini sağlar. Bu, demirbaşların hangi departman veya birimde olduğunu takip etmeyi kolaylaştırır.
-- Demirbaşların bakımı ve onarımıyla ilgili işlemlerinizi yönetir. Periyodik bakım planları oluşturabilir, bakım masraflarını izleyebilir ve bakım geçmişini kaydedebilirsiniz.
-- Demirbaşlarla ilgili detaylı raporlar ve analizler sunar. Bu raporlar, işletmenin demirbaş varlıklarının durumunu değerlendirmesine ve gerektiğinde stratejik kararlar almanıza yardımcı olur.
+- Ä°ÅŸletmenizin sahip olduÄŸu sabit varlÄ±klarÄ±n (demirbaÅŸlarÄ±n) detaylÄ± kayÄ±tlarÄ±nÄ± tutar. Bu kayÄ±tlar genellikle demirbaÅŸÄ±n adÄ±, kodu, tÃ¼rÃ¼, satÄ±n alma tarihi, maliyeti, yerleÅŸtirildiÄŸi departman veya birim gibi bilgileri iÃ§erir.
+- DemirbaÅŸlarÄ±n amortisman sÃ¼reÃ§lerini yÃ¶netir. Bu, demirbaÅŸlarÄ±n amortisman planlarÄ±nÄ± oluÅŸturma, amortisman giderlerini hesaplama ve ilgili muhasebe kayÄ±tlarÄ±nÄ± otomatik olarak gÃ¼ncelleme iÅŸlemlerini iÃ§erir.
+- DemirbaÅŸlarÄ±n transferi, tahsisi veya hurda edilmesi gibi tÃ¼m hareketlerin izlenmesini saÄŸlar. Bu, demirbaÅŸlarÄ±n hangi departman veya birimde olduÄŸunu takip etmeyi kolaylaÅŸtÄ±rÄ±r.
+- DemirbaÅŸlarÄ±n bakÄ±mÄ± ve onarÄ±mÄ±yla ilgili iÅŸlemlerinizi yÃ¶netir. Periyodik bakÄ±m planlarÄ± oluÅŸturabilir, bakÄ±m masraflarÄ±nÄ± izleyebilir ve bakÄ±m geÃ§miÅŸini kaydedebilirsiniz.
+- DemirbaÅŸlarla ilgili detaylÄ± raporlar ve analizler sunar. Bu raporlar, iÅŸletmenin demirbaÅŸ varlÄ±klarÄ±nÄ±n durumunu deÄŸerlendirmesine ve gerektiÄŸinde stratejik kararlar almanÄ±za yardÄ±mcÄ± olur.
 
-Demirbaş modülü, işletmenizin sabit varlıklarını etkin bir şekilde yönetmenize ve izlemenize yardımcı olur. 
-Bu modül, demirbaşların satın alınmasından bakımına kadar olan süreçlerini izleyebilir aynı zamanda varlık değerlerinin korunmasını ve optimize edilmesini sağlayabilirsiniz.
+DemirbaÅŸ modÃ¼lÃ¼, iÅŸletmenizin sabit varlÄ±klarÄ±nÄ± etkin bir ÅŸekilde yÃ¶netmenize ve izlemenize yardÄ±mcÄ± olur. 
+Bu modÃ¼l, demirbaÅŸlarÄ±n satÄ±n alÄ±nmasÄ±ndan bakÄ±mÄ±na kadar olan sÃ¼reÃ§lerini izleyebilir aynÄ± zamanda varlÄ±k deÄŸerlerinin korunmasÄ±nÄ± ve optimize edilmesini saÄŸlayabilirsiniz.
 
-Bu modülde yer alan işlemler;
+Bu modÃ¼lde yer alan iÅŸlemler;
 
-- [Demirbaş Kartı](/Demirbas/DemirbasKarti.md "Demirbaş Kartı")
-- [Demirbaş Kartı Listesi](/Demirbas/DemirbasKartiListesi.md "Demirbaş Kartı Listesi")
-- [Demirbaş Hareketleri Listesi](/Demirbas/DemirbasHareketleriListesi.md "Demirbaş Hareketleri Listesi")
-- [Hareket Oluştur](/Banka/HareketOlustur.md "Hareket Oluştur")
+- [DemirbaÅŸ KartÄ±](/Demirbas/DemirbasKarti.md "DemirbaÅŸ KartÄ±")
+- [DemirbaÅŸ KartÄ± Listesi](/Demirbas/DemirbasKartiListesi.md "DemirbaÅŸ KartÄ± Listesi")
+- [DemirbaÅŸ Hareketleri Listesi](/Demirbas/DemirbasHareketleriListesi.md "DemirbaÅŸ Hareketleri Listesi")
+- [Hareket OluÅŸtur](/Banka/HareketOlustur.md "Hareket OluÅŸtur")

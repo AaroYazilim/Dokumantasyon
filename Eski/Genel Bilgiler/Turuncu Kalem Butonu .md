@@ -1,2 +1,2 @@
 ## Turuncu Kalem Butonu 
-Turuncu kalem butonu ile hareket veya kalemlerde düzenlemeler yapýlabilmektedir. 
+Turuncu kalem butonu ile hareket veya kalemlerde dÃ¼zenlemeler yapÄ±labilmektedir. 

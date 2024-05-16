@@ -1,17 +1,17 @@
 
 ## Yetkiler
 
-Yetkiler, ERP (Enterprise Resource Planning) sistemlerinde kullanıcıların belirli işlevleri gerçekleştirmek veya belirli verilere erişmek için sahip oldukları izinlerdir. 
-Bu, sistemi kullanırken belirli rollerin veya kullanıcıların belirli işlemleri yapma veya belirli verilere erişme yetkisine sahip olmasını sağlar.
+Yetkiler, ERP (Enterprise Resource Planning) sistemlerinde kullanÄ±cÄ±larÄ±n belirli iÅŸlevleri gerÃ§ekleÅŸtirmek veya belirli verilere eriÅŸmek iÃ§in sahip olduklarÄ± izinlerdir. 
+Bu, sistemi kullanÄ±rken belirli rollerin veya kullanÄ±cÄ±larÄ±n belirli iÅŸlemleri yapma veya belirli verilere eriÅŸme yetkisine sahip olmasÄ±nÄ± saÄŸlar.
 
-- Kullanıcı Rollerine Dayalı Yetkilendirme: ERP sistemleri, farklı kullanıcı rolleri oluşturarak belirli işlevleri gerçekleştirmek için izinler tanımlar. 
-Örneğin, bir satış yöneticisi rolü belirli satış işlemlerini yapma yetkisine sahip olabilirken, bir muhasebe görevlisi sadece finansal kayıtlara erişebilir.
-- Modül veya İşlev Bazlı Yetkilendirme: ERP sistemi, belirli modüllere veya işlevlere (örneğin, satış, muhasebe, stok yönetimi) özgü yetkilendirme seçenekleri sunar. 
-Bu, bir kullanıcının sadece belirli bir modülde veya işlevde çalışmasına izin verir ve diğerlerine erişimini kısıtlar.
-- Veri Erişim Yetkileri: ERP sistemi, kullanıcıların belirli veri kümelerine (örneğin, müşteri bilgileri, mali veriler, stok kayıtları) erişimini kontrol eder. 
-Bu, hassas veya gizli bilgilere sadece yetkili kullanıcıların erişmesini sağlar.
-- İşlem Yetkileri: ERP sistemi, kullanıcıların belirli işlemleri gerçekleştirme yetkisini kontrol eder. 
-Bu, bir kullanıcının belirli bir işlemi yapabilmesi için gerekli olan yetkilere sahip olmasını sağlar.
+- KullanÄ±cÄ± Rollerine DayalÄ± Yetkilendirme: ERP sistemleri, farklÄ± kullanÄ±cÄ± rolleri oluÅŸturarak belirli iÅŸlevleri gerÃ§ekleÅŸtirmek iÃ§in izinler tanÄ±mlar. 
+Ã–rneÄŸin, bir satÄ±ÅŸ yÃ¶neticisi rolÃ¼ belirli satÄ±ÅŸ iÅŸlemlerini yapma yetkisine sahip olabilirken, bir muhasebe gÃ¶revlisi sadece finansal kayÄ±tlara eriÅŸebilir.
+- ModÃ¼l veya Ä°ÅŸlev BazlÄ± Yetkilendirme: ERP sistemi, belirli modÃ¼llere veya iÅŸlevlere (Ã¶rneÄŸin, satÄ±ÅŸ, muhasebe, stok yÃ¶netimi) Ã¶zgÃ¼ yetkilendirme seÃ§enekleri sunar. 
+Bu, bir kullanÄ±cÄ±nÄ±n sadece belirli bir modÃ¼lde veya iÅŸlevde Ã§alÄ±ÅŸmasÄ±na izin verir ve diÄŸerlerine eriÅŸimini kÄ±sÄ±tlar.
+- Veri EriÅŸim Yetkileri: ERP sistemi, kullanÄ±cÄ±larÄ±n belirli veri kÃ¼melerine (Ã¶rneÄŸin, mÃ¼ÅŸteri bilgileri, mali veriler, stok kayÄ±tlarÄ±) eriÅŸimini kontrol eder. 
+Bu, hassas veya gizli bilgilere sadece yetkili kullanÄ±cÄ±larÄ±n eriÅŸmesini saÄŸlar.
+- Ä°ÅŸlem Yetkileri: ERP sistemi, kullanÄ±cÄ±larÄ±n belirli iÅŸlemleri gerÃ§ekleÅŸtirme yetkisini kontrol eder. 
+Bu, bir kullanÄ±cÄ±nÄ±n belirli bir iÅŸlemi yapabilmesi iÃ§in gerekli olan yetkilere sahip olmasÄ±nÄ± saÄŸlar.
 
-Yetkilerin doğru bir şekilde yapılandırılması, güvenlik ve veri bütünlüğünün korunmasına yardımcı olurken aynı zamanda iş süreçlerinin verimli bir şekilde yürütülmesini sağlar. 
-Bu nedenle, ERP sistemlerinde yetkilendirme ve erişim kontrolleri önemli bir rol oynar ve dikkatle yönetilmelidir.
+Yetkilerin doÄŸru bir ÅŸekilde yapÄ±landÄ±rÄ±lmasÄ±, gÃ¼venlik ve veri bÃ¼tÃ¼nlÃ¼ÄŸÃ¼nÃ¼n korunmasÄ±na yardÄ±mcÄ± olurken aynÄ± zamanda iÅŸ sÃ¼reÃ§lerinin verimli bir ÅŸekilde yÃ¼rÃ¼tÃ¼lmesini saÄŸlar. 
+Bu nedenle, ERP sistemlerinde yetkilendirme ve eriÅŸim kontrolleri Ã¶nemli bir rol oynar ve dikkatle yÃ¶netilmelidir.

@@ -1,2 +1,2 @@
-## Kayıt Bilgileri 
-Kayıt bilgileri ekranın sağındaki sekmelerde bulunmaktadır. Buradan oluşturan kişi, oluşturulma tarihi, değiştiren kişi, değiştirilme tarihi ve onay durumuna ulaşılabilmektedir. Aynı zamanda hareket oluşturulurken sol üste bulunan sekmeler ile de bu bilgilere ulaşılabilmektedir. 
+## KayÄ±t Bilgileri 
+KayÄ±t bilgileri ekranÄ±n saÄŸÄ±ndaki sekmelerde bulunmaktadÄ±r. Buradan oluÅŸturan kiÅŸi, oluÅŸturulma tarihi, deÄŸiÅŸtiren kiÅŸi, deÄŸiÅŸtirilme tarihi ve onay durumuna ulaÅŸÄ±labilmektedir. AynÄ± zamanda hareket oluÅŸturulurken sol Ã¼ste bulunan sekmeler ile de bu bilgilere ulaÅŸÄ±labilmektedir. 

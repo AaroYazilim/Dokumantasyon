@@ -1,2 +1,2 @@
-## Üç Çizgi Butonu
-Hareketle ilgili kopyalama, yevmiye fişi oluşturma, tüm kalemlerde düzenleme, görev oluşturup, göreve bağlama, grid sütunlarını düzenleme gibi işlemler buradan yapılabilmektedir. Aynı zamanda listelerde de grid sütunlarını düzenleme, Excele aktarma gibi işlemler bu buton ile yapılabilmektedir. 
+## ÃœÃ§ Ã‡izgi Butonu
+Hareketle ilgili kopyalama, yevmiye fiÅŸi oluÅŸturma, tÃ¼m kalemlerde dÃ¼zenleme, gÃ¶rev oluÅŸturup, gÃ¶reve baÄŸlama, grid sÃ¼tunlarÄ±nÄ± dÃ¼zenleme gibi iÅŸlemler buradan yapÄ±labilmektedir. AynÄ± zamanda listelerde de grid sÃ¼tunlarÄ±nÄ± dÃ¼zenleme, Excele aktarma gibi iÅŸlemler bu buton ile yapÄ±labilmektedir. 

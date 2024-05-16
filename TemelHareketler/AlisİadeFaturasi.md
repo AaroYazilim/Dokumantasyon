@@ -1,64 +1,64 @@
 
-# Alış İade Faturası
+# AlÄ±ÅŸ Ä°ade FaturasÄ±
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'Alış iade faturası' aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Alış İade Faturası şeklinde ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Satış&Pazarlama -> Hareket Oluştur -> Alış İade Fatura şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan 'AlÄ±ÅŸ iade faturasÄ±' aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol sekmede yer alan modÃ¼ller kÄ±smÄ±ndan Musteri/Satici -> Hareket OluÅŸtur -> SatÄ±ÅŸ ve Pazarlama -> AlÄ±ÅŸ Ä°ade FaturasÄ± ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol sekmede yer alan modÃ¼ller kÄ±smÄ±ndan SatÄ±ÅŸ&Pazarlama -> Hareket OluÅŸtur -> AlÄ±ÅŸ Ä°ade Fatura ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-## Tanım
+## TanÄ±m
 
-Alış iade faturası, bir işletmenin daha önce satın aldığı mal veya hizmeti iade ettiğini belgeleyen resmi bir belgedir. 
-Alış iade faturası, işletmenin tedarikçisine geri gönderilen ürünlerin iadesini resmi olarak kayıt altına alır ve muhasebe işlemleri için kullanılır.
+AlÄ±ÅŸ iade faturasÄ±, bir iÅŸletmenin daha Ã¶nce satÄ±n aldÄ±ÄŸÄ± mal veya hizmeti iade ettiÄŸini belgeleyen resmi bir belgedir. 
+AlÄ±ÅŸ iade faturasÄ±, iÅŸletmenin tedarikÃ§isine geri gÃ¶nderilen Ã¼rÃ¼nlerin iadesini resmi olarak kayÄ±t altÄ±na alÄ±r ve muhasebe iÅŸlemleri iÃ§in kullanÄ±lÄ±r.
 
-Alış iade faturası genellikle şu bilgileri içerir:
+AlÄ±ÅŸ iade faturasÄ± genellikle ÅŸu bilgileri iÃ§erir:
 
-- **Tedarikçi Bilgileri:** Faturanın düzenlendiği tedarikçinin adı, adresi ve iletişim bilgileri.
+- **TedarikÃ§i Bilgileri:** FaturanÄ±n dÃ¼zenlendiÄŸi tedarikÃ§inin adÄ±, adresi ve iletiÅŸim bilgileri.
 
-- **Alıcı Bilgileri:** Malın veya hizmetin iadesinin yapıldığı alıcının adı, adresi ve iletişim bilgileri.
+- **AlÄ±cÄ± Bilgileri:** MalÄ±n veya hizmetin iadesinin yapÄ±ldÄ±ÄŸÄ± alÄ±cÄ±nÄ±n adÄ±, adresi ve iletiÅŸim bilgileri.
 
-- **Ürün/Hizmet Bilgileri:** İade edilen ürün veya hizmetin detayları, miktarı, birim fiyatı ve iade edilen tutar gibi bilgiler.
+- **ÃœrÃ¼n/Hizmet Bilgileri:** Ä°ade edilen Ã¼rÃ¼n veya hizmetin detaylarÄ±, miktarÄ±, birim fiyatÄ± ve iade edilen tutar gibi bilgiler.
 
-- **İade Sebebi:** Ürünün neden iade edildiği veya hizmetin neden iptal edildiği gibi açıklama.
+- **Ä°ade Sebebi:** ÃœrÃ¼nÃ¼n neden iade edildiÄŸi veya hizmetin neden iptal edildiÄŸi gibi aÃ§Ä±klama.
 
-- **İade Faturası Numarası ve Tarihi:** İrsaliyenin benzersiz bir numarası ve iade işleminin yapıldığı tarih.
+- **Ä°ade FaturasÄ± NumarasÄ± ve Tarihi:** Ä°rsaliyenin benzersiz bir numarasÄ± ve iade iÅŸleminin yapÄ±ldÄ±ÄŸÄ± tarih.
 
-- **İade Tutarı ve Koşulları:** İade edilen ürünler veya hizmetler için ödenen tutarın detayları, vergiler ve iade koşulları gibi bilgiler.
+- **Ä°ade TutarÄ± ve KoÅŸullarÄ±:** Ä°ade edilen Ã¼rÃ¼nler veya hizmetler iÃ§in Ã¶denen tutarÄ±n detaylarÄ±, vergiler ve iade koÅŸullarÄ± gibi bilgiler.
 
-Alış iade faturası, işletmenin mali kayıtlarını güncellemek, tedarikçi ile olan hesapları düzenlemek ve iade işlemlerini resmileştirmek için kullanılır. 
-Ayrıca, işletmeler arasında yapılan ticari ilişkilerde güveni artırır ve iade sürecinin düzenli ve şeffaf bir şekilde yönetilmesini sağlar.
+AlÄ±ÅŸ iade faturasÄ±, iÅŸletmenin mali kayÄ±tlarÄ±nÄ± gÃ¼ncellemek, tedarikÃ§i ile olan hesaplarÄ± dÃ¼zenlemek ve iade iÅŸlemlerini resmileÅŸtirmek iÃ§in kullanÄ±lÄ±r. 
+AyrÄ±ca, iÅŸletmeler arasÄ±nda yapÄ±lan ticari iliÅŸkilerde gÃ¼veni artÄ±rÄ±r ve iade sÃ¼recinin dÃ¼zenli ve ÅŸeffaf bir ÅŸekilde yÃ¶netilmesini saÄŸlar.
 
-### Ek İşlem Butonu 
+### Ek Ä°ÅŸlem Butonu 
 
-[Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle")
+[Anasayfaya KÄ±sayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya KÄ±sayol Olarak Ekle")
 
 ### Genel 
 
-- **Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](/TemelOzellikler/SirketSubeHareket.md "Şirket-Şube")
-- **Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
-- **Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
-- **Satıcı:** İşlemin yapıldığı cari kartını ifade eder. **Girilmesi Zorunludur.**
-- **Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
-- **Depo:** Bu işlemin kullanıldığı depoyu belirtir.
-- **Vade:** İşlemin yapıldığı vadeyi belirtir.
-- **Açıklama:** İşleme ait açıklamayı belirtir.
-- **KDV Dahil:** Kalemlerde birim fiyat ve tutarın 'KDV Dahil' olduğunu belirtir.
+- **Åirket-Åube:** Bu kartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. [Åirket-Åube](/TemelOzellikler/SirketSubeHareket.md "Åirket-Åube")
+- **Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir. **Girilmesi Zorunludur.**
+- **Belge No:** Belge NumarasÄ±nÄ± ifade eder. Otomatik sÄ±radaki numara gelir. Ä°stenirse seri kullanÄ±labilir.
+- **SatÄ±cÄ±:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± cari kartÄ±nÄ± ifade eder. **Girilmesi Zorunludur.**
+- **DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinisini belirtir.
+- **Depo:** Bu iÅŸlemin kullanÄ±ldÄ±ÄŸÄ± depoyu belirtir.
+- **Vade:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± vadeyi belirtir.
+- **AÃ§Ä±klama:** Ä°ÅŸleme ait aÃ§Ä±klamayÄ± belirtir.
+- **KDV Dahil:** Kalemlerde birim fiyat ve tutarÄ±n 'KDV Dahil' olduÄŸunu belirtir.
 
 ### Detay
 
-- **Beklenen Tahsilat ve Ödemeler:**
+- **Beklenen Tahsilat ve Ã–demeler:**
 - **Alt Tip:** Alt hareket tipini belirtir.
-- **Sözleşme:** Bu hareketin hangi sözleşmeye ait olduğunu gösterir.
-- **Proje: Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir.
-- **Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir.
-- **Cari Adres:** Carinin adresini belirtir. Farklı adrese gönderilecekse seçilmelidir. Kalemlerde değiştirilebilir.
-- **Ref. İthalat İhracat:** Bu hareket bir ithalat yada ihracat ise seçilmelidir. Hangi ithlata veya ihracata ait odluğunu belirtir. Kalemlerde Değiştirilebilir.- **Teslim Tarihi:** Bu siparişin teslim edildiği tarihi belirtir.
+- **SÃ¶zleÅŸme:** Bu hareketin hangi sÃ¶zleÅŸmeye ait olduÄŸunu gÃ¶sterir.
+- **Proje: Bu hareketin hangi projeye ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir.
+- **Plasiyer:** Bu hareketin hangi plasiyere ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir.
+- **Cari Adres:** Carinin adresini belirtir. FarklÄ± adrese gÃ¶nderilecekse seÃ§ilmelidir. Kalemlerde deÄŸiÅŸtirilebilir.
+- **Ref. Ä°thalat Ä°hracat:** Bu hareket bir ithalat yada ihracat ise seÃ§ilmelidir. Hangi ithlata veya ihracata ait odluÄŸunu belirtir. Kalemlerde DeÄŸiÅŸtirilebilir.- **Teslim Tarihi:** Bu sipariÅŸin teslim edildiÄŸi tarihi belirtir.
 
-### Açıklamalar
+### AÃ§Ä±klamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+- **AÃ§Ä±klamalar:** Ek aÃ§Ä±klamalarÄ± belirtir. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lÄ±r. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")

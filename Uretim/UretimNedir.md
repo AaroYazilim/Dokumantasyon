@@ -1,71 +1,71 @@
 
-# Üretim
+# Ãœretim
 
-# Ulaşım
+# UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Üretim" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Üretim Modülü şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "Ãœretim" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Ãœretim ModÃ¼lÃ¼ ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 
-# Üretim Modülü 
+# Ãœretim ModÃ¼lÃ¼ 
 
-Modül Sayfasında üretim hareketlerini, hareket ekleme, listeler ve raporlara kolayca ulaşım sağlayabilirsiniz.
-
-
-Üretim modülü, ürünlerin üretim süreçlerini, aşamalarını planlamak, yönetmek ve izlemek için kullanılır.
-Üretim sürecinin başlangıçını reçete oluşturmaktadır. 
-
-[Reçete](/Uretim/Recete.md "Reçete") bir ürünün yapımında kullanılan malzemenin ve bu malzemlerin hangi oranlarda ve nasıl kullanılacağının belirtildiği bir belgedir.
-
-[Makine](/Uretim/Makine.md "Makine") bir üretim tesisinde kullanılan herhangi bir makineyi ifade eder, ürünün veya bileşenin üretiminde kullanılan herhangi bir ekipman olabilir. 
-Üretim makineleri, üretim hattında farklı işlevlere sahip olabilir; 
-Bazıları hammaddeleri işleyebilir, bazıları montaj yapabilir, bazıları test edebilir ve diğerleri ise ambalajlama gibi son işlemleri gerçekleştirebilir.
-
-[Operasyon](/Uretim/Operasyon.md "Operasyon") bir üretim sürecinin belirli bir aşamasında gerçekleştirilen belirli bir faaliyettir. 
-Operasyon, hammaddelerin işlenmesi, parçaların montajı, ürünlerin test edilmesi gibi çeşitli işlemleri içerebilir. 
-Operasyonlar genellikle belirli bir ürün veya hizmetin üretimini tamamlamak için gerekli adımları içeren bir operasyonel planın parçasıdır.
-
-Reçeler, Makineler ve Operasyonlar hazırlandıktan sonra ikinci aşama iş emridir.
-
-[İş Emri](/Uretim/IsEmri.md "İş Emri") bir işin yapılması için çalışanlara veya birimlere verilen talimatlardır. 
-İş emri bir işin ne zaman, nerede, nasıl ve kim tarafından yapılacağını belirtir.
-Her bir operasyon ve ürünler(reçeteler) iş emrinde aşamalı olarak yer alması gerekmektedir.
-
-İş emirleri tamamlandıktan sonraki aşama Planlama aşamasıdır.
-
-[Planlama](/Uretim/Planlama.md "Planlama") işletmenin belirli bir zaman diliminde hangi ürünleri ne zaman, ne kadar ve hangi kaynaklarla üreteceğini planlama sürecidir. 
-Üretim faaliyetlerini etkin bir şekilde organize etmeyi ve kaynakların en verimli şekilde kullanılmasını sağlar.
-Aynı zamanda üretim yapılırken canlı takip etme olanağınız mevcuttur. İşçi ne zaman ara verdi, ne zaman başladı gibi süreçleri izleyebilirsiniz.
-
-Üretim Aşamasında Canlı takip ve Sonradan manuel olarak iki şekilde giriş yapılmaktadır. 
-
-[Canlı Üretim Terminali](/Uretim/Terminal.md "Canlı Üretim Terminali") üretim süreçlerini izlemek, yönetmek ve kontrol etmek için kullanılan bir araçtır. 
-Canlı üretim terminali, fabrika veya üretim tesisindeki üretim faaliyetlerini gerçek zamanlı olarak takip etmeyi ve yönetmeyi sağlar. 
-
-Bir diğer alternatif olarak üretim bittikten sonra [Üretim Hareketi](/Uretim/UretimHareketi.md "Üretim Hareketi") manuel giriş yapabilirsiniz.
-Üretim hareketleri manuel gireceğiniz taktirde;
-[İş Emri Çıktı](/Uretim/IsEmriCıktı.md "İş Emri Çıktı")sını alarak üretimden sorumlu usta başı buradan bütün aşamaları görecek şekilde çıktı alabilir.
-Her bir operasyon için sorumlu olacak personeller için [Operasyon Çıktısı](/Uretim/OperasyonCikti.md "Operasyon Çıktısı") alarak personellere iş emri verebilir.
-
-Planlama üretim tanımları sipariş teslim tarihi gibi veriler girildiğinde otomatik planlama oluşturur.
-[Otomatik Planlama](/Uretim/OtomatikPlanlama.md "Otomatik Planlama") sisteminin oluşturduğu otomatik planlamayı kullanabilirsiniz, değişiklik yapabilirsiniz.
-Otomatik planlama alternatif makineleri değerlendirerek bir plan oluşturur. Kullanıma uygun kaç makine var ise operasyonu hepsini eşit şekilde dağıtır. 
-
-Üretim yapılırken aynı zamanda stoğumuzu da yönetebiliriz. 
-[MRP](/Uretim/Mrp.md "MRP") malzeme gereksinim planlaması takip etmemize, konrrol altında tutmamıza ve eksilen ürünler hammaddelere müdahale etmemize yardımcı olur. 
-Üretim için gerekli miktarları hesaplar hesaplama yaparken depoda bulunması gereken miktarları ve üretilirken ne kadar gerekli olduğunu gösterir.
-Bu şekilde eksik olan hammadde, yarı mamul ve mamullerin tedariğini kolayca sağlayabiliriz.
+ModÃ¼l SayfasÄ±nda Ã¼retim hareketlerini, hareket ekleme, listeler ve raporlara kolayca ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
 
-# Maliyet Hesaplamaları 
+Ãœretim modÃ¼lÃ¼, Ã¼rÃ¼nlerin Ã¼retim sÃ¼reÃ§lerini, aÅŸamalarÄ±nÄ± planlamak, yÃ¶netmek ve izlemek iÃ§in kullanÄ±lÄ±r.
+Ãœretim sÃ¼recinin baÅŸlangÄ±Ã§Ä±nÄ± reÃ§ete oluÅŸturmaktadÄ±r. 
 
-Üretim sürecinde işletmenizin için en önemli detaylardan biri de maliyet hesaplamalarıdır.
-İşlemenizin üretim faaliyetlerini takip ederken maliyetlerinide kontrol edebilirsiniz.
-Üretim maliyetlerini hesaplayarak ürünlerinin fiyatlandırmasını ve kar oranlarınızı hesaplamanız kolaylaşır.
+[ReÃ§ete](/Uretim/Recete.md "ReÃ§ete") bir Ã¼rÃ¼nÃ¼n yapÄ±mÄ±nda kullanÄ±lan malzemenin ve bu malzemlerin hangi oranlarda ve nasÄ±l kullanÄ±lacaÄŸÄ±nÄ±n belirtildiÄŸi bir belgedir.
 
-## İşçilik Maliyeti 
+[Makine](/Uretim/Makine.md "Makine") bir Ã¼retim tesisinde kullanÄ±lan herhangi bir makineyi ifade eder, Ã¼rÃ¼nÃ¼n veya bileÅŸenin Ã¼retiminde kullanÄ±lan herhangi bir ekipman olabilir. 
+Ãœretim makineleri, Ã¼retim hattÄ±nda farklÄ± iÅŸlevlere sahip olabilir; 
+BazÄ±larÄ± hammaddeleri iÅŸleyebilir, bazÄ±larÄ± montaj yapabilir, bazÄ±larÄ± test edebilir ve diÄŸerleri ise ambalajlama gibi son iÅŸlemleri gerÃ§ekleÅŸtirebilir.
 
-Üretim sürecinde çalışan işçilerin çalışma maliyetleridir. Detaylı bilgi için tıklayınız. [İşçilik Maliyeti](/Uretim/İscilikMaliyeti.md "İşçilik Maliyeti")
+[Operasyon](/Uretim/Operasyon.md "Operasyon") bir Ã¼retim sÃ¼recinin belirli bir aÅŸamasÄ±nda gerÃ§ekleÅŸtirilen belirli bir faaliyettir. 
+Operasyon, hammaddelerin iÅŸlenmesi, parÃ§alarÄ±n montajÄ±, Ã¼rÃ¼nlerin test edilmesi gibi Ã§eÅŸitli iÅŸlemleri iÃ§erebilir. 
+Operasyonlar genellikle belirli bir Ã¼rÃ¼n veya hizmetin Ã¼retimini tamamlamak iÃ§in gerekli adÄ±mlarÄ± iÃ§eren bir operasyonel planÄ±n parÃ§asÄ±dÄ±r.
+
+ReÃ§eler, Makineler ve Operasyonlar hazÄ±rlandÄ±ktan sonra ikinci aÅŸama iÅŸ emridir.
+
+[Ä°ÅŸ Emri](/Uretim/IsEmri.md "Ä°ÅŸ Emri") bir iÅŸin yapÄ±lmasÄ± iÃ§in Ã§alÄ±ÅŸanlara veya birimlere verilen talimatlardÄ±r. 
+Ä°ÅŸ emri bir iÅŸin ne zaman, nerede, nasÄ±l ve kim tarafÄ±ndan yapÄ±lacaÄŸÄ±nÄ± belirtir.
+Her bir operasyon ve Ã¼rÃ¼nler(reÃ§eteler) iÅŸ emrinde aÅŸamalÄ± olarak yer almasÄ± gerekmektedir.
+
+Ä°ÅŸ emirleri tamamlandÄ±ktan sonraki aÅŸama Planlama aÅŸamasÄ±dÄ±r.
+
+[Planlama](/Uretim/Planlama.md "Planlama") iÅŸletmenin belirli bir zaman diliminde hangi Ã¼rÃ¼nleri ne zaman, ne kadar ve hangi kaynaklarla Ã¼reteceÄŸini planlama sÃ¼recidir. 
+Ãœretim faaliyetlerini etkin bir ÅŸekilde organize etmeyi ve kaynaklarÄ±n en verimli ÅŸekilde kullanÄ±lmasÄ±nÄ± saÄŸlar.
+AynÄ± zamanda Ã¼retim yapÄ±lÄ±rken canlÄ± takip etme olanaÄŸÄ±nÄ±z mevcuttur. Ä°ÅŸÃ§i ne zaman ara verdi, ne zaman baÅŸladÄ± gibi sÃ¼reÃ§leri izleyebilirsiniz.
+
+Ãœretim AÅŸamasÄ±nda CanlÄ± takip ve Sonradan manuel olarak iki ÅŸekilde giriÅŸ yapÄ±lmaktadÄ±r. 
+
+[CanlÄ± Ãœretim Terminali](/Uretim/Terminal.md "CanlÄ± Ãœretim Terminali") Ã¼retim sÃ¼reÃ§lerini izlemek, yÃ¶netmek ve kontrol etmek iÃ§in kullanÄ±lan bir araÃ§tÄ±r. 
+CanlÄ± Ã¼retim terminali, fabrika veya Ã¼retim tesisindeki Ã¼retim faaliyetlerini gerÃ§ek zamanlÄ± olarak takip etmeyi ve yÃ¶netmeyi saÄŸlar. 
+
+Bir diÄŸer alternatif olarak Ã¼retim bittikten sonra [Ãœretim Hareketi](/Uretim/UretimHareketi.md "Ãœretim Hareketi") manuel giriÅŸ yapabilirsiniz.
+Ãœretim hareketleri manuel gireceÄŸiniz taktirde;
+[Ä°ÅŸ Emri Ã‡Ä±ktÄ±](/Uretim/IsEmriCÄ±ktÄ±.md "Ä°ÅŸ Emri Ã‡Ä±ktÄ±")sÄ±nÄ± alarak Ã¼retimden sorumlu usta baÅŸÄ± buradan bÃ¼tÃ¼n aÅŸamalarÄ± gÃ¶recek ÅŸekilde Ã§Ä±ktÄ± alabilir.
+Her bir operasyon iÃ§in sorumlu olacak personeller iÃ§in [Operasyon Ã‡Ä±ktÄ±sÄ±](/Uretim/OperasyonCikti.md "Operasyon Ã‡Ä±ktÄ±sÄ±") alarak personellere iÅŸ emri verebilir.
+
+Planlama Ã¼retim tanÄ±mlarÄ± sipariÅŸ teslim tarihi gibi veriler girildiÄŸinde otomatik planlama oluÅŸturur.
+[Otomatik Planlama](/Uretim/OtomatikPlanlama.md "Otomatik Planlama") sisteminin oluÅŸturduÄŸu otomatik planlamayÄ± kullanabilirsiniz, deÄŸiÅŸiklik yapabilirsiniz.
+Otomatik planlama alternatif makineleri deÄŸerlendirerek bir plan oluÅŸturur. KullanÄ±ma uygun kaÃ§ makine var ise operasyonu hepsini eÅŸit ÅŸekilde daÄŸÄ±tÄ±r. 
+
+Ãœretim yapÄ±lÄ±rken aynÄ± zamanda stoÄŸumuzu da yÃ¶netebiliriz. 
+[MRP](/Uretim/Mrp.md "MRP") malzeme gereksinim planlamasÄ± takip etmemize, konrrol altÄ±nda tutmamÄ±za ve eksilen Ã¼rÃ¼nler hammaddelere mÃ¼dahale etmemize yardÄ±mcÄ± olur. 
+Ãœretim iÃ§in gerekli miktarlarÄ± hesaplar hesaplama yaparken depoda bulunmasÄ± gereken miktarlarÄ± ve Ã¼retilirken ne kadar gerekli olduÄŸunu gÃ¶sterir.
+Bu ÅŸekilde eksik olan hammadde, yarÄ± mamul ve mamullerin tedariÄŸini kolayca saÄŸlayabiliriz.
+
+
+# Maliyet HesaplamalarÄ± 
+
+Ãœretim sÃ¼recinde iÅŸletmenizin iÃ§in en Ã¶nemli detaylardan biri de maliyet hesaplamalarÄ±dÄ±r.
+Ä°ÅŸlemenizin Ã¼retim faaliyetlerini takip ederken maliyetlerinide kontrol edebilirsiniz.
+Ãœretim maliyetlerini hesaplayarak Ã¼rÃ¼nlerinin fiyatlandÄ±rmasÄ±nÄ± ve kar oranlarÄ±nÄ±zÄ± hesaplamanÄ±z kolaylaÅŸÄ±r.
+
+## Ä°ÅŸÃ§ilik Maliyeti 
+
+Ãœretim sÃ¼recinde Ã§alÄ±ÅŸan iÅŸÃ§ilerin Ã§alÄ±ÅŸma maliyetleridir. DetaylÄ± bilgi iÃ§in tÄ±klayÄ±nÄ±z. [Ä°ÅŸÃ§ilik Maliyeti](/Uretim/Ä°scilikMaliyeti.md "Ä°ÅŸÃ§ilik Maliyeti")
 
 ## Birim Maliyeti
 
-Makine masraflarının hesapları ve işçilik hesaplarının toplamıdır. Detaylı bilgi için tıklayınız. [Çalışma Mal. / Saat](/Uretim/BirimMaliyeti.md "Çalışma Mal. / Saat")
+Makine masraflarÄ±nÄ±n hesaplarÄ± ve iÅŸÃ§ilik hesaplarÄ±nÄ±n toplamÄ±dÄ±r. DetaylÄ± bilgi iÃ§in tÄ±klayÄ±nÄ±z. [Ã‡alÄ±ÅŸma Mal. / Saat](/Uretim/BirimMaliyeti.md "Ã‡alÄ±ÅŸma Mal. / Saat")

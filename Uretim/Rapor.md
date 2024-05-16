@@ -1,29 +1,29 @@
 
 # MRP Raporu
 
-Üretim planının odak noktası olan ürünlerin detaylı listesi, tanımları ve gereksinimlerini içerir. 
-Her bir ürün için, bileşen malzemelerin listesi ve bu malzemelerin miktarları belirtilir.
-Ürünlerin üretiminde kullanılacak olan tüm malzemelerin listesi ve bu malzemelerin mevcut stok durumu ile talep edilen miktarları bulunur. 
-Ayrıca, malzemelerin sipariş tarihleri ve teslimat süreleri de raporda yer alır.
-Mevcut malzeme stoklarının detaylı bir analizi, mevcut stok miktarları, tedarik süreleri ve yeniden sipariş noktaları gibi bilgileri içerir. 
-Bu bölüm, hangi malzemelerin ne zaman yeniden sipariş edilmesi gerektiğini belirlemek için kullanılır.
-Hangi malzemelerin ne zaman sipariş edildiği, tedarikçi bilgileri ve beklenen teslimat tarihleri gibi bilgileri içerir. 
-Ayrıca, siparişlerin hangi aşamada olduğu ve beklenen tedarik durumu da raporda yer alır.
-Ürünlerin üretim planı, üretim sürecinin zamanlaması ve üretim kapasitesi gibi bilgileri içerir. 
-Bu bölüm, işletmenin hangi ürünleri ne zaman üreteceğini ve hangi malzemelere ihtiyacı olduğunu gösterir.
-Tüm verilerin özetlendiği ve analiz edildiği bir bölüm. 
-Burada, mevcut stok durumu, tedarik süreleri, üretim planı ve diğer önemli bilgilerin değerlendirmesi yapılır ve gerekirse stratejik kararlar önerilir.
+Ãœretim planÄ±nÄ±n odak noktasÄ± olan Ã¼rÃ¼nlerin detaylÄ± listesi, tanÄ±mlarÄ± ve gereksinimlerini iÃ§erir. 
+Her bir Ã¼rÃ¼n iÃ§in, bileÅŸen malzemelerin listesi ve bu malzemelerin miktarlarÄ± belirtilir.
+ÃœrÃ¼nlerin Ã¼retiminde kullanÄ±lacak olan tÃ¼m malzemelerin listesi ve bu malzemelerin mevcut stok durumu ile talep edilen miktarlarÄ± bulunur. 
+AyrÄ±ca, malzemelerin sipariÅŸ tarihleri ve teslimat sÃ¼releri de raporda yer alÄ±r.
+Mevcut malzeme stoklarÄ±nÄ±n detaylÄ± bir analizi, mevcut stok miktarlarÄ±, tedarik sÃ¼releri ve yeniden sipariÅŸ noktalarÄ± gibi bilgileri iÃ§erir. 
+Bu bÃ¶lÃ¼m, hangi malzemelerin ne zaman yeniden sipariÅŸ edilmesi gerektiÄŸini belirlemek iÃ§in kullanÄ±lÄ±r.
+Hangi malzemelerin ne zaman sipariÅŸ edildiÄŸi, tedarikÃ§i bilgileri ve beklenen teslimat tarihleri gibi bilgileri iÃ§erir. 
+AyrÄ±ca, sipariÅŸlerin hangi aÅŸamada olduÄŸu ve beklenen tedarik durumu da raporda yer alÄ±r.
+ÃœrÃ¼nlerin Ã¼retim planÄ±, Ã¼retim sÃ¼recinin zamanlamasÄ± ve Ã¼retim kapasitesi gibi bilgileri iÃ§erir. 
+Bu bÃ¶lÃ¼m, iÅŸletmenin hangi Ã¼rÃ¼nleri ne zaman Ã¼reteceÄŸini ve hangi malzemelere ihtiyacÄ± olduÄŸunu gÃ¶sterir.
+TÃ¼m verilerin Ã¶zetlendiÄŸi ve analiz edildiÄŸi bir bÃ¶lÃ¼m. 
+Burada, mevcut stok durumu, tedarik sÃ¼releri, Ã¼retim planÄ± ve diÄŸer Ã¶nemli bilgilerin deÄŸerlendirmesi yapÄ±lÄ±r ve gerekirse stratejik kararlar Ã¶nerilir.
 
-# Üretim Rapor
+# Ãœretim Rapor
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon bazında üretim mamul" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Rapor -> Üretim -> Operasyon Bazında Üretim (Makine,Mamül) şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "operasyon bazÄ±nda Ã¼retim mamul" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Rapor -> Ãœretim -> Operasyon BazÄ±nda Ãœretim (Makine,MamÃ¼l) ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
 ## Detaylar 
 
-- Üretim yapılırken her duraklama brüte eklenir. 
-- Her makineye ve her operasyona ayrı ayrı rapor oluşturuyor.
-- Makine kaç gün çalıştı, makinelerin çalışma kapasitelerini görüntüleyebiliriz.
-- [Rehber Nesnesi](/TemelOzellikler/RehberNesnesi.md "Rehber Nesnesi") özelliğinde birden fazla seçim yapmak için listeden çoklu seçim yapabilirsiniz. Listeden Seç -> ctrl ile seçimlerinizi yapabilirsiniz.
+- Ãœretim yapÄ±lÄ±rken her duraklama brÃ¼te eklenir. 
+- Her makineye ve her operasyona ayrÄ± ayrÄ± rapor oluÅŸturuyor.
+- Makine kaÃ§ gÃ¼n Ã§alÄ±ÅŸtÄ±, makinelerin Ã§alÄ±ÅŸma kapasitelerini gÃ¶rÃ¼ntÃ¼leyebiliriz.
+- [Rehber Nesnesi](/TemelOzellikler/RehberNesnesi.md "Rehber Nesnesi") Ã¶zelliÄŸinde birden fazla seÃ§im yapmak iÃ§in listeden Ã§oklu seÃ§im yapabilirsiniz. Listeden SeÃ§ -> ctrl ile seÃ§imlerinizi yapabilirsiniz.

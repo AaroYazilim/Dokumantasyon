@@ -1,55 +1,55 @@
 
-## Terminal Kullanıcı Ekleme 
+## Terminal KullanÄ±cÄ± Ekleme 
 
-Canlı üretim terminal sisteminde üretim anında gerçekleşen herşeyi gerçek zamanlı sistemde verilerin aktarılmasıdır. 
-Operasyon başladığında başla, mola verildiğinde mola verildi, durulduğunda durma ve işlem bittiğinde bitti butonlarına basarak sürelerin hesaplanması,
-anlık verilerin canlı üretim sisteminde görüntülenmesine yardımcı olarak daha hızlı planlamalar işin, siparişlerin durumuyla ilgili hızlı veriler elde edilir. 
+CanlÄ± Ã¼retim terminal sisteminde Ã¼retim anÄ±nda gerÃ§ekleÅŸen herÅŸeyi gerÃ§ek zamanlÄ± sistemde verilerin aktarÄ±lmasÄ±dÄ±r. 
+Operasyon baÅŸladÄ±ÄŸÄ±nda baÅŸla, mola verildiÄŸinde mola verildi, durulduÄŸunda durma ve iÅŸlem bittiÄŸinde bitti butonlarÄ±na basarak sÃ¼relerin hesaplanmasÄ±,
+anlÄ±k verilerin canlÄ± Ã¼retim sisteminde gÃ¶rÃ¼ntÃ¼lenmesine yardÄ±mcÄ± olarak daha hÄ±zlÄ± planlamalar iÅŸin, sipariÅŸlerin durumuyla ilgili hÄ±zlÄ± veriler elde edilir. 
 
-### Ulaşım 
+### UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "terminal" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Ayarlar -> Kartlar -> Terminal Kullanıcı Listesi -> Yeni Terminal Ekle şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "terminal" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ayarlar -> Kartlar -> Terminal KullanÄ±cÄ± Listesi -> Yeni Terminal Ekle ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
 #### Genel 
 
-**Kullanıcı Kodu** Kullanıcıya ait koddur. Bu kod ile oturum açılır.
-**Kullanıcı Adı** Kullanıcının adını giriniz.
-**Aaro Hesabı** Oturum açma hesap bilgilerini belirtir. Sisteme girdiğiniz her adın yanına sistem @aaro.com.tr atar. 
-	Örn;ayse yazdık sistem kullanıcı girişi için bize otomatik ayse@aaro.com.tr adresini verdi bu adres ile giriş sağlayacağız.
-**Telefon** Kullacının telefon numarası girilmelidir. İkinci güvenli ve şifre sıfırlama işlemleri için gereklidir.
-**e-Posta** Kullanıcın kullandığı e-Postayı giriniz.
-**Şifre** Kullanıcı girişinizi yapabilmek için şifre belirleyiniz. 8 karakterden fazla olmalıdır.
-**Makine** Kullanıcının erişim sağlacağı makineyi ekleyiniz.
-**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**KullanÄ±cÄ± Kodu** KullanÄ±cÄ±ya ait koddur. Bu kod ile oturum aÃ§Ä±lÄ±r.
+**KullanÄ±cÄ± AdÄ±** KullanÄ±cÄ±nÄ±n adÄ±nÄ± giriniz.
+**Aaro HesabÄ±** Oturum aÃ§ma hesap bilgilerini belirtir. Sisteme girdiÄŸiniz her adÄ±n yanÄ±na sistem @aaro.com.tr atar. 
+	Ã–rn;ayse yazdÄ±k sistem kullanÄ±cÄ± giriÅŸi iÃ§in bize otomatik ayse@aaro.com.tr adresini verdi bu adres ile giriÅŸ saÄŸlayacaÄŸÄ±z.
+**Telefon** KullacÄ±nÄ±n telefon numarasÄ± girilmelidir. Ä°kinci gÃ¼venli ve ÅŸifre sÄ±fÄ±rlama iÅŸlemleri iÃ§in gereklidir.
+**e-Posta** KullanÄ±cÄ±n kullandÄ±ÄŸÄ± e-PostayÄ± giriniz.
+**Åifre** KullanÄ±cÄ± giriÅŸinizi yapabilmek iÃ§in ÅŸifre belirleyiniz. 8 karakterden fazla olmalÄ±dÄ±r.
+**Makine** KullanÄ±cÄ±nÄ±n eriÅŸim saÄŸlacaÄŸÄ± makineyi ekleyiniz.
+**Etiketler:** Gruplamak iÃ§in kullanÄ±lÄ±r. DetaylÄ± tanÄ±m iÃ§in linke tÄ±klayÄ±nÄ±z. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 #### Yetkiler 
 
-**Oturum Açma Yetkisi** Kullacının oturum açabileceği Şirket-Şubeyi belirtir.
+**Oturum AÃ§ma Yetkisi** KullacÄ±nÄ±n oturum aÃ§abileceÄŸi Åirket-Åubeyi belirtir.
 
-#### Oturum Açma Saatleri
+#### Oturum AÃ§ma Saatleri
 
-Vardiyalı çalışma yapan yerlerde başka bir kullancının başkası adına işlem yapmaması için güvenlik amaçlı çalışma saatleri belirtilir.
-Kulalnıcının çalışma saaatlerini başlangıç ve bitiş olarak saatlerini girebilirsiniz.
+VardiyalÄ± Ã§alÄ±ÅŸma yapan yerlerde baÅŸka bir kullancÄ±nÄ±n baÅŸkasÄ± adÄ±na iÅŸlem yapmamasÄ± iÃ§in gÃ¼venlik amaÃ§lÄ± Ã§alÄ±ÅŸma saatleri belirtilir.
+KulalnÄ±cÄ±nÄ±n Ã§alÄ±ÅŸma saaatlerini baÅŸlangÄ±Ã§ ve bitiÅŸ olarak saatlerini girebilirsiniz.
 
-#### Gelişmiş
+#### GeliÅŸmiÅŸ
 
-Kullanıcının aktif ya da pasiflik durumunu buradan seçebilirsiniz. 
+KullanÄ±cÄ±nÄ±n aktif ya da pasiflik durumunu buradan seÃ§ebilirsiniz. 
 
-**Kaydet butonuna basarak kullanıcı tanımlama işlemini gerçekleştirebilirsiniz.**
+**Kaydet butonuna basarak kullanÄ±cÄ± tanÄ±mlama iÅŸlemini gerÃ§ekleÅŸtirebilirsiniz.**
 
 
-Kullanıcıya bir kaç makineye bakacak ise ya da başka makinede işlem yapacaksa terminal kullanıcısı ile makine eşleştirmesi yapılmalıdır.
+KullanÄ±cÄ±ya bir kaÃ§ makineye bakacak ise ya da baÅŸka makinede iÅŸlem yapacaksa terminal kullanÄ±cÄ±sÄ± ile makine eÅŸleÅŸtirmesi yapÄ±lmalÄ±dÄ±r.
 
-## Üretim Terminali Makine Eşleştirme
+## Ãœretim Terminali Makine EÅŸleÅŸtirme
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "terminal makine" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> Üretim Terminali Makine Eşleştirme Listesi -> Yeni Üretim Terminali Makine Eşleştirmeleri Ekle şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "terminal makine" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartlar -> Ãœretim Terminali Makine EÅŸleÅŸtirme Listesi -> Yeni Ãœretim Terminali Makine EÅŸleÅŸtirmeleri Ekle ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
 ### Genel 
 
-**Terminal Adı** Makine tanımlayacağımız üretim terminali kullanıcısını seçelim.
-**Makine Adı** Eşleştirme yapacağımız tanımlayacağımız makineyi seçelim.
+**Terminal AdÄ±** Makine tanÄ±mlayacaÄŸÄ±mÄ±z Ã¼retim terminali kullanÄ±cÄ±sÄ±nÄ± seÃ§elim.
+**Makine AdÄ±** EÅŸleÅŸtirme yapacaÄŸÄ±mÄ±z tanÄ±mlayacaÄŸÄ±mÄ±z makineyi seÃ§elim.
 
-**Kaydet butonuna basarak eşleştirmemizi gerçekleştirdik.
+**Kaydet butonuna basarak eÅŸleÅŸtirmemizi gerÃ§ekleÅŸtirdik.
 
-- Makine eşlettikten sonra sistemden giriş çıkış yapınız, sistem güncellemelerimizi kaydetsin.
+- Makine eÅŸlettikten sonra sistemden giriÅŸ Ã§Ä±kÄ±ÅŸ yapÄ±nÄ±z, sistem gÃ¼ncellemelerimizi kaydetsin.

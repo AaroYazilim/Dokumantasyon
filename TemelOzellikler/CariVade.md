@@ -1,21 +1,21 @@
 
 ## Vade
 
-İşlemin yapıldığı vadeyi belirtir.
-Cari ile ilgili işlem yapıldığında otomatik buradaki vade gelecektir.Ay sonu seçeneği belirtilen günden sonraki ay sonuna alır. 0 ise ayın sonuna alır.
+Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± vadeyi belirtir.
+Cari ile ilgili iÅŸlem yapÄ±ldÄ±ÄŸÄ±nda otomatik buradaki vade gelecektir.Ay sonu seÃ§eneÄŸi belirtilen gÃ¼nden sonraki ay sonuna alÄ±r. 0 ise ayÄ±n sonuna alÄ±r.
 
-Vade, bir borcun veya alacağın ödeme veya tahsil edilmesi için belirlenen süre veya tarih anlamına gelir. 
-Bu süre, iki taraf arasında yapılan anlaşmaya veya ticari işlem şartlarına bağlı olarak değişebilir. 
-Örneğin, bir borç veya fatura için belirlenen vade, borcun ne zaman ödenmesi gerektiğini gösterirken, 
-bir alacak için belirlenen vade, alacağın ne zaman tahsil edileceğini belirtir.
+Vade, bir borcun veya alacaÄŸÄ±n Ã¶deme veya tahsil edilmesi iÃ§in belirlenen sÃ¼re veya tarih anlamÄ±na gelir. 
+Bu sÃ¼re, iki taraf arasÄ±nda yapÄ±lan anlaÅŸmaya veya ticari iÅŸlem ÅŸartlarÄ±na baÄŸlÄ± olarak deÄŸiÅŸebilir. 
+Ã–rneÄŸin, bir borÃ§ veya fatura iÃ§in belirlenen vade, borcun ne zaman Ã¶denmesi gerektiÄŸini gÃ¶sterirken, 
+bir alacak iÃ§in belirlenen vade, alacaÄŸÄ±n ne zaman tahsil edileceÄŸini belirtir.
 
 
-Cari vade, ERP (Enterprise Resource Planning) sisteminde işletmenin müşterilere veya tedarikçilere ödeme yapma veya alacak tahsil etme süresini belirlemek için kullanılan bir terimdir. 
-Bu, genellikle belirli bir işlem veya anlaşmanın sona erdiği tarihe kadar ödeme yapma veya alacak tahsil etme süresini ifade eder.
+Cari vade, ERP (Enterprise Resource Planning) sisteminde iÅŸletmenin mÃ¼ÅŸterilere veya tedarikÃ§ilere Ã¶deme yapma veya alacak tahsil etme sÃ¼resini belirlemek iÃ§in kullanÄ±lan bir terimdir. 
+Bu, genellikle belirli bir iÅŸlem veya anlaÅŸmanÄ±n sona erdiÄŸi tarihe kadar Ã¶deme yapma veya alacak tahsil etme sÃ¼resini ifade eder.
 
-Cari vade, genellikle fatura tarihinden itibaren belirli bir süreyi ifade eder. 
-Örneğin, "30 günlük cari vade" ifadesi, fatura tarihinden itibaren 30 gün içinde ödemenin yapılması gerektiğini belirtir. 
-Aynı şekilde, "90 gün vadeli alacak" ifadesi, müşterinin fatura tarihinden itibaren 90 gün içinde ödeme yapması gerektiğini belirtir.
+Cari vade, genellikle fatura tarihinden itibaren belirli bir sÃ¼reyi ifade eder. 
+Ã–rneÄŸin, "30 gÃ¼nlÃ¼k cari vade" ifadesi, fatura tarihinden itibaren 30 gÃ¼n iÃ§inde Ã¶demenin yapÄ±lmasÄ± gerektiÄŸini belirtir. 
+AynÄ± ÅŸekilde, "90 gÃ¼n vadeli alacak" ifadesi, mÃ¼ÅŸterinin fatura tarihinden itibaren 90 gÃ¼n iÃ§inde Ã¶deme yapmasÄ± gerektiÄŸini belirtir.
 
-Bu terim, işletmenin nakit akışını yönetmek, ödeme sürelerini planlamak ve finansal ilişkileri düzenlemek için önemlidir. 
-Cari vadeler, işletmenin alacaklarını zamanında tahsil etmesini ve ödemelerini geciktirmeden yapmasını sağlar, bu da likidite yönetimini güçlendirir ve finansal istikrarı artırır.
+Bu terim, iÅŸletmenin nakit akÄ±ÅŸÄ±nÄ± yÃ¶netmek, Ã¶deme sÃ¼relerini planlamak ve finansal iliÅŸkileri dÃ¼zenlemek iÃ§in Ã¶nemlidir. 
+Cari vadeler, iÅŸletmenin alacaklarÄ±nÄ± zamanÄ±nda tahsil etmesini ve Ã¶demelerini geciktirmeden yapmasÄ±nÄ± saÄŸlar, bu da likidite yÃ¶netimini gÃ¼Ã§lendirir ve finansal istikrarÄ± artÄ±rÄ±r.

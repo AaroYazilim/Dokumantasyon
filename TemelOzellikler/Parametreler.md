@@ -1,34 +1,34 @@
 
 ## Parametreler 
 
-### Tanım
+### TanÄ±m
 
-Parametreler sistem davranışlarını ve işleyişini kontrol eden değişkenlerdir.
-Her parametrenin bir ön değeri bulunmaktadır. En temel özellikleri kod1 isminde değişiklik yapabiliyoruz. 
-Örneğin; her işlemende sipariş numarası kullanıyorsak Sip. No: gibi yapabiliriz.
-İşletme ihtiyaçlarınıza uyum sağlamak için parametrelerde değişiklik yapabilir firmanıza göre özelleştirebilir yapılandırabilirsiniz.
-Bazı parametrelerin kritik iş süreçlerini etkileyebilir bu nedenle sadece yetkili personelin erişimine izin verilmelidir.
+Parametreler sistem davranÄ±ÅŸlarÄ±nÄ± ve iÅŸleyiÅŸini kontrol eden deÄŸiÅŸkenlerdir.
+Her parametrenin bir Ã¶n deÄŸeri bulunmaktadÄ±r. En temel Ã¶zellikleri kod1 isminde deÄŸiÅŸiklik yapabiliyoruz. 
+Ã–rneÄŸin; her iÅŸlemende sipariÅŸ numarasÄ± kullanÄ±yorsak Sip. No: gibi yapabiliriz.
+Ä°ÅŸletme ihtiyaÃ§larÄ±nÄ±za uyum saÄŸlamak iÃ§in parametrelerde deÄŸiÅŸiklik yapabilir firmanÄ±za gÃ¶re Ã¶zelleÅŸtirebilir yapÄ±landÄ±rabilirsiniz.
+BazÄ± parametrelerin kritik iÅŸ sÃ¼reÃ§lerini etkileyebilir bu nedenle sadece yetkili personelin eriÅŸimine izin verilmelidir.
 
-### Ulaşım
+### UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Parametre" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Ayarlar -> Modül Sayfası -> Parametre Listesi -> Yeni Parametre Ekle şeklinde yeni parametre ekleyebilirsiniz.
-- Sol menüden Ayarlar -> Modül Sayfası -> Parametre Listesi şeklinde parametre listesine ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "Parametre" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ayarlar -> ModÃ¼l SayfasÄ± -> Parametre Listesi -> Yeni Parametre Ekle ÅŸeklinde yeni parametre ekleyebilirsiniz.
+- Sol menÃ¼den Ayarlar -> ModÃ¼l SayfasÄ± -> Parametre Listesi ÅŸeklinde parametre listesine ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 
-### Ek İşlemler
+### Ek Ä°ÅŸlemler
 
-**Anasayfaya Kısayol Olarak Ekle** parametre listesine hızlı erişim sağlamak istediğinizde kısayol olarak ekleyebilirsiniz. [Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle")
+**Anasayfaya KÄ±sayol Olarak Ekle** parametre listesine hÄ±zlÄ± eriÅŸim saÄŸlamak istediÄŸinizde kÄ±sayol olarak ekleyebilirsiniz. [Anasayfaya KÄ±sayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya KÄ±sayol Olarak Ekle")
 
 #### Parametre Ekleme
 
-- Sol menüden Ayarlar -> Modül Sayfası -> Parametre Listesi -> Yeni Parametre Ekle şeklinde yeni parametre ekleyebilirsiniz.
+- Sol menÃ¼den Ayarlar -> ModÃ¼l SayfasÄ± -> Parametre Listesi -> Yeni Parametre Ekle ÅŸeklinde yeni parametre ekleyebilirsiniz.
 
-**Şirket-Şube** buradan işlem yapılacak şirket ya da şubeyi seçiniz. [Şirket-Şube](/TemelOzellikler/SirketSubeHareket.md "Şirket-Şube")
-**Parametre** buradan kayıtlı hesaptan parametreleri seçebilirsini yeni kayı için açılan listenin en altından "+Detaylı Ekle:" ya da "Hızlı Ekle:" seçerek ekleme işlemi yapabilirsiniz.
-**Değer**
-**Tanım**
+**Åirket-Åube** buradan iÅŸlem yapÄ±lacak ÅŸirket ya da ÅŸubeyi seÃ§iniz. [Åirket-Åube](/TemelOzellikler/SirketSubeHareket.md "Åirket-Åube")
+**Parametre** buradan kayÄ±tlÄ± hesaptan parametreleri seÃ§ebilirsini yeni kayÄ± iÃ§in aÃ§Ä±lan listenin en altÄ±ndan "+DetaylÄ± Ekle:" ya da "HÄ±zlÄ± Ekle:" seÃ§erek ekleme iÅŸlemi yapabilirsiniz.
+**DeÄŸer**
+**TanÄ±m**
 
-#### Ek Özellikler
+#### Ek Ã–zellikler
 
-- Parametre listesi -> Tasarım_Kodlar yanındaki büyüteçe tıklayarak açılan sekmede değer kısmını Hayır olarak seçerek kodları kapatabilirsiniz.
-- Şablon 
+- Parametre listesi -> TasarÄ±m_Kodlar yanÄ±ndaki bÃ¼yÃ¼teÃ§e tÄ±klayarak aÃ§Ä±lan sekmede deÄŸer kÄ±smÄ±nÄ± HayÄ±r olarak seÃ§erek kodlarÄ± kapatabilirsiniz.
+- Åablon 

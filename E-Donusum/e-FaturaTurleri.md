@@ -1,19 +1,19 @@
 
-# E-fatura Türleri
+# E-fatura TÃ¼rleri
 
-Faturanın temel ya da ticari kesilmesi serbest tutulmuş olup kullanıcı tercihine bırakılmıştır.
+FaturanÄ±n temel ya da ticari kesilmesi serbest tutulmuÅŸ olup kullanÄ±cÄ± tercihine bÄ±rakÄ±lmÄ±ÅŸtÄ±r.
 
 ### Temel Fatura
 
-Temel fatura, bir işletmenin bir mal veya hizmet satışını belgelemek amacıyla düzenlediği resmi bir belgedir. 
-Bu belge, satışın detaylarını içerir ve alıcının ödeme yapmasını gerektirir. 
-Ayrıca, işletmelerin muhasebe kayıtlarında kullanılır ve vergi beyannamelerinin hazırlanmasında önemli bir rol oynar.
-Fatura kesildikten sonra bir onay süreci olmaz fatura iptal etmek için iade faturası kesilmesi gerekmektedir.
+Temel fatura, bir iÅŸletmenin bir mal veya hizmet satÄ±ÅŸÄ±nÄ± belgelemek amacÄ±yla dÃ¼zenlediÄŸi resmi bir belgedir. 
+Bu belge, satÄ±ÅŸÄ±n detaylarÄ±nÄ± iÃ§erir ve alÄ±cÄ±nÄ±n Ã¶deme yapmasÄ±nÄ± gerektirir. 
+AyrÄ±ca, iÅŸletmelerin muhasebe kayÄ±tlarÄ±nda kullanÄ±lÄ±r ve vergi beyannamelerinin hazÄ±rlanmasÄ±nda Ã¶nemli bir rol oynar.
+Fatura kesildikten sonra bir onay sÃ¼reci olmaz fatura iptal etmek iÃ§in iade faturasÄ± kesilmesi gerekmektedir.
 
 ### Ticari Fatura 
 
-Ticari fatura, işletmeler arasında gerçekleştirilen ticari işlemleri belgeleyen resmi bir belgedir. 
-Satıcı tarafından alıcıya gönderilir ve mal veya hizmet satışının detaylarını içerir. 
-Ticari fatura, ticari faaliyetlerin kayıt altına alınmasında ve muhasebe kayıtlarının tutulmasında önemli bir rol oynar.
-Fatura kesildikten sonra karşı tarafın onaylanarak sisteme işlenmesi ya da reddedilmesi gereken fatura türüdür. 
-Onay ya da reddedilmesi için 7 gün süresi vardır, herhangi bir işlem yapılmadığı taktirde 7 gün sonra otomatik onaylanır.
+Ticari fatura, iÅŸletmeler arasÄ±nda gerÃ§ekleÅŸtirilen ticari iÅŸlemleri belgeleyen resmi bir belgedir. 
+SatÄ±cÄ± tarafÄ±ndan alÄ±cÄ±ya gÃ¶nderilir ve mal veya hizmet satÄ±ÅŸÄ±nÄ±n detaylarÄ±nÄ± iÃ§erir. 
+Ticari fatura, ticari faaliyetlerin kayÄ±t altÄ±na alÄ±nmasÄ±nda ve muhasebe kayÄ±tlarÄ±nÄ±n tutulmasÄ±nda Ã¶nemli bir rol oynar.
+Fatura kesildikten sonra karÅŸÄ± tarafÄ±n onaylanarak sisteme iÅŸlenmesi ya da reddedilmesi gereken fatura tÃ¼rÃ¼dÃ¼r. 
+Onay ya da reddedilmesi iÃ§in 7 gÃ¼n sÃ¼resi vardÄ±r, herhangi bir iÅŸlem yapÄ±lmadÄ±ÄŸÄ± taktirde 7 gÃ¼n sonra otomatik onaylanÄ±r.

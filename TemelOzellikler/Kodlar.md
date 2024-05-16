@@ -1,51 +1,51 @@
 
 ## Kodlar
 
-### Tanım 
+### TanÄ±m 
 
-Kodlar kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılan hiyerarşik tanımlardır.
-Kodlar, sistemde belirli kayıtları veya varlıkları benzersiz bir şekilde tanımlamak için kullanılan bir kategorilendirmedir.
-Bu kodlar genellikle işletmenin içinde kullanılan ve farklı kayıtları veya varlıkları ayırt etmek için kullanılan benzersiz kimliklerdir.
-Sistemimizde kodlar kısmı altı adete kadar desteklenmektedir. 
-Kategoriler gibi her kod bir sonrakinin alt kategorisi olacak şekilde birbirlerine beğlı şekilde ilerlemektedir.
-Kod1 Ana kategori, kod2 detay, kod3 kategori vb. şekilde ilerlemektedir.
-Stok, gelir-gider gibi işlemlerde ürünleri detaylandırarak bu işlemlerde ki kargaşayı azaltarak daha kolay bulmanıza, raporlayıp analiz yapmanıza yardımcı olur.
+Kodlar kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lan hiyerarÅŸik tanÄ±mlardÄ±r.
+Kodlar, sistemde belirli kayÄ±tlarÄ± veya varlÄ±klarÄ± benzersiz bir ÅŸekilde tanÄ±mlamak iÃ§in kullanÄ±lan bir kategorilendirmedir.
+Bu kodlar genellikle iÅŸletmenin iÃ§inde kullanÄ±lan ve farklÄ± kayÄ±tlarÄ± veya varlÄ±klarÄ± ayÄ±rt etmek iÃ§in kullanÄ±lan benzersiz kimliklerdir.
+Sistemimizde kodlar kÄ±smÄ± altÄ± adete kadar desteklenmektedir. 
+Kategoriler gibi her kod bir sonrakinin alt kategorisi olacak ÅŸekilde birbirlerine beÄŸlÄ± ÅŸekilde ilerlemektedir.
+Kod1 Ana kategori, kod2 detay, kod3 kategori vb. ÅŸekilde ilerlemektedir.
+Stok, gelir-gider gibi iÅŸlemlerde Ã¼rÃ¼nleri detaylandÄ±rarak bu iÅŸlemlerde ki kargaÅŸayÄ± azaltarak daha kolay bulmanÄ±za, raporlayÄ±p analiz yapmanÄ±za yardÄ±mcÄ± olur.
 
-Çok sık kullanılan kodlar için; Bu parametreye özel tanımlar, ek özellikler ekleyebiliriz.
+Ã‡ok sÄ±k kullanÄ±lan kodlar iÃ§in; Bu parametreye Ã¶zel tanÄ±mlar, ek Ã¶zellikler ekleyebiliriz.
 
-Örneğin, müşteri kayıtları için müşteri numaraları, ürünler için SKU (Stock Keeping Unit) kodları,
-tedarikçiler için tedarikçi kodları, ürünün özellikleri(boyalı, tanklı vb.) gibi özel seçenekleri kod kısmında kullanalabilirsiniz.
+Ã–rneÄŸin, mÃ¼ÅŸteri kayÄ±tlarÄ± iÃ§in mÃ¼ÅŸteri numaralarÄ±, Ã¼rÃ¼nler iÃ§in SKU (Stock Keeping Unit) kodlarÄ±,
+tedarikÃ§iler iÃ§in tedarikÃ§i kodlarÄ±, Ã¼rÃ¼nÃ¼n Ã¶zellikleri(boyalÄ±, tanklÄ± vb.) gibi Ã¶zel seÃ§enekleri kod kÄ±smÄ±nda kullanalabilirsiniz.
 
-Bu kodlar, işletme içindeki veri yönetimini kolaylaştırır ve çeşitli süreçlerde kullanılan kayıtların hızlı bir şekilde tanımlanmasını, bulmayı, filtrelemeyi kolaylaştırır. 
-Kodlar sayesinde verilerin sınıflandırılması, izlenmesi ve raporlanması daha etkin bir şekilde gerçekleştirilebilir.
+Bu kodlar, iÅŸletme iÃ§indeki veri yÃ¶netimini kolaylaÅŸtÄ±rÄ±r ve Ã§eÅŸitli sÃ¼reÃ§lerde kullanÄ±lan kayÄ±tlarÄ±n hÄ±zlÄ± bir ÅŸekilde tanÄ±mlanmasÄ±nÄ±, bulmayÄ±, filtrelemeyi kolaylaÅŸtÄ±rÄ±r. 
+Kodlar sayesinde verilerin sÄ±nÄ±flandÄ±rÄ±lmasÄ±, izlenmesi ve raporlanmasÄ± daha etkin bir ÅŸekilde gerÃ§ekleÅŸtirilebilir.
 
-İşletmemizde stok yönetimi için kullanılan Kod2 veya Kod3 gibi belirli bir kod kategorisini ele alalım. 
-Bu kod kategorisini "boyalı" olarak grupladığımızı düşünelim. 
-Yani, işletmemizdeki farklı stok kalemlerini tanımlarken, bazılarını "boyalı" olarak etiketledik ve bu kategoride bir araya getirdik.
-Şimdi, bu kod kategorisinde "boyalı" olarak tanımlanan her stok kalemi için toplu işlem yapma imkanına sahibiz. 
-İşletmemizde bulunan tüm "boyalı" ürünler için aynı anda bir dizi işlem gerçekleştirebiliriz. 
-Örneğin, bu ürünlerin fiyatlarını güncellemek, stok seviyelerini kontrol etmek veya bir promosyon kampanyası düzenlemek gibi işlemler toplu olarak gerçekleştirilebilir daha kolay analiz yapıp rapor çıkartmamıza yardımcı olur.
+Ä°ÅŸletmemizde stok yÃ¶netimi iÃ§in kullanÄ±lan Kod2 veya Kod3 gibi belirli bir kod kategorisini ele alalÄ±m. 
+Bu kod kategorisini "boyalÄ±" olarak grupladÄ±ÄŸÄ±mÄ±zÄ± dÃ¼ÅŸÃ¼nelim. 
+Yani, iÅŸletmemizdeki farklÄ± stok kalemlerini tanÄ±mlarken, bazÄ±larÄ±nÄ± "boyalÄ±" olarak etiketledik ve bu kategoride bir araya getirdik.
+Åimdi, bu kod kategorisinde "boyalÄ±" olarak tanÄ±mlanan her stok kalemi iÃ§in toplu iÅŸlem yapma imkanÄ±na sahibiz. 
+Ä°ÅŸletmemizde bulunan tÃ¼m "boyalÄ±" Ã¼rÃ¼nler iÃ§in aynÄ± anda bir dizi iÅŸlem gerÃ§ekleÅŸtirebiliriz. 
+Ã–rneÄŸin, bu Ã¼rÃ¼nlerin fiyatlarÄ±nÄ± gÃ¼ncellemek, stok seviyelerini kontrol etmek veya bir promosyon kampanyasÄ± dÃ¼zenlemek gibi iÅŸlemler toplu olarak gerÃ§ekleÅŸtirilebilir daha kolay analiz yapÄ±p rapor Ã§Ä±kartmamÄ±za yardÄ±mcÄ± olur.
 
-Öncelikle, Kapı, Dolap ve Masa gibi ürünleri temsil eden stok kalemlerini sisteme girdiğimizde, her birinin Kod1 kısmına ilgili ürünü belirten bir kod atarız. 
-Örneğin, Kapı için "KAP", Dolap için "DLP", Masa için "MSA" gibi.
-Ardından, her bir ürün için özellikle "Boyalı" gibi belirli bir özelliği temsil eden kodları Kod2 kısmına gireriz. 
-Yani, boyalı olan Kapılar için "BOY", boyalı olan Dolaplar için "BOY" ve boyalı olan Masalar için de "BOY" kodlarını atarız.
-Şimdi, eğer bir stok kaleminin "Boyalı" özelliğini silmek istiyorsak, bu ürünün stok girişi yapıldığı bütün kayıtlarda Kod2 kısmında "BOY" kodunu silmeliyiz. 
-Yani, ilgili stok kalemi için yapılan bütün girişlerde, boyalı olma özelliğini temsil eden bu kodu kaldırmamız gerekmektedir.
-Bu işlemi gerçekleştirmek için, ilgili stok kaleminin tüm girişlerini sisteminizde bulup, bu girişlerin Kod2 kısmında "BOY" kodunu silmek için bir düzenleme yapmanız gerekmektedir. 
-Böylece, boyalı özelliğini kaldırmış olursunuz.
-Ancak, bu işlemi gerçekleştirirken dikkatli olmalı ve diğer özelliklerin veya verilerin etkilenmemesini sağlamalısınız. Eğer sisteminizde bu tür bir işlemi gerçekleştirmek için bir araç veya işlem mevcut değilse, genellikle veritabanı sorguları veya özel bir yazılım geliştirme süreci gerekebilir. 
-Bu nedenle, işlemi gerçekleştirmeden önce dikkatlice plan yapmanız ve gerekli önlemleri almanız önemlidir.
-Bu yaklaşım, işletmenin verimliliğini artırır çünkü benzer özelliklere sahip ürünleri gruplayarak yönetme ve işlem yapma sürecini kolaylaştırır. Ayrıca, bu gruplama yöntemi, raporlama ve analiz süreçlerini de iyileştirir çünkü benzer ürünleri bir araya getirerek daha anlamlı veri setleri elde etmemizi sağlar. 
-Bu sayede, işletmenin stok yönetimi süreçleri daha etkili ve verimli bir şekilde yürütülebilir.
+Ã–ncelikle, KapÄ±, Dolap ve Masa gibi Ã¼rÃ¼nleri temsil eden stok kalemlerini sisteme girdiÄŸimizde, her birinin Kod1 kÄ±smÄ±na ilgili Ã¼rÃ¼nÃ¼ belirten bir kod atarÄ±z. 
+Ã–rneÄŸin, KapÄ± iÃ§in "KAP", Dolap iÃ§in "DLP", Masa iÃ§in "MSA" gibi.
+ArdÄ±ndan, her bir Ã¼rÃ¼n iÃ§in Ã¶zellikle "BoyalÄ±" gibi belirli bir Ã¶zelliÄŸi temsil eden kodlarÄ± Kod2 kÄ±smÄ±na gireriz. 
+Yani, boyalÄ± olan KapÄ±lar iÃ§in "BOY", boyalÄ± olan Dolaplar iÃ§in "BOY" ve boyalÄ± olan Masalar iÃ§in de "BOY" kodlarÄ±nÄ± atarÄ±z.
+Åimdi, eÄŸer bir stok kaleminin "BoyalÄ±" Ã¶zelliÄŸini silmek istiyorsak, bu Ã¼rÃ¼nÃ¼n stok giriÅŸi yapÄ±ldÄ±ÄŸÄ± bÃ¼tÃ¼n kayÄ±tlarda Kod2 kÄ±smÄ±nda "BOY" kodunu silmeliyiz. 
+Yani, ilgili stok kalemi iÃ§in yapÄ±lan bÃ¼tÃ¼n giriÅŸlerde, boyalÄ± olma Ã¶zelliÄŸini temsil eden bu kodu kaldÄ±rmamÄ±z gerekmektedir.
+Bu iÅŸlemi gerÃ§ekleÅŸtirmek iÃ§in, ilgili stok kaleminin tÃ¼m giriÅŸlerini sisteminizde bulup, bu giriÅŸlerin Kod2 kÄ±smÄ±nda "BOY" kodunu silmek iÃ§in bir dÃ¼zenleme yapmanÄ±z gerekmektedir. 
+BÃ¶ylece, boyalÄ± Ã¶zelliÄŸini kaldÄ±rmÄ±ÅŸ olursunuz.
+Ancak, bu iÅŸlemi gerÃ§ekleÅŸtirirken dikkatli olmalÄ± ve diÄŸer Ã¶zelliklerin veya verilerin etkilenmemesini saÄŸlamalÄ±sÄ±nÄ±z. EÄŸer sisteminizde bu tÃ¼r bir iÅŸlemi gerÃ§ekleÅŸtirmek iÃ§in bir araÃ§ veya iÅŸlem mevcut deÄŸilse, genellikle veritabanÄ± sorgularÄ± veya Ã¶zel bir yazÄ±lÄ±m geliÅŸtirme sÃ¼reci gerekebilir. 
+Bu nedenle, iÅŸlemi gerÃ§ekleÅŸtirmeden Ã¶nce dikkatlice plan yapmanÄ±z ve gerekli Ã¶nlemleri almanÄ±z Ã¶nemlidir.
+Bu yaklaÅŸÄ±m, iÅŸletmenin verimliliÄŸini artÄ±rÄ±r Ã§Ã¼nkÃ¼ benzer Ã¶zelliklere sahip Ã¼rÃ¼nleri gruplayarak yÃ¶netme ve iÅŸlem yapma sÃ¼recini kolaylaÅŸtÄ±rÄ±r. AyrÄ±ca, bu gruplama yÃ¶ntemi, raporlama ve analiz sÃ¼reÃ§lerini de iyileÅŸtirir Ã§Ã¼nkÃ¼ benzer Ã¼rÃ¼nleri bir araya getirerek daha anlamlÄ± veri setleri elde etmemizi saÄŸlar. 
+Bu sayede, iÅŸletmenin stok yÃ¶netimi sÃ¼reÃ§leri daha etkili ve verimli bir ÅŸekilde yÃ¼rÃ¼tÃ¼lebilir.
 
 ### Kod Ekleme
 
-- Sol menüden Stok -> Stok Kartları Kod Ağacı -> Kod Ekle şeklinde kod ekleme işlemini gerçekleştirebiliriz.
-- Kodlar kısmında Detaylı Ekle şeklinde kod ekleme işlemini gerçekleştirebiliriz.
-- Kodlar kısmında Listeden Seç yapabilirsiniz.
-- Kodlar kısmında -> Listeden Seç -> Yeni Kod Ekle şeklinde yeni etiket ekleyebilirsiniz.
+- Sol menÃ¼den Stok -> Stok KartlarÄ± Kod AÄŸacÄ± -> Kod Ekle ÅŸeklinde kod ekleme iÅŸlemini gerÃ§ekleÅŸtirebiliriz.
+- Kodlar kÄ±smÄ±nda DetaylÄ± Ekle ÅŸeklinde kod ekleme iÅŸlemini gerÃ§ekleÅŸtirebiliriz.
+- Kodlar kÄ±smÄ±nda Listeden SeÃ§ yapabilirsiniz.
+- Kodlar kÄ±smÄ±nda -> Listeden SeÃ§ -> Yeni Kod Ekle ÅŸeklinde yeni etiket ekleyebilirsiniz.
 
-### Ek Özellikler 
+### Ek Ã–zellikler 
 
-**Anasayfaya Kısayol Olarak Ekle** Etiketler listesine hızlı erişim sağlamak istediğinizde kısayol olarak ekleyebilirsiniz. [Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle") 
+**Anasayfaya KÄ±sayol Olarak Ekle** Etiketler listesine hÄ±zlÄ± eriÅŸim saÄŸlamak istediÄŸinizde kÄ±sayol olarak ekleyebilirsiniz. [Anasayfaya KÄ±sayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya KÄ±sayol Olarak Ekle") 

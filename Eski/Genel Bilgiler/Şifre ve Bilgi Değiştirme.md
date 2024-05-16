@@ -1,2 +1,2 @@
-## Þifre ve Bilgi Deðiþtirme
-Sol üstte bulunan isminizin ü<erine týklayarak þifre, telefon numarasý bilgilerinizi deðiþtirebilir, iki aþamalý kimlik doðrulamanýzý açabilirsiniz. 
+## Åžifre ve Bilgi DeÄŸiÅŸtirme
+Sol Ã¼stte bulunan isminizin Ã¼<erine tÄ±klayarak ÅŸifre, telefon numarasÄ± bilgilerinizi deÄŸiÅŸtirebilir, iki aÅŸamalÄ± kimlik doÄŸrulamanÄ±zÄ± aÃ§abilirsiniz. 

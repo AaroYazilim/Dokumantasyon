@@ -1,26 +1,26 @@
 
 ## Etiketler
 
-### Tanım
+### TanÄ±m
 
-Genellikle bir işletmenin veya kurumun fatura işlemlerini yönetmek için kullanılan bağımsız tanımları ifade eder. 
-Bu etiketler, fatura işlemlerine ait açıklamalar için kullanılabilir.
-Etiketler genellikle belirli bir konu, ürün, müşteri, proje veya durumu temsil eder. 
-Bu etiketler, ilgili işlemleri veya kayıtları daha belirgin hale getirerek işletme içinde kolayca tanımlanabilir ve yönetilebilir hale getirir.
+Genellikle bir iÅŸletmenin veya kurumun fatura iÅŸlemlerini yÃ¶netmek iÃ§in kullanÄ±lan baÄŸÄ±msÄ±z tanÄ±mlarÄ± ifade eder. 
+Bu etiketler, fatura iÅŸlemlerine ait aÃ§Ä±klamalar iÃ§in kullanÄ±labilir.
+Etiketler genellikle belirli bir konu, Ã¼rÃ¼n, mÃ¼ÅŸteri, proje veya durumu temsil eder. 
+Bu etiketler, ilgili iÅŸlemleri veya kayÄ±tlarÄ± daha belirgin hale getirerek iÅŸletme iÃ§inde kolayca tanÄ±mlanabilir ve yÃ¶netilebilir hale getirir.
 
-Bu parametreye özel tanımlar, ek özellikler eklenebilmektedir.
+Bu parametreye Ã¶zel tanÄ±mlar, ek Ã¶zellikler eklenebilmektedir.
 
-Etiketlerin kullanımı, ERP sisteminin daha etkili ve verimli bir şekilde kullanılmasını sağlar. 
-Kullanıcılar, etiketleri filtreleme veya arama yaparak belirli kriterlere göre kayıtları bulabilir ve işlemleri daha hızlı bir şekilde izleyebilir. 
-Bu da işletme içinde iletişimi artırır ve karar verme süreçlerini kolaylaştırır.
+Etiketlerin kullanÄ±mÄ±, ERP sisteminin daha etkili ve verimli bir ÅŸekilde kullanÄ±lmasÄ±nÄ± saÄŸlar. 
+KullanÄ±cÄ±lar, etiketleri filtreleme veya arama yaparak belirli kriterlere gÃ¶re kayÄ±tlarÄ± bulabilir ve iÅŸlemleri daha hÄ±zlÄ± bir ÅŸekilde izleyebilir. 
+Bu da iÅŸletme iÃ§inde iletiÅŸimi artÄ±rÄ±r ve karar verme sÃ¼reÃ§lerini kolaylaÅŸtÄ±rÄ±r.
 
 ### Etiket Ekleme
 
-- Etiketler kısmında Detaylı Ekle şeklinde etiket ekleme işlemini gerçekleştirebiliriz.
-- Etiketler kısmında Listeden Seç yapabilirsiniz.
-- Etiketler kısmında -> Listeden Seç -> Yeni Etiket Ekle şeklinde yeni etiket ekleyebilirsiniz.
+- Etiketler kÄ±smÄ±nda DetaylÄ± Ekle ÅŸeklinde etiket ekleme iÅŸlemini gerÃ§ekleÅŸtirebiliriz.
+- Etiketler kÄ±smÄ±nda Listeden SeÃ§ yapabilirsiniz.
+- Etiketler kÄ±smÄ±nda -> Listeden SeÃ§ -> Yeni Etiket Ekle ÅŸeklinde yeni etiket ekleyebilirsiniz.
 
-### Ek Özellikler 
+### Ek Ã–zellikler 
 
-**Anasayfaya Kısayol Olarak Ekle** Etiketler listesine hızlı erişim sağlamak istediğinizde kısayol olarak ekleyebilirsiniz. [Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle") 
-**Grid Sütunları Ayarla** Sutunları istediğiniz gibi özelleştirebilirsiniz. [Grid Sütunları Ayarla](/TemelOzellikler/GridSutunlariniAyarlari.md "Grid Sütunları Ayarla")
+**Anasayfaya KÄ±sayol Olarak Ekle** Etiketler listesine hÄ±zlÄ± eriÅŸim saÄŸlamak istediÄŸinizde kÄ±sayol olarak ekleyebilirsiniz. [Anasayfaya KÄ±sayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya KÄ±sayol Olarak Ekle") 
+**Grid SÃ¼tunlarÄ± Ayarla** SutunlarÄ± istediÄŸiniz gibi Ã¶zelleÅŸtirebilirsiniz. [Grid SÃ¼tunlarÄ± Ayarla](/TemelOzellikler/GridSutunlariniAyarlari.md "Grid SÃ¼tunlarÄ± Ayarla")

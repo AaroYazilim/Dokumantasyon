@@ -1,33 +1,33 @@
 
-# ÜRETİM 
+# ÃœRETÄ°M 
 
-Üretim modülü, ürünlerinizin üretim süreçlerini, aşamalarını planlayabilir, yönetebilir ve izleyebilirsiniz.
-Üretim modülünde, üretim süreçlerinizi gerçek zamanlı olarak izleyebilirsiniz. 
-Makinelerinizin ve işçilerinizin performanslarını, iş emirlerinin ilerlemesini, hammaddelerin kullanımı ve diğer üretim aktiviteleri sürekli olarak takip edebilirsiniz.
-Üretim süreçlerinizde kullanılan malzemelerin ve ürünlerin stok yönetimini sağlayabilirsiniz. 
-Malzeme ihtiyaçlarınızı belirler, stok seviyelerinizi izler, malzeme giriş ve çıkışlarınızı yönetir ve stok sayımlarınızı gerçekleştirir. 
-Üretim süreçlerinizle ilgili verilerinizi analiz ededilir ve raporlayabilirsiniz.
-Bu sayede firelerinizi ve çıkan ürünlerinizin süreçlerini, aşamalarını, maliyetlerini kolayca elde edebilirsiniz. 
+Ãœretim modÃ¼lÃ¼, Ã¼rÃ¼nlerinizin Ã¼retim sÃ¼reÃ§lerini, aÅŸamalarÄ±nÄ± planlayabilir, yÃ¶netebilir ve izleyebilirsiniz.
+Ãœretim modÃ¼lÃ¼nde, Ã¼retim sÃ¼reÃ§lerinizi gerÃ§ek zamanlÄ± olarak izleyebilirsiniz. 
+Makinelerinizin ve iÅŸÃ§ilerinizin performanslarÄ±nÄ±, iÅŸ emirlerinin ilerlemesini, hammaddelerin kullanÄ±mÄ± ve diÄŸer Ã¼retim aktiviteleri sÃ¼rekli olarak takip edebilirsiniz.
+Ãœretim sÃ¼reÃ§lerinizde kullanÄ±lan malzemelerin ve Ã¼rÃ¼nlerin stok yÃ¶netimini saÄŸlayabilirsiniz. 
+Malzeme ihtiyaÃ§larÄ±nÄ±zÄ± belirler, stok seviyelerinizi izler, malzeme giriÅŸ ve Ã§Ä±kÄ±ÅŸlarÄ±nÄ±zÄ± yÃ¶netir ve stok sayÄ±mlarÄ±nÄ±zÄ± gerÃ§ekleÅŸtirir. 
+Ãœretim sÃ¼reÃ§lerinizle ilgili verilerinizi analiz ededilir ve raporlayabilirsiniz.
+Bu sayede firelerinizi ve Ã§Ä±kan Ã¼rÃ¼nlerinizin sÃ¼reÃ§lerini, aÅŸamalarÄ±nÄ±, maliyetlerini kolayca elde edebilirsiniz. 
 
-- [Üretim Nedir?](/Uretim/UretimNedir.md "Üretim Nedir?")
-- [Reçete](/Uretim/Recete.md "Reçete")
+- [Ãœretim Nedir?](/Uretim/UretimNedir.md "Ãœretim Nedir?")
+- [ReÃ§ete](/Uretim/Recete.md "ReÃ§ete")
 - [Operasyon](/Uretim/Operasyon.md "Operasyon")
 - [Makine](/Uretim/Makine.md "Makine")
-- [İş Emri](/Uretim/IsEmri.md "İş Emri")
+- [Ä°ÅŸ Emri](/Uretim/IsEmri.md "Ä°ÅŸ Emri")
 - [Planlama](/Uretim/Planlama.md "Planlama")
 - [Otomatik Planlama](/Uretim/OtomatikPlanlama.md "Otomatik Planlama")
-- [İş Emri Çıktı](/Uretim/IsEmriCikti.md "İş Emri Çıktı")
-- [Operasyon Çıktı](/Uretim/OperasyonCikti.md "Operasyon Çıktı")
-- [Canlı Üretim Terminali](/Uretim/Terminal.md "Canlı Üretim Terminali")
-- [Üretim Verileri Girme](/Uretim/UretimHareketi.md "Üretim Verileri Girme")
+- [Ä°ÅŸ Emri Ã‡Ä±ktÄ±](/Uretim/IsEmriCikti.md "Ä°ÅŸ Emri Ã‡Ä±ktÄ±")
+- [Operasyon Ã‡Ä±ktÄ±](/Uretim/OperasyonCikti.md "Operasyon Ã‡Ä±ktÄ±")
+- [CanlÄ± Ãœretim Terminali](/Uretim/Terminal.md "CanlÄ± Ãœretim Terminali")
+- [Ãœretim Verileri Girme](/Uretim/UretimHareketi.md "Ãœretim Verileri Girme")
 - [MRP](/Uretim/Mrp.md "MRP")
 - [Birim Maliyet](/Uretim/BirimMaliyet.md "Birim Maliyet")
-- [İşçilik Maliyet](/Uretim/IscilikMaliyet.md "İşçilik Maliyet")
-- [Operasyon Makine Eşleştirme](/Uretim/OperasyonMakineEslestirme.md "Operasyon Makine Eşleştirme")
+- [Ä°ÅŸÃ§ilik Maliyet](/Uretim/IscilikMaliyet.md "Ä°ÅŸÃ§ilik Maliyet")
+- [Operasyon Makine EÅŸleÅŸtirme](/Uretim/OperasyonMakineEslestirme.md "Operasyon Makine EÅŸleÅŸtirme")
 - [Otomatik Planlama](/Uretim/OtomatikPlanlama.md "Oyomatik Planlama")
-- [Terminal Kullanıcı Ekleme](/Uretim/TerminalKullaniciEkleme.md "Terminal Kullanıcı Ekleme")
-- [Üretim Hareketi](/Uretim/UretimHareketi.md "Üretim Hareketi")
-- [Yeni İş Emri](/Uretim/Mrp.md "Yeni İş Emri")
+- [Terminal KullanÄ±cÄ± Ekleme](/Uretim/TerminalKullaniciEkleme.md "Terminal KullanÄ±cÄ± Ekleme")
+- [Ãœretim Hareketi](/Uretim/UretimHareketi.md "Ãœretim Hareketi")
+- [Yeni Ä°ÅŸ Emri](/Uretim/Mrp.md "Yeni Ä°ÅŸ Emri")
 
 
 

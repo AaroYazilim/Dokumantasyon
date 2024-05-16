@@ -1,13 +1,13 @@
 
-# E-fatura Koşulları
+# E-fatura KoÅŸullarÄ±
 
-Vergi Mükellefi Olma: E-fatura düzenlemek ve kullanmak için, ilgili vergi dairesine kayıtlı bir vergi mükellefi olmak gereklidir. 
-Şahıs veya kurumlar vergi mükellefiyetlerini yerine getirmiş olmalıdır.
-Mali Mühür Kullanımı: E-faturaların geçerliliği için, Maliye Bakanlığı tarafından verilen dijital mühürlerin kullanılması gereklidir. 
-Bu mühürler, e-faturanın güvenliğini ve bütünlüğünü sağlar.
+Vergi MÃ¼kellefi Olma: E-fatura dÃ¼zenlemek ve kullanmak iÃ§in, ilgili vergi dairesine kayÄ±tlÄ± bir vergi mÃ¼kellefi olmak gereklidir. 
+ÅahÄ±s veya kurumlar vergi mÃ¼kellefiyetlerini yerine getirmiÅŸ olmalÄ±dÄ±r.
+Mali MÃ¼hÃ¼r KullanÄ±mÄ±: E-faturalarÄ±n geÃ§erliliÄŸi iÃ§in, Maliye BakanlÄ±ÄŸÄ± tarafÄ±ndan verilen dijital mÃ¼hÃ¼rlerin kullanÄ±lmasÄ± gereklidir. 
+Bu mÃ¼hÃ¼rler, e-faturanÄ±n gÃ¼venliÄŸini ve bÃ¼tÃ¼nlÃ¼ÄŸÃ¼nÃ¼ saÄŸlar.
 
-## E-fatura Mükellefi
+## E-fatura MÃ¼kellefi
 
-E-fatura mükellefi, vergi mevzuatına göre e-fatura düzenleme yetkisine sahip olan ve vergi dairesine kayıtlı olan kişi veya kurumlardır. 
-Bu kişi veya kurumlar, elektronik ortamda düzenlenen faturaları (e-faturaları) düzenleyebilme, gönderebilme ve alabilme yetkisine sahiptirler.
+E-fatura mÃ¼kellefi, vergi mevzuatÄ±na gÃ¶re e-fatura dÃ¼zenleme yetkisine sahip olan ve vergi dairesine kayÄ±tlÄ± olan kiÅŸi veya kurumlardÄ±r. 
+Bu kiÅŸi veya kurumlar, elektronik ortamda dÃ¼zenlenen faturalarÄ± (e-faturalarÄ±) dÃ¼zenleyebilme, gÃ¶nderebilme ve alabilme yetkisine sahiptirler.
 

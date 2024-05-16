@@ -1,21 +1,21 @@
 
-# Operasyon ile Makine Eşleştirme
+# Operasyon ile Makine EÅŸleÅŸtirme
 
-Operasyon makine eşleştirmesi, üretim sürecinde belirli bir operasyonun hangi makine veya ekipman üzerinde gerçekleştirileceğini belirlemek için kullanılan bir işlemdir.
-Örneğin, bir fabrikada bir ürünün montaj operasyonunu gerçekleştirmek için belirli bir makine veya montaj hattı kullanılabilir. 
-Operasyon makine eşleştirmesi yapılırken, hangi operasyonun hangi makine üzerinde gerçekleştirileceği belirlenir. 
-Bu, operasyonların zamanında ve doğru bir şekilde tamamlanmasını sağlayarak üretim sürecinin verimliliğini artırır.
-Bu süreç genellikle üretim planlaması ve iş emri yönetimi süreçleriyle entegre edilir ve operasyonların gereksinimlerine uygun olarak uygun makinelerin atanmasını sağlar. 
+Operasyon makine eÅŸleÅŸtirmesi, Ã¼retim sÃ¼recinde belirli bir operasyonun hangi makine veya ekipman Ã¼zerinde gerÃ§ekleÅŸtirileceÄŸini belirlemek iÃ§in kullanÄ±lan bir iÅŸlemdir.
+Ã–rneÄŸin, bir fabrikada bir Ã¼rÃ¼nÃ¼n montaj operasyonunu gerÃ§ekleÅŸtirmek iÃ§in belirli bir makine veya montaj hattÄ± kullanÄ±labilir. 
+Operasyon makine eÅŸleÅŸtirmesi yapÄ±lÄ±rken, hangi operasyonun hangi makine Ã¼zerinde gerÃ§ekleÅŸtirileceÄŸi belirlenir. 
+Bu, operasyonlarÄ±n zamanÄ±nda ve doÄŸru bir ÅŸekilde tamamlanmasÄ±nÄ± saÄŸlayarak Ã¼retim sÃ¼recinin verimliliÄŸini artÄ±rÄ±r.
+Bu sÃ¼reÃ§ genellikle Ã¼retim planlamasÄ± ve iÅŸ emri yÃ¶netimi sÃ¼reÃ§leriyle entegre edilir ve operasyonlarÄ±n gereksinimlerine uygun olarak uygun makinelerin atanmasÄ±nÄ± saÄŸlar. 
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon makine" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> Operasyon ile Makine Eşleştirme Listesi -> Yeni - Operasyon-Makine Eşleştirme şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "operasyon makine" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartlar -> Operasyon ile Makine EÅŸleÅŸtirme Listesi -> Yeni - Operasyon-Makine EÅŸleÅŸtirme ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 
-## Yeni - Operasyon - Makine Eşleştirme
+## Yeni - Operasyon - Makine EÅŸleÅŸtirme
 
-**Operasyon** Eşleştirme yapacağımız operasyonu seçiniz.
-**Makine** Operasyonla eşleştireceğimiz makineyi seçelim.
-**Öncelik** Operasyonun öncelik aşamasının sıralamsını giriniz.
+**Operasyon** EÅŸleÅŸtirme yapacaÄŸÄ±mÄ±z operasyonu seÃ§iniz.
+**Makine** Operasyonla eÅŸleÅŸtireceÄŸimiz makineyi seÃ§elim.
+**Ã–ncelik** Operasyonun Ã¶ncelik aÅŸamasÄ±nÄ±n sÄ±ralamsÄ±nÄ± giriniz.
 
-**Kaydet butonuna basarak eşleştirmemizi gerçekleştirdik.
+**Kaydet butonuna basarak eÅŸleÅŸtirmemizi gerÃ§ekleÅŸtirdik.

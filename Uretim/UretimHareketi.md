@@ -1,78 +1,78 @@
 
-# Üretim Hareketi 
+# Ãœretim Hareketi 
 
-Üretim süreçlerinde gerçekleşen her aşama bir üretim harekettir. Bunlar karıştırma, başlama, durma gibi eylemlerde birer harekettir.
-Üretim aşamasında iki çeşit yöntem mevcuttur birincisi, manuel giriş yapmak diğeri ise canlı üretim hareketidir.
-Canlı üretim hareketinde işlem operasyon yapılırken terminal sisteminde yapılan her hareketin anında işlenmesidir.
-Operasyona başlandığında başla seçeneğini ile başlamak, arıza olduğunda duraklama işlem bittiğinde bitire basarak süreleri sistemin otomatik hesaplamasını ve canlı takip yapabilmektir.
-Manuel giriş ise işlem bittikten sonra verilerin sisteme manuel olarak girilmesidir.
-Çalışan personellerin isimleri, ne kadar mola verildi, neden işlem durdu ne kadar sürede operasyon bitti bunların manuel olarak girilmesidir.
+Ãœretim sÃ¼reÃ§lerinde gerÃ§ekleÅŸen her aÅŸama bir Ã¼retim harekettir. Bunlar karÄ±ÅŸtÄ±rma, baÅŸlama, durma gibi eylemlerde birer harekettir.
+Ãœretim aÅŸamasÄ±nda iki Ã§eÅŸit yÃ¶ntem mevcuttur birincisi, manuel giriÅŸ yapmak diÄŸeri ise canlÄ± Ã¼retim hareketidir.
+CanlÄ± Ã¼retim hareketinde iÅŸlem operasyon yapÄ±lÄ±rken terminal sisteminde yapÄ±lan her hareketin anÄ±nda iÅŸlenmesidir.
+Operasyona baÅŸlandÄ±ÄŸÄ±nda baÅŸla seÃ§eneÄŸini ile baÅŸlamak, arÄ±za olduÄŸunda duraklama iÅŸlem bittiÄŸinde bitire basarak sÃ¼releri sistemin otomatik hesaplamasÄ±nÄ± ve canlÄ± takip yapabilmektir.
+Manuel giriÅŸ ise iÅŸlem bittikten sonra verilerin sisteme manuel olarak girilmesidir.
+Ã‡alÄ±ÅŸan personellerin isimleri, ne kadar mola verildi, neden iÅŸlem durdu ne kadar sÃ¼rede operasyon bitti bunlarÄ±n manuel olarak girilmesidir.
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "üretim hareketi" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Hareketler -> Hızlı Üretim Hareketi Girişi Sadece İşçilik şeklinde ulaşım sağlayabilirsiniz.
-	Sadece İşçilik girişinde sadece operasyon ile ilgili detaylar girilir.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "Ã¼retim hareketi" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Hareketler -> HÄ±zlÄ± Ãœretim Hareketi GiriÅŸi Sadece Ä°ÅŸÃ§ilik ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+	Sadece Ä°ÅŸÃ§ilik giriÅŸinde sadece operasyon ile ilgili detaylar girilir.
 
 ### Genel 
 
-**Tarih:** İşleme ait tarihi giriniz.
-**İş Emri No:** Verilen iş emrinin kendine ait bir numarası olmaktadır. 
-**Operasyon:** Yapılacak operasyon işlemini seçiniz. Eğer yok ise detaylı ekle yaparak hızlıca operasyon tanımlayabilirsiniz.
-**Makine:** Operasyonda kullanılacak makineyi seçiniz yok ise detaylı ekle yaparak hızlıca makine girişini sağlayabilirsiniz.
-**Detay:** Detayı listeden seçebilirsiniz ya da detaylı ekle yaparak hızlıca ekleyebilirsiniz.
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
-**İşçilik / Saat:** Üretim sürecinde çalışan işçilerin çalışma maliyetleridir. Detaylı bilgi için tıklayınız. [İşçilik Maliyeti](/Uretim/İscilikMaliyeti.md "İşçilik Maliyeti")
-**Çalışma Mal. / Saat:** Makine masraflarının hesapları ve işçilik hesaplarının toplamıdır. Detaylı bilgi için tıklayınız. [Çalışma Mal. / Saat](/Uretim/BirimMaliyeti.md "Çalışma Mal. / Saat")
-**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
-Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
+**Tarih:** Ä°ÅŸleme ait tarihi giriniz.
+**Ä°ÅŸ Emri No:** Verilen iÅŸ emrinin kendine ait bir numarasÄ± olmaktadÄ±r. 
+**Operasyon:** YapÄ±lacak operasyon iÅŸlemini seÃ§iniz. EÄŸer yok ise detaylÄ± ekle yaparak hÄ±zlÄ±ca operasyon tanÄ±mlayabilirsiniz.
+**Makine:** Operasyonda kullanÄ±lacak makineyi seÃ§iniz yok ise detaylÄ± ekle yaparak hÄ±zlÄ±ca makine giriÅŸini saÄŸlayabilirsiniz.
+**Detay:** DetayÄ± listeden seÃ§ebilirsiniz ya da detaylÄ± ekle yaparak hÄ±zlÄ±ca ekleyebilirsiniz.
+**Åirket-Åube:** KartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](/TemelOzellikler/SirketSubeKart.md "Åirket-Åube")
+**AÃ§Ä±klama** ReÃ§eteye ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")
+**Ä°ÅŸÃ§ilik / Saat:** Ãœretim sÃ¼recinde Ã§alÄ±ÅŸan iÅŸÃ§ilerin Ã§alÄ±ÅŸma maliyetleridir. DetaylÄ± bilgi iÃ§in tÄ±klayÄ±nÄ±z. [Ä°ÅŸÃ§ilik Maliyeti](/Uretim/Ä°scilikMaliyeti.md "Ä°ÅŸÃ§ilik Maliyeti")
+**Ã‡alÄ±ÅŸma Mal. / Saat:** Makine masraflarÄ±nÄ±n hesaplarÄ± ve iÅŸÃ§ilik hesaplarÄ±nÄ±n toplamÄ±dÄ±r. DetaylÄ± bilgi iÃ§in tÄ±klayÄ±nÄ±z. [Ã‡alÄ±ÅŸma Mal. / Saat](/Uretim/BirimMaliyeti.md "Ã‡alÄ±ÅŸma Mal. / Saat")
+**DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinsini belirtir.TÃ¼rk lirasÄ± haricinde baÅŸka bir dÃ¶viz seÃ§ildiÄŸinde sadece o dÃ¶viz cinsinden hareket iÅŸlenmesine izin verir. 
+Banka hesabÄ±nÄ±n bakiyesi seÃ§ilen dÃ¶viz cinsinden takip edilir.
 
-### Çalışan Personel Listesi 
+### Ã‡alÄ±ÅŸan Personel Listesi 
 
-Bu operasyonda çalışan personelleri listeden seçebilirsiniz. Personel yok ise detaylı ekle yaparak hızlıca personelin kaydını oluşturabilirsiniz.
+Bu operasyonda Ã§alÄ±ÅŸan personelleri listeden seÃ§ebilirsiniz. Personel yok ise detaylÄ± ekle yaparak hÄ±zlÄ±ca personelin kaydÄ±nÄ± oluÅŸturabilirsiniz.
 
-### Üretim Süreçleri
+### Ãœretim SÃ¼reÃ§leri
 
-**Başlangıç** Operasyona başlama saatini giriniz.
-**Bitiş** Operasyonun bitiş tarihini giriniz.
-**Hazırlık Süre** Operasyona hazırlık süresi, makine ne kadar sürede ısındı gibi operasyona başlamadan önceki geçen süredir.
-**Üretim Süre** Operasyonun üretim süresi, ne kadar sürede yapıldığıdır.
-**Duraklama Süre** Makine bozulduğunda ya da makine arızaları gibi duraklama olduğunda ne kadar süre arıza verdi ise o süreyi gireceğimiz alan.
-**Mola Süre** Personel ne kadar süre mola verdi ise o süreyi gireceğimiz alan. 
+**BaÅŸlangÄ±Ã§** Operasyona baÅŸlama saatini giriniz.
+**BitiÅŸ** Operasyonun bitiÅŸ tarihini giriniz.
+**HazÄ±rlÄ±k SÃ¼re** Operasyona hazÄ±rlÄ±k sÃ¼resi, makine ne kadar sÃ¼rede Ä±sÄ±ndÄ± gibi operasyona baÅŸlamadan Ã¶nceki geÃ§en sÃ¼redir.
+**Ãœretim SÃ¼re** Operasyonun Ã¼retim sÃ¼resi, ne kadar sÃ¼rede yapÄ±ldÄ±ÄŸÄ±dÄ±r.
+**Duraklama SÃ¼re** Makine bozulduÄŸunda ya da makine arÄ±zalarÄ± gibi duraklama olduÄŸunda ne kadar sÃ¼re arÄ±za verdi ise o sÃ¼reyi gireceÄŸimiz alan.
+**Mola SÃ¼re** Personel ne kadar sÃ¼re mola verdi ise o sÃ¼reyi gireceÄŸimiz alan. 
 
 ### Duraklama Nedeni
 
-**Neden** Operasyon neden duraklamaya uğradığının detayını girdiğimiz alandır. Makine bozuldu, arızlandı gibi nedenleri belirttiğimiz yerdir. 
-Kayıtlı nedenleri listeden seçebilirsiniz, yeni bir neden eklemek için detaylı ekle yaparak hızlıca ekleme yapabilirsiniz.
+**Neden** Operasyon neden duraklamaya uÄŸradÄ±ÄŸÄ±nÄ±n detayÄ±nÄ± girdiÄŸimiz alandÄ±r. Makine bozuldu, arÄ±zlandÄ± gibi nedenleri belirttiÄŸimiz yerdir. 
+KayÄ±tlÄ± nedenleri listeden seÃ§ebilirsiniz, yeni bir neden eklemek iÃ§in detaylÄ± ekle yaparak hÄ±zlÄ±ca ekleme yapabilirsiniz.
 
-### Üretim Açıklama
+### Ãœretim AÃ§Ä±klama
 
-Operasyona ait detayları ve özel açıklamalar burada belirtilmelidir.
-
-
-Bütün alanları doldurduktan sonra kaydet butonuna basarak opersayon işlemimizi başarıyla tamamlamış bulunmaktayız.
+Operasyona ait detaylarÄ± ve Ã¶zel aÃ§Ä±klamalar burada belirtilmelidir.
 
 
-# Hızlı Üretim Girişi
+BÃ¼tÃ¼n alanlarÄ± doldurduktan sonra kaydet butonuna basarak opersayon iÅŸlemimizi baÅŸarÄ±yla tamamlamÄ±ÅŸ bulunmaktayÄ±z.
 
-## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "üretim hareketi" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Hareketler -> Hızlı Üretim Hareketi Girişi şeklinde ulaşım sağlayabilirsiniz.
+# HÄ±zlÄ± Ãœretim GiriÅŸi
 
-İşlemler dışında hammadde ya da mamul eklemesi yapıldığında buradan hareket girişi yapılmalıdır. 
-Burada işlemler aynı fakat buradan hammadde ve mamul girişi ekleyebilirsiniz.
+## UlaÅŸÄ±m
 
-### Mamüller
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "Ã¼retim hareketi" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Hareketler -> HÄ±zlÄ± Ãœretim Hareketi GiriÅŸi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-**Mamül Adı** Mamülün adını giriniz.
-**Miktar** Kullanılan miktar, kaç adet kullanıldığını giriniz.
-**Depo** Hangi depodan temin edildiğini çıkış yapılacak olan depoyu seçiniz.
+Ä°ÅŸlemler dÄ±ÅŸÄ±nda hammadde ya da mamul eklemesi yapÄ±ldÄ±ÄŸÄ±nda buradan hareket giriÅŸi yapÄ±lmalÄ±dÄ±r. 
+Burada iÅŸlemler aynÄ± fakat buradan hammadde ve mamul giriÅŸi ekleyebilirsiniz.
+
+### MamÃ¼ller
+
+**MamÃ¼l AdÄ±** MamÃ¼lÃ¼n adÄ±nÄ± giriniz.
+**Miktar** KullanÄ±lan miktar, kaÃ§ adet kullanÄ±ldÄ±ÄŸÄ±nÄ± giriniz.
+**Depo** Hangi depodan temin edildiÄŸini Ã§Ä±kÄ±ÅŸ yapÄ±lacak olan depoyu seÃ§iniz.
 
 ### Hammmaddeler 
 
-**Hammadde Adı** Hammaddenin adını giriniz.
-**Miktar** Kullanılan miktar, kaç adet kullanıldığını giriniz.
-**Birim Fiyat** Kullanılan hammaddenin birim fiyatını ifade eder.
-**Depo** Hangi depodan temin edildiğini çıkış yapılacak olan depoyu seçiniz.
+**Hammadde AdÄ±** Hammaddenin adÄ±nÄ± giriniz.
+**Miktar** KullanÄ±lan miktar, kaÃ§ adet kullanÄ±ldÄ±ÄŸÄ±nÄ± giriniz.
+**Birim Fiyat** KullanÄ±lan hammaddenin birim fiyatÄ±nÄ± ifade eder.
+**Depo** Hangi depodan temin edildiÄŸini Ã§Ä±kÄ±ÅŸ yapÄ±lacak olan depoyu seÃ§iniz.

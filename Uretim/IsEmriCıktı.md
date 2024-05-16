@@ -1,32 +1,32 @@
 
-# İş Emri Çıktı
+# Ä°ÅŸ Emri Ã‡Ä±ktÄ±
 
-Üretim işinin veya bir ürünün üretim sürecinin başlatılması için kullanılan bir belgedir. 
-İşletmenizin üretim sürecini düzenlemek ve yönetmek için gerekli talimatları ve bilgileri içerir.
+Ãœretim iÅŸinin veya bir Ã¼rÃ¼nÃ¼n Ã¼retim sÃ¼recinin baÅŸlatÄ±lmasÄ± iÃ§in kullanÄ±lan bir belgedir. 
+Ä°ÅŸletmenizin Ã¼retim sÃ¼recini dÃ¼zenlemek ve yÃ¶netmek iÃ§in gerekli talimatlarÄ± ve bilgileri iÃ§erir.
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "İş emri" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Listeler -> İş Emri Listesi şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "Ä°ÅŸ emri" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Listeler -> Ä°ÅŸ Emri Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-- İşlem yapmak istediğimiz iş emrinin yanındaki büyüteçe tıklayınız,
+- Ä°ÅŸlem yapmak istediÄŸimiz iÅŸ emrinin yanÄ±ndaki bÃ¼yÃ¼teÃ§e tÄ±klayÄ±nÄ±z,
 
-- Açılan pencerenin en alt kısmında kutucuklar yer almaktadır. 
-- Kırmızı üretime başlanmamış iş emrini ifade eder.
-- Sarı devam eden ya da yarım kalan tamamlanması gereken iş emrini ifade eder.
-- Yeşil üretimi tamamlanmış olan iş emrini ifade eder.
+- AÃ§Ä±lan pencerenin en alt kÄ±smÄ±nda kutucuklar yer almaktadÄ±r. 
+- KÄ±rmÄ±zÄ± Ã¼retime baÅŸlanmamÄ±ÅŸ iÅŸ emrini ifade eder.
+- SarÄ± devam eden ya da yarÄ±m kalan tamamlanmasÄ± gereken iÅŸ emrini ifade eder.
+- YeÅŸil Ã¼retimi tamamlanmÄ±ÅŸ olan iÅŸ emrini ifade eder.
 
-**Üretime ait detaylı iş emrinin çıktısını almak için;**
+**Ãœretime ait detaylÄ± iÅŸ emrinin Ã§Ä±ktÄ±sÄ±nÄ± almak iÃ§in;**
 
-- İşlem yapmak istediğimiz iş emrinin yanındaki büyüteçe tıklayınız,
-- Açılan pencerenin sağ üst köşesinde yazıcı işareti bulunmaktadır oraya tıklayarak pdf sayfasına ulaşım sağlayabilirsiniz.
-- Farklı tasarımlarınız var ise yazıcının yanında ki ek butona tıklayarak istediğiniz tasarımın çıktısına ulaşım sağlayabilirsiniz. 
+- Ä°ÅŸlem yapmak istediÄŸimiz iÅŸ emrinin yanÄ±ndaki bÃ¼yÃ¼teÃ§e tÄ±klayÄ±nÄ±z,
+- AÃ§Ä±lan pencerenin saÄŸ Ã¼st kÃ¶ÅŸesinde yazÄ±cÄ± iÅŸareti bulunmaktadÄ±r oraya tÄ±klayarak pdf sayfasÄ±na ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- FarklÄ± tasarÄ±mlarÄ±nÄ±z var ise yazÄ±cÄ±nÄ±n yanÄ±nda ki ek butona tÄ±klayarak istediÄŸiniz tasarÄ±mÄ±n Ã§Ä±ktÄ±sÄ±na ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 
-## Ek İşlem Butonu 
+## Ek Ä°ÅŸlem Butonu 
 
-- Buradan iş emrinin hareketlerinin listesini görüntüleyebiliriz.
+- Buradan iÅŸ emrinin hareketlerinin listesini gÃ¶rÃ¼ntÃ¼leyebiliriz.
 
 ## Ekle Butonu 
 
 - Buradan hareket ekleyebiliriz. 
-Örneğin 10 adet iş emrimiz var 2 adet üretildi butona tıklayarak 2 adet yapıldı olarak ekleyebiliriz.
+Ã–rneÄŸin 10 adet iÅŸ emrimiz var 2 adet Ã¼retildi butona tÄ±klayarak 2 adet yapÄ±ldÄ± olarak ekleyebiliriz.

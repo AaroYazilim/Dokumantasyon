@@ -1,6 +1,5 @@
-<h2>
-<span style="color:blue;">
-**Depo**</span>
-</h2>
-İşletmeye ait depolar tanımlayabilir hareketlerini görüntüleyebiliriz.
-erp.aaro.com.tr adresinden stok modülüne gelerek depo işlemlerini buradan gerçekleştirebilirsiniz. 
+
+**Depo**
+
+Ä°ÅŸletmeye ait depolar tanÄ±mlayabilir hareketlerini gÃ¶rÃ¼ntÃ¼leyebiliriz.
+erp.aaro.com.tr adresinden stok modÃ¼lÃ¼ne gelerek depo iÅŸlemlerini buradan gerÃ§ekleÅŸtirebilirsiniz. 

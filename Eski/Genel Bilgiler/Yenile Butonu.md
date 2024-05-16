@@ -1,2 +1,2 @@
 ## Yenile Butonu 
-Sayfayı yenilemeyi sağlamaktadır. 
+SayfayÄ± yenilemeyi saÄŸlamaktadÄ±r. 

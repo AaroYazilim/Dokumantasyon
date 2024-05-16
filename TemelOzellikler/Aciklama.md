@@ -1,13 +1,13 @@
 
-### Açıklama
+### AÃ§Ä±klama
 
-İşleme ait açıklamayı belirtir.
-Buraya işleme veya kayda ait özel açıklamalar; detaylarını ve niteliklerini açıklamak için kullanılan bir alan veya metin kutusudur. 
-Bu alana genellikle işlemin veya kaydın anlamını açıklayan, ek bilgiler sağlayan veya ilgili detayları içeren metinler yazılır.
-Açıklama kısmı, kullanıcıların belirli bir işlemi daha iyi anlamalarına, izlemelerine ve yönetmelerine yardımcı olur. 
-Genellikle bir fatura veya ödeme belgesinde, yapılan işlemin veya alınan hizmetin detaylı açıklamasını içeren bir bölümdür. 
-Bu bölümde, alıcıya yapılan satışın veya sağlanan hizmetin ne olduğu, miktarı, fiyatı ve diğer ilgili bilgiler yer alır. 
-Ayrıca, işlemle ilgili herhangi bir not veya açıklama da bu bölümde yer alabilir.
+Ä°ÅŸleme ait aÃ§Ä±klamayÄ± belirtir.
+Buraya iÅŸleme veya kayda ait Ã¶zel aÃ§Ä±klamalar; detaylarÄ±nÄ± ve niteliklerini aÃ§Ä±klamak iÃ§in kullanÄ±lan bir alan veya metin kutusudur. 
+Bu alana genellikle iÅŸlemin veya kaydÄ±n anlamÄ±nÄ± aÃ§Ä±klayan, ek bilgiler saÄŸlayan veya ilgili detaylarÄ± iÃ§eren metinler yazÄ±lÄ±r.
+AÃ§Ä±klama kÄ±smÄ±, kullanÄ±cÄ±larÄ±n belirli bir iÅŸlemi daha iyi anlamalarÄ±na, izlemelerine ve yÃ¶netmelerine yardÄ±mcÄ± olur. 
+Genellikle bir fatura veya Ã¶deme belgesinde, yapÄ±lan iÅŸlemin veya alÄ±nan hizmetin detaylÄ± aÃ§Ä±klamasÄ±nÄ± iÃ§eren bir bÃ¶lÃ¼mdÃ¼r. 
+Bu bÃ¶lÃ¼mde, alÄ±cÄ±ya yapÄ±lan satÄ±ÅŸÄ±n veya saÄŸlanan hizmetin ne olduÄŸu, miktarÄ±, fiyatÄ± ve diÄŸer ilgili bilgiler yer alÄ±r. 
+AyrÄ±ca, iÅŸlemle ilgili herhangi bir not veya aÃ§Ä±klama da bu bÃ¶lÃ¼mde yer alabilir.
 
-Fatura açıklamaları, alıcıya yapılan işlem hakkında net bir anlayış sağlamak için detaylı olmalıdır. 
-Bu bölüm, ticari işlemlerde anlaşmazlıkları önlemek ve muhasebe kayıtlarını düzenlemek için önemlidir.
+Fatura aÃ§Ä±klamalarÄ±, alÄ±cÄ±ya yapÄ±lan iÅŸlem hakkÄ±nda net bir anlayÄ±ÅŸ saÄŸlamak iÃ§in detaylÄ± olmalÄ±dÄ±r. 
+Bu bÃ¶lÃ¼m, ticari iÅŸlemlerde anlaÅŸmazlÄ±klarÄ± Ã¶nlemek ve muhasebe kayÄ±tlarÄ±nÄ± dÃ¼zenlemek iÃ§in Ã¶nemlidir.
