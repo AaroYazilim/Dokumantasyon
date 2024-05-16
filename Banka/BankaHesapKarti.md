@@ -9,12 +9,8 @@
 
 ### Tanım
 
-Banka hesap kartı, bir müşterinin veya işletmenin banka hesabıyla ilişkili bilgileri içeren bir kayıttır. 
-Banka hesap kartlarında, müşterilerin veya işletmelerin finansal durumlarını izleyebilir ve yönetebilirsiniz.
-Ayrıca, otomatik ödemeleri veya düzenli bankacılık işlemlerini kolaylaştırabilir.
-ERP sisteminde banka hesabı, bir işletmenin finansal işlemlerini yönetmek için kullanılan ve ERP sistemi tarafından takip edilen bir finansal hesaptır. 
-Banka hesap kartı genellikle işletmenin banka hesaplarını inceleyebilir, ödemelerini yapabilir ve alabilir, banka işlemlerini kaydebilir ve hesap bakiyelerini izleyebilirsiniz.
-Banka hesabı genellikle banka adı, hesap numarası ve işletme adı gibi temel bilgilerle ilişkilendirilir.
+Banka hesap kartı, firmanızın bankalarda bulunan hesaplarınızın bilgilerini içeren karttır. 
+Banka hesap kartları ile farklı bankalarda ve hesaplarda bulunan finansal durumunuzu takip edebilir, bakiyelerinizi görüntüleyebilir, özet alabilir ve yönetebilirsiniz.
 
 ### Genel
 
@@ -55,8 +51,8 @@ Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde o
 
 ### Gelişmiş
 
-**Şirket-Şube:** [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
+**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
 
-**Durum:** [Durum](/TemelOzellikler/Durum.md "Durum")
+**Durum:** Kartın kullanabilirliğini belirtir. Pasif kartlar işlemde kullanılamaz.
 
 Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna basarak değişiklikleri kaydebilirsiniz.

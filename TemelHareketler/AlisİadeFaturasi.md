@@ -4,7 +4,8 @@
 ## Ulaþým 
 
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan 'Alýþ iade faturasý' aratarak ulaþým saðlayabilirsiniz.
-- Sol sekmede yer alan modüller kýsmýndan Musteri/Satici -> Hareket Oluþtur -> Satýþ ve Pazarlama -> Alýþ Ýade Faturasý
+- Sol sekmede yer alan modüller kýsmýndan Musteri/Satici -> Hareket Oluþtur -> Satýþ ve Pazarlama -> Alýþ Ýade Faturasý þeklinde ulaþým saðlayabilirsiniz.
+- Sol sekmede yer alan modüller kýsmýndan Satýþ&Pazarlama -> Hareket Oluþtur -> Alýþ Ýade Fatura þeklinde ulaþým saðlayabilirsiniz.
 
 ## Taným
 

@@ -4,7 +4,8 @@
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'Alınan teklif' aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Alınan Teklif
+- Sol sekmede yer alan modüller kısmından Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Alınan Teklif şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede yer alan modüller kısmından Satın Alma -> Hareket Oluştur -> Alınan teklif şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
 
