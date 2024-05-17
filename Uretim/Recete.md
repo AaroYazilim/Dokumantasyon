@@ -55,15 +55,15 @@ Hazırladğınız bu reçetede üretmek istediğiniz mamül bilgilerini ifade ed
 
 #### Opeasyon Bilgileri
 
-**Operasyon** Operasyon makinemizi seçelim. Yeni bir operasyon eklemek için Detaylı Ekle yapalım 
-**Makine**
-**İşci Adedi**
-**Hazırlık Süre**
-**Üretim Süresi**
+**Operasyon** Operasyon makinemizi seçelim. Yeni bir operasyon eklemek için Detaylı Ekleyerek ekleme yapabiliriz.
+**Makine** Operasyonda kullanılacak makineyi ifade eder. Kullanacağınız makine seçiniz makine kayıtlı değil ise detaylı ekle yaparak ekleme yapabiliriz.
+**İşci Adedi** Operasyonda çalışacak işçi sayısını belirtie, bu opersayonda kaç işçi çalışacaksa sayısını girelim.
+**Hazırlık Süre** Makinenin ısınması gibi süreçleri ifade eder.
+**Üretim Süresi** Ne kadar sürede üretildiğini ifade eder. Üretim süresini girelim.
 **Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
-**Hesap Açıklaması**
-**İşçilik / Saat**
-**Çalışma Mal. / Saat**
+**Hesap Açıklaması** Maliyet hesaplamaların yapıldığı formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
+**İşçilik/Saat** Operasyonda çalışan işçinin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [İşçiliyet Maliyeti](/Uretim/IscilikMaliyeti.md "İşçilik Maliyeti")
+**Çalışma Mal/Saat** Operasyonda çalışan işçi, makine, elektrik gibi giderlerin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [Birim Maliyeti](/Uretim/BirimMaliyeti.md "Birim Maliyeti")
 
 #### Gelişmiş
 
@@ -78,6 +78,11 @@ Hazırladğınız bu reçetede üretmek istediğiniz mamül bilgilerini ifade ed
 
 Reçete ekranımızı açalım, işlem yapacağımız yani önüne ya da arkasına ürün gelecek operasyonu seçiniz. 
 
-### Hammadeye tıklayalım hammadde düzelttebilir, hammadde silebilir, operasyon ekleyebilir(öncesi ve sonrası), reçete getirebiliriz.
+### Hammaddeye tıklayalım hammadde düzelttebilir, hammadde silebilir, operasyon ekleyebilir(öncesi ve sonrası), reçete getirebiliriz.
 
-### Operasyona tıklayalım Operasyon düzeletebilir
+Reçetede hammadde de yapabileceğimiz işlemleri linkten inceleyebiliriz. [Hammadde](/Uretim/HammaddeEkle.md "Hammadde")
+
+
+### Operasyona tıklayalım Operasyon düzeletebilir.
+
+Reçetede operasyonda yapabileceğimiz işlemleri linkten inceleyebiliriz. [Operasyon](/Uretim/OperasyonEkle.md "Operasyon")
