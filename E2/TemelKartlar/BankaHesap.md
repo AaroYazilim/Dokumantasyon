@@ -1,11 +1,10 @@
-<h2>
-<span style="color: purple;">
- **Aaro Banka Hesap Kartı**
-</span>
-</h2>
+
+# Aaro Banka Hesap Kartı
+
 [erp.aaro.com.tr](http://erp.aaro.com.tr) hesabına giriş yapıldıktan sonra; 
 
 ## Modüller -> Banka -> Banka Modülü 
+
 Banka bakiyeleri ve banka hareketlerini grafikler şeklinde gösterilmektedir. 
 Yeni Banka hesap kartı ekle → Hesap Adına banka ismi yazılmalıdır. Hesap kodu otomatik verilmektedir istenilen kodda verilebilir.
 Tip: Cari- Pos-Kredi banka hesabına uygun seçim yapılmalıdır.

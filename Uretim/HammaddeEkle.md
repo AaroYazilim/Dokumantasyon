@@ -8,7 +8,7 @@
 **Hammadde** Hammaddeyi seçelim yok ise detaylı ekle yaparak istediğimiz hammadde kaydını oluşturabiliriz.
 **Miktar** Kaç adet,kg vs ne kadar hammadde kullanımı sağlanacaksa o miktarı giriniz. Örneğin; 1 adet sehpa için 2 m2 ahşap gidecektik o halde 2 m2 olarak seçim yapmamız gerekmektedir.
 **Birim Fiyatı** 1 adet, kg, m2 vs için birim fiyatlarını giriniz.
-**Açıklama** Hammaddeye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+**Açıklama** Hammaddeye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 **Hesap Açıklaması** Maliyet hesaplamaların yapıldığı formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
 
 #### Fiyat Listesi Fiyatları 
@@ -41,7 +41,7 @@ Hammaddeyi silmek işlemi, artık kullanılmayan veya yanlışlıkla kaydedilmi�
 
 Reçeteye operasyon eklemek, üretim sürecindeki adımları veya işlemleri belirlemek için kullanılır. 
 Bu adımlar, bir ürünün üretiminde yapılması gereken işlemleri temsil eder. 
-Detaylı bilgi için tıklayınız. [Operasyon Ekle](/Uretim/OperasyonEkle.md "Operasyon Ekle")
+Detaylı bilgi için tıklayınız. [Operasyon Ekle](../Uretim/OperasyonEkle.md)
 
 ## Reçete Getir
 

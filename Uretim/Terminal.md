@@ -10,11 +10,11 @@ Biten işlemler için; Üretim -> Listeler -> Üretim Hareketleri Listesinden g�
 
 İlk işlem olarak bir terminal kullanıcısı eklememiz gerekmektedir.
 
-- [Terminal Kullanıcı Ekleme](/Uretim/TerminalKullaniciEkleme.md "Terminal Kullanıcı Ekleme"), kullanıcımızı tanımlayarak terminal sistemine erişimimiz başlayacaktır.
+- [Terminal Kullanıcı Ekleme](../Uretim/TerminalKullaniciEkleme.md), kullanıcımızı tanımlayarak terminal sistemine erişimimiz başlayacaktır.
 - Üretim terminaline kullanıcımızı tanımladıktan sonra terminal sistemine giriş yapabiliriz.
 - https://erp.aaro.com.tr/ adresini açınız, üretim terminali kullancınızı ve şifrenizi giriniz. (Aaro hesabı yazan yerde ki mail ile giriş yapabilirsiniz. ayse@aaro.com.tr)
 	Aaro açık olan tarayıcımızdan bu sayfaya erişim sağlayamayız. Terminal ve kullanıcı sayfasını aynı anda kullanmak istiyorsak farklı bir tarayıcıdan giriş yapmamız gerekmektedir.
-- Terminal sistemini aktif kullanabilmemiz için [Operasyon Makine Eşleştirme](/Uretim/OperasyonMakineEslestirme.md "Operasyon Makine Eşleştirme") gerekmektedir. 
+- Terminal sistemini aktif kullanabilmemiz için [Operasyon Makine Eşleştirme](../Uretim/OperasyonMakineEslestirme.md) gerekmektedir. 
 	Reçeteleri eşleştirip işlem yapabilmemiz için eşleştirme yapmamız gerekmektedir.
 	Makinenin işlemleri eşleştirip tanımladıktan sonra,
 - Terminal sisteminin çalışması için, terminal ile makine eşleştirmemişse makineyi kullanıcı ile eşleştirme yapmamız gerekmektedir. 

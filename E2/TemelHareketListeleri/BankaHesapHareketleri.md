@@ -1,15 +1,9 @@
-<h2>
-<span style="color: purple;">
- **Aaro Banka Hesap Hareketleri**
-</span>
-</h2>
+# Aaro Banka Hesap Hareketleri
 
 ## Modüller -> Banka -> Banka Modülü-> Hareket Oluştur
-<h2>
-<span style="color: orange;">
-**Havale/EFT Alma**
-</span>
-</h2>
+
+Havale/EFT Alma
+
 **Genel**
 - İşlem yapılan Şirket-Şube bilgisini seçiniz.
 - İşlem tarihini seçiniz.
@@ -31,11 +25,9 @@ Ek açıklamalar ekleyebilirsiniz.
 
 **Etiketler**
 Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanabilirsiniz.
-<h2>
-<span style="color: orange;">
-**Havale/EFT Gönderme**
-</span>
-</h2>
+
+Havale/EFT Gönderme
+
 **Genel**
 - İşlem yapılan Şirket-Şube bilgisini seçiniz.
 - İşlem tarihini seçiniz.
@@ -58,11 +50,8 @@ Ek açıklamalar ekleyebilirsiniz.
 **Etiketler**
 Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanabilirsiniz.
 
-<h2>
-<span style="color: orange;">
-**Bankadan Gider Hareketi**
-</span>
-</h2>
+Bankadan Gider Hareketi
+
 **Genel**
 - İşlem yapılan Şirket-Şube bilgisini seçiniz.
 - İşlem tarihini seçiniz.
@@ -83,11 +72,8 @@ Ek açıklamalar ekleyebilirsiniz.
 **Etiketler**
 Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanabilirsiniz.
 
-<h2>
-<span style="color: orange;">
-**Banka Gelir Hareketi**
-</span>
-</h2>
+Banka Gelir Hareketi
+
 **Genel**
 - İşlem yapılan Şirket-Şube bilgisini seçiniz.
 - İşlem tarihini seçiniz.
@@ -108,11 +94,8 @@ Ek açıklamalar ekleyebilirsiniz.
 **Etiketler**
 Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanabilirsiniz.
 
-<h2>
-<span style="color: orange;">
-**Banka Hesapları Arası Transfer**
-</span>
-</h2>
+Banka Hesapları Arası Transfer
+
 **Genel**
 - İşlem yapılan(Ödeme Alacak) Şirket-Şube bilgisini seçiniz.
 - İşlem tarihini seçiniz.
@@ -142,11 +125,8 @@ Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanabilirsiniz.
 **Etiketler BankaHareketleri**
 Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanabilirsiniz.
 
-<h2>
-<span style="color: orange;">
-**POS Tahsilat**
-</span>
-</h2>
+POS Tahsilat
+
 **Genel**
 - İşlem yapılan Şirket-Şube bilgisini seçiniz.
 - İşlem tarihini seçiniz.
@@ -159,11 +139,8 @@ Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanabilirsiniz.
 - Beklenen Tahsilatlar ve Ödemeler buradan bir sonraki ödemesi gereken tahsilatı seçebilirsiniz.
 - Tip
 
-<h2>
-<span style="color: orange;">
-**Çek Bankadan Tahsil Edildi**
-</span>
-</h2>
+Çek Bankadan Tahsil Edildi
+
 **Genel**
 - İşlem yapılan Şirket-Şube bilgisini seçiniz.
 - İşlem tarihini seçiniz.
@@ -197,21 +174,15 @@ Senet Bankadan İade Alındı
 Devir
 Karma Transfer Hareketi
 
-<h2>
-<span style="color: orange;">
-**Kartlar**
-</span>
-</h2>
+Kartlar
+
 **Banka Hesap Kartı Listesi:** Burada sistemde kaydetmiş olduğumuz kasa kartlarının hepsini gösterir borç-alacaklı hesapları gösterir. 
 Verilerimiz çok olduğunda kod kısımlarına ekleme yaptığımız özel özelliklere göre filtreleme sağlayabiliriz.
 
 **POS Hesaba Geçiş Tanımı Listesi:** Burada POS hesabının banka kartları ile işlem hareketlerini görüntüleyebilmekteyiz.
 
-<h2>
-<span style="color: orange;">
-**Listeler**
-</span>
-</h2>
+Listeler
+
 **Banka Hareketleri Listesi:** Burada banka hareketlerini listeler. Sisteme girmiş olduğumuz özelliklerde arama yapma seçeneklerimiz mevcuttur.
 
 **POS Tahsilat Hesaba Geçiş Hareketleri:** Burada POS tahsilat hareketlerini listeler. Sisteme girmiş olduğumuz özelliklerde arama yapma seçeneklerimiz mevcuttur.

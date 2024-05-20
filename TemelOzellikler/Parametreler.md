@@ -17,13 +17,13 @@ Bazı parametrelerin kritik iş süreçlerini etkileyebilir bu nedenle sadece ye
 
 ### Ek İşlemler
 
-**Anasayfaya Kısayol Olarak Ekle** parametre listesine hızlı erişim sağlamak istediğinizde kısayol olarak ekleyebilirsiniz. [Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle")
+**Anasayfaya Kısayol Olarak Ekle** parametre listesine hızlı erişim sağlamak istediğinizde kısayol olarak ekleyebilirsiniz. [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 
 #### Parametre Ekleme
 
 - Sol menüden Ayarlar -> Modül Sayfası -> Parametre Listesi -> Yeni Parametre Ekle şeklinde yeni parametre ekleyebilirsiniz.
 
-**Şirket-Şube** buradan işlem yapılacak şirket ya da şubeyi seçiniz. [Şirket-Şube](/TemelOzellikler/SirketSubeHareket.md "Şirket-Şube")
+**Şirket-Şube** buradan işlem yapılacak şirket ya da şubeyi seçiniz. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
 **Parametre** buradan kayıtlı hesaptan parametreleri seçebilirsini yeni kayı için açılan listenin en altından "+Detaylı Ekle:" ya da "Hızlı Ekle:" seçerek ekleme işlemi yapabilirsiniz.
 **Değer**
 **Tanım**

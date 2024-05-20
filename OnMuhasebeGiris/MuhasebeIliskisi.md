@@ -1,3 +1,4 @@
+
 ## Ön Muhasebe - Genel Muhasebe İlişkisi
 
 Ön muhasebe ve genel muhasebe, işletmelerin finansal yönetim süreçlerinde birbirini tamamlayan ve birlikte çalışan iki önemli bileşendir.

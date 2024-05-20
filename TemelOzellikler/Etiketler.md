@@ -22,5 +22,5 @@ Bu da işletme içinde iletişimi artırır ve karar verme süreçlerini kolayla
 
 ### Ek Özellikler 
 
-**Anasayfaya Kısayol Olarak Ekle** Etiketler listesine hızlı erişim sağlamak istediğinizde kısayol olarak ekleyebilirsiniz. [Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle") 
-**Grid Sütunları Ayarla** Sutunları istediğiniz gibi özelleştirebilirsiniz. [Grid Sütunları Ayarla](/TemelOzellikler/GridSutunlariniAyarlari.md "Grid Sütunları Ayarla")
+**Anasayfaya Kısayol Olarak Ekle** Etiketler listesine hızlı erişim sağlamak istediğinizde kısayol olarak ekleyebilirsiniz. [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md) 
+**Grid Sütunları Ayarla** Sutunları istediğiniz gibi özelleştirebilirsiniz. [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunlariniAyarlari.md)

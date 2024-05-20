@@ -1,3 +1,4 @@
+
 ## PARAMETRE LİSTESİ 
 
 Parametreler sistemin özelleşmesini sağlar. E-faturaları manuel takip ederken seri numarasının XXX olarak başlaması parametre aracılığıyla sağlanmaktadır. Stok kartında bulunan kodları ve etiketleri buradan açarak stok ile ilgili hiyerarşik gruplandırma kod ile, özelliklerini tanımlama etiketler ile sağlanabilmektedir.

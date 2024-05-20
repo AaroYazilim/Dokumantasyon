@@ -1,6 +1,4 @@
-<h2>
-<span style="color: orange;">
- **Depo**
-</span>
-</h2>
+
+# Depo
+
 Ticari ürünlerin muhafazası amacıyla yapılmış özel yapılardır.

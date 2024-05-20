@@ -1,4 +1,5 @@
-﻿## İrsaliye Nedir?
+﻿
+## İrsaliye Nedir?
 
 Mal ya da hizmet satışı yapıldığında bir yerden bir yere taşınması gerektiği durumlarda oluşturulan belgedir.
 

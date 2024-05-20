@@ -9,7 +9,7 @@
 **Miktar** Mamülümüzün birim cinsine göre (adet, kg, litre vb.) mitarýný ifade eder.
 **Ek Maliyet** Birim baþý ek maliyeti gösterir.(Kargo, fason vb.)
 **Birim Fiyatý** Mamülün birim cinsine göre birim maliyetini ifade eder.
-**Açýklama** Mamül ait detay açýklamasý eklemesi yapabilirsiniz. Açýklamalar hakkýnda detaylý bilgiler için týklayýnýz. [Açýklama](/TemelOzellikler/Aciklama.md "Açýklama")
+**Açýklama** Mamül ait detay açýklamasý eklemesi yapabilirsiniz. Açýklamalar hakkýnda detaylý bilgiler için týklayýnýz. [Açýklama](../TemelOzellikler/Aciklama.md)
 **Hesap Açýklamasý** Maliyet hesaplamalarýn yapýldýðý formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
 
 ### Geliþmiþ 
@@ -28,7 +28,7 @@ Mamülü silmek iþlemi, artýk kullanýlmayan veya yanlýþlýkla kaydedilmiþ bir mamül
 
 Reçeteye operasyon eklemek, üretim sürecindeki adýmlarý veya iþlemleri belirlemek için kullanýlýr. 
 Bu adýmlar, bir ürünün üretiminde yapýlmasý gereken iþlemleri temsil eder. 
-Detaylý bilgi için týklayýnýz. [Operasyon Ekle](/Uretim/OperasyonEkle.md "Operasyon Ekle")
+Detaylý bilgi için týklayýnýz. [Operasyon Ekle](../Uretim/OperasyonEkle.md)
 
 ## Reçete Miktarý Deðiþtir
 

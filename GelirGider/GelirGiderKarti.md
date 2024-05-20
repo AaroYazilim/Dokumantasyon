@@ -18,13 +18,13 @@ Ayrıca, gelir-gider kartları, işletmenin bütçeleme, planlama ve karar verme
 
 **Gelir Gider Adı:** Bu kartın kendine özel adıdır.
 
-**Gelir Gider Kodu:** Bu kartın kendine özel kodudur.Seri takibi yapılabilir. Detaylı tanım için linke tıklayınız. [Kart Kodu](/TemelOzellikler/KartKodu.md "Gelir Gider Kodu")
+**Gelir Gider Kodu:** Bu kartın kendine özel kodudur.Seri takibi yapılabilir. Detaylı tanım için linke tıklayınız. [Kart Kodu](../TemelOzellikler/KartKodu.md)
 
 **Birim 1:** Bu kartın hangi birim cinsinden takip edileceğini belirtir.
 
-**Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
 
-**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 
 ### Ölçü Birimleri
@@ -45,12 +45,12 @@ Ayrıca, gelir-gider kartları, işletmenin bütçeleme, planlama ve karar verme
 ### Muhasebe Tanımları: 
 
 Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde otomatikman belirli muhasebe hesaplarına gerekli kayıtların oluşmasını sağlayabilirsiniz.
-[Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")Muhasebe Tanımları: **[Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
+Tanımları: **[Muhasebeleşme Tanımları](../TemelOzellikler/MuhasebelesmeTanimlari.md)
 
 
 ### Gelişmiş
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
+**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
 
 **Durum:** Kartın kullanabilirliğini belirtir. Pasif kartlar işlemde kullanılamaz.
 

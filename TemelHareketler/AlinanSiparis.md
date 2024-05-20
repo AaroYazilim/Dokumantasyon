@@ -28,17 +28,17 @@ Siparişlerin işlenmesi ve teslimatı, işletmenin müşteri ilişkilerini yön
 
 ### Ek İşlem Butonu 
 
-[Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle")
-[Sevkiyat Detayları](/TemelOzellikler/SevkiyatDetaylari.md "Sevkiyat Detayları")
-[Fiyat Kontrol](/TemelOzellikler/FiyatKontrol.md "Fiyat Kontrol")
-[Üretim Durumu](/TemelOzellikler/ÜretimDurumu.md "Üretim Durumu")
-[Reçeteye göre üretim maliyeti](/TemelOzellikler/ReceteyeGoreUretimMaliyeti.md "Reçeteye göre üretim maliyeti")
-[Gerçekleşen Üretim Maliyeti](/TemelOzellikler/GerceklesenUretimMaliyeti.md "Gerçekleşen Üretim Maliyeti")
-[Sipariş için gerekli stok durumu](/TemelOzellikler/SiparisIçinGerekliStokDurumu.md "Sipariş için gerekli stok durumu")
+[Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+[Sevkiyat Detayları](../TemelOzellikler/SevkiyatDetaylari.md)
+[Fiyat Kontrol](../TemelOzellikler/FiyatKontrol.md)
+[Üretim Durumu](../TemelOzellikler/ÜretimDurumu.md)
+[Reçeteye göre üretim maliyeti](../TemelOzellikler/ReceteyeGoreUretimMaliyeti.md)
+[Gerçekleşen Üretim Maliyeti](../TemelOzellikler/GerceklesenUretimMaliyeti.md)
+[Sipariş için gerekli stok durumu](../TemelOzellikler/SiparisIçinGerekliStokDurumu.md)
 
 ### Genel 
 
-- **Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](/TemelOzellikler/SirketSubeHareket.md "Şirket-Şube")
+- **Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
 - **Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
 - **Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
 - **Müşteri:** İşlemin yapıldığı cari kartını ifade eder. **Girilmesi Zorunludur.**
@@ -61,8 +61,8 @@ Siparişlerin işlenmesi ve teslimatı, işletmenin müşteri ilişkilerini yön
 
 ### Açıklamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)

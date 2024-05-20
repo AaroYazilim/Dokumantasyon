@@ -1,18 +1,14 @@
-<h2>
-<span style="color: purple;">
- **Aaro Kasa Hareketleri**
-</span>
-</h2>
+
+# Aaro Kasa Hareketleri
 
 ## Modüller -> Kasa -> Kasa Modülü-> Hareket Oluştur
-<h2> 
+
 Bu kısımda; Kasadan gerçekleşen her işlem için bu kısmı kullanmamız gerekmektedir. 
 Tahsilatlar, transferler, giriş, çıkışlar bütün hareketleri işlemleri işleyeceğimiz yerdir. 
 Düzenli tutmamız hareket takibi yapabilmemiz için çok önemlidir.
-<span style="color: orange;">
-**Nakit Tahsilat**
-</span>
-</h2>
+
+# Nakit Tahsilat
+
 **Genel**
 - İşlem yapılacak Şirket-Şubeyi seçiniz.
 - İşlem tarihini giriniz.

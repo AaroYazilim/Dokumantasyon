@@ -36,7 +36,7 @@ Renklerin uyumu, yazı tipi vb düzenlemeler yapılabilmektedir.
 UBL (Universal Business Language), işletmeler arasında elektronik ticaretin standartlaştırılması ve kolaylaştırılması için geliştirilmiş bir XML tabanlı bir dil ve belirli bir veri modelidir. 
 UBL, ticari belgelerin elektronik olarak değiş tokuş edilmesini sağlamak için genel kabul görmüş bir formattır.
 UBL, çeşitli ticari belgeler için standart şablonlar sağlar. Bunlar arasında fatura, sipariş, teslimat notu, teklif gibi belgeler bulunur. Her belge türü için belirli bir XML şeması mevcuttur.
-Fatura tasarımlarını XSLT ile düzenlemeler yapmaktayız. Detaylı bilgiye buradan ulaşabilirsiniz. [Xslt Tasarımı](/e-Donusum/xslt.md "Xslt Tasarımı") 
+Fatura tasarımlarını XSLT ile düzenlemeler yapmaktayız. Detaylı bilgiye buradan ulaşabilirsiniz. [Xslt Tasarımı](../e-Donusum/xslt.md) 
 
 ## Ulaşım
 

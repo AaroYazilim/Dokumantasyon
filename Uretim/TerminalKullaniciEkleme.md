@@ -20,7 +20,7 @@ anlık verilerin canlı üretim sisteminde görüntülenmesine yardımcı olarak
 **e-Posta** Kullanıcın kullandığı e-Postayı giriniz.
 **Şifre** Kullanıcı girişinizi yapabilmek için şifre belirleyiniz. 8 karakterden fazla olmalıdır.
 **Makine** Kullanıcının erişim sağlacağı makineyi ekleyiniz.
-**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 #### Yetkiler 
 

@@ -26,7 +26,7 @@ Bu nedenle, işletmeler genellikle banka gelir hareketlerini dikkatle izler ve k
 
 ## **Genel**
  
-**Şirket-Şube:** [Şirket-Şube](/TemelOzellikler/SirketSube.md "Şirket-Şube")
+**Şirket-Şube:** [Şirket-Şube](../TemelOzellikler/SirketSube.md)
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir.
 
@@ -39,9 +39,9 @@ Bu nedenle, işletmeler genellikle banka gelir hareketlerini dikkatle izler ve k
 
 **Cari Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 
-**Açıklama:** İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+**Açıklama:** İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](../TemelOzellikler/Aciklama.md)
 
-**KDV Dahil:** Kalemlerde birim fiyat ve tutarın 'KDV Dahil' olduğunu belirtir. [KDV Dahil](/TemelOzellikler/KDVdahil.md "KDV Dahil")
+**KDV Dahil:** Kalemlerde birim fiyat ve tutarın 'KDV Dahil' olduğunu belirtir. [KDV Dahil](../TemelOzellikler/KDVdahil.md)
 
 ## **Detay**
 
@@ -53,8 +53,8 @@ Bu nedenle, işletmeler genellikle banka gelir hareketlerini dikkatle izler ve k
 
 ## **Açıklamalar**
 
-İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 ## **Etiketler**
 
-İşleme ait detaylar açıklamaya eklenebilir. [Etiket](/TemelOzellikler/Etiketler.md "Etiket")
+İşleme ait detaylar açıklamaya eklenebilir. [Etiket](../TemelOzellikler/Etiketler.md)

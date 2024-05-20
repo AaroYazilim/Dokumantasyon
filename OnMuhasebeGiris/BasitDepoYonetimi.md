@@ -1,3 +1,4 @@
+
 # Sayım 
 
 Sayım bir nesnenin veya bir şeyin miktarını belirlemek için yapılan bir işlem veya bu işlemin sonucunu ifade eden bir terimdir.

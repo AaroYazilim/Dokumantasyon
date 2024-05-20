@@ -16,7 +16,7 @@ Bu modül, demirbaşların satın alınmasından bakımına kadar olan süreçle
 
 Bu modülde yer alan işlemler;
 
-- [Demirbaş Kartı](/Demirbas/DemirbasKarti.md "Demirbaş Kartı")
-- [Demirbaş Kartı Listesi](/Demirbas/DemirbasKartiListesi.md "Demirbaş Kartı Listesi")
-- [Demirbaş Hareketleri Listesi](/Demirbas/DemirbasHareketleriListesi.md "Demirbaş Hareketleri Listesi")
-- [Hareket Oluştur](/Banka/HareketOlustur.md "Hareket Oluştur")
+- [Demirbaş Kartı](../Demirbas/DemirbasKarti.md)
+- [Demirbaş Kartı Listesi](../Demirbas/DemirbasKartiListesi.md)
+- [Demirbaş Hareketleri Listesi](../Demirbas/DemirbasHareketleriListesi.md)
+- [Hareket Oluştur](../Banka/HareketOlustur.md)

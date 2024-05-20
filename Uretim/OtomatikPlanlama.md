@@ -24,4 +24,4 @@ Otomatik planlama süreci sonunda elde edilen planlama sonuçları değerlendiri
 Bu değerlendirme, planlama hedeflerinize ne kadar uygun olduğunu, maliyet etkinliğini ve diğer performans ölçütlerini içerir.
 Otomatik planlamanın oluştuğu takvimde planma değişikliği yapabilirsiniz.
 
-[İş Emri Ekleme](/Uretim/YeniIsEmri.md "İş Emri Ekleme") yaparak otomatik planlamaya ulaşım sağlayabilirsiniz. 
+[İş Emri Ekleme](../Uretim/YeniIsEmri.md) yaparak otomatik planlamaya ulaşım sağlayabilirsiniz. 

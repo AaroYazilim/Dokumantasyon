@@ -1,3 +1,4 @@
+
 ## Havale EFT Gönderme
 
 **Havale:** aynı banka içinde veya farklı bankalar arasında, genellikle daha hızlı işleyen bir para transferi yöntemidir.
@@ -10,9 +11,9 @@ Ayrıca, transferin hızı ve ücretleri gibi konular bankadan bankaya değişik
 Havale veya EFT göndermek sizin banka hesabınızdan başka bir hesaba havale/EFT yapmanız durumunda takip edebilmek banka hareketlerini görüntülemek adına 
 banka hesabımızdan gönderilen havale/EFT bilgilerini buradan işleyerek banka hesabımızın takibini kolayca sağlayabilmekteyiz.
 
-## **Genel**
+## Genel
 
-**Şirket-Şube:** [Şirket-Şube](/TemelOzellikler/SirketSube.md "Şirket-Şube")
+**Şirket-Şube:** [Şirket-Şube](../TemelOzellikler/SirketSube.md)
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir.
 
@@ -26,11 +27,11 @@ banka hesabımızdan gönderilen havale/EFT bilgilerini buradan işleyerek banka
 
 **Cari Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 
-**Açıklama:** İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+**Açıklama:** İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](../TemelOzellikler/Aciklama.md)
 
-## **Detay**
+## Detay
 
-**Beklenen Tahsilat:** [Beklenen Tahsilat](/TemelOzellikler/BeklenenTahOd.md "Beklenen Tahsilat")
+**Beklenen Tahsilat:** [Beklenen Tahsilat](../TemelOzellikler/BeklenenTahOd.md)
 
 **Sözleşme:** Bu karta ait sözleşme var ise buraya sözleşmeyi ekleyebiliriz.
 
@@ -40,10 +41,10 @@ banka hesabımızdan gönderilen havale/EFT bilgilerini buradan işleyerek banka
 
 **Alt Tip:** Alt hareket tipini belirtir.
 
-## **Açıklamalar**
+## Açıklamalar
 
-İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](../TemelOzellikler/Aciklama.md)
 
-## **Etiketler**
+## Etiketler
 
-İşleme ait detaylar açıklamaya eklenebilir. [Etiket](/TemelOzellikler/Etiketler.md "Etiket")
+İşleme ait detaylar açıklamaya eklenebilir. [Etiket](../TemelOzellikler/Etiketler.md)

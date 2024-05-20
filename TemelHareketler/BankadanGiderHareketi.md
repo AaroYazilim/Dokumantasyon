@@ -33,11 +33,11 @@ Bu nedenle, işletmeler genellikle bu tür harcamaları dikkatle izler ve kayded
 
 ### Ek İşlem Butonu 
 
-[Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle")
+[Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 
 ## Genel
  
-**Şirket-Şube:** [Şirket-Şube](/TemelOzellikler/SirketSube.md "Şirket-Şube")
+**Şirket-Şube:** [Şirket-Şube](../TemelOzellikler/SirketSube.md)
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir.
 
@@ -50,9 +50,9 @@ Bu nedenle, işletmeler genellikle bu tür harcamaları dikkatle izler ve kayded
 
 **Cari Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 
-**Açıklama:** İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+**Açıklama:** İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](../TemelOzellikler/Aciklama.md)
 
-**KDV Dahil:** Kalemlerde birim fiyat ve tutarın 'KDV Dahil' olduğunu belirtir. [KDV Dahil](/TemelOzellikler/KDVdahil.md "KDV Dahil")
+**KDV Dahil:** Kalemlerde birim fiyat ve tutarın 'KDV Dahil' olduğunu belirtir. [KDV Dahil](../TemelOzellikler/KDVdahil.md)
 
 ## Detay
 
@@ -64,8 +64,8 @@ Bu nedenle, işletmeler genellikle bu tür harcamaları dikkatle izler ve kayded
 
 ## Açıklamalar
 
-İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 ## Etiketler
 
-İşleme ait detaylar açıklamaya eklenebilir. [Etiket](/TemelOzellikler/Etiketler.md "Etiket")
+İşleme ait detaylar açıklamaya eklenebilir. [Etiket](../TemelOzellikler/Etiketler.md)

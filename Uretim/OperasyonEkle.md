@@ -18,9 +18,9 @@ Her operasyon, üretim sürecinde belirli bir görevin nasýl yapýlacaðýný açýklar.
 **Ýþçi Adedi** Operasyonda çalýþacak iþçi adetini giriniz.
 **Hazýrlýk Süre** Operasyonun hazýrlýk aþamasý, makinenin ýsýnmasý vb gibi hazýrlýk sürelerini giriniz.
 **Üretim Süre** Üretim operasyon ne kadar sürüyor, mamul ne kadar zamanda çýkýyor ise o süreyi giriniz.
-**Ýþçilik/Saat** Operasyonda çalýþan iþçinin saatlik ücretini ifade eder. Maliyet hesaplamasý detaylarý için týklayýnýz. [Ýþçiliyet Maliyeti](/Uretim/IscilikMaliyeti.md "Ýþçilik Maliyeti")
-**Çalýþma Mal/Saat** Operasyonda çalýþan iþçi, makine, elektrik gibi giderlerin saatlik ücretini ifade eder. Maliyet hesaplamasý detaylarý için týklayýnýz. [Birim Maliyeti](/Uretim/BirimMaliyeti.md "Birim Maliyeti")
-**Açýklama** Operasyona ait detay açýklamasý eklemesi yapabilirsiniz. Açýklamalar hakkýnda detaylý bilgiler için týklayýnýz. [Açýklama](/TemelOzellikler/Aciklama.md "Açýklama")
+**Ýþçilik/Saat** Operasyonda çalýþan iþçinin saatlik ücretini ifade eder. Maliyet hesaplamasý detaylarý için týklayýnýz. [Ýþçiliyet Maliyeti](../Uretim/IscilikMaliyeti.md)
+**Çalýþma Mal/Saat** Operasyonda çalýþan iþçi, makine, elektrik gibi giderlerin saatlik ücretini ifade eder. Maliyet hesaplamasý detaylarý için týklayýnýz. [Birim Maliyeti](../Uretim/BirimMaliyeti.md)
+**Açýklama** Operasyona ait detay açýklamasý eklemesi yapabilirsiniz. Açýklamalar hakkýnda detaylý bilgiler için týklayýnýz. [Açýklama](../TemelOzellikler/Aciklama.md)
 **Hesap Açýklamasý** Maliyet hesaplamalarýn yapýldýðý formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
 
 ### Geliþmiþ
@@ -32,13 +32,13 @@ Her operasyon, üretim sürecinde belirli bir görevin nasýl yapýlacaðýný açýklar.
 
 PDF, JPEG, PNG gibi belgeleri eklemek mümkündür. Bu belgelere eriþim izni olanlar, belgelere ulaþabilir, indirebilir ve kontrol edebilirler.
 Bu özellik, paylaþýlan verilerin güvenliði ve kolay eriþimi için önemli bir hizmet sunar. 
-Detaylý bilgi için týklayýnýz. [Belgeler](/TemelOzellikler/Belgeler.md "Belgeler")
+Detaylý bilgi için týklayýnýz. [Belgeler](../TemelOzellikler/Belgeler.md)
 
 ### Notlar
 
 Ýþ emrinde notlar kýsmý, üretim süreciyle ilgili önemli bilgilerin, özel talimatlarýn veya dikkat edilmesi gereken noktalarýn kaydedildiði alandýr. 
 Bu bölüm, üretim sürecindeki personel ve yöneticilerin daha iyi iletiþim kurmalarýna ve süreci daha verimli yönetmelerine yardýmcý olur.
-Detaylý bilgi için týklayýnýz. [Notlar](/TemelOzellikler/Notlar.md "Notlar")
+Detaylý bilgi için týklayýnýz. [Notlar](../TemelOzellikler/Notlar.md)
 
 **Kaydet butonuna basarak yeni reçete operasyon ekleme iþlemimizi baþarýyla tamamlamýþ bulunmaktayýz.**
 
@@ -49,10 +49,10 @@ Operasyonu silme iþlemi, artýk kullanýlmayan veya yanlýþlýkla kaydedilmiþ bir op
 ## Hammadde Ekle 
 
 Yeni bir hammadde eklemek için bu seçeneði týklarsýnýz. Bu durumda, eklemek istediðiniz hammaddeye ait bilgileri girersiniz.
-Detaylý bilgi için týklayýnýz. [Hammadde Ekle](/Uretim/HammaddeEkle.md "Hammadde Ekle")
+Detaylý bilgi için týklayýnýz. [Hammadde Ekle](../Uretim/HammaddeEkle.md)
 
 ## Mamül Ekle
 
 Mamül eklemek, bir ürünün üretim reçetesine yeni bir mamül veya ürünün eklenmesidir. 
 Bu, üretim sürecinde kullanýlacak malzemelerin, adýmlarýn ve miktarlarýn belirlenmesini saðlar.
-Detaylý bilgi için týklayýnýz. [Mamül Ekle](/Uretim/MamulEkle.md "Mamül Ekle")
+Detaylý bilgi için týklayýnýz. [Mamül Ekle](../Uretim/MamulEkle.md)

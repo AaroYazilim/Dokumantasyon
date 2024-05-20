@@ -14,7 +14,7 @@ Düzenli tutmamız hareket takibi yapabilmemiz için çok önemlidir.
 
 Bu modülde yer alan işlemler;
 
-- [Kasa Kartı](/Kasa/KasaKarti.md "Kasa Kartı")
-- [Kasa Kartı Listesi](/Kasa/KasaKatiListesi.md "Kasa Kartı Listesi")
-- [Kasa Hareketleri Listesi](/Kasa/KasaHareketleriListesi.md "Kasa Hareketleri Listesi")
-- [Hareket Oluştur](/Banka/HareketOlustur.md "Hareket Oluştur")
+- [Kasa Kartı](../Kasa/KasaKarti.md)
+- [Kasa Kartı Listesi](../Kasa/KasaKatiListesi.md)
+- [Kasa Hareketleri Listesi](../Kasa/KasaHareketleriListesi.md)
+- [Hareket Oluştur](../Banka/HareketOlustur.md)
