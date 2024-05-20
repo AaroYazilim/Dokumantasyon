@@ -1,85 +1,85 @@
 
 # Diagram 
 
-Reçete diagramı, bir ürünün üretim sürecindeki adımları ve bu adımlarda kullanılan malzemeleri görsel olarak gösteren bir şemadır. 
-Bu diagram, üretim sürecini daha kolay anlamayı ve yönetmeyi sağlar.
+ReÃ§ete diagramÄ±, bir Ã¼rÃ¼nÃ¼n Ã¼retim sÃ¼recindeki adÄ±mlarÄ± ve bu adÄ±mlarda kullanÄ±lan malzemeleri gÃ¶rsel olarak gÃ¶steren bir ÅŸemadÄ±r. 
+Bu diagram, Ã¼retim sÃ¼recini daha kolay anlamayÄ± ve yÃ¶netmeyi saÄŸlar.
 
-- Üretim sürecinin başladığı nokta sarı renklidir, hammaddeyi gösterir. Bu genellikle ana malzemenin veya hammaddenin işlendiği adımdır.
+- Ãœretim sÃ¼recinin baÅŸladÄ±ÄŸÄ± nokta sarÄ± renklidir, hammaddeyi gÃ¶sterir. Bu genellikle ana malzemenin veya hammaddenin iÅŸlendiÄŸi adÄ±mdÄ±r.
 
-- Üretim sürecindeki her adım veya işlem, mavi bir kutu operasyonu gösterir. 
-Operasyon, belirli bir işlemi (örneğin, kesme, montaj, boyama) ve bu işlemde kullanılan makineleri ve malzemeleri belirtir.
+- Ãœretim sÃ¼recindeki her adÄ±m veya iÅŸlem, mavi bir kutu operasyonu gÃ¶sterir. 
+Operasyon, belirli bir iÅŸlemi (Ã¶rneÄŸin, kesme, montaj, boyama) ve bu iÅŸlemde kullanÄ±lan makineleri ve malzemeleri belirtir.
 
-- Diagramda, her adımda hangi malzemelerin kullanıldığını ve üretim süreci boyunca nasıl hareket ettiklerini gösteren oklar bulunur. 
-Bu, malzemelerin başlangıçtan bitişe kadar izlediği yolu belirtir.
+- Diagramda, her adÄ±mda hangi malzemelerin kullanÄ±ldÄ±ÄŸÄ±nÄ± ve Ã¼retim sÃ¼reci boyunca nasÄ±l hareket ettiklerini gÃ¶steren oklar bulunur. 
+Bu, malzemelerin baÅŸlangÄ±Ã§tan bitiÅŸe kadar izlediÄŸi yolu belirtir.
 
-- Diyagramda, sarı ve bordo renkliler yarı mamülü gösterir. Bir operasyondan çıkan mamül diğer operasyona aktarılacak hammaddeyi ifade eder. 
+- Diyagramda, sarÄ± ve bordo renkliler yarÄ± mamÃ¼lÃ¼ gÃ¶sterir. Bir operasyondan Ã§Ä±kan mamÃ¼l diÄŸer operasyona aktarÄ±lacak hammaddeyi ifade eder. 
 
-- Oklar ve bağlantı çizgileri, operasyon adımları arasındaki sıralamayı ve yönü gösterir. Bu, her adımın hangi sırayla ve nasıl yapılacağını belirler.
+- Oklar ve baÄŸlantÄ± Ã§izgileri, operasyon adÄ±mlarÄ± arasÄ±ndaki sÄ±ralamayÄ± ve yÃ¶nÃ¼ gÃ¶sterir. Bu, her adÄ±mÄ±n hangi sÄ±rayla ve nasÄ±l yapÄ±lacaÄŸÄ±nÄ± belirler.
 
-- Üretim sürecinin sonunda elde edilen nihai ürün veya mamül bordo renkli gösterir. Bu, üretim sürecinin tamamlandığı ve ürünün hazır olduğu noktadır.
+- Ãœretim sÃ¼recinin sonunda elde edilen nihai Ã¼rÃ¼n veya mamÃ¼l bordo renkli gÃ¶sterir. Bu, Ã¼retim sÃ¼recinin tamamlandÄ±ÄŸÄ± ve Ã¼rÃ¼nÃ¼n hazÄ±r olduÄŸu noktadÄ±r.
 
-Diagram sayfasından hammadde, mamül, operasyon süreçlerinde değişiklik yapabilirsiniz ya da hızlı düzeltmeleri tercih edebilirsiniz.
+Diagram sayfasÄ±ndan hammadde, mamÃ¼l, operasyon sÃ¼reÃ§lerinde deÄŸiÅŸiklik yapabilirsiniz ya da hÄ±zlÄ± dÃ¼zeltmeleri tercih edebilirsiniz.
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol menüden Üretim -> Kartlar -> İş Emri Reçete Listesi -> İş Emrine çift tıklayarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> İş Emri Listesi -> İş Emrini açınız -> Diagram şeklinde ulaşım sağlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartlar -> Ä°ÅŸ Emri ReÃ§ete Listesi -> Ä°ÅŸ Emrine Ã§ift tÄ±klayarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartlar -> Ä°ÅŸ Emri Listesi -> Ä°ÅŸ Emrini aÃ§Ä±nÄ±z -> Diagram ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
 
-# Hızlı Düzelt
+# HÄ±zlÄ± DÃ¼zelt
 
-Diyagramda görünen reçetelerin listeli bir şekilde miktar, fiyat, toplam maliyetlerini görüntüleyebilir burada hızlı iş emri değişiklikleri yabilirsiniz.
-Reçeteyi Hızlı Düzelt, ürün reçetelerinde yapılan hataların veya değişiklik gereksinimlerinin hızlı bir şekilde tespit edilip düzeltilmesi sürecidir. 
-Bu süreç, üretim verimliliğini artırmak, hatalı üretimin önüne geçmek ve malzeme yönetimini optimize etmek amacıyla gerçekleştirilir.
-Üretim sırasında veya öncesinde, malzeme eksikliği, yanlış parça kullanımı veya operasyon değişiklikleri gibi nedenlerle reçetede bir hata veya güncelleme ihtiyacı tespit edilebilir.
-İlgili birimler, gerekli düzeltmeleri veya güncellemeleri yaparak reçeteyi günceller.
+Diyagramda gÃ¶rÃ¼nen reÃ§etelerin listeli bir ÅŸekilde miktar, fiyat, toplam maliyetlerini gÃ¶rÃ¼ntÃ¼leyebilir burada hÄ±zlÄ± iÅŸ emri deÄŸiÅŸiklikleri yabilirsiniz.
+ReÃ§eteyi HÄ±zlÄ± DÃ¼zelt, Ã¼rÃ¼n reÃ§etelerinde yapÄ±lan hatalarÄ±n veya deÄŸiÅŸiklik gereksinimlerinin hÄ±zlÄ± bir ÅŸekilde tespit edilip dÃ¼zeltilmesi sÃ¼recidir. 
+Bu sÃ¼reÃ§, Ã¼retim verimliliÄŸini artÄ±rmak, hatalÄ± Ã¼retimin Ã¶nÃ¼ne geÃ§mek ve malzeme yÃ¶netimini optimize etmek amacÄ±yla gerÃ§ekleÅŸtirilir.
+Ãœretim sÄ±rasÄ±nda veya Ã¶ncesinde, malzeme eksikliÄŸi, yanlÄ±ÅŸ parÃ§a kullanÄ±mÄ± veya operasyon deÄŸiÅŸiklikleri gibi nedenlerle reÃ§etede bir hata veya gÃ¼ncelleme ihtiyacÄ± tespit edilebilir.
+Ä°lgili birimler, gerekli dÃ¼zeltmeleri veya gÃ¼ncellemeleri yaparak reÃ§eteyi gÃ¼nceller.
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol menüden Üretim -> Listeler -> İş Emri Listesi -> İşlem yapacağmız iş emrini seçelim -> Hızlı Düzelt şeklinde ulaşım sağlayabiliriz.
+- Sol menÃ¼den Ãœretim -> Listeler -> Ä°ÅŸ Emri Listesi -> Ä°ÅŸlem yapacaÄŸmÄ±z iÅŸ emrini seÃ§elim -> HÄ±zlÄ± DÃ¼zelt ÅŸeklinde ulaÅŸÄ±m saÄŸlayabiliriz.
 
-## Reçeteyi Hızlı Düzelt 
+## ReÃ§eteyi HÄ±zlÄ± DÃ¼zelt 
 
-Hammaddeler sarı renk ile gösterilmiştir, operasyonlar mavi renk, mamül pembe renk ile yarı mamül ise sarı ve pembe renklidir.
+Hammaddeler sarÄ± renk ile gÃ¶sterilmiÅŸtir, operasyonlar mavi renk, mamÃ¼l pembe renk ile yarÄ± mamÃ¼l ise sarÄ± ve pembe renklidir.
 
-Değişikliği listelerden yapabiliriz, değişiklik yapmak istediğimiz mamül, operasyon, yarı mamül, hammaddeye çift tıklayarak de değişiklik yapabiliriz.
-Buradan mamül, operasyon, yarı mamül, hammadde değiştirebilir, miktar, birim miktarı, fiyat, İşçilik / Saat, Çalışma Maliyeti / Saat değişiklik yapabiliriz.
+DeÄŸiÅŸikliÄŸi listelerden yapabiliriz, deÄŸiÅŸiklik yapmak istediÄŸimiz mamÃ¼l, operasyon, yarÄ± mamÃ¼l, hammaddeye Ã§ift tÄ±klayarak de deÄŸiÅŸiklik yapabiliriz.
+Buradan mamÃ¼l, operasyon, yarÄ± mamÃ¼l, hammadde deÄŸiÅŸtirebilir, miktar, birim miktarÄ±, fiyat, Ä°ÅŸÃ§ilik / Saat, Ã‡alÄ±ÅŸma Maliyeti / Saat deÄŸiÅŸiklik yapabiliriz.
 
-# Hızlı Düzelt2 
+# HÄ±zlÄ± DÃ¼zelt2 
 
-Burada hammaddeler, mamüller, operasyonlar olarak bölümlere ayrılmış şekilde aşamaları sıralı bir şekilde gözükmektedir.
-Bu ekranda hızlı düzelt yapabildiğim işlemlerin aynılarını yapabilmekteyiz. Aralarda ki fark ise görünüş, sıralama şekilleridir.
-Üretim sırasında veya öncesinde, malzeme eksikliği, yanlış parça kullanımı veya operasyon değişiklikleri gibi nedenlerle reçetede bir hata veya güncelleme ihtiyacı tespit edilebilir.
-İlgili birimler, gerekli düzeltmeleri veya güncellemeleri yaparak reçeteyi günceller.
+Burada hammaddeler, mamÃ¼ller, operasyonlar olarak bÃ¶lÃ¼mlere ayrÄ±lmÄ±ÅŸ ÅŸekilde aÅŸamalarÄ± sÄ±ralÄ± bir ÅŸekilde gÃ¶zÃ¼kmektedir.
+Bu ekranda hÄ±zlÄ± dÃ¼zelt yapabildiÄŸim iÅŸlemlerin aynÄ±larÄ±nÄ± yapabilmekteyiz. Aralarda ki fark ise gÃ¶rÃ¼nÃ¼ÅŸ, sÄ±ralama ÅŸekilleridir.
+Ãœretim sÄ±rasÄ±nda veya Ã¶ncesinde, malzeme eksikliÄŸi, yanlÄ±ÅŸ parÃ§a kullanÄ±mÄ± veya operasyon deÄŸiÅŸiklikleri gibi nedenlerle reÃ§etede bir hata veya gÃ¼ncelleme ihtiyacÄ± tespit edilebilir.
+Ä°lgili birimler, gerekli dÃ¼zeltmeleri veya gÃ¼ncellemeleri yaparak reÃ§eteyi gÃ¼nceller.
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol menüden Üretim -> Listeler -> İş Emri Listesi -> İşlem yapacağmız iş emrini seçelim -> Hızlı Düzelt2 şeklinde ulaşım sağlayabiliriz.
+- Sol menÃ¼den Ãœretim -> Listeler -> Ä°ÅŸ Emri Listesi -> Ä°ÅŸlem yapacaÄŸmÄ±z iÅŸ emrini seÃ§elim -> HÄ±zlÄ± DÃ¼zelt2 ÅŸeklinde ulaÅŸÄ±m saÄŸlayabiliriz.
 
-## Reçeteyi Hızlı Düzelt2
+## ReÃ§eteyi HÄ±zlÄ± DÃ¼zelt2
 
-Burada hammaddeler, mamüller, operasyonlar olacak şekilde bölümlere ayrılmış aşamaları sıralı bir şekilde gözükmektedir.
-Operasyonda kullanılacak makine, hazırlık süre, üretim süresi, işçi adeti, İşçilik Mal./Saat, Çalışma Mal./Saat değişiklik yapabiliriz.
+Burada hammaddeler, mamÃ¼ller, operasyonlar olacak ÅŸekilde bÃ¶lÃ¼mlere ayrÄ±lmÄ±ÅŸ aÅŸamalarÄ± sÄ±ralÄ± bir ÅŸekilde gÃ¶zÃ¼kmektedir.
+Operasyonda kullanÄ±lacak makine, hazÄ±rlÄ±k sÃ¼re, Ã¼retim sÃ¼resi, iÅŸÃ§i adeti, Ä°ÅŸÃ§ilik Mal./Saat, Ã‡alÄ±ÅŸma Mal./Saat deÄŸiÅŸiklik yapabiliriz.
 
-Hammaddeler de hammadde adında, miktar, birim fiyatında değişiklik yapabilirsiniz.
-Hammaddeler de son alış fiyatı, son mamul fiyatı, alış liste fiyatı görünteyebilir ve kullanabiliriz.
+Hammaddeler de hammadde adÄ±nda, miktar, birim fiyatÄ±nda deÄŸiÅŸiklik yapabilirsiniz.
+Hammaddeler de son alÄ±ÅŸ fiyatÄ±, son mamul fiyatÄ±, alÄ±ÅŸ liste fiyatÄ± gÃ¶rÃ¼nteyebilir ve kullanabiliriz.
 
-# Ek İşlemler 
+# Ek Ä°ÅŸlemler 
 
-### İş Emrine Git 
+### Ä°ÅŸ Emrine Git 
 
-Bu seçenek ile iş emri ekranına dönerek iş emrinizi görüntüleyebilirsiniz.
+Bu seÃ§enek ile iÅŸ emri ekranÄ±na dÃ¶nerek iÅŸ emrinizi gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
 
-### Plana Gİt 
+### Plana GÄ°t 
 
-Üretim planı ekranına yönlendirir, buradan üretim planlamalarınızı görüntüleyebilirsiniz.
+Ãœretim planÄ± ekranÄ±na yÃ¶nlendirir, buradan Ã¼retim planlamalarÄ±nÄ±zÄ± gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
 
-### Reçeteye Git
+### ReÃ§eteye Git
 
-Reçete ekranına yönlendirir, buradan reçetelerinizi görüntüleyebilirsiniz.
+ReÃ§ete ekranÄ±na yÃ¶nlendirir, buradan reÃ§etelerinizi gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
 
 ### Diagram 
 
-### Hızlı Reçete Düzelt
+### HÄ±zlÄ± ReÃ§ete DÃ¼zelt
 
-### Hızlı Reçete Düzelt3
+### HÄ±zlÄ± ReÃ§ete DÃ¼zelt3

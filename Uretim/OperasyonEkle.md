@@ -1,58 +1,58 @@
 
 # Operasyon 
 
-Operasyon, bir ürünün üretim sürecindeki adımları veya işlemleri tanımlar. 
-Her operasyon, üretim sürecinde belirli bir görevin nasıl yapılacağını açıklar.
+Operasyon, bir Ã¼rÃ¼nÃ¼n Ã¼retim sÃ¼recindeki adÄ±mlarÄ± veya iÅŸlemleri tanÄ±mlar. 
+Her operasyon, Ã¼retim sÃ¼recinde belirli bir gÃ¶revin nasÄ±l yapÄ±lacaÄŸÄ±nÄ± aÃ§Ä±klar.
 
-- Reçeteye eklemek istediğiniz operasyonu seçin. Bu, belirli bir işin veya işlemin adıdır (örneğin, kesme, montaj, boyama).
-- Operasyonun nasıl yapılacağını tanımlayın. Bu, gerekli makineler, kullanılan malzemeler, işlem süresi gibi bilgileri içerir.
-- Operasyonların doğru sırayla yapıldığından emin olun. Her adımın hangi sırayla yapılacağını belirleyin.
-- Tüm bilgileri girdikten sonra değişiklikleri kaydedin.
+- ReÃ§eteye eklemek istediÄŸiniz operasyonu seÃ§in. Bu, belirli bir iÅŸin veya iÅŸlemin adÄ±dÄ±r (Ã¶rneÄŸin, kesme, montaj, boyama).
+- Operasyonun nasÄ±l yapÄ±lacaÄŸÄ±nÄ± tanÄ±mlayÄ±n. Bu, gerekli makineler, kullanÄ±lan malzemeler, iÅŸlem sÃ¼resi gibi bilgileri iÃ§erir.
+- OperasyonlarÄ±n doÄŸru sÄ±rayla yapÄ±ldÄ±ÄŸÄ±ndan emin olun. Her adÄ±mÄ±n hangi sÄ±rayla yapÄ±lacaÄŸÄ±nÄ± belirleyin.
+- TÃ¼m bilgileri girdikten sonra deÄŸiÅŸiklikleri kaydedin.
 
-## Reçete Operasyon Ekle / Düzenle (Öncesi-Sonrası)
+## ReÃ§ete Operasyon Ekle / DÃ¼zenle (Ã–ncesi-SonrasÄ±)
 
 ### Genel
 
-**Operasyon** Yapılacak operasyonu seçelim.
-**Makine** Kullanılacak makineyi seçelim.
-**İşçi Adedi** Operasyonda çalışacak işçi adetini giriniz.
-**Hazırlık Süre** Operasyonun hazırlık aşaması, makinenin ısınması vb gibi hazırlık sürelerini giriniz.
-**Üretim Süre** Üretim operasyon ne kadar sürüyor, mamul ne kadar zamanda çıkıyor ise o süreyi giriniz.
-**İşçilik/Saat** Operasyonda çalışan işçinin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [İşçiliyet Maliyeti](../Uretim/IscilikMaliyeti.md)
-**Çalışma Mal/Saat** Operasyonda çalışan işçi, makine, elektrik gibi giderlerin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [Birim Maliyeti](../Uretim/BirimMaliyeti.md)
-**Açıklama** Operasyona ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
-**Hesap Açıklaması** Maliyet hesaplamaların yapıldığı formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
+**Operasyon** YapÄ±lacak operasyonu seÃ§elim.
+**Makine** KullanÄ±lacak makineyi seÃ§elim.
+**Ä°ÅŸÃ§i Adedi** Operasyonda Ã§alÄ±ÅŸacak iÅŸÃ§i adetini giriniz.
+**HazÄ±rlÄ±k SÃ¼re** Operasyonun hazÄ±rlÄ±k aÅŸamasÄ±, makinenin Ä±sÄ±nmasÄ± vb gibi hazÄ±rlÄ±k sÃ¼relerini giriniz.
+**Ãœretim SÃ¼re** Ãœretim operasyon ne kadar sÃ¼rÃ¼yor, mamul ne kadar zamanda Ã§Ä±kÄ±yor ise o sÃ¼reyi giriniz.
+**Ä°ÅŸÃ§ilik/Saat** Operasyonda Ã§alÄ±ÅŸan iÅŸÃ§inin saatlik Ã¼cretini ifade eder. Maliyet hesaplamasÄ± detaylarÄ± iÃ§in tÄ±klayÄ±nÄ±z. [Ä°ÅŸÃ§iliyet Maliyeti](../Uretim/IscilikMaliyeti.md)
+**Ã‡alÄ±ÅŸma Mal/Saat** Operasyonda Ã§alÄ±ÅŸan iÅŸÃ§i, makine, elektrik gibi giderlerin saatlik Ã¼cretini ifade eder. Maliyet hesaplamasÄ± detaylarÄ± iÃ§in tÄ±klayÄ±nÄ±z. [Birim Maliyeti](../Uretim/BirimMaliyeti.md)
+**AÃ§Ä±klama** Operasyona ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
+**Hesap AÃ§Ä±klamasÄ±** Maliyet hesaplamalarÄ±n yapÄ±ldÄ±ÄŸÄ± formÃ¼lÃ¼ ifade eder. Ã–zel hesaplamalar burada belirtilmelidir.
 
-### Gelişmiş
+### GeliÅŸmiÅŸ
 
-**Bekleme Süresi** Sonraki operasyona başlamadan önce beklenmesi gereken süreyi Vardiya cinsinden belirtiniz. 3 vardiya 1 gün olarak değerlendirilir.
-**Benzerlik** Bu Operasyonun yapımında üretim şekli benzer olan reçeteleri gruplayarak daha verimli şekilde planlama yapabilirsiniz.
+**Bekleme SÃ¼resi** Sonraki operasyona baÅŸlamadan Ã¶nce beklenmesi gereken sÃ¼reyi Vardiya cinsinden belirtiniz. 3 vardiya 1 gÃ¼n olarak deÄŸerlendirilir.
+**Benzerlik** Bu Operasyonun yapÄ±mÄ±nda Ã¼retim ÅŸekli benzer olan reÃ§eteleri gruplayarak daha verimli ÅŸekilde planlama yapabilirsiniz.
 
 ### Belgeler
 
-PDF, JPEG, PNG gibi belgeleri eklemek mümkündür. Bu belgelere erişim izni olanlar, belgelere ulaşabilir, indirebilir ve kontrol edebilirler.
-Bu özellik, paylaşılan verilerin güvenliği ve kolay erişimi için önemli bir hizmet sunar. 
-Detaylı bilgi için tıklayınız. [Belgeler](../TemelOzellikler/Belgeler.md)
+PDF, JPEG, PNG gibi belgeleri eklemek mÃ¼mkÃ¼ndÃ¼r. Bu belgelere eriÅŸim izni olanlar, belgelere ulaÅŸabilir, indirebilir ve kontrol edebilirler.
+Bu Ã¶zellik, paylaÅŸÄ±lan verilerin gÃ¼venliÄŸi ve kolay eriÅŸimi iÃ§in Ã¶nemli bir hizmet sunar. 
+DetaylÄ± bilgi iÃ§in tÄ±klayÄ±nÄ±z. [Belgeler](../TemelOzellikler/Belgeler.md)
 
 ### Notlar
 
-İş emrinde notlar kısmı, üretim süreciyle ilgili önemli bilgilerin, özel talimatların veya dikkat edilmesi gereken noktaların kaydedildiği alandır. 
-Bu bölüm, üretim sürecindeki personel ve yöneticilerin daha iyi iletişim kurmalarına ve süreci daha verimli yönetmelerine yardımcı olur.
-Detaylı bilgi için tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+Ä°ÅŸ emrinde notlar kÄ±smÄ±, Ã¼retim sÃ¼reciyle ilgili Ã¶nemli bilgilerin, Ã¶zel talimatlarÄ±n veya dikkat edilmesi gereken noktalarÄ±n kaydedildiÄŸi alandÄ±r. 
+Bu bÃ¶lÃ¼m, Ã¼retim sÃ¼recindeki personel ve yÃ¶neticilerin daha iyi iletiÅŸim kurmalarÄ±na ve sÃ¼reci daha verimli yÃ¶netmelerine yardÄ±mcÄ± olur.
+DetaylÄ± bilgi iÃ§in tÄ±klayÄ±nÄ±z. [Notlar](../TemelOzellikler/Notlar.md)
 
-**Kaydet butonuna basarak yeni reçete operasyon ekleme işlemimizi başarıyla tamamlamış bulunmaktayız.**
+**Kaydet butonuna basarak yeni reÃ§ete operasyon ekleme iÅŸlemimizi baÅŸarÄ±yla tamamlamÄ±ÅŸ bulunmaktayÄ±z.**
 
 ## Operasyon Sil
 
-Operasyonu silme işlemi, artık kullanılmayan veya yanlışlıkla kaydedilmiş bir operasyon girdisini sistemden kaldırmak amacıyla yapılır.
+Operasyonu silme iÅŸlemi, artÄ±k kullanÄ±lmayan veya yanlÄ±ÅŸlÄ±kla kaydedilmiÅŸ bir operasyon girdisini sistemden kaldÄ±rmak amacÄ±yla yapÄ±lÄ±r.
 
 ## Hammadde Ekle 
 
-Yeni bir hammadde eklemek için bu seçeneği tıklarsınız. Bu durumda, eklemek istediğiniz hammaddeye ait bilgileri girersiniz.
-Detaylı bilgi için tıklayınız. [Hammadde Ekle](../Uretim/HammaddeEkle.md)
+Yeni bir hammadde eklemek iÃ§in bu seÃ§eneÄŸi tÄ±klarsÄ±nÄ±z. Bu durumda, eklemek istediÄŸiniz hammaddeye ait bilgileri girersiniz.
+DetaylÄ± bilgi iÃ§in tÄ±klayÄ±nÄ±z. [Hammadde Ekle](../Uretim/HammaddeEkle.md)
 
-## Mamül Ekle
+## MamÃ¼l Ekle
 
-Mamül eklemek, bir ürünün üretim reçetesine yeni bir mamül veya ürünün eklenmesidir. 
-Bu, üretim sürecinde kullanılacak malzemelerin, adımların ve miktarların belirlenmesini sağlar.
-Detaylı bilgi için tıklayınız. [Mamül Ekle](../Uretim/MamulEkle.md)
+MamÃ¼l eklemek, bir Ã¼rÃ¼nÃ¼n Ã¼retim reÃ§etesine yeni bir mamÃ¼l veya Ã¼rÃ¼nÃ¼n eklenmesidir. 
+Bu, Ã¼retim sÃ¼recinde kullanÄ±lacak malzemelerin, adÄ±mlarÄ±n ve miktarlarÄ±n belirlenmesini saÄŸlar.
+DetaylÄ± bilgi iÃ§in tÄ±klayÄ±nÄ±z. [MamÃ¼l Ekle](../Uretim/MamulEkle.md)
