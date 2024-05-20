@@ -1,3 +1,4 @@
+
 ## Muhasebe Nedir? 
 
 Genel **muhasebe**, diğer adıyla finansal muhasebenin mali işlemleri kaydetme, sınıflandırma, raporlama ve analiz sürecidir.

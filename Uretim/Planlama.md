@@ -9,5 +9,5 @@ Makine kapasitesi, işçi sayısı, malzeme stokları ve diğer üretim kaynakla
 Üretim planlaması, malzeme ihtiyaçlarını belirlemek için malzeme ihtiyaçları planlaması (MRP) yöntemini kullanır. 
 MRP, üretim sürecinin her aşamasında hangi malzemelerin ne zaman ve ne kadar gerektiğini hesaplar.
 
-[İş Emri Ekleme](/Uretim/YeniIsEmri.md "İş Emri Ekleme") yaparak planlama aşamanıza başlayabilirsiniz. 
+[İş Emri Ekleme](../Uretim/YeniIsEmri.md) yaparak planlama aşamanıza başlayabilirsiniz. 
 

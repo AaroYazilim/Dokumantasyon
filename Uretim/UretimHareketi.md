@@ -21,10 +21,10 @@ Manuel giriş ise işlem bittikten sonra verilerin sisteme manuel olarak girilme
 **Operasyon:** Yapılacak operasyon işlemini seçiniz. Eğer yok ise detaylı ekle yaparak hızlıca operasyon tanımlayabilirsiniz.
 **Makine:** Operasyonda kullanılacak makineyi seçiniz yok ise detaylı ekle yaparak hızlıca makine girişini sağlayabilirsiniz.
 **Detay:** Detayı listeden seçebilirsiniz ya da detaylı ekle yaparak hızlıca ekleyebilirsiniz.
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
-**İşçilik / Saat:** Üretim sürecinde çalışan işçilerin çalışma maliyetleridir. Detaylı bilgi için tıklayınız. [İşçilik Maliyeti](/Uretim/İscilikMaliyeti.md "İşçilik Maliyeti")
-**Çalışma Mal. / Saat:** Makine masraflarının hesapları ve işçilik hesaplarının toplamıdır. Detaylı bilgi için tıklayınız. [Çalışma Mal. / Saat](/Uretim/BirimMaliyeti.md "Çalışma Mal. / Saat")
+**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
+**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+**İşçilik / Saat:** Üretim sürecinde çalışan işçilerin çalışma maliyetleridir. Detaylı bilgi için tıklayınız. [İşçilik Maliyeti](../Uretim/İscilikMaliyeti.md)
+**Çalışma Mal. / Saat:** Makine masraflarının hesapları ve işçilik hesaplarının toplamıdır. Detaylı bilgi için tıklayınız. [Çalışma Mal. / Saat](../Uretim/BirimMaliyeti.md)
 **Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
 Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 

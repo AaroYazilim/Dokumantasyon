@@ -1,10 +1,8 @@
-﻿<h2>
-<span style="color: gold;">
- **Aaro Kasa Kartı**
-</span>
-</h2>
+﻿
+# Aaro Kasa Kartı
 
-## Kasa Kartı;
+## Kasa Kartı
+
 Kasa işlemlerini yapmak için kullanım sağlanır. Kasa kartı ekleyebilirsiniz, kasa kartlarını görüntüleyebilirsiniz hareketlerinin kontrolünü sağlayabilirsiniz.
 
 [erp.aaro.com.tr](http://erp.aaro.com.tr) hesabına giriş yapıldıktan sonra; 

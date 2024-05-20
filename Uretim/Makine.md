@@ -24,8 +24,8 @@ Ayrıca, üretim makinelerine cihazlar takılarak, bu süreçlerin otomatikleşt
 
 **Makine Kodu:** Sistem otomatik kod atar bu kodu kullanabiliriz ya da kendimize özgü kodda verebiliriz.
 **Makine Adı:** Makinemizin adını giriniz.
-**Kodlar** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Kodlar hakkında detaylı bilgiler için tıklayınız. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
-**Etiketler** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Etiketler hakkında detaylı bilgiler için tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**Kodlar** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Kodlar hakkında detaylı bilgiler için tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
+**Etiketler** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Etiketler hakkında detaylı bilgiler için tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 #### Konum 
 
@@ -42,9 +42,9 @@ Ayrıca, üretim makinelerine cihazlar takılarak, bu süreçlerin otomatikleşt
 
 #### Gelişmiş
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
+**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
 **Tip** 
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 **Demirbaş**
 **Plan Gösterim Sıra**
 

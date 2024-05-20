@@ -17,11 +17,11 @@ Operasyon listesiyle makinaların eşleştirmesi sağlanmaktadır.
 
 **Operasyon Kodu** Sistemin vermiş olduğu otomatik kodu kullanım sağlayabilirsiniz ya da kendin kodunuzu girebilirsiniz.
 **Operasyon Adı** Yapılacak operasyonun adını buraya giriniz.
-**Kodlar** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Kodlar hakkında detaylı bilgiler için tıklayınız. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
-**Etiketler** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Etiketler hakkında detaylı bilgiler için tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**Kodlar** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Kodlar hakkında detaylı bilgiler için tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
+**Etiketler** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Etiketler hakkında detaylı bilgiler için tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 #### Eşleşmiş Makine Listesi
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
+**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 **Hız Birim** Operasyonun hangi birimle adet, metre, metrekare, gram litre gibi birimini seçiniz.

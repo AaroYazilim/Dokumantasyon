@@ -1,3 +1,4 @@
+
 ## KDV Dahil;
 
 KDV (Katma Değer Vergisi) dahil ifadesi, bir ürün veya hizmetin fiyatının KDV dahil olduğunu belirtir. 

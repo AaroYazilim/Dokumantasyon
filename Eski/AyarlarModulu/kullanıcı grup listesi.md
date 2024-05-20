@@ -1,3 +1,4 @@
+
 ## KULLANICI GRUP LİSTESİ 
 
 Solda bulunan paneldeki **‘Modüller’** sekmesinden **‘Ayarlar’** modülü seçilmektedir. Ayarlar modülü seçildikten sonra ‘Modül Sayfası’, ‘Kartlar’ bölümleri açılmaktadır. Bu bölümlerin içinden **‘Modül Sayfası’** seçilir. Çıkan ekranda **‘Kullanıcılar ve Yetkiler’** başlığından **‘Kullanıcı Grup Listesi’** butonu seçilir. Açılan sayfada **‘Yeni Kullanıcı Grup Ekle’** butonuna tıklandığında açılan ekranda grup kodu ve adı zorunlu olarak girilmektedir. **‘Kullanıcı Grubu’** seçildiğinde oluşturulacak grubun yetkilerini daha önce tanımlanan gruplardan biriyle aynı olarak tanımlamaktadır veya eski grubun yetkileri kopyalanarak yeni grubun yetkileri onun üzerinden düzenlenebilmektedir. 

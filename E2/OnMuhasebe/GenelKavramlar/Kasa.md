@@ -1,8 +1,6 @@
-<h2>
-<span style="color: orange;">
- **Kasa**
-</span>
-</h2>
+
+# Kasa
+
 Şirketlerin nakit giriş ve çıkışını kaydettikleri hesaba denir. 
 Kasadan çıkış yapılabilmesi için kasada nakit para bulunması gerekmektedir. 
 Kasada ne kadar nakit para varsa en fazla o kadar çıkış sağlanabilir.

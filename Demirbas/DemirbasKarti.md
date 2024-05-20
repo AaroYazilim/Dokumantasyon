@@ -17,13 +17,13 @@ Demirbaş kartı, işletmenin demirbaşlarını etkin bir şekilde izlemesine, e
 
 **Demirbaş Adı:** Bu kartın kendine ait özel adıdır.
 
-**Demirbaş Kodu:** Kartın kendine ait özel kodudur. Detaylı tanım için linke tıklayınız. [Kart Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
+**Demirbaş Kodu:** Kartın kendine ait özel kodudur. Detaylı tanım için linke tıklayınız. [Kart Kodu](../TemelOzellikler/KartKodu.md)
 
 **Birim 1:** Demirbaş kartının hangi birim cinsinden takip edileceğini belirtir.
 
-**Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
 
-**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 ### Ölçü Birimleri
 
@@ -54,12 +54,12 @@ Demirbaş kartı, işletmenin demirbaşlarını etkin bir şekilde izlemesine, e
 
 **Vergi Oranları:** Bu demirbaş kartı için yapılacak işlemlerde kullanılacak vergi oranlarını(KDV oranınlarını) belirtir. **Girilmesi Zorunludur.**
 
-**Muhasebe Tanımları:** [Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
+**Muhasebe Tanımları:** [Muhasebeleşme Tanımları](../TemelOzellikler/MuhasebelesmeTanimlari.md)
 
 
 ### Gelişmiş
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
+**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
 
 **Durum:** Kartın kullanabilirliğini belirtir. Pasif kartlar işlemde kullanılamaz.
 

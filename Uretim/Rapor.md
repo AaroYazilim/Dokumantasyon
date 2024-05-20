@@ -26,4 +26,4 @@ Burada, mevcut stok durumu, tedarik süreleri, üretim planı ve diğer önemli 
 - Üretim yapılırken her duraklama brüte eklenir. 
 - Her makineye ve her operasyona ayrı ayrı rapor oluşturuyor.
 - Makine kaç gün çalıştı, makinelerin çalışma kapasitelerini görüntüleyebiliriz.
-- [Rehber Nesnesi](/TemelOzellikler/RehberNesnesi.md "Rehber Nesnesi") özelliğinde birden fazla seçim yapmak için listeden çoklu seçim yapabilirsiniz. Listeden Seç -> ctrl ile seçimlerinizi yapabilirsiniz.
+- [Rehber Nesnesi](../TemelOzellikler/RehberNesnesi.md) özelliğinde birden fazla seçim yapmak için listeden çoklu seçim yapabilirsiniz. Listeden Seç -> ctrl ile seçimlerinizi yapabilirsiniz.

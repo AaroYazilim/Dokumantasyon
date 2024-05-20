@@ -19,13 +19,13 @@ Aşağıdaki bilgiler doldurularak stok kartınızı tanımlayabilirsiniz.
 
 **Stok Adı:** Bu stok kartının kendine özel adıdır.
 
-**Stok Kodu:** Kartın kendine özel kodudur. Detaylı tanım için linke tıklayınız. [Kart Kodu](/TemelOzellikler/KartKodu.md "Stok Kodu")
+**Stok Kodu:** Kartın kendine özel kodudur. Detaylı tanım için linke tıklayınız. [Kart Kodu](../TemelOzellikler/KartKodu.md)
 
 **Birim 1:** Stok kartının hangi birim cinsinden takip edileceğini belirtir. Girilecek ürünün ölçü ya da sayım birimi yani adet m3 kg litre desi koli plaka gibi özellikler eklenebilir.
 
-**Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
 
-**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 
 ### Fiyat
@@ -78,7 +78,7 @@ Aşağıdaki bilgiler doldurularak stok kartınızı tanımlayabilirsiniz.
 ### Muhasebe Tanımları
 
 Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde otomatikman belirli muhasebe hesaplarına gerekli kayıtların oluşmasını sağlayabilirsiniz.
-[Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
+[Muhasebeleşme Tanımları](../TemelOzellikler/MuhasebelesmeTanimlari.md)
 
 
 
@@ -104,7 +104,7 @@ Bu alana 50 girilirse, bayileriniz bu stoğun miktarını 50+ şeklinde görecek
 
 ### Gelişmiş
 
-**Şirket-Şube:**  Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
+**Şirket-Şube:**  Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
 
 **Durum:** Kartın kullanabilirliğini belirtir. Pasif kartlar işlemde kullanılamaz.
 

@@ -14,6 +14,6 @@ Bu modül, işletmenizin müşteri bilgilerini saklamak, satış işlemlerini ta
 Bu modülde yer alan işlemler;
 
 - [Musteri/Satici Kartı](../MusteriSatici/MusteriSaticiKarti.md)
-- [Musteri/Satici Listesi](../MusteriSatici/MusteriSaticiKartiListesi.md "Musteri/Satici Listesi")
-- [Musteri/Satici Hareketleri Listesi](/MusteriSatici/MusteriSaticiHareketleriListesi.md "Musteri/Satici Hareketleri Listesi")
-- [Hareket Oluştur](/Banka/HareketOlustur.md "Hareket Oluştur")
+- [Musteri/Satici Listesi](../MusteriSatici/MusteriSaticiKartiListesi.md)
+- [Musteri/Satici Hareketleri Listesi](../MusteriSatici/MusteriSaticiHareketleriListesi.md)
+- [Hareket Oluştur](../Banka/HareketOlustur.md)

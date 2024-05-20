@@ -15,13 +15,13 @@
 
 ### Ek Özellikler 
 
-- Sayfanın üst kısmında bulunan [Filtreleme](/TemelOzellikler/SayfaKisitlari.md  "Filtreleme") özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
-- Sayfada ki listeyi [Özel Listeleme](/TemelOzellikler/ListeNesnesi.md  "Özel Listeleme") sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
+- Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
+- Sayfada ki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
 
 ### Ek İşlem Butonu
 
 - Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- [Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle")
-- [Grid Sütunları Ayarla](/TemelOzellikler/GridSutunAyarlari.md "Grid Sütunları Ayarla")
-- [Listeyi Excele Aktar](/TemelOzellikler/ListeyiExceleAktar.md "Listeyi Excele Aktar")
+- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+- [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
+- [Listeyi Excele Aktar](../TemelOzellikler/ListeyiExceleAktar.md)
 

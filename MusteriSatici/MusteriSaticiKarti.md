@@ -17,7 +17,7 @@ Aşağıdaki bilgiler doldurularak müşteri/satıcı kartınızı tanımlayabil
 
 **Adı:** Bu kartın kendine özel adıdır.
 
-**Kodu:** Bu kartın kendine özel kodudur.Seri takibi yapılabilir. Detaylı tanım için linke tıklayınız. [Kart Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
+**Kodu:** Bu kartın kendine özel kodudur.Seri takibi yapılabilir. Detaylı tanım için linke tıklayınız. [Kart Kodu](../TemelOzellikler/KartKodu.md)
 
 **Tip:** Müşteri/Satıcı kartının tipini belirtir. Müşteri, satıcı, karaliste, potansiyel, personel, kamu veya ortak değerlerinden biri olabilir.
 
@@ -26,11 +26,11 @@ Aşağıdaki bilgiler doldurularak müşteri/satıcı kartınızı tanımlayabil
 **Vergi No:** Tüzel kişiler için vergi numarasını, Gerçek kişiler için TC numarasını belirtir. **Girilmesi Zorunludur.**
 	Sistem mükerrer vergi no girişini otomatik olarak engellemektedir. Yani aynı vergi numarası ile birden çok Müşteri/Satıcı kartı açıulması engellenmektedir.
 	Aynı vergi numarası ile birden çok kart açılması ek yetkilerle ayarlanabilmektedir. Belirli kullanıcılara yetki vererek onların mükerrer vergi no ile kart açmalarına izin verebilirsiniz.
-	[Yetkiler](/TemelOzellikler/Yetkiler.md "Yetkiler")
+	[Yetkiler](../TemelOzellikler/Yetkiler.md)
 
-**Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
 
-**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 
 ### Adres Bilgileri
@@ -97,31 +97,31 @@ Aşağıdaki bilgiler doldurularak müşteri/satıcı kartınızı tanımlayabil
 ### Risk Limitleri: 
 
 Müşteri/Satıcı kartına risk limitleri tanımlayarak ve gerekli parametreleri aktive ederek, risk yönetim sistemini kullanabilirsiniz.
-[Risk Limitleri](/TemelOzellikler/RisLimitleri.md "Risk Limitleri")
-[Parametreler](/TemelOzellikler/Parametreler.md "Parametreler")
+[Risk Limitleri](../TemelOzellikler/RisLimitleri.md)
+[Parametreler](../TemelOzellikler/Parametreler.md)
 
 ### Muhasebe Tanımları: 
 
 Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde otomatikman belirli muhasebe hesaplarına gerekli kayıtların oluşmasını sağlayabilirsiniz.
-[Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
+[Muhasebeleşme Tanımları](../TemelOzellikler/MuhasebelesmeTanimlari.md)
 
 ### Gelişmiş
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
+**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
 
 **Durum:** Kartın kullanabilirliğini belirtir. Pasif kartlar işlemde kullanılamaz.
 
 **Çalışma Para Birimi:** Bu kartın çalıştığı döviz cinsini belirtir. Bilgi amaçlıdır.
 
-**Vade:** Bu carinin çalışma vadesidir. Hareketler oluşturulurken otomatik olarak belirtilen vade getirilir. Detaylı tanım için linke tıklayınız. [Vade](/TemelOzellikler/CariVade.md "Vade")
+**Vade:** Bu carinin çalışma vadesidir. Hareketler oluşturulurken otomatik olarak belirtilen vade getirilir. Detaylı tanım için linke tıklayınız. [Vade](../TemelOzellikler/CariVade.md)
 
-**Fiyat Grup:** Carinin hangi fiyat listesinden % kaç iskonto alacağını belirten fiyat grubudur. Detaylı tanım için linke tıklayınız. [Fiyat Grup](/EkOzellikler/FiyatGrup.md "Fiyat Grup")
+**Fiyat Grup:** Carinin hangi fiyat listesinden % kaç iskonto alacağını belirten fiyat grubudur. Detaylı tanım için linke tıklayınız. [Fiyat Grup](../EkOzellikler/FiyatGrup.md)
 
 **Plasiyer:** Hareketin hangi plasiyere (kullanıcıya) ait olduğunu belirtir. Kalemlerde değiştirilir.
 
-**Muhtelif Cari:** Sadece muhtelif kart açılacağı zaman kullanılmalıdır. Kartın herhangi bir cariye ait olmadığını ortak hesap olduğunu belirtir. Detaylı tanım için linke tıklayınız. [Muhtelif Cari](/EkOzellikler/MuhtelifCari.md "Muhtelif Cari")
+**Muhtelif Cari:** Sadece muhtelif kart açılacağı zaman kullanılmalıdır. Kartın herhangi bir cariye ait olmadığını ortak hesap olduğunu belirtir. Detaylı tanım için linke tıklayınız. [Muhtelif Cari](../EkOzellikler/MuhtelifCari.md)
 
-**Görüntülenme:** Kartın ve hareketlerinin hangi kullanıcılar tarafından görüntülenebileceğinin ayarlanması için kullanılır. Detaylı tanım için linke tıklayınız. [Görüntülenme](/EkOzellikler/Goruntulenme.md "Görüntülenme")
+**Görüntülenme:** Kartın ve hareketlerinin hangi kullanıcılar tarafından görüntülenebileceğinin ayarlanması için kullanılır. Detaylı tanım için linke tıklayınız. [Görüntülenme](../EkOzellikler/Goruntulenme.md)
 
 
 Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.

@@ -19,7 +19,7 @@ Bu modül, doğru stok seviyelerinizi korumak, müşteri taleplerinize zamanınd
 
 Bu modülde yer alan işlemler;
 
-- [Stok Kartı](/Stok/StokKarti.md "Stok Kartı")
-- [Stok Kartı Listesi](/Stok/StokKartiListesi.md "Stok Kartı Listesi")
-- [Stok Hareketleri Listesi](/Stok/KasaHareketleriListesi.md "Stok Hareketleri Listesi")
-- [Hareket Oluştur](/Banka/HareketOlustur.md "Hareket Oluştur")
+- [Stok Kartı](../Stok/StokKarti.md)
+- [Stok Kartı Listesi](../Stok/StokKartiListesi.md)
+- [Stok Hareketleri Listesi](../Stok/KasaHareketleriListesi.md)
+- [Hareket Oluştur](../Banka/HareketOlustur.md)

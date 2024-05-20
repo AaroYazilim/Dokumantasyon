@@ -16,10 +16,10 @@ Banka hesap kartları ile farklı bankalarda ve hesaplarda bulunan finansal duru
 
 **Hesap Adı:** Banka Hesap kartının kendine özel adıdır.
 
-**Hesap Kodu:** Banka Hesap Kartının kendine özel kodudur. [Hesap Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
+**Hesap Kodu:** Banka Hesap Kartının kendine özel kodudur. [Hesap Kodu](../TemelOzellikler/KartKodu.md)
 
 **Tip:** Banka hesap kartının tipini belirtir. Cari, Pos, Kredi seçeneklerinden biri olabilir. Pos ve kredi banka hesapları için bir adet cari tipli banka hesabı açılmalıdır.
-	Detaylı açıklama için linke tıklayınız. [Tip](/Detaylar/BankaHesapTip.md "Tip")
+	Detaylı açıklama için linke tıklayınız. [Tip](../Detaylar/BankaHesapTip.md)
 
 **Cari Banka Hesap:** Pos ve kredi tipli banka hesaplarının bağlı olduğu cari tipli banka hesabı seçilir.
 
@@ -30,9 +30,9 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 **Iban No:** Kartın banka hesap iban bilgilerini belirtir.
 
-**Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Kodlar](/TemelOzellikler/Kodlar.md "Kodlar")
+**Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
 
-**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 ### İletişim
 
@@ -47,11 +47,11 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 ### Muhasebe Tanımları:
 
 Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde otomatikman belirli muhasebe hesaplarına gerekli kayıtların oluşmasını sağlayabilirsiniz.
-	Detaylı açıklama için linke tıklayınız. [Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
+	Detaylı açıklama için linke tıklayınız. [Muhasebeleşme Tanımları](../TemelOzellikler/MuhasebelesmeTanimlari.md)
 
 ### Gelişmiş
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
+**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
 
 **Durum:** Kartın kullanabilirliğini belirtir. Pasif kartlar işlemde kullanılamaz.
 

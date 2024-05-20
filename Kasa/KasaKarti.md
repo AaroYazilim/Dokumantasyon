@@ -17,22 +17,22 @@ Kasa kartı, işletmenin günlük nakit akışını izleyebilir, kasadaki para m
 
 **Kasa Adı:** Kasa kartının kendine özel adıdır.
 
-**Kasa Kodu:** Kasa kartının kendine özel kodudur.Seri takibi yapılabilir. [Kart Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
+**Kasa Kodu:** Kasa kartının kendine özel kodudur.Seri takibi yapılabilir. [Kart Kodu](../TemelOzellikler/KartKodu.md)
 
-**Kodlar:** Bu kartın kendine özel kodudur.Seri takibi yapılabilir. Detaylı tanım için linke tıklayınız. [Kart Kodu](/TemelOzellikler/KartKodu.md "Kart Kodu")
+**Kodlar:** Bu kartın kendine özel kodudur.Seri takibi yapılabilir. Detaylı tanım için linke tıklayınız. [Kart Kodu](../TemelOzellikler/KartKodu.md)
 
 **Çalışma Para Birimi(Döviz):** Bu kartın çalıştığı döviz cinsini belirtir. Bilgi amaçlıdır.
 
-**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 
 ### Muhasebe Tanımları: 
 
 Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde otomatikman belirli muhasebe hesaplarına gerekli kayıtların oluşmasını sağlayabilirsiniz.
-	Detaylı açıklama için linke tıklayınız. [Muhasebeleşme Tanımları](/TemelOzellikler/MuhasebelesmeTanimlari.md "Muhasebeleşme Tanımları")
+	Detaylı açıklama için linke tıklayınız. [Muhasebeleşme Tanımları](../TemelOzellikler/MuhasebelesmeTanimlari.md)
 
 ### Gelişmiş
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](/TemelOzellikler/SirketSube.md "Şirket-Şube")
+**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSube.md)
 
 **Durum:** Kartın kullanabilirliğini belirtir. Pasif kartlar işlemde kullanılamaz.

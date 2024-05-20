@@ -27,4 +27,10 @@ Her bir görevin sorumluluğu ve beklentiler net bir şekilde tanımlanmalıdır
 - Sol menüden Üretim -> Listeler -> İş Emri Listesi şeklinde ulaşım sağlayabilirsiniz. 
 - Sol menüden Üretim -> Listeler -> İş Emri Listesi -> Yeni İş Emri şeklinde yeni iş emri oluşturabilirsiniz. 
 
-[Yeni İş Emri](/Uretim/YeniIsEmri.md "Yeni İş Emri") tıklayarak Yeni iş emri ekleme detaylarına ulaşabiliriz.
+[Yeni İş Emri](../Uretim/YeniIsEmri.md) tıklayarak Yeni iş emri ekleme detaylarına ulaşabiliriz.
+
+Reçete hızlı düzenleme, üretim sürecinde kullanılan bir ürün reçetesindeki bilgileri hızlı ve kolay bir şekilde güncelleyebileceğimiz işlemdir. 
+Bu işlem, reçetede yer alan malzemeler, miktarlar ve operasyonlarla ilgili bilgileri hızlıca düzenlemeye yardımcı olur. Detaylı bilgi için tıklayınız. [Reçete Hızlı Düzelt](../Uretim/ReceteHizliDüzelt.md)
+
+İş emri planlama ve düzenleme, üretim sürecinde belirli bir işin nasıl ve ne zaman yapılacağını belirlemek ve gerektiğinde bu planı güncellemektir. 
+İş emri, üretim sürecinde belirli bir ürün veya parça için gereken işlemleri tanımlar ve bu işlemlerin zamanlamasını içerir. [İş Emri Planla](../Uretim/IsEmriPlanla.md)

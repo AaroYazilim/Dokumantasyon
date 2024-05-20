@@ -31,11 +31,11 @@ Ayrıca, iade işlemlerinin düzenli ve şeffaf bir şekilde gerçekleştirilmes
 
 ### Ek İşlem Butonu 
 
-[Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle")
+[Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 
 ### Genel 
 
-- **Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](/TemelOzellikler/SirketSubeHareket.md "Şirket-Şube")
+- **Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
 - **Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
 - **Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
 - **Satıcı:** İşlemin yapıldığı cari kartını ifade eder. **Girilmesi Zorunludur.**
@@ -58,8 +58,8 @@ Ayrıca, iade işlemlerinin düzenli ve şeffaf bir şekilde gerçekleştirilmes
 
 ### Açıklamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)

@@ -12,11 +12,11 @@
 **Reçete:** Yapılacak olan reçeteyi seçiniz.
 **İş Emri Adı:** İş emri için bir ad verebilirsiniz.
 **Miktar:** Ka. adet yapılacağını giriniz.
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")
+**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 ### Gelişmiş
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](/TemelOzellikler/SirketSubeKart.md "Şirket-Şube")
+**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
 **Renk:** Özel renk seçimi yapabilirsiniz.
 **Üst İş Emri** 
 **Öncelik:** Öncelik sıralama sayısını seçiniz.

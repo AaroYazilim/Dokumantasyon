@@ -1,8 +1,5 @@
-<h2>
-<span style="color: orange;">
- **Borç Alacak Dengesi**
-</span>
-</h2>
+
+# Borç Alacak Dengesi
 
 **Borç**, şirketin ödeyeceği toplam tutarı gösterir.
 

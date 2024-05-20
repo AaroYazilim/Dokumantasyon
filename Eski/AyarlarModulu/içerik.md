@@ -1,3 +1,4 @@
+
 # AYARLAR MODÜLÜ
 
 ## [Verileri Dışarıdan Aktarma](https://github.com/nkarabag/Dok-deneme-/blob/main/ayarlar%20mod%C3%BCl%C3%BC/verileri%20d%C4%B1%C5%9Far%C4%B1dan%20aktarma.md)

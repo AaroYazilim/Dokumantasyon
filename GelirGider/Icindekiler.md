@@ -12,7 +12,7 @@ Düzenli tutmamız hareket takibi yapabilmemiz için çok önemlidir.
 
 Bu modülde yer alan işlemler;
 
-- [Gelir Gider Kartı](/GelirGider/GelirGiderKarti.md "Gelir Gider Kartı")
-- [Gelir Gider Kartı Listesi](/GelirGider/GelirGiderKartiListesi.md "Gelir Gider Kartı Listesi")
-- [Gelir Gider Hareketleri Listesi](/GelirGider/GelirGiderHareketleriListesi.md "Gelir Gider Hareketleri Listesi")
-- [Hareket Oluştur](/Banka/HareketOlustur.md "Hareket Oluştur")
+- [Gelir Gider Kartı](../GelirGider/GelirGiderKarti.md)
+- [Gelir Gider Kartı Listesi](../GelirGider/GelirGiderKartiListesi.md)
+- [Gelir Gider Hareketleri Listesi](../GelirGider/GelirGiderHareketleriListesi.md)
+- [Hareket Oluştur](../Banka/HareketOlustur.md)

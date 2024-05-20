@@ -1,4 +1,5 @@
-﻿## E-Fatura Aşamaları
+﻿
+## E-Fatura Aşamaları
 
 E-fatura kullanımı, işletmelerin fatura işlemlerini daha hızlı ve verimli bir şekilde yönetmelerini sağlar. 
 

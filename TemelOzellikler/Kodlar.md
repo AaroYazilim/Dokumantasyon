@@ -48,4 +48,3 @@ Bu sayede, işletmenin stok yönetimi süreçleri daha etkili ve verimli bir şe
 
 ### Ek Özellikler 
 
-**Anasayfaya Kısayol Olarak Ekle** Etiketler listesine hızlı erişim sağlamak istediğinizde kısayol olarak ekleyebilirsiniz. [Anasayfaya Kısayol Olarak Ekle](/TemelOzellikler/KisaYollaraEkleme.md "Anasayfaya Kısayol Olarak Ekle") 
