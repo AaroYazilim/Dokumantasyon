@@ -1,8 +1,8 @@
 
-# Sayım 
+# SayÄ±m 
 
-Bir işletmelerin belirli günlerde veya aralıklarda elinde mevcut olan varlıkların sayarak,
-stoklarını kontrol ederek kayıtta ki verilerle karşılaştırılmadır. Stoklardaki varlıkların doğruluğunu sağlamak,
-envanter kayıplarını tespit etmek ve muhasebe kayıtlarını güncellemektir. 
+Bir iÅŸletmelerin belirli gÃ¼nlerde veya aralÄ±klarda elinde mevcut olan varlÄ±klarÄ±n sayarak,
+stoklarÄ±nÄ± kontrol ederek kayÄ±tta ki verilerle karÅŸÄ±laÅŸtÄ±rÄ±lmadÄ±r. Stoklardaki varlÄ±klarÄ±n doÄŸruluÄŸunu saÄŸlamak,
+envanter kayÄ±plarÄ±nÄ± tespit etmek ve muhasebe kayÄ±tlarÄ±nÄ± gÃ¼ncellemektir. 
 
-Sayımda verilerin sisteme girilmesiyle stoklar otomatik olarak güncellenecektir.
+SayÄ±mda verilerin sisteme girilmesiyle stoklar otomatik olarak gÃ¼ncellenecektir.

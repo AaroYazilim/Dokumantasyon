@@ -1,35 +1,35 @@
 
-# Hammadde-Mamül (Yarı Mamül) Düzenleme
+# Hammadde-MamÃ¼l (YarÄ± MamÃ¼l) DÃ¼zenleme
 
-## Mamül-Hammadde Düzelt 
+## MamÃ¼l-Hammadde DÃ¼zelt 
 
-**Stok:** Bir operasyondan çıkan mamül diğer operasyona aktarılacak hammaddedir.
-**Mamül Miktar:** Kaç adet mamül çıktığı miktarını ifade eder.
-**Birim Fiyatı:** Bir adet mamülün birim fiyatını gösterir.
-**Hesap Açıklaması** Maliyet hesaplamaların yapıldığı formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
-**Açıklama** Mamül ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
-**Depo:** Oluşan mamülün hangi depoya gireceğini belirtir.
-**Ek Maliyet** Birim başı ek maliyeti gösterir.(Kargo, fason vb.)
+**Stok:** Bir operasyondan Ã§Ä±kan mamÃ¼l diÄŸer operasyona aktarÄ±lacak hammaddedir.
+**MamÃ¼l Miktar:** KaÃ§ adet mamÃ¼l Ã§Ä±ktÄ±ÄŸÄ± miktarÄ±nÄ± ifade eder.
+**Birim FiyatÄ±:** Bir adet mamÃ¼lÃ¼n birim fiyatÄ±nÄ± gÃ¶sterir.
+**Hesap AÃ§Ä±klamasÄ±** Maliyet hesaplamalarÄ±n yapÄ±ldÄ±ÄŸÄ± formÃ¼lÃ¼ ifade eder. Ã–zel hesaplamalar burada belirtilmelidir.
+**AÃ§Ä±klama** MamÃ¼l ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
+**Depo:** OluÅŸan mamÃ¼lÃ¼n hangi depoya gireceÄŸini belirtir.
+**Ek Maliyet** Birim baÅŸÄ± ek maliyeti gÃ¶sterir.(Kargo, fason vb.)
 
 **Stok:** Bir operasyona giren hammaddeyi ifade eder.
-**Hammadde Miktar:** Operasyona, hammaddeden kaç adet kullanılacağı birimi ifade eder. 
-**Birim Fiyatı:** Bir adet hammaddenin birim fiyatını gösterir.
-**Hesap Açıklaması** Maliyet hesaplamaların yapıldığı formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
-**Açıklama** Mamül ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+**Hammadde Miktar:** Operasyona, hammaddeden kaÃ§ adet kullanÄ±lacaÄŸÄ± birimi ifade eder. 
+**Birim FiyatÄ±:** Bir adet hammaddenin birim fiyatÄ±nÄ± gÃ¶sterir.
+**Hesap AÃ§Ä±klamasÄ±** Maliyet hesaplamalarÄ±n yapÄ±ldÄ±ÄŸÄ± formÃ¼lÃ¼ ifade eder. Ã–zel hesaplamalar burada belirtilmelidir.
+**AÃ§Ä±klama** MamÃ¼l ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
-**Yapılan düzeltmeleri onayladıktan sonra, değişiklikleri sisteme kaydedin. Böylece, mamül bilgileri güncellenir/eklenir ve doğru bilgilerle işlem yapılabilir hale gelir.**
+**YapÄ±lan dÃ¼zeltmeleri onayladÄ±ktan sonra, deÄŸiÅŸiklikleri sisteme kaydedin. BÃ¶ylece, mamÃ¼l bilgileri gÃ¼ncellenir/eklenir ve doÄŸru bilgilerle iÅŸlem yapÄ±labilir hale gelir.**
 
-## Hammadde-Mamül Sil
+## Hammadde-MamÃ¼l Sil
 
-Hammadde-mamülü silmek işlemi, artık kullanılmayan veya yanlışlıkla kaydedilmiş bir hammadde girdisini sistemden kaldırmak amacıyla yapılır.
+Hammadde-mamÃ¼lÃ¼ silmek iÅŸlemi, artÄ±k kullanÄ±lmayan veya yanlÄ±ÅŸlÄ±kla kaydedilmiÅŸ bir hammadde girdisini sistemden kaldÄ±rmak amacÄ±yla yapÄ±lÄ±r.
 
-## Önceki Zinciri Sil
+## Ã–nceki Zinciri Sil
 
-Bir önceki aşamayı silmek için kullanılır. 
+Bir Ã¶nceki aÅŸamayÄ± silmek iÃ§in kullanÄ±lÄ±r. 
 
-## Reçete Operasyon Ekle(Öncesi-Sonrası)
+## ReÃ§ete Operasyon Ekle(Ã–ncesi-SonrasÄ±)
 
-Reçeteye operasyon eklemek, üretim sürecindeki adımları veya işlemleri belirlemek için kullanılır. 
-Bu adımlar, bir ürünün üretiminde yapılması gereken işlemleri temsil eder. 
-Detaylı bilgi için tıklayınız. [Operasyon Ekle](../Uretim/OperasyonEkle.md)
+ReÃ§eteye operasyon eklemek, Ã¼retim sÃ¼recindeki adÄ±mlarÄ± veya iÅŸlemleri belirlemek iÃ§in kullanÄ±lÄ±r. 
+Bu adÄ±mlar, bir Ã¼rÃ¼nÃ¼n Ã¼retiminde yapÄ±lmasÄ± gereken iÅŸlemleri temsil eder. 
+DetaylÄ± bilgi iÃ§in tÄ±klayÄ±nÄ±z. [Operasyon Ekle](../Uretim/OperasyonEkle.md)
 

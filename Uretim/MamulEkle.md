@@ -1,35 +1,35 @@
 
-# Mamül Ekle 
+# MamÃ¼l Ekle 
 
-## Yeni Mamül Ekle / Düzenle
+## Yeni MamÃ¼l Ekle / DÃ¼zenle
 
 ### Genel 
 
-**Mamül** Ekleme yapacağımız mamülü seçelim, yok ise detaylı ekle ya da hızlı ekle yaparak mamül eklemesini gerçekleştirebiliriz.
-**Miktar** Mamülümüzün birim cinsine göre (adet, kg, litre vb.) mitarını ifade eder.
-**Ek Maliyet** Birim başı ek maliyeti gösterir.(Kargo, fason vb.)
-**Birim Fiyatı** Mamülün birim cinsine göre birim maliyetini ifade eder.
-**Açıklama** Mamül ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
-**Hesap Açıklaması** Maliyet hesaplamaların yapıldığı formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
+**MamÃ¼l** Ekleme yapacaÄŸÄ±mÄ±z mamÃ¼lÃ¼ seÃ§elim, yok ise detaylÄ± ekle ya da hÄ±zlÄ± ekle yaparak mamÃ¼l eklemesini gerÃ§ekleÅŸtirebiliriz.
+**Miktar** MamÃ¼lÃ¼mÃ¼zÃ¼n birim cinsine gÃ¶re (adet, kg, litre vb.) mitarÄ±nÄ± ifade eder.
+**Ek Maliyet** Birim baÅŸÄ± ek maliyeti gÃ¶sterir.(Kargo, fason vb.)
+**Birim FiyatÄ±** MamÃ¼lÃ¼n birim cinsine gÃ¶re birim maliyetini ifade eder.
+**AÃ§Ä±klama** MamÃ¼l ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
+**Hesap AÃ§Ä±klamasÄ±** Maliyet hesaplamalarÄ±n yapÄ±ldÄ±ÄŸÄ± formÃ¼lÃ¼ ifade eder. Ã–zel hesaplamalar burada belirtilmelidir.
 
-### Gelişmiş 
+### GeliÅŸmiÅŸ 
 
-**Hammadde Oran** Birden fazla mamül çıktığında hammaddelerin % kaç miktarda bu mamül için kullanıldığını belirtir.
-**Operasyon Oran** Birden fazla mamül çıktığında operasyon üretim süresinin % kaçını bu mamül için kullanıldığını belirtir.
-**Depo** Mamül çıkış yapılacağı depoyu seçmemiz gerekmektedir.
+**Hammadde Oran** Birden fazla mamÃ¼l Ã§Ä±ktÄ±ÄŸÄ±nda hammaddelerin % kaÃ§ miktarda bu mamÃ¼l iÃ§in kullanÄ±ldÄ±ÄŸÄ±nÄ± belirtir.
+**Operasyon Oran** Birden fazla mamÃ¼l Ã§Ä±ktÄ±ÄŸÄ±nda operasyon Ã¼retim sÃ¼resinin % kaÃ§Ä±nÄ± bu mamÃ¼l iÃ§in kullanÄ±ldÄ±ÄŸÄ±nÄ± belirtir.
+**Depo** MamÃ¼l Ã§Ä±kÄ±ÅŸ yapÄ±lacaÄŸÄ± depoyu seÃ§memiz gerekmektedir.
 
-**Yapılan düzeltmeleri onayladıktan sonra, değişiklikleri sisteme kaydedin. Böylece, mamül bilgileri güncellenir/eklenir ve doğru bilgilerle işlem yapılabilir hale gelir.**
+**YapÄ±lan dÃ¼zeltmeleri onayladÄ±ktan sonra, deÄŸiÅŸiklikleri sisteme kaydedin. BÃ¶ylece, mamÃ¼l bilgileri gÃ¼ncellenir/eklenir ve doÄŸru bilgilerle iÅŸlem yapÄ±labilir hale gelir.**
 
-## Mamül Sil 
+## MamÃ¼l Sil 
 
-Mamülü silmek işlemi, artık kullanılmayan veya yanlışlıkla kaydedilmiş bir mamül girdisini sistemden kaldırmak amacıyla yapılır.
+MamÃ¼lÃ¼ silmek iÅŸlemi, artÄ±k kullanÄ±lmayan veya yanlÄ±ÅŸlÄ±kla kaydedilmiÅŸ bir mamÃ¼l girdisini sistemden kaldÄ±rmak amacÄ±yla yapÄ±lÄ±r.
 
-## Reçete Operasyon Ekle(Öncesi-Sonrası)
+## ReÃ§ete Operasyon Ekle(Ã–ncesi-SonrasÄ±)
 
-Reçeteye operasyon eklemek, üretim sürecindeki adımları veya işlemleri belirlemek için kullanılır. 
-Bu adımlar, bir ürünün üretiminde yapılması gereken işlemleri temsil eder. 
-Detaylı bilgi için tıklayınız. [Operasyon Ekle](../Uretim/OperasyonEkle.md)
+ReÃ§eteye operasyon eklemek, Ã¼retim sÃ¼recindeki adÄ±mlarÄ± veya iÅŸlemleri belirlemek iÃ§in kullanÄ±lÄ±r. 
+Bu adÄ±mlar, bir Ã¼rÃ¼nÃ¼n Ã¼retiminde yapÄ±lmasÄ± gereken iÅŸlemleri temsil eder. 
+DetaylÄ± bilgi iÃ§in tÄ±klayÄ±nÄ±z. [Operasyon Ekle](../Uretim/OperasyonEkle.md)
 
-## Reçete Miktarı Değiştir
+## ReÃ§ete MiktarÄ± DeÄŸiÅŸtir
 
-Reçetenin sonucunda kaç miktarında ne kadar mamül çıkacağını adetini belirler buradan miktar değişikliği yapabiliriz.
+ReÃ§etenin sonucunda kaÃ§ miktarÄ±nda ne kadar mamÃ¼l Ã§Ä±kacaÄŸÄ±nÄ± adetini belirler buradan miktar deÄŸiÅŸikliÄŸi yapabiliriz.
