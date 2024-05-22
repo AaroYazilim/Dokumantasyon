@@ -42,8 +42,9 @@ Aynı vergi numarası ile birden çok kart açılması ek yetkilerle ayarlanabil
 ### Adres Bilgileri
 
 > Müşteri Satıcı kartına bir veya daha fazla adres bilgisi ekleyebilirsiniz.
->
 > Hareketlerde farklı adreslere sevk için karta tanımlı olan adres bilgilerini kullanabilirsiniz.
+>
+>Adres listesine kartta bulunan ***Adres Listesi*** linkinden ulaşabilirsiniz. 
 
 **Adres Adı:** Adres bilgisini adlandırabilirsiniz. Örn: Merkez, Şube vs.
 
@@ -73,6 +74,8 @@ Aynı vergi numarası ile birden çok kart açılması ek yetkilerle ayarlanabil
 ### İlgili Bilgileri
 
 > Müşteri Satıcı kartına bir veya daha fazla ilgili bilgisi ekleyebilirsiniz.
+>
+>İlgili listesine kartta bulunan ***İlgili Listesi*** linkinden ulaşabilirsiniz.
 
 **İlgili Adı:** Bu karta ait ilgili kişinin adını ifade eder.
 
@@ -94,6 +97,8 @@ Aynı vergi numarası ile birden çok kart açılması ek yetkilerle ayarlanabil
 ### Banka Hesapları
 
 > Müşteri Satıcı kartına bir veya daha fazla banka hesap bilgisi ekleyebilirsiniz.
+>
+>Cariye ait banka hesaplarına kartta bulunan ***Banka Hesapları Listesi*** linkinden ulaşabilirsiniz.
 
 **Iban No:** Cari kartının banka hesap iban bilgilerini belirtir. Iban nosunu kaydederek Havale/Eft gönderme işlemlerinde kolayca kullanabilirsiniz.
 
@@ -104,6 +109,8 @@ Aynı vergi numarası ile birden çok kart açılması ek yetkilerle ayarlanabil
 
 Müşteri/Satıcı kartına risk limitleri tanımlayarak ve gerekli parametreleri aktive ederek, risk yönetim sistemini kullanabilirsiniz.
 [Risk Limitleri](../TemelOzellikler/RiskLimitleri.md)
+
+>Cariye ait risk limitlerine kartta bulunan ***Risk Limitleri Listesi*** linkinden ulaşabilirsiniz.
 
 ### Muhasebe Tanımları: 
 
@@ -133,3 +140,25 @@ Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde o
 
 - Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+
+## Kısayollar
+
+Kartta bulunan kısayolları sekmesi ile cariye ait ilgili raporlara ve öncelikli sayfalara kolayca ulaşabilirsiniz.
+
+- Sık Kullanılanlar
+    - **Cari Hareketleri** linki ile carinin kartına ait tüm hareketlerine ve bakiye bilgisine ulaşabilirsiniz. Belirli bir tarihteki bakiyesini görüntüleyebilir, ilgili hareketin detaylarına ulaşabilirsiniz. Detaylı bilgi için [Müşteri / Satıcı Hareketleri](../MusteriSatici/MusteriSaticiHareketleriListesi.md)
+    - **Stok Hareketleri** linki ile faturalarda ve irsaliyelerde bulunan cari kartına ait tüm stok hareketlerinin detaylı bilgisine ulaşabilirsiniz. Örneğin sevk edilen stoğun cinsi, miktarı, tutarı ve tarihi vs bilgilerini görüntüleyebilirsiniz. Detaylı bilgi için [Stok Hareketleri](../Stok/StokHareketleriListesi.md)
+
+    - ..............
+
+- Satış / Pazarlama
+    - ..............
+
+- Satın Alma
+    - ..............
+
+## Kayıt Bilgileri
+
+Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+
+Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
