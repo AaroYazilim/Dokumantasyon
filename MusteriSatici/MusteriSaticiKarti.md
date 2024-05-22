@@ -1,5 +1,11 @@
+---
+SayfaID: Cari
+SayfaTipi: Kart
+---
 
 # Müşteri/Satıcı Kartı
+
+**Erişim Linki :** [erp.aaro.com.tr/Cari/Kalem](erp.aaro.com.tr/Cari/Kalem)
 
 ### Ulaşım
 
@@ -17,16 +23,16 @@ Aşağıdaki bilgiler doldurularak müşteri/satıcı kartınızı tanımlayabil
 
 **Adı:** Bu kartın kendine özel adıdır.
 
-**Kodu:** Bu kartın kendine özel kodudur.Seri takibi yapılabilir. Detaylı tanım için linke tıklayınız. [Kart Kodu](../TemelOzellikler/KartKodu.md)
+**Kodu:** Bu kartın kendine özel kodudur. Seri takibi yapılabilir. Detaylı tanım için linke tıklayınız. [Kart Kodu](../TemelOzellikler/KartKodu.md)
 
 **Tip:** Müşteri/Satıcı kartının tipini belirtir. Müşteri, satıcı, karaliste, potansiyel, personel, kamu veya ortak değerlerinden biri olabilir.
 
-**Vergi Dairesi:** Bu carinin vergi dairesini belirtir.Şahıslar için 'TC' giriniz.**Girilmesi Zorunludur.**
+**Vergi Dairesi:** Bu carinin vergi dairesini belirtir.Şahıslar için 'TC' giriniz. **Girilmesi Zorunludur.**
 
 **Vergi No:** Tüzel kişiler için vergi numarasını, Gerçek kişiler için TC numarasını belirtir. **Girilmesi Zorunludur.**
-	Sistem mükerrer vergi no girişini otomatik olarak engellemektedir. Yani aynı vergi numarası ile birden çok Müşteri/Satıcı kartı açıulması engellenmektedir.
-	Aynı vergi numarası ile birden çok kart açılması ek yetkilerle ayarlanabilmektedir. Belirli kullanıcılara yetki vererek onların mükerrer vergi no ile kart açmalarına izin verebilirsiniz.
-	[Yetkiler](../TemelOzellikler/Yetkiler.md)
+
+>Sistem mükerrer vergi no girişini otomatik olarak engellemektedir. Yani aynı vergi numarası ile birden çok Müşteri/Satıcı kartı açılması engellenmektedir.
+Aynı vergi numarası ile birden çok kart açılması ek yetkilerle ayarlanabilmektedir. Belirli kullanıcılara yetki vererek onların mükerrer vergi no ile kart açmalarına izin verebilirsiniz. [Yetkiler](../TemelOzellikler/Yetkiler.md)
 
 **Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
 
@@ -35,8 +41,8 @@ Aşağıdaki bilgiler doldurularak müşteri/satıcı kartınızı tanımlayabil
 
 ### Adres Bilgileri
 
-#### Müşteri Satıcı kartına bir veya daha fazla adres bilgisi ekleyebilirsiniz.
-
+> Müşteri Satıcı kartına bir veya daha fazla adres bilgisi ekleyebilirsiniz.
+>
 > Hareketlerde farklı adreslere sevk için karta tanımlı olan adres bilgilerini kullanabilirsiniz.
 
 **Adres Adı:** Adres bilgisini adlandırabilirsiniz. Örn: Merkez, Şube vs.
@@ -66,7 +72,7 @@ Aşağıdaki bilgiler doldurularak müşteri/satıcı kartınızı tanımlayabil
 
 ### İlgili Bilgileri
 
-#### Müşteri Satıcı kartına bir veya daha fazla ilgili bilgisi ekleyebilirsiniz.
+> Müşteri Satıcı kartına bir veya daha fazla ilgili bilgisi ekleyebilirsiniz.
 
 **İlgili Adı:** Bu karta ait ilgili kişinin adını ifade eder.
 
@@ -87,7 +93,7 @@ Aşağıdaki bilgiler doldurularak müşteri/satıcı kartınızı tanımlayabil
 
 ### Banka Hesapları
 
-#### Müşteri Satıcı kartına bir veya daha fazla banka hesap bilgisi ekleyebilirsiniz.
+> Müşteri Satıcı kartına bir veya daha fazla banka hesap bilgisi ekleyebilirsiniz.
 
 **Iban No:** Cari kartının banka hesap iban bilgilerini belirtir. Iban nosunu kaydederek Havale/Eft gönderme işlemlerinde kolayca kullanabilirsiniz.
 
@@ -97,8 +103,7 @@ Aşağıdaki bilgiler doldurularak müşteri/satıcı kartınızı tanımlayabil
 ### Risk Limitleri: 
 
 Müşteri/Satıcı kartına risk limitleri tanımlayarak ve gerekli parametreleri aktive ederek, risk yönetim sistemini kullanabilirsiniz.
-[Risk Limitleri](../TemelOzellikler/RisLimitleri.md)
-[Parametreler](../TemelOzellikler/Parametreler.md)
+[Risk Limitleri](../TemelOzellikler/RiskLimitleri.md)
 
 ### Muhasebe Tanımları: 
 
@@ -109,7 +114,7 @@ Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde o
 
 **Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
 
-**Durum:** Kartın kullanabilirliğini belirtir. Pasif kartlar işlemde kullanılamaz.
+**Durum:** Kartın kullanabilirliğini belirtir. Pasif kartlar işlemlerde kullanılamaz.
 
 **Çalışma Para Birimi:** Bu kartın çalıştığı döviz cinsini belirtir. Bilgi amaçlıdır.
 
@@ -124,4 +129,7 @@ Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde o
 **Görüntülenme:** Kartın ve hareketlerinin hangi kullanıcılar tarafından görüntülenebileceğinin ayarlanması için kullanılır. Detaylı tanım için linke tıklayınız. [Görüntülenme](../EkOzellikler/Goruntulenme.md)
 
 
-Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+## Kaydetme ve Silme
+
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
