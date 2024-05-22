@@ -70,7 +70,6 @@ Hazırladğınız bu reçetede üretmek istediğiniz mamül bilgilerini ifade ed
 **Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
 **Şarj Kg**
 
-
 # Sonradan Reçete Düzenlemesi Yapmak 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" aratarak ulaşım sağlayabilirsiniz.
