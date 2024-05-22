@@ -162,3 +162,19 @@ Kartta bulunan kısayolları sekmesi ile cariye ait ilgili raporlara ve öncelik
 Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
 
 Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+
+## Yazdır
+
+- Sayfanın sağ üstünde bulunan yazıcı sembolü ile sayfaya tanımlanan özel çıktı formatları ile farklı çıktılar alınabilir. 
+- Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
+- Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
+- Kullanıcıya özel ekstre, dövizli ekstre gibi farklı tasarımlar yapılabilir.
+- Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktılar program üzerinden e-mail olarak gönderilebilir. 
+
+
+## Ek İşlemler
+
+ Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+- ................
