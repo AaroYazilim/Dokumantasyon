@@ -41,10 +41,10 @@ Etiketler kullaným detaylarý için linke týklayýnýz. [Etiketler](../TemelOzellikl
 
 **Stok:** Ýþlem yapacaðýmýz mamülü seçelim.
 **Miktar:** Stoðumuzdan ne kadar miktarda gönderim saðlayacaðýz, miktarý girelim.
-**Brüt Fiyat:** 
+**Brüt Fiyat:** Ýskonto yapýlmadan önceki fiyattýr.
 **Ýskonto Oraný:** Ýndirim yapacaðýmýz iskonto oranýný girelim.
-**Net Fiyat:** Stoðun net fiyatýný girelim.
-**Tutar:** 
+**Net Fiyat:** Brüt fiyata isokontonun uygulanmýþ fiyatýdýr.
+**Tutar:** Miktar ve net tutarýn çarpýlarak elde edilen deðerdir.
 **Depo:** Mamülümüzün þuan bulunduðu depoyu seçelim.
 **Açýklama:** Ýþleme ait özel açýklamamýz notlarýmýz varsa burada belirtebiliriz. Açýklama kullaným detaylarý için linke týklayýnýz. [Açýklama](../TemelOzellikler/Aciklama.md)
 **Vergiler:**

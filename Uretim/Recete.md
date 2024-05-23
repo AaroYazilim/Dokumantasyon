@@ -70,18 +70,3 @@ Hazırladğınız bu reçetede üretmek istediğiniz mamül bilgilerini ifade ed
 **Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
 **Şarj Kg**
 
-# Sonradan Reçete Düzenlemesi Yapmak 
-
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartalar -> İş Emri Reçeteleri Listesi şeklinde ulaşım sağlayabilirsiniz. 
-
-Reçete ekranımızı açalım, işlem yapacağımız yani önüne ya da arkasına ürün gelecek operasyonu seçiniz. 
-
-### Hammaddeye tıklayalım hammadde düzelttebilir, hammadde silebilir, operasyon ekleyebilir(öncesi ve sonrası), reçete getirebiliriz.
-
-Reçetede hammadde de yapabileceğimiz işlemleri linkten inceleyebiliriz. [Hammadde](../Uretim/HammaddeEkle.md)
-
-
-### Operasyona tıklayalım Operasyon düzeletebilir.
-
-Reçetede operasyonda yapabileceğimiz işlemleri linkten inceleyebiliriz. [Operasyon](../Uretim/OperasyonEkle.md)
