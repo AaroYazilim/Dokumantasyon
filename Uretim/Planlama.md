@@ -19,9 +19,7 @@ MRP, üretim sürecinin her aşamasında hangi malzemelerin ne zaman ve ne kadar
 
 ## Tanım 
 
-Üretim süreçlerinin ne zaman ve hangi sırayla gerçekleşeceğini görüntüleyebiliriz. 
-Makine ve işgücü gibi kaynakların en verimli şekilde kullanılması hedeflenir.
-Üretim planında, üretim planınızı görüntüleyerek üretim planlamalarınızı yapabilirsiniz.
+
 
 Burada planlamalarda değişiklik yapmak için sürükleyerek kolayca değişiklik yapabiliriz.
 

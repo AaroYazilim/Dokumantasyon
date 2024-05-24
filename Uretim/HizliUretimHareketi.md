@@ -2,7 +2,7 @@
 # Hýzlý Üretim Hareketi Giriþi
 
 Reçetesiz hýzlý hareket girmek için kullanýlýr.
-Üretim hareketlerinin giþilerini, hareketlerini buradan girebiliriz.
+Üretim hareketlerinin giriþlerini, hareketlerini buradan girebiliriz.
 
 ## Genel 
 
@@ -16,7 +16,7 @@ Reçetesiz hýzlý hareket girmek için kullanýlýr.
 **Ýþçilik/Saat** Operasyonda çalýþan iþçinin saatlik ücretini ifade eder. Maliyet hesaplamasý detaylarý için týklayýnýz. [Ýþçiliyet Maliyeti](../Uretim/IscilikMaliyeti.md)
 **Çalýþma Mal/Saat** Operasyonda çalýþan iþçi, makine, elektrik gibi giderlerin saatlik ücretini ifade eder. Maliyet hesaplamasý detaylarý için týklayýnýz. [Birim Maliyeti](../Uretim/BirimMaliyeti.md)
 **Döviz:** Bu iþlemin çalýþtýðý döviz cinsini belirtir.Türk lirasý haricinde baþka bir döviz seçildiðinde sadece o döviz cinsinden hareket iþlenmesine izin verir. 
-Üretim iþleminin bakiyesi seçilen döviz cinsinden takip edilir.
+	Üretim iþleminin bakiyesi seçilen döviz cinsinden takip edilir.
 
 ## Mamüller
 
@@ -56,6 +56,10 @@ Karþýmýza gelen ekranda kayýt ettiðimiz bilgilerden farklý olarak Atlandý seçene
 Üretim hareketimize belge ve not ekleyebiliriz. Üretim hareketine ait görseller, dokümantasyonlar var ise buraya ekleyebiliriz. 
 Bu þekilde üretim hareketine giren herkes bu belgeleri görüntüleyereke eriþim kolaylýðý saðlayarak verilerin kaybolmasýný önler.
 
+**Atlandý:** Üretim hareketi ekranýnda atlamak, üretim sürecinde belirli bir adýma geçiþi ifade eder. 
+	Örneðin, bir üretim iþçisi veya yönetici, ürünlerin üretim aþamalarýný takip ederken, belirli bir aþamadan diðerine geçiþi için kullaným saðlar.
+	Üretim aþamasýnýn atlandýðýný veya tamamlandýðýný göstermek için kullanýlýr.
+
 ## Ýþ Emri 
 
 Üretim hareketimizi kaydettikten sonra karþýmýza çýkan ekranýn sað üst köþesinden eriþim saðlayabiliriz.
@@ -64,7 +68,7 @@ Bu þekilde üretim hareketine giren herkes bu belgeleri görüntüleyereke eriþim ko
 
 ## Reçete Diagramý
 
-Üretim hareketimizde yaptýðýmýz iþlemlerin reçete diagram görüntüsüne sað üst köþesinden eriþim saðlayabiliriz.
+Üretim hareketimizde yaptýðýmýz yapacaðýmýz iþlemleri reçete diagram görüntüsüne sað üst köþesinden eriþim saðlayabiliriz.
 Reçete diagramýmýzý görüntüleyebilir, düzenlemeler yapabilir, operasyon, mamül, yarý mamül, hammadde ekleyebiliriz. 
 Yanlýþ olan hammadde, operasyon, yarý mamül, mamülleri silebiliriz.
 Reçete düzenlemelerimizi buradan yapabiliriz.
