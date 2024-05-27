@@ -1,6 +1,14 @@
 
 # Üretim
 
+Üretim modülünde yapabileceğimiz haraketler için;
+
+- [Üretim Hareketleri](../Uretim/Hareketler.md)
+
+- [Kartlar](../Uretim/Kartlar.md)
+
+- [Listeler](../Uretim/Listeler.md)
+
 # Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Üretim" aratarak ulaşım sağlayabilirsiniz.
@@ -69,3 +77,5 @@ Bu şekilde eksik olan hammadde, yarı mamul ve mamullerin tedariğini kolayca s
 ## Birim Maliyeti
 
 Makine masraflarının hesapları ve işçilik hesaplarının toplamıdır. Detaylı bilgi için tıklayınız. [Çalışma Mal. / Saat](../Uretim/BirimMaliyeti.md)
+
+

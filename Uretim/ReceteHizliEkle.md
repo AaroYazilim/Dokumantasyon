@@ -80,6 +80,12 @@ Reçete ekranına yönlendirir, buradan reçetelerinizi görüntüleyebilirsiniz
 
 ### Diagram 
 
+iş emrinde ki reçeteye yönlendirerek reçetenin diyagramını görüntüler.
+
 ### Hızlı Reçete Düzelt
 
+Hızlı düzeltme ekranı aaşamalar alt alta, iç içe gösterilmiş şekilde miktar, hazırlık, üretim süresi, maliyet, ek maliye ve toplam maliyet değişiklik yapıp görüntüleyebildiğimiz ekrana yönlendiririr.
+
 ### Hızlı Reçete Düzelt3
+
+Hızlı düzeltme ekranına yönlendirir, bu hızlı düzeltmede farklı olarak hammadde, mamül, yarı mamüller de düzenleme, ekleme yapabilirsiniz.

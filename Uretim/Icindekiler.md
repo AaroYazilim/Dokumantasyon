@@ -29,8 +29,32 @@ Bu sayede firelerinizi ve çıkan ürünlerinizin süreçlerini, aşamalarını,
 - [Üretim Hareketi](../Uretim/UretimHareketi.md)
 - [Yeni İş Emri](../Uretim/Mrp.md)
 
+# Üretim Hareketleri
 
+- [Üretim Hareketi Hızlı Aç](../Uretim/UretimdenMamulGiris.md)
+- [Üretimden Mamül Giriş](../Uretim/UretimdenMamulGiris.md)
+- [Üretime Hammadde Çıkışı](../Uretim/UretimeHammaddeCikisi.md)
+- [Hızlı Üretim Hareketi Girişi](../Uretim/HizliUretimHareketi.md)
+- [Hızlı Üretim Hareketi Girişi (Sadece Iscilik)](../Uretim/HizliUretimHareketiGirisiSadeceİscilik.md)
 
+# Kartlar 
 
+- [Operasyon ile Makine Eşleştirme](../Uretim/OperasyonMakineEslestirme.md)
+- [Taslak Reçete Listesi](../Uretim/TaslakReceteListesi.md)
+- [İş Emri Reçete Listesi](../IsEmriReceteleri.md)
+- [Makine Listesi](../Uretim/Makine.md)
+- [Operasyon Listesi](../Uretim/Operasyon.md)
+- [Üretim Terminali Makine Eşleştirme](../Uretim/TerminalKullaniciEkleme.md)
+
+# Listeler 
+
+- [Üretim Hareketleri Listesi](../Uretim/UretimHareketleriListesi.md)
+- [Üretim Planı](../Uretim/UretimPlani.md)
+- [Üretim Planı Özet](../Uretim/UretimPlanOzet.md)
+- [İş Emri Listesi](../Uretim/IsEmriListesi.md)
+- [Makine Arıza Kaydı Listesi](../Uretim/MakineArizaKaydiListesi.md)
+- [Üretim Hareketi Çalışan Personel](../Uretim/UretimHareketeiCalisanListesi.md)
+- [Üretim Hareketi Kullanılan Hammadde](../Uretim/UretimHareketiKullanilanHammadde.md)
+- [Üretim Hareketi Üretilen Mamül](../Uretim/UretimHareketiUretilenMamul.md)
 
 
