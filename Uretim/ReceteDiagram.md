@@ -15,7 +15,7 @@ Bu adýmlar sýrayla listelenir ve ürünün yapýmýnýn adým adým nasýl gerçekleþtiril
 # Sonradan Reçete Düzenlemesi Yapmak 
 
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "reçete" aratarak ulaþým saðlayabilirsiniz.
-- Sol menüden Üretim -> Kartalar -> Ýþ Emri Reçeteleri Listesi þeklinde ulaþým saðlayabilirsiniz. 
+- Sol menüden Üretim -> Kartlar -> Ýþ Emri Reçeteleri Listesi þeklinde ulaþým saðlayabilirsiniz. 
 
 Reçete diagram ekranýmýzý açalým, iþlem yapacaðýmýz yani önüne ya da arkasýna ürün gelecek operasyonu seçiniz. 
 Buradan yanlýþ olan ya da daha sonrasýnda operasyon, mamül, hammadde, yarý mamüller de deðiþiklik yapabiliriz.

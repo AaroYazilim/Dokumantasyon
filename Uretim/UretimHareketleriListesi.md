@@ -9,6 +9,10 @@ Hareket için eklenmiþ görselleri, belgeleri ve notlarý görüntüntüleyebiliriz.
 Hareket kayýtlarýný giren yetkiliyi görebiliriz.
 Ýþ Emrine, Reçete diagramýna, üretim planlamasýna kolayca eriþim saðlayarak düzenlememiz gereken bilgileri düzenleyebiliriz.
 
+## Ulaþým
+
+- Sol menüden Üretim -> Listeler -> Üretim Hareketleri Listesi þeklinde ulaþým saðlayabilirsiniz.
+
 ### Anasayfaya kýsayol olarak ekle 
 
 Ýþ emri reçete listesini anasayfaya kýsayol olarak ekleyebiliriz, böylece hýzlý ve kolay eriþim saðlayabiliriz.

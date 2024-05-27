@@ -24,7 +24,7 @@ Reçetemizi oluþturduktan sonra iþ emri vererek üretim aþamamýza baþlayabiliriz.
 
 ### Mamül Bilgileri
 
-Hazýrladðýnýz bu reçetede üretmek istediðiniz mamül bilgilerini ifade eder. Daha sonra diagram üzerinden düzenleyebilirsiniz.
+Hazýrladýðýmýz reçetede üretmek istediðiniz mamül bilgilerini ifade eder. Daha sonra diagram üzerinden düzenleyebilirsiniz.
 
 **Mamül** Oluþturacaðýmýz mamülü seçelim, olmayan stoðumuzu için detaylý ekle, hýzlý ekle yaparakta mamül giriþi yapabiliriz.
 **Miktar** Kaç adet oluþturacaðýmýzý girelim.
