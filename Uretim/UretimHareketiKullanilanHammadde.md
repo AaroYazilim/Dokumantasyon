@@ -1,23 +1,23 @@
 
-# Üretim Hareketi Kullanılan Hammaddeler Listesi
+# Ãœretim Hareketi KullanÄ±lan Hammaddeler Listesi
 
 
-Üretim Hareketi Kullanılan Hammaddeler Listesi, üretim sürecinde kullanılan hammaddelerin takibini sağlar. 
-Bu listede hammadde kodu, adı, kullanım tarihi, miktar, birim, operasyonu gibi bilgiler yer alır. 
-Hammadde kodu, her hammadde için benzersiz bir tanımlama sağlar ve karışıklığı önler. Hammadde adı, hangi hammaddenin kullanıldığını belirtir. 
-Kullanım tarihi, hammaddenin hangi tarihte kullanıldığını gösterir ve stok takibi için önemlidir. 
-Miktar, kullanılan hammadde miktarını ifade eder ve üretimde ne kadar hammadde kullanıldığını gösterir. 
-Birim, miktarın ölçü birimini belirtir (örneğin, kilogram, litre). 
-Hammaddenin hangi operasyonda veya makinede kullanıldığını gösterir. 
-Açıklamalar bölümü, hammaddelerle ilgili ek bilgiler veya özel durumlar hakkında bilgi sağlar. 
-Bu liste, stok yönetimi, üretim planlaması ve operasyon açısından kritiktir. 
-Örneğin, Hammadde X, 25 Mayıs 2024'te operasyon 1'de 50 kilogram kullanılmış ve kalite kontrolünden geçmiştir. 
-Satırlara tıklayarak üretilen mamül detaylarını görüntüleyerek, iş emrine, reçete diagramına, üretim planına erişim sağlayabiliriz.
-Üretime ait özel görseller veya özel notlar eklenmişse görüntüleyebiliriz.
+Ãœretim Hareketi KullanÄ±lan Hammaddeler Listesi, Ã¼retim sÃ¼recinde kullanÄ±lan hammaddelerin takibini saÄŸlar. 
+Bu listede hammadde kodu, adÄ±, kullanÄ±m tarihi, miktar, birim, operasyonu gibi bilgiler yer alÄ±r. 
+Hammadde kodu, her hammadde iÃ§in benzersiz bir tanÄ±mlama saÄŸlar ve karÄ±ÅŸÄ±klÄ±ÄŸÄ± Ã¶nler. Hammadde adÄ±, hangi hammaddenin kullanÄ±ldÄ±ÄŸÄ±nÄ± belirtir. 
+KullanÄ±m tarihi, hammaddenin hangi tarihte kullanÄ±ldÄ±ÄŸÄ±nÄ± gÃ¶sterir ve stok takibi iÃ§in Ã¶nemlidir. 
+Miktar, kullanÄ±lan hammadde miktarÄ±nÄ± ifade eder ve Ã¼retimde ne kadar hammadde kullanÄ±ldÄ±ÄŸÄ±nÄ± gÃ¶sterir. 
+Birim, miktarÄ±n Ã¶lÃ§Ã¼ birimini belirtir (Ã¶rneÄŸin, kilogram, litre). 
+Hammaddenin hangi operasyonda veya makinede kullanÄ±ldÄ±ÄŸÄ±nÄ± gÃ¶sterir. 
+AÃ§Ä±klamalar bÃ¶lÃ¼mÃ¼, hammaddelerle ilgili ek bilgiler veya Ã¶zel durumlar hakkÄ±nda bilgi saÄŸlar. 
+Bu liste, stok yÃ¶netimi, Ã¼retim planlamasÄ± ve operasyon aÃ§Ä±sÄ±ndan kritiktir. 
+Ã–rneÄŸin, Hammadde X, 25 MayÄ±s 2024'te operasyon 1'de 50 kilogram kullanÄ±lmÄ±ÅŸ ve kalite kontrolÃ¼nden geÃ§miÅŸtir. 
+SatÄ±rlara tÄ±klayarak Ã¼retilen mamÃ¼l detaylarÄ±nÄ± gÃ¶rÃ¼ntÃ¼leyerek, iÅŸ emrine, reÃ§ete diagramÄ±na, Ã¼retim planÄ±na eriÅŸim saÄŸlayabiliriz.
+Ãœretime ait Ã¶zel gÃ¶rseller veya Ã¶zel notlar eklenmiÅŸse gÃ¶rÃ¼ntÃ¼leyebiliriz.
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol menüden Üretim -> Listeler -> Üretim Hareketi Kullanılan Hammadde şeklinde ulaşım sağlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Listeler -> Ãœretim Hareketi KullanÄ±lan Hammadde ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
 
 

@@ -1,35 +1,35 @@
 
-# İş Emri Reçeteleri Listesi
+# Ä°ÅŸ Emri ReÃ§eteleri Listesi
 
-Bir iş emri, belirli bir üretim görevinin veya işin tamamlanması için gerekli olan tüm bilgileri içeren detaylı bir belgedir. 
-Öncelikle, her iş emrinin benzersiz bir kimlik numarası vardır, bu da işin takibini ve yönetimini kolaylaştırır. 
-Üretilecek ürün veya parça kodu ve kısa bir tanımı, üretim miktarıyla birlikte iş emrinde yer alır. 
-İşin ne zaman başlayacağı ve ne zaman tamamlanacağı, yani başlama ve bitiş tarihleri belirtilir.
+Bir iÅŸ emri, belirli bir Ã¼retim gÃ¶revinin veya iÅŸin tamamlanmasÄ± iÃ§in gerekli olan tÃ¼m bilgileri iÃ§eren detaylÄ± bir belgedir. 
+Ã–ncelikle, her iÅŸ emrinin benzersiz bir kimlik numarasÄ± vardÄ±r, bu da iÅŸin takibini ve yÃ¶netimini kolaylaÅŸtÄ±rÄ±r. 
+Ãœretilecek Ã¼rÃ¼n veya parÃ§a kodu ve kÄ±sa bir tanÄ±mÄ±, Ã¼retim miktarÄ±yla birlikte iÅŸ emrinde yer alÄ±r. 
+Ä°ÅŸin ne zaman baÅŸlayacaÄŸÄ± ve ne zaman tamamlanacaÄŸÄ±, yani baÅŸlama ve bitiÅŸ tarihleri belirtilir.
 
-İş emri, üretim için gerekli tüm malzemelerin detaylı bir listesini ve bu malzemelerin miktarlarını içerir. 
-Üretim sürecindeki her adımın ayrıntılı tanımı yapılır; bu adımlar arasında hangi makinelerin kullanılacağı ve her bir adımın ne kadar süreceği belirtilir. 
-Ayrıca, üretimde kullanılacak makine ve ekipmanlar da listelenir. Gerekli iş gücü, işçilerin nitelikleri ve çalışacakları vardiyalar da iş emrinde belirtilir.
-Örneğin, metal bir parçanın üretimi için oluşturulan bir iş emrinde, kesim, delme, montaj ve boyama gibi adımlar detaylandırılır. 
-Gerekli çelik plakalar, vidalı bağlantı elemanları ve boya malzemeleri listelenir. 
-Her adımın süresi ve kullanılacak makineler belirtilir.
+Ä°ÅŸ emri, Ã¼retim iÃ§in gerekli tÃ¼m malzemelerin detaylÄ± bir listesini ve bu malzemelerin miktarlarÄ±nÄ± iÃ§erir. 
+Ãœretim sÃ¼recindeki her adÄ±mÄ±n ayrÄ±ntÄ±lÄ± tanÄ±mÄ± yapÄ±lÄ±r; bu adÄ±mlar arasÄ±nda hangi makinelerin kullanÄ±lacaÄŸÄ± ve her bir adÄ±mÄ±n ne kadar sÃ¼receÄŸi belirtilir. 
+AyrÄ±ca, Ã¼retimde kullanÄ±lacak makine ve ekipmanlar da listelenir. Gerekli iÅŸ gÃ¼cÃ¼, iÅŸÃ§ilerin nitelikleri ve Ã§alÄ±ÅŸacaklarÄ± vardiyalar da iÅŸ emrinde belirtilir.
+Ã–rneÄŸin, metal bir parÃ§anÄ±n Ã¼retimi iÃ§in oluÅŸturulan bir iÅŸ emrinde, kesim, delme, montaj ve boyama gibi adÄ±mlar detaylandÄ±rÄ±lÄ±r. 
+Gerekli Ã§elik plakalar, vidalÄ± baÄŸlantÄ± elemanlarÄ± ve boya malzemeleri listelenir. 
+Her adÄ±mÄ±n sÃ¼resi ve kullanÄ±lacak makineler belirtilir.
 
-## Ulaşım
+## UlaÅŸÄ±m
 
 https://erp.aaro.com.tr/UrRecete/Liste
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> İş Emri Reçeteleri Listesi şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Modül Sayfası -> Liste -> Taslak Reçete Listesi şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "reÃ§ete" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartlar -> Ä°ÅŸ Emri ReÃ§eteleri Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> ModÃ¼l SayfasÄ± -> Liste -> Taslak ReÃ§ete Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-### Anasayfaya kısayol olarak ekle 
+### Anasayfaya kÄ±sayol olarak ekle 
 
-İş emri reçete listesini anasayfaya kısayol olarak ekleyebiliriz, böylece hızlı ve kolay erişim sağlayabiliriz.
-Bu kısayol, iş emri reçete listesine anında ulaşmanızı sağlar.
+Ä°ÅŸ emri reÃ§ete listesini anasayfaya kÄ±sayol olarak ekleyebiliriz, bÃ¶ylece hÄ±zlÄ± ve kolay eriÅŸim saÄŸlayabiliriz.
+Bu kÄ±sayol, iÅŸ emri reÃ§ete listesine anÄ±nda ulaÅŸmanÄ±zÄ± saÄŸlar.
 
-## Yeni Reçete Taslağı Ekle
+## Yeni ReÃ§ete TaslaÄŸÄ± Ekle
 
-Yeni reçete tasalağı olarak ilk aşamamıza başlayabiliriz. 
-İş emirleri reçeteleri listesi ekranında sağ üst köşede yer alan Yeni Reçete Taslağı Ekle diyerek erişim sağlayabiliriz.
-Yeni reçete taslağımızı oluşturarak üretim planımıza başlayabiliriz. 
-Reçetemizi oluşturduktan sonra iş emri vererek üretim aşamamıza başlayabiliriz.
-Yeni Reçete Taslağı Ekleme detaylarına erişim sağlamak için tıklayınız. [Yeni Reçete Taslağı Ekle](../Uretim/YeniReceteTaslagiEkle.md)
+Yeni reÃ§ete tasalaÄŸÄ± olarak ilk aÅŸamamÄ±za baÅŸlayabiliriz. 
+Ä°ÅŸ emirleri reÃ§eteleri listesi ekranÄ±nda saÄŸ Ã¼st kÃ¶ÅŸede yer alan Yeni ReÃ§ete TaslaÄŸÄ± Ekle diyerek eriÅŸim saÄŸlayabiliriz.
+Yeni reÃ§ete taslaÄŸÄ±mÄ±zÄ± oluÅŸturarak Ã¼retim planÄ±mÄ±za baÅŸlayabiliriz. 
+ReÃ§etemizi oluÅŸturduktan sonra iÅŸ emri vererek Ã¼retim aÅŸamamÄ±za baÅŸlayabiliriz.
+Yeni ReÃ§ete TaslaÄŸÄ± Ekleme detaylarÄ±na eriÅŸim saÄŸlamak iÃ§in tÄ±klayÄ±nÄ±z. [Yeni ReÃ§ete TaslaÄŸÄ± Ekle](../Uretim/YeniReceteTaslagiEkle.md)

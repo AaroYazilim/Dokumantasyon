@@ -1,94 +1,94 @@
 
-# Üretimden Mamül Giriş
+# Ãœretimden MamÃ¼l GiriÅŸ
 
-Üretimden mamül giriş, üretim sürecinde tamamlanmış ürünlerin stoklara girişini ifade eder. 
-Bu süreç, işletmenin üretim faaliyetlerinden elde edilen nihai ürünlerin depoya alınmasını ve kaydedilmesini kapsar. 
-İşletmenin verimli çalışması ve stok yönetiminin etkin olması için bu sürecin düzgün bir şekilde yönetilmesi önemlidir.
+Ãœretimden mamÃ¼l giriÅŸ, Ã¼retim sÃ¼recinde tamamlanmÄ±ÅŸ Ã¼rÃ¼nlerin stoklara giriÅŸini ifade eder. 
+Bu sÃ¼reÃ§, iÅŸletmenin Ã¼retim faaliyetlerinden elde edilen nihai Ã¼rÃ¼nlerin depoya alÄ±nmasÄ±nÄ± ve kaydedilmesini kapsar. 
+Ä°ÅŸletmenin verimli Ã§alÄ±ÅŸmasÄ± ve stok yÃ¶netiminin etkin olmasÄ± iÃ§in bu sÃ¼recin dÃ¼zgÃ¼n bir ÅŸekilde yÃ¶netilmesi Ã¶nemlidir.
 
 ### Genel 
 
-**Şirket-Şube:** Üretimi tamamlanan ürünün hangi depodan yapılacağını ifade eder. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
-**Tarih** İşlemin yapıldığı tarihi ifade eder.
-**Belge No** İşlemi yapacağımız belgenin numarasını ifade eder.
-**Kaynak Depo** Ürünün şuan bulunduğu depoyu seçelim.
+**Åirket-Åube:** Ãœretimi tamamlanan Ã¼rÃ¼nÃ¼n hangi depodan yapÄ±lacaÄŸÄ±nÄ± ifade eder. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](../TemelOzellikler/SirketSubeHareket.md)
+**Tarih** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi ifade eder.
+**Belge No** Ä°ÅŸlemi yapacaÄŸÄ±mÄ±z belgenin numarasÄ±nÄ± ifade eder.
+**Kaynak Depo** ÃœrÃ¼nÃ¼n ÅŸuan bulunduÄŸu depoyu seÃ§elim.
 
-**Şirket-Şube:** Üretimi sonucunda elde ettiğimiz mamülü göndereceğimiz şirket ya da şubeyi ifade eder. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
-**Hedef Depo** Mamülleri göndereceğimiz depoyu seçelim.
-**Vade** Gönderim sağladığımız depolarda ki gelir giderleri takip edebilmek için vade girebiliriz.
+**Åirket-Åube:** Ãœretimi sonucunda elde ettiÄŸimiz mamÃ¼lÃ¼ gÃ¶ndereceÄŸimiz ÅŸirket ya da ÅŸubeyi ifade eder. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](../TemelOzellikler/SirketSubeHareket.md)
+**Hedef Depo** MamÃ¼lleri gÃ¶ndereceÄŸimiz depoyu seÃ§elim.
+**Vade** GÃ¶nderim saÄŸladÄ±ÄŸÄ±mÄ±z depolarda ki gelir giderleri takip edebilmek iÃ§in vade girebiliriz.
 **Tip**
 
 ### Detay
 
-**Proje:** İşleme ait proje var ise kaydettiğimiz projeyi buradan seçelim.
-**Plasiyer:** İşlemi yapacak kullanıcı ifade eder. 
+**Proje:** Ä°ÅŸleme ait proje var ise kaydettiÄŸimiz projeyi buradan seÃ§elim.
+**Plasiyer:** Ä°ÅŸlemi yapacak kullanÄ±cÄ± ifade eder. 
 
-### Açıklamalar
+### AÃ§Ä±klamalar
 
-İşleme ait özel açıklamamız notlarımız varsa burada belirtebiliriz. 
-Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+Ä°ÅŸleme ait Ã¶zel aÃ§Ä±klamamÄ±z notlarÄ±mÄ±z varsa burada belirtebiliriz. 
+AÃ§Ä±klama kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
 ### Etiketler
 
-Filtreleme veya arama yaparak belirli kriterlere göre kayıtları bulmak için kullanılır.
-Etiketler kullanım detayları için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
+Filtreleme veya arama yaparak belirli kriterlere gÃ¶re kayÄ±tlarÄ± bulmak iÃ§in kullanÄ±lÄ±r.
+Etiketler kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 
-**Kaydet dediğimizde mamül ekleme ekranımız açılacaktır.**
+**Kaydet dediÄŸimizde mamÃ¼l ekleme ekranÄ±mÄ±z aÃ§Ä±lacaktÄ±r.**
 
 ## Yeni Stok Kalemi Ekle
 
 ### Genel 
 
-**Stok:** İşlem yapacağımız mamülü seçelim.
-**Miktar:** Stoğumuzdan ne kadar miktarda gönderim sağlayacağız, miktarı girelim.
-**Brüt Fiyat:** İskonto yapılmadan önceki fiyattır.
-**İskonto Oranı:** İndirim yapacağımız iskonto oranını girelim.
-**Net Fiyat:** Brüt fiyata isokontonun uygulanmış fiyatıdır.
-**Tutar:** Miktar ve net tutarın çarpılarak elde edilen değerdir.
-**Depo:** Mamülümüzün şuan bulunduğu depoyu seçelim.
-**Açıklama:** İşleme ait özel açıklamamız notlarımız varsa burada belirtebiliriz. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+**Stok:** Ä°ÅŸlem yapacaÄŸÄ±mÄ±z mamÃ¼lÃ¼ seÃ§elim.
+**Miktar:** StoÄŸumuzdan ne kadar miktarda gÃ¶nderim saÄŸlayacaÄŸÄ±z, miktarÄ± girelim.
+**BrÃ¼t Fiyat:** Ä°skonto yapÄ±lmadan Ã¶nceki fiyattÄ±r.
+**Ä°skonto OranÄ±:** Ä°ndirim yapacaÄŸÄ±mÄ±z iskonto oranÄ±nÄ± girelim.
+**Net Fiyat:** BrÃ¼t fiyata isokontonun uygulanmÄ±ÅŸ fiyatÄ±dÄ±r.
+**Tutar:** Miktar ve net tutarÄ±n Ã§arpÄ±larak elde edilen deÄŸerdir.
+**Depo:** MamÃ¼lÃ¼mÃ¼zÃ¼n ÅŸuan bulunduÄŸu depoyu seÃ§elim.
+**AÃ§Ä±klama:** Ä°ÅŸleme ait Ã¶zel aÃ§Ä±klamamÄ±z notlarÄ±mÄ±z varsa burada belirtebiliriz. AÃ§Ä±klama kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 **Vergiler:**
 
 ### Detay
 
-**Proje:** İşleme ait proje var ise kaydettiğimiz projeyi buradan seçelim.
-**Plasiyer:** Plasiyer, bir şirketin ürün veya hizmetlerini belirli bir bölgede tanıtan ve satan saha satış temsilcisidir. 
-	Müşterilerle doğrudan iletişim kurarak sipariş alır, ürünlerin tanıtımını yapar ve satış hacmini artırmaya çalışır. 
+**Proje:** Ä°ÅŸleme ait proje var ise kaydettiÄŸimiz projeyi buradan seÃ§elim.
+**Plasiyer:** Plasiyer, bir ÅŸirketin Ã¼rÃ¼n veya hizmetlerini belirli bir bÃ¶lgede tanÄ±tan ve satan saha satÄ±ÅŸ temsilcisidir. 
+	MÃ¼ÅŸterilerle doÄŸrudan iletiÅŸim kurarak sipariÅŸ alÄ±r, Ã¼rÃ¼nlerin tanÄ±tÄ±mÄ±nÄ± yapar ve satÄ±ÅŸ hacmini artÄ±rmaya Ã§alÄ±ÅŸÄ±r. 
 
-### Açıklamalar
+### AÃ§Ä±klamalar
 
-İşleme ait özel açıklamamız notlarımız varsa burada belirtebiliriz. 
-Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+Ä°ÅŸleme ait Ã¶zel aÃ§Ä±klamamÄ±z notlarÄ±mÄ±z varsa burada belirtebiliriz. 
+AÃ§Ä±klama kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
 ### Etiketler
 
-Filtreleme veya arama yaparak belirli kriterlere göre kayıtları bulmak için kullanılır.
-Etiketler kullanım detayları için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
+Filtreleme veya arama yaparak belirli kriterlere gÃ¶re kayÄ±tlarÄ± bulmak iÃ§in kullanÄ±lÄ±r.
+Etiketler kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 ### Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+Ä°ÅŸleme ait Ã¶zel notlar belirtebiliriz. 
+Ã–nemli bir detay var ise bu detaylarÄ± burada belirtebiliriz.
+Notlar kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Notlar](../TemelOzellikler/Notlar.md)
 
 ### Belge 
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+YapacaÄŸÄ±mÄ±z iÅŸlem iÃ§in elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yÃ¼kleyebiliriz.
+Buraya iÅŸlem gerÃ§ekleÅŸirken ki gÃ¶rselleri yÃ¼kleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek iÃ§in tÄ±klayalÄ±m ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Daha Ã¶nce yÃ¼klediklerimden seÃ§ -> belgeyi seÃ§elim -> Ä°liÅŸkilendir ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- YÃ¼klenecek belge veya resimleri seÃ§in -> belgeyi ya da belgeleri seÃ§elim -> YÃ¼kle ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
-Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+Belge kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Belge](../TemelOzellikler/Belgeler.md)
 
-### Kayıt Bilgileri
+### KayÄ±t Bilgileri
 
-Burada işlemi kimin ve hangi tarihte gerçekleştirdiği detayları görüntüleyebiliriz.
-Kim tarafından oluşturuldu, oluşturulma tarihi, onay durumu, değiştiren, değiştirme tarihi detaylarına ulaşım sağlayabiliriz.
+Burada iÅŸlemi kimin ve hangi tarihte gerÃ§ekleÅŸtirdiÄŸi detaylarÄ± gÃ¶rÃ¼ntÃ¼leyebiliriz.
+Kim tarafÄ±ndan oluÅŸturuldu, oluÅŸturulma tarihi, onay durumu, deÄŸiÅŸtiren, deÄŸiÅŸtirme tarihi detaylarÄ±na ulaÅŸÄ±m saÄŸlayabiliriz.
 
 
-**Yeni Stok Kalemi Ekle diyerek yeni stok kalemi ekleme işlemimizi gerçekleştirebiliriz.**
+**Yeni Stok Kalemi Ekle diyerek yeni stok kalemi ekleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.**
 
-Mamüllerimizin stok girişlerini tamamlayıp, bilgilerimizin kontrollerini yaptıktan sonra işlemimizi kaydedebiliriz.
+MamÃ¼llerimizin stok giriÅŸlerini tamamlayÄ±p, bilgilerimizin kontrollerini yaptÄ±ktan sonra iÅŸlemimizi kaydedebiliriz.

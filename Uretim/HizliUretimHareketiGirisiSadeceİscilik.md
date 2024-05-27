@@ -1,73 +1,73 @@
 
-# Hızlı Üretim Hareketi Girişi (Sadece İşçilik)
+# HÄ±zlÄ± Ãœretim Hareketi GiriÅŸi (Sadece Ä°ÅŸÃ§ilik)
 
-Reçetesiz hızlı hareket girmek için kullanılır.
-Üretim hareketinin üretim süreçlerine, operasyon, makine, işçilik çalışma maliyetlerini, çalışan personelleri buradan girebiliriz.
+ReÃ§etesiz hÄ±zlÄ± hareket girmek iÃ§in kullanÄ±lÄ±r.
+Ãœretim hareketinin Ã¼retim sÃ¼reÃ§lerine, operasyon, makine, iÅŸÃ§ilik Ã§alÄ±ÅŸma maliyetlerini, Ã§alÄ±ÅŸan personelleri buradan girebiliriz.
 
 ## Genel 
 
-**Tarih** İşlemin yapıldığı tarihi girelim.
-**İş Emri No:** İş emrini sistem sırasıyla otomatik verir, kendi sıralamanızdan da iş emri numarası verebilirsiniz.
-**Operasyon:** Yapılacak ya da yapılan operasyonu seçelim. Yok ise Detaylı Ekle diyerek hızlıca kayıt açabiliriz.
-**Makine:** Operasyonun yapılacağı ya da yapıldığı makineyi seçelim. 
+**Tarih** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi girelim.
+**Ä°ÅŸ Emri No:** Ä°ÅŸ emrini sistem sÄ±rasÄ±yla otomatik verir, kendi sÄ±ralamanÄ±zdan da iÅŸ emri numarasÄ± verebilirsiniz.
+**Operasyon:** YapÄ±lacak ya da yapÄ±lan operasyonu seÃ§elim. Yok ise DetaylÄ± Ekle diyerek hÄ±zlÄ±ca kayÄ±t aÃ§abiliriz.
+**Makine:** Operasyonun yapÄ±lacaÄŸÄ± ya da yapÄ±ldÄ±ÄŸÄ± makineyi seÃ§elim. 
 **Detay:**
-**Şirket-Şube:** Üretimin hangi şirket-şubede yapıldığını seçelim. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
-**Açıklama:** Üretime ait açıklamalar girebiliriz. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
-**İşçilik/Saat** Operasyonda çalışan işçinin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [İşçiliyet Maliyeti](../Uretim/IscilikMaliyeti.md)
-**Çalışma Mal/Saat** Operasyonda çalışan işçi, makine, elektrik gibi giderlerin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [Birim Maliyeti](../Uretim/BirimMaliyeti.md)
-**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
-	Üretim işleminin bakiyesi seçilen döviz cinsinden takip edilir.
+**Åirket-Åube:** Ãœretimin hangi ÅŸirket-ÅŸubede yapÄ±ldÄ±ÄŸÄ±nÄ± seÃ§elim. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](../TemelOzellikler/SirketSubeHareket.md)
+**AÃ§Ä±klama:** Ãœretime ait aÃ§Ä±klamalar girebiliriz. AÃ§Ä±klama kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
+**Ä°ÅŸÃ§ilik/Saat** Operasyonda Ã§alÄ±ÅŸan iÅŸÃ§inin saatlik Ã¼cretini ifade eder. Maliyet hesaplamasÄ± detaylarÄ± iÃ§in tÄ±klayÄ±nÄ±z. [Ä°ÅŸÃ§iliyet Maliyeti](../Uretim/IscilikMaliyeti.md)
+**Ã‡alÄ±ÅŸma Mal/Saat** Operasyonda Ã§alÄ±ÅŸan iÅŸÃ§i, makine, elektrik gibi giderlerin saatlik Ã¼cretini ifade eder. Maliyet hesaplamasÄ± detaylarÄ± iÃ§in tÄ±klayÄ±nÄ±z. [Birim Maliyeti](../Uretim/BirimMaliyeti.md)
+**DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinsini belirtir.TÃ¼rk lirasÄ± haricinde baÅŸka bir dÃ¶viz seÃ§ildiÄŸinde sadece o dÃ¶viz cinsinden hareket iÅŸlenmesine izin verir. 
+	Ãœretim iÅŸleminin bakiyesi seÃ§ilen dÃ¶viz cinsinden takip edilir.
 
-## Çalışan Personel Listesi
+## Ã‡alÄ±ÅŸan Personel Listesi
 
-Bu operasyonda çalışan personelleri seçelim. 
-Listede isimleri yok ise detaylı ekle diyerek personel ekleme ekranına erişim sağlanır buradan kaydını girebilirsiniz. 
+Bu operasyonda Ã§alÄ±ÅŸan personelleri seÃ§elim. 
+Listede isimleri yok ise detaylÄ± ekle diyerek personel ekleme ekranÄ±na eriÅŸim saÄŸlanÄ±r buradan kaydÄ±nÄ± girebilirsiniz. 
 
-## Üretim Süreçleri
+## Ãœretim SÃ¼reÃ§leri
 
-**Başlangıç:** Üretime başlama saatini girelim.
-**Bitiş:** Üretimin bittiği saati girelim.
-**Hazırlık Süre:** Makinenin ısınması gibi durumlar hazırlık süresi olarak geçer. Makinenin ısındığı süreyi girelim.
-**Üretim Süre:** Başlangıç ve bitiş saati girildiğinde otomatik hesaplanır. Üretim süresine veri girdiğimizde başlangıç ve bitiş saati otomatik hesaplanır.
-**Duraklama Süre:** Makine arızaları gibi durumları ifade eder. Makinenin arızadı ne kadar sürdü girelim. 
-**Mola Süre:** Üretim sırasında ne kadar süre mola verildi girelim. 
+**BaÅŸlangÄ±Ã§:** Ãœretime baÅŸlama saatini girelim.
+**BitiÅŸ:** Ãœretimin bittiÄŸi saati girelim.
+**HazÄ±rlÄ±k SÃ¼re:** Makinenin Ä±sÄ±nmasÄ± gibi durumlar hazÄ±rlÄ±k sÃ¼resi olarak geÃ§er. Makinenin Ä±sÄ±ndÄ±ÄŸÄ± sÃ¼reyi girelim.
+**Ãœretim SÃ¼re:** BaÅŸlangÄ±Ã§ ve bitiÅŸ saati girildiÄŸinde otomatik hesaplanÄ±r. Ãœretim sÃ¼resine veri girdiÄŸimizde baÅŸlangÄ±Ã§ ve bitiÅŸ saati otomatik hesaplanÄ±r.
+**Duraklama SÃ¼re:** Makine arÄ±zalarÄ± gibi durumlarÄ± ifade eder. Makinenin arÄ±zadÄ± ne kadar sÃ¼rdÃ¼ girelim. 
+**Mola SÃ¼re:** Ãœretim sÄ±rasÄ±nda ne kadar sÃ¼re mola verildi girelim. 
 
 ## Duraklama Nedeni
 
-**Neden:** Duraklama nedeni neden durduk detaylarını gireceğimiz alan. Makine bozuldu, arızalandı vb. durumlarda kullanılır.
-Nedeni seçelim alt kısmına da açıklamasını girelim. Makine arıza detaylarını yazalım.
+**Neden:** Duraklama nedeni neden durduk detaylarÄ±nÄ± gireceÄŸimiz alan. Makine bozuldu, arÄ±zalandÄ± vb. durumlarda kullanÄ±lÄ±r.
+Nedeni seÃ§elim alt kÄ±smÄ±na da aÃ§Ä±klamasÄ±nÄ± girelim. Makine arÄ±za detaylarÄ±nÄ± yazalÄ±m.
 
-## Üretim Açıklama
+## Ãœretim AÃ§Ä±klama
 
-Üretime ait özel bir açıklamaları burada belirtebiliriz.
+Ãœretime ait Ã¶zel bir aÃ§Ä±klamalarÄ± burada belirtebiliriz.
 
-# Kaydet butonuna basarak kaydetme işlemimizi tamamlayabiliriz.
+# Kaydet butonuna basarak kaydetme iÅŸlemimizi tamamlayabiliriz.
 
-Kaydetme işlemimizi tamamladıktan sonra iş emrimiz, reçetemiz, üretim planımız tamamlanmış olacaktır. 
-Karşımıza gelen ekranda kayıt ettiğimiz bilgilerden farklı olarak Atlandı seçeneği ve kayıt bilgileri bulunmaktadır.
-Üretim hareketimize belge ve not ekleyebiliriz. Üretim hareketine ait görseller, dokümantasyonlar var ise buraya ekleyebiliriz. 
-Bu şekilde üretim hareketine giren herkes bu belgeleri görüntüleyereke erişim kolaylığı sağlayarak verilerin kaybolmasını önler.
+Kaydetme iÅŸlemimizi tamamladÄ±ktan sonra iÅŸ emrimiz, reÃ§etemiz, Ã¼retim planÄ±mÄ±z tamamlanmÄ±ÅŸ olacaktÄ±r. 
+KarÅŸÄ±mÄ±za gelen ekranda kayÄ±t ettiÄŸimiz bilgilerden farklÄ± olarak AtlandÄ± seÃ§eneÄŸi ve kayÄ±t bilgileri bulunmaktadÄ±r.
+Ãœretim hareketimize belge ve not ekleyebiliriz. Ãœretim hareketine ait gÃ¶rseller, dokÃ¼mantasyonlar var ise buraya ekleyebiliriz. 
+Bu ÅŸekilde Ã¼retim hareketine giren herkes bu belgeleri gÃ¶rÃ¼ntÃ¼leyereke eriÅŸim kolaylÄ±ÄŸÄ± saÄŸlayarak verilerin kaybolmasÄ±nÄ± Ã¶nler.
 
-**Atlandı:** Üretim hareketi ekranında atlamak, üretim sürecinde belirli bir adıma geçişi ifade eder. 
-	Örneğin, bir üretim işçisi veya yönetici, ürünlerin üretim aşamalarını takip ederken, belirli bir aşamadan diğerine geçişi için kullanım sağlar.
-	Üretim aşamasının atlandığını veya tamamlandığını göstermek için kullanılır.
+**AtlandÄ±:** Ãœretim hareketi ekranÄ±nda atlamak, Ã¼retim sÃ¼recinde belirli bir adÄ±ma geÃ§iÅŸi ifade eder. 
+	Ã–rneÄŸin, bir Ã¼retim iÅŸÃ§isi veya yÃ¶netici, Ã¼rÃ¼nlerin Ã¼retim aÅŸamalarÄ±nÄ± takip ederken, belirli bir aÅŸamadan diÄŸerine geÃ§iÅŸi iÃ§in kullanÄ±m saÄŸlar.
+	Ãœretim aÅŸamasÄ±nÄ±n atlandÄ±ÄŸÄ±nÄ± veya tamamlandÄ±ÄŸÄ±nÄ± gÃ¶stermek iÃ§in kullanÄ±lÄ±r.
 
-## İş Emri 
+## Ä°ÅŸ Emri 
 
-Üretim hareketimizi kaydettikten sonra karşımıza çıkan ekranın sağ üst köşesinden erişim sağlayabiliriz.
-İş emrimizi görüntüleyebilir, çıktı alabilir, hızlı düzeltmeler yapabilir, planını görebilir ve tekrardan planlayabiliriz.
-İş Emri kullanım detayları için tıklayınız. [İş Emri](../Uretim/IsEmri.md)
+Ãœretim hareketimizi kaydettikten sonra karÅŸÄ±mÄ±za Ã§Ä±kan ekranÄ±n saÄŸ Ã¼st kÃ¶ÅŸesinden eriÅŸim saÄŸlayabiliriz.
+Ä°ÅŸ emrimizi gÃ¶rÃ¼ntÃ¼leyebilir, Ã§Ä±ktÄ± alabilir, hÄ±zlÄ± dÃ¼zeltmeler yapabilir, planÄ±nÄ± gÃ¶rebilir ve tekrardan planlayabiliriz.
+Ä°ÅŸ Emri kullanÄ±m detaylarÄ± iÃ§in tÄ±klayÄ±nÄ±z. [Ä°ÅŸ Emri](../Uretim/IsEmri.md)
 
-## Reçete Diagramı
+## ReÃ§ete DiagramÄ±
 
-Üretim hareketimizde yaptığımız işlemlerin reçete diagram görüntüsüne sağ üst köşesinden erişim sağlayabiliriz.
-Reçete diagramımızı görüntüleyebilir, düzenlemeler yapabilir, operasyon, mamül, yarı mamül, hammadde ekleyebiliriz. 
-Yanlış olan hammadde, operasyon, yarı mamül, mamülleri silebiliriz.
-Reçete düzenlemelerimizi buradan yapabiliriz.
-Reçete düzenleme kullanım detayları için tıklayınız. [Recete Diagramı](../Uretim/ReceteDiagrami.md)
+Ãœretim hareketimizde yaptÄ±ÄŸÄ±mÄ±z iÅŸlemlerin reÃ§ete diagram gÃ¶rÃ¼ntÃ¼sÃ¼ne saÄŸ Ã¼st kÃ¶ÅŸesinden eriÅŸim saÄŸlayabiliriz.
+ReÃ§ete diagramÄ±mÄ±zÄ± gÃ¶rÃ¼ntÃ¼leyebilir, dÃ¼zenlemeler yapabilir, operasyon, mamÃ¼l, yarÄ± mamÃ¼l, hammadde ekleyebiliriz. 
+YanlÄ±ÅŸ olan hammadde, operasyon, yarÄ± mamÃ¼l, mamÃ¼lleri silebiliriz.
+ReÃ§ete dÃ¼zenlemelerimizi buradan yapabiliriz.
+ReÃ§ete dÃ¼zenleme kullanÄ±m detaylarÄ± iÃ§in tÄ±klayÄ±nÄ±z. [Recete DiagramÄ±](../Uretim/ReceteDiagrami.md)
 
-## Üretim Planı 
+## Ãœretim PlanÄ± 
 
-Üretim hareketimizde yaptığımız işlemlerin üretim planına sağ üst köşesinden erişim sağlayabiliriz.
-Üretim planı ekranımızda makine işlerimizi, makine yoğunluklarımızı görüntüleyebilir, iş planlamamızı yapabiliriz.
-Üretim planı kullanım detayları için tıklayınız. [Üretim Planı](../Uretim/Planlama.md)
+Ãœretim hareketimizde yaptÄ±ÄŸÄ±mÄ±z iÅŸlemlerin Ã¼retim planÄ±na saÄŸ Ã¼st kÃ¶ÅŸesinden eriÅŸim saÄŸlayabiliriz.
+Ãœretim planÄ± ekranÄ±mÄ±zda makine iÅŸlerimizi, makine yoÄŸunluklarÄ±mÄ±zÄ± gÃ¶rÃ¼ntÃ¼leyebilir, iÅŸ planlamamÄ±zÄ± yapabiliriz.
+Ãœretim planÄ± kullanÄ±m detaylarÄ± iÃ§in tÄ±klayÄ±nÄ±z. [Ãœretim PlanÄ±](../Uretim/Planlama.md)

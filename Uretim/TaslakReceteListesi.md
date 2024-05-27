@@ -1,16 +1,16 @@
 
-# Taslak Reçete Listesi 
+# Taslak ReÃ§ete Listesi 
 
-Burada oluşturduğumuz reçete taslaklarımızı ve detaylarını görüntüleyebiliriz.
-Reçetelerimizin tarihlerini, başlangıç tarihlerini, reçete kodunu, reçete adını, stok adını, miktarı, açıklamaları gibi detaylarını görüntüleyebiliriz.
+Burada oluÅŸturduÄŸumuz reÃ§ete taslaklarÄ±mÄ±zÄ± ve detaylarÄ±nÄ± gÃ¶rÃ¼ntÃ¼leyebiliriz.
+ReÃ§etelerimizin tarihlerini, baÅŸlangÄ±Ã§ tarihlerini, reÃ§ete kodunu, reÃ§ete adÄ±nÄ±, stok adÄ±nÄ±, miktarÄ±, aÃ§Ä±klamalarÄ± gibi detaylarÄ±nÄ± gÃ¶rÃ¼ntÃ¼leyebiliriz.
 
-Satırlara tıklayarak reçete diagramına erişim sağlayabiliriz.
-Hammadde, mamül üretim aşamaları, operasyonlarını görüntüleyebiliriz.
-Yapılması gereken düzenlemelerimiz olursa düzenleme yapabiliriz.
+SatÄ±rlara tÄ±klayarak reÃ§ete diagramÄ±na eriÅŸim saÄŸlayabiliriz.
+Hammadde, mamÃ¼l Ã¼retim aÅŸamalarÄ±, operasyonlarÄ±nÄ± gÃ¶rÃ¼ntÃ¼leyebiliriz.
+YapÄ±lmasÄ± gereken dÃ¼zenlemelerimiz olursa dÃ¼zenleme yapabiliriz.
 
-# Ulaşım 
+# UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> Taslak Reçete Listesi şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "reÃ§ete" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartlar -> Taslak ReÃ§ete Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 
-Filtreleme yaparak özel aratma yapabilir istediğimiz verilere kolayca erişim sağlayabiliriz.
+Filtreleme yaparak Ã¶zel aratma yapabilir istediÄŸimiz verilere kolayca eriÅŸim saÄŸlayabiliriz.

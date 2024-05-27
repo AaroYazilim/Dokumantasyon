@@ -1,38 +1,38 @@
 
-# Reçete Diagramı
+# ReÃ§ete DiagramÄ±
 
-Üretim reçetesi diyagramı, genellikle bir ürünün üretim sürecinde kullanılan malzemelerin, ekipmanın ve prosedürlerin detaylı bir listesini içerir. 
-Diyagram, üretim süreçlerini yönetmek ve optimize etmek için kullanılır.
-Reçete diagramı, malzemelerin nasıl kullanılacağını ve işlem adımlarını içerir. 
-Bu adımlar sırayla listelenir ve ürünün yapımının adım adım nasıl gerçekleştirileceğini açıklar.
+Ãœretim reÃ§etesi diyagramÄ±, genellikle bir Ã¼rÃ¼nÃ¼n Ã¼retim sÃ¼recinde kullanÄ±lan malzemelerin, ekipmanÄ±n ve prosedÃ¼rlerin detaylÄ± bir listesini iÃ§erir. 
+Diyagram, Ã¼retim sÃ¼reÃ§lerini yÃ¶netmek ve optimize etmek iÃ§in kullanÄ±lÄ±r.
+ReÃ§ete diagramÄ±, malzemelerin nasÄ±l kullanÄ±lacaÄŸÄ±nÄ± ve iÅŸlem adÄ±mlarÄ±nÄ± iÃ§erir. 
+Bu adÄ±mlar sÄ±rayla listelenir ve Ã¼rÃ¼nÃ¼n yapÄ±mÄ±nÄ±n adÄ±m adÄ±m nasÄ±l gerÃ§ekleÅŸtirileceÄŸini aÃ§Ä±klar.
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol menüden Üretim -> Kartlar -> Taslak Reçete Listesi şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> İş Emri Reçeteleri Listesi şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Listeler -> İş Emri Listesi şeklinde ulaşım sağlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartlar -> Taslak ReÃ§ete Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartlar -> Ä°ÅŸ Emri ReÃ§eteleri Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Listeler -> Ä°ÅŸ Emri Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-# Sonradan Reçete Düzenlemesi Yapmak 
+# Sonradan ReÃ§ete DÃ¼zenlemesi Yapmak 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> İş Emri Reçeteleri Listesi şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "reÃ§ete" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartlar -> Ä°ÅŸ Emri ReÃ§eteleri Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 
-Reçete diagram ekranımızı açalım, işlem yapacağımız yani önüne ya da arkasına ürün gelecek operasyonu seçiniz. 
-Buradan yanlış olan ya da daha sonrasında operasyon, mamül, hammadde, yarı mamüller de değişiklik yapabiliriz.
+ReÃ§ete diagram ekranÄ±mÄ±zÄ± aÃ§alÄ±m, iÅŸlem yapacaÄŸÄ±mÄ±z yani Ã¶nÃ¼ne ya da arkasÄ±na Ã¼rÃ¼n gelecek operasyonu seÃ§iniz. 
+Buradan yanlÄ±ÅŸ olan ya da daha sonrasÄ±nda operasyon, mamÃ¼l, hammadde, yarÄ± mamÃ¼ller de deÄŸiÅŸiklik yapabiliriz.
 
-### Hammaddeye tıklayalım hammadde düzeltebilir, hammadde silebilir, operasyon ekleyebilir(öncesi ve sonrası), reçete getirebiliriz.
+### Hammaddeye tÄ±klayalÄ±m hammadde dÃ¼zeltebilir, hammadde silebilir, operasyon ekleyebilir(Ã¶ncesi ve sonrasÄ±), reÃ§ete getirebiliriz.
 
-Reçetede hammadde de yapabileceğimiz işlemlerin detaylarına linkten erişebiliriz. [Hammadde](../Uretim/HammaddeEkle.md)
+ReÃ§etede hammadde de yapabileceÄŸimiz iÅŸlemlerin detaylarÄ±na linkten eriÅŸebiliriz. [Hammadde](../Uretim/HammaddeEkle.md)
 
-### Operasyona tıklayalım Operasyon düzeletebilir, silebilir, hammadde ya da mamül ekleyebiliriz.
+### Operasyona tÄ±klayalÄ±m Operasyon dÃ¼zeletebilir, silebilir, hammadde ya da mamÃ¼l ekleyebiliriz.
 
-Reçetede operasyonda yapabileceğimiz işlemlerin detaylarına linkten erişebiliriz. [Operasyon](../Uretim/OperasyonEkle.md)
+ReÃ§etede operasyonda yapabileceÄŸimiz iÅŸlemlerin detaylarÄ±na linkten eriÅŸebiliriz. [Operasyon](../Uretim/OperasyonEkle.md)
 
-### Mamüle tıklayalım mamül düzeltebilir, mamül silebilir, operasyon ekleyebilir(öncesi ve sonrası), reçete miktarı belirleyebiliriz.
+### MamÃ¼le tÄ±klayalÄ±m mamÃ¼l dÃ¼zeltebilir, mamÃ¼l silebilir, operasyon ekleyebilir(Ã¶ncesi ve sonrasÄ±), reÃ§ete miktarÄ± belirleyebiliriz.
 
-Reçetede mamülde yapabileceğimiz işlemlerin detaylarına linkten erişebiliriz. [Mamül](../Uretim/MamülEkle.md)
+ReÃ§etede mamÃ¼lde yapabileceÄŸimiz iÅŸlemlerin detaylarÄ±na linkten eriÅŸebiliriz. [MamÃ¼l](../Uretim/MamÃ¼lEkle.md)
 
 
-### Hammadde Mamül(Yarı Mamül) tıklayalım hammadde-mamül düzeltebilir, silebilir, önceki zinciri silebilir, Operasyon ekleyebiliriz(öncesi-sonrası).
+### Hammadde MamÃ¼l(YarÄ± MamÃ¼l) tÄ±klayalÄ±m hammadde-mamÃ¼l dÃ¼zeltebilir, silebilir, Ã¶nceki zinciri silebilir, Operasyon ekleyebiliriz(Ã¶ncesi-sonrasÄ±).
 
-Reçetede operasyonda yapabileceğimiz işlemlerin detaylarına linkten erişebiliriz. [Hammadde-Mamül](../Uretim/HammaddeMamul.md)
+ReÃ§etede operasyonda yapabileceÄŸimiz iÅŸlemlerin detaylarÄ±na linkten eriÅŸebiliriz. [Hammadde-MamÃ¼l](../Uretim/HammaddeMamul.md)

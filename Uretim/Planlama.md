@@ -11,7 +11,7 @@ MRP, üretim sürecinin her aşamasında hangi malzemelerin ne zaman ve ne kadar
 
 [İş Emri Ekleme](../Uretim/YeniIsEmri.md) yaparak planlama aşamanıza başlayabilirsiniz. 
 
-## Üretim Planı
+# Üretim Planı
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Üretim Planı" aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Kartlar -> İş Emri Listesi -> İş Emrini açınız -> Plan Göster şeklinde ulaşım sağlayabilirsiniz.
@@ -19,7 +19,7 @@ MRP, üretim sürecinin her aşamasında hangi malzemelerin ne zaman ve ne kadar
 
 ## Tanım 
 
-
+Üretim planı, bir işletmenin üretim yapacağı ürünleri, kullanılacak hammadde miktarını, üretim sürecinin zamanlamasını ve kaynak dağılımını içeren bir planlama belgesidir. Bu plan, üretim sürecinin verimli bir şekilde yönetilmesini sağlar ve işletmenizin hedeflerine ulaşmasına yardımcı olur.
 
 Burada planlamalarda değişiklik yapmak için sürükleyerek kolayca değişiklik yapabiliriz.
 

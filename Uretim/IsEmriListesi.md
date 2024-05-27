@@ -1,19 +1,19 @@
 
-# İş Emri
+# Ä°ÅŸ Emri
 
-İş Emri bir işin yapılması için çalışanlara veya birimlere verilen talimatlardır. 
-İş emri bir işin ne zaman, nerede, nasıl ve kim tarafından yapılacağını belirtir.
+Ä°ÅŸ Emri bir iÅŸin yapÄ±lmasÄ± iÃ§in Ã§alÄ±ÅŸanlara veya birimlere verilen talimatlardÄ±r. 
+Ä°ÅŸ emri bir iÅŸin ne zaman, nerede, nasÄ±l ve kim tarafÄ±ndan yapÄ±lacaÄŸÄ±nÄ± belirtir.
 
-## İş Emri Listesi
+## Ä°ÅŸ Emri Listesi
 
-İş emirlerimizin hareketlerini, iş emirlerimizi, reçete isimlerini,ş emri numaralarını, tarihlerini, miktarlarını, üretilen miktarlarını, planlamanın gerçekleştiği gibi detayları görüntüleyebiliriz.
-İş emirlerine tıklayarak detaylarına erişebilir, değişik yapabilir, sipariş detaylarını görüntüleyebiliriz.
-Kısayollardan reçete diagramına erişebilir, üretim hareketlerini, fiili gerçekleşen üretim maliyeti, iş emir için gerekli stok durumunu görüntüleyebiliriz.
-Kayıt bilgilerinden oluşturan kişiyi, olulturma tarihlerini görüntüleyebiliriz.
-Yeni iş emri ekleyebiliriz. İş emri oluşturma detaylarına linkten erişebilirsiniz. [Yeni İş Emri](../Uretim/YeniIsEmri.md)
+Ä°ÅŸ emirlerimizin hareketlerini, iÅŸ emirlerimizi, reÃ§ete isimlerini,ÅŸ emri numaralarÄ±nÄ±, tarihlerini, miktarlarÄ±nÄ±, Ã¼retilen miktarlarÄ±nÄ±, planlamanÄ±n gerÃ§ekleÅŸtiÄŸi gibi detaylarÄ± gÃ¶rÃ¼ntÃ¼leyebiliriz.
+Ä°ÅŸ emirlerine tÄ±klayarak detaylarÄ±na eriÅŸebilir, deÄŸiÅŸik yapabilir, sipariÅŸ detaylarÄ±nÄ± gÃ¶rÃ¼ntÃ¼leyebiliriz.
+KÄ±sayollardan reÃ§ete diagramÄ±na eriÅŸebilir, Ã¼retim hareketlerini, fiili gerÃ§ekleÅŸen Ã¼retim maliyeti, iÅŸ emir iÃ§in gerekli stok durumunu gÃ¶rÃ¼ntÃ¼leyebiliriz.
+KayÄ±t bilgilerinden oluÅŸturan kiÅŸiyi, olulturma tarihlerini gÃ¶rÃ¼ntÃ¼leyebiliriz.
+Yeni iÅŸ emri ekleyebiliriz. Ä°ÅŸ emri oluÅŸturma detaylarÄ±na linkten eriÅŸebilirsiniz. [Yeni Ä°ÅŸ Emri](../Uretim/YeniIsEmri.md)
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "İş emri" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Listeler -> İş Emri Listesi şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "Ä°ÅŸ emri" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Listeler -> Ä°ÅŸ Emri Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 

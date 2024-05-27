@@ -1,11 +1,11 @@
 
 # Listeler 
 
-- [Üretim Hareketleri Listesi](../Uretim/UretimHareketleriListesi.md)
-- [Üretim Planı](../Uretim/UretimPlani.md)
-- [Üretim Planı Özet](../Uretim/UretimPlanOzet.md)
-- [İş Emri Listesi](../Uretim/IsEmriListesi.md)
-- [Makine Arıza Kaydı Listesi](../Uretim/MakineArizaKaydiListesi.md)
-- [Üretim Hareketi Çalışan Personel](../Uretim/UretimHareketeiCalisanListesi.md)
-- [Üretim Hareketi Kullanılan Hammadde](../Uretim/UretimHareketiKullanilanHammadde.md)
-- [Üretim Hareketi Üretilen Mamül](../Uretim/UretimHareketiUretilenMamul.md)
+- [Ãœretim Hareketleri Listesi](../Uretim/UretimHareketleriListesi.md)
+- [Ãœretim PlanÄ±](../Uretim/UretimPlani.md)
+- [Ãœretim PlanÄ± Ã–zet](../Uretim/UretimPlanOzet.md)
+- [Ä°ÅŸ Emri Listesi](../Uretim/IsEmriListesi.md)
+- [Makine ArÄ±za KaydÄ± Listesi](../Uretim/MakineArizaKaydiListesi.md)
+- [Ãœretim Hareketi Ã‡alÄ±ÅŸan Personel](../Uretim/UretimHareketeiCalisanListesi.md)
+- [Ãœretim Hareketi KullanÄ±lan Hammadde](../Uretim/UretimHareketiKullanilanHammadde.md)
+- [Ãœretim Hareketi Ãœretilen MamÃ¼l](../Uretim/UretimHareketiUretilenMamul.md)

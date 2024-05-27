@@ -1,24 +1,24 @@
 
-# Üretim Planı Özet 
+# Ãœretim PlanÄ± Ã–zet 
 
-Üretim planı, belirli tarihlerde üretilecek ürünler için makinelerin iş gücü takvimini içerir. 
-Amaç, makine verimliliği artırmak, makine doluluk oranlarını dengelemek ve işleri zamanında planlanmasını sağlamaktır.
+Ãœretim planÄ±, belirli tarihlerde Ã¼retilecek Ã¼rÃ¼nler iÃ§in makinelerin iÅŸ gÃ¼cÃ¼ takvimini iÃ§erir. 
+AmaÃ§, makine verimliliÄŸi artÄ±rmak, makine doluluk oranlarÄ±nÄ± dengelemek ve iÅŸleri zamanÄ±nda planlanmasÄ±nÄ± saÄŸlamaktÄ±r.
 
-Makine de ki iş yoğunluğu ifade eder. Makinenin doluluk oranını % kısmından anlayabilir, makine yükünü azaltarak işleri hızlandırabiliriz.
-Çok dolu makineler kırmızı ile gösterilmektedir.
-Doluluk oranı artmaya başlayan yüzdelik oranını geçmiş makineler biraz daha açık kırmzı ile gösterilir.
-Dolmak üzere olan makineler yeşil renkle gösterilir.
-Dolulukları az olan normal seviye de olan makineler amvi renkle gösterilir.
-Doluluk oranları en az olan makineler ise açık mavi ile gösterilir.
+Makine de ki iÅŸ yoÄŸunluÄŸu ifade eder. Makinenin doluluk oranÄ±nÄ± % kÄ±smÄ±ndan anlayabilir, makine yÃ¼kÃ¼nÃ¼ azaltarak iÅŸleri hÄ±zlandÄ±rabiliriz.
+Ã‡ok dolu makineler kÄ±rmÄ±zÄ± ile gÃ¶sterilmektedir.
+Doluluk oranÄ± artmaya baÅŸlayan yÃ¼zdelik oranÄ±nÄ± geÃ§miÅŸ makineler biraz daha aÃ§Ä±k kÄ±rmzÄ± ile gÃ¶sterilir.
+Dolmak Ã¼zere olan makineler yeÅŸil renkle gÃ¶sterilir.
+DoluluklarÄ± az olan normal seviye de olan makineler amvi renkle gÃ¶sterilir.
+Doluluk oranlarÄ± en az olan makineler ise aÃ§Ä±k mavi ile gÃ¶sterilir.
 
-Bu oranları görüntüleyerek kolayca makine doluluk oranlarımızı görüntüleyebiliriz. 
-Kutulara tıklayarak makinede ki operasyonları kolayca görüntüleyebiliriz.
-Yeniden düzenlemeler, planlamalar yaparak iş yükünü hafifleterek yetişmesi gereken işlere öncelik verilebilir ya da alternatif makineleri kullanmayı tercih edebiliriz.
+Bu oranlarÄ± gÃ¶rÃ¼ntÃ¼leyerek kolayca makine doluluk oranlarÄ±mÄ±zÄ± gÃ¶rÃ¼ntÃ¼leyebiliriz. 
+Kutulara tÄ±klayarak makinede ki operasyonlarÄ± kolayca gÃ¶rÃ¼ntÃ¼leyebiliriz.
+Yeniden dÃ¼zenlemeler, planlamalar yaparak iÅŸ yÃ¼kÃ¼nÃ¼ hafifleterek yetiÅŸmesi gereken iÅŸlere Ã¶ncelik verilebilir ya da alternatif makineleri kullanmayÄ± tercih edebiliriz.
 
-K ile ifade edilen oranlar makine için ihtiyaç duyulan personeli ifade eder.
-S ile ifade edilen oranlar makine için 
+K ile ifade edilen oranlar makine iÃ§in ihtiyaÃ§ duyulan personeli ifade eder.
+S ile ifade edilen oranlar makine iÃ§in 
 
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol menüden Üretim -> Listeler -> Üretim Planı Özet şeklinde ulaşım sağlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Listeler -> Ãœretim PlanÄ± Ã–zet ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.

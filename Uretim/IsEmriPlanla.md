@@ -1,51 +1,51 @@
 
-# İş Emri Planla
+# Ä°ÅŸ Emri Planla
 
-İş emri planlama, üretim sürecinde belirli görevlerin ve aktivitelerin zamanında ve verimli bir şekilde gerçekleştirilmesini sağlamak için kullanılan bir yönetim ve organizasyon sürecidir. 
-- Müşteriden gelen talepler ve siparişler alınır, 
-- Alınan talepler doğrultusunda üretim için iş emirleri oluşturulur. Bu emirler, hangi ürünlerin, ne zaman ve ne kadar üretileceğini belirler.
-- Üretim için gerekli olan hammadde, iş gücü ve makineler gibi kaynaklar belirlenir ve uygun şekilde tahsis edilir.
-- İş emirleri için bir zaman planı hazırlanır. Bu plan, üretim sürecinin her aşamasının başlangıç ve bitiş zamanlarını içerir.
-- Üretim hattında veya farklı iş merkezlerinde iş yükü dengeli bir şekilde dağıtılır.
-- Üretim süreci boyunca iş emirlerinin ilerleyişi sürekli izlenir ve planlanan takvime uygun olup olmadığı kontrol edilir. 
-- Üretim sürecinde karşılaşılan aksaklıklar ve gecikmeler değerlendirilir. Gerekli düzeltici önlemler alınarak iş planı güncellenir.
-- Kaynakların etkin kullanımı sayesinde üretim verimliliği artırılır.
-- İyi planlanmış iş emirleri, ürünlerin müşterilere zamanında teslim edilmesini sağlar.
-- Gereksiz harcamaların önüne geçilerek üretim maliyetleri kontrol altında tutulur.
-- Üretim sürecinde karşılaşılan değişikliklere ve acil durumlara hızlıca uyum sağlanabilir.
+Ä°ÅŸ emri planlama, Ã¼retim sÃ¼recinde belirli gÃ¶revlerin ve aktivitelerin zamanÄ±nda ve verimli bir ÅŸekilde gerÃ§ekleÅŸtirilmesini saÄŸlamak iÃ§in kullanÄ±lan bir yÃ¶netim ve organizasyon sÃ¼recidir. 
+- MÃ¼ÅŸteriden gelen talepler ve sipariÅŸler alÄ±nÄ±r, 
+- AlÄ±nan talepler doÄŸrultusunda Ã¼retim iÃ§in iÅŸ emirleri oluÅŸturulur. Bu emirler, hangi Ã¼rÃ¼nlerin, ne zaman ve ne kadar Ã¼retileceÄŸini belirler.
+- Ãœretim iÃ§in gerekli olan hammadde, iÅŸ gÃ¼cÃ¼ ve makineler gibi kaynaklar belirlenir ve uygun ÅŸekilde tahsis edilir.
+- Ä°ÅŸ emirleri iÃ§in bir zaman planÄ± hazÄ±rlanÄ±r. Bu plan, Ã¼retim sÃ¼recinin her aÅŸamasÄ±nÄ±n baÅŸlangÄ±Ã§ ve bitiÅŸ zamanlarÄ±nÄ± iÃ§erir.
+- Ãœretim hattÄ±nda veya farklÄ± iÅŸ merkezlerinde iÅŸ yÃ¼kÃ¼ dengeli bir ÅŸekilde daÄŸÄ±tÄ±lÄ±r.
+- Ãœretim sÃ¼reci boyunca iÅŸ emirlerinin ilerleyiÅŸi sÃ¼rekli izlenir ve planlanan takvime uygun olup olmadÄ±ÄŸÄ± kontrol edilir. 
+- Ãœretim sÃ¼recinde karÅŸÄ±laÅŸÄ±lan aksaklÄ±klar ve gecikmeler deÄŸerlendirilir. Gerekli dÃ¼zeltici Ã¶nlemler alÄ±narak iÅŸ planÄ± gÃ¼ncellenir.
+- KaynaklarÄ±n etkin kullanÄ±mÄ± sayesinde Ã¼retim verimliliÄŸi artÄ±rÄ±lÄ±r.
+- Ä°yi planlanmÄ±ÅŸ iÅŸ emirleri, Ã¼rÃ¼nlerin mÃ¼ÅŸterilere zamanÄ±nda teslim edilmesini saÄŸlar.
+- Gereksiz harcamalarÄ±n Ã¶nÃ¼ne geÃ§ilerek Ã¼retim maliyetleri kontrol altÄ±nda tutulur.
+- Ãœretim sÃ¼recinde karÅŸÄ±laÅŸÄ±lan deÄŸiÅŸikliklere ve acil durumlara hÄ±zlÄ±ca uyum saÄŸlanabilir.
 
-## Üretim Planı
+## Ãœretim PlanÄ±
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Üretim Planı" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> İş Emri Listesi -> İş Emrini açınız -> Plan Göster şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Listeler -> Üretim Planı şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "Ãœretim PlanÄ±" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartlar -> Ä°ÅŸ Emri Listesi -> Ä°ÅŸ Emrini aÃ§Ä±nÄ±z -> Plan GÃ¶ster ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Listeler -> Ãœretim PlanÄ± ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-## Tanım 
+## TanÄ±m 
 
-Üretim süreçlerinin ne zaman ve hangi sırayla gerçekleşeceğini görüntüleyebiliriz. 
-Makine ve işgücü gibi kaynakların en verimli şekilde kullanılması hedeflenir.
-Üretim planında, üretim planınızı görüntüleyerek üretim planlamalarınızı yapabilirsiniz.
+Ãœretim sÃ¼reÃ§lerinin ne zaman ve hangi sÄ±rayla gerÃ§ekleÅŸeceÄŸini gÃ¶rÃ¼ntÃ¼leyebiliriz. 
+Makine ve iÅŸgÃ¼cÃ¼ gibi kaynaklarÄ±n en verimli ÅŸekilde kullanÄ±lmasÄ± hedeflenir.
+Ãœretim planÄ±nda, Ã¼retim planÄ±nÄ±zÄ± gÃ¶rÃ¼ntÃ¼leyerek Ã¼retim planlamalarÄ±nÄ±zÄ± yapabilirsiniz.
 
-### Toplu Plan Kaydırma
+### Toplu Plan KaydÄ±rma
 
-Üretim planlarında esneklik sağlayarak, beklenmedik durumlara hızlıca adapte olmayı mümkün kılar.
+Ãœretim planlarÄ±nda esneklik saÄŸlayarak, beklenmedik durumlara hÄ±zlÄ±ca adapte olmayÄ± mÃ¼mkÃ¼n kÄ±lar.
 
-### Toplu Makine Değiştir
+### Toplu Makine DeÄŸiÅŸtir
 
-Toplu Makine Değiştir işlemi, belirli üretim süreçlerinde kullanılan makinelerin toplu olarak değiştirilmesi veya güncellenmesi gereken durumlarda kullanılan bir fonksiyondur. 
-Üretim süreçlerinde esneklik ve verimlilik sağlar ve makine arızaları, bakım ihtiyaçları veya kapasite değişiklikleri gibi durumlara hızlı bir şekilde adapte olmayı mümkün kılar.
+Toplu Makine DeÄŸiÅŸtir iÅŸlemi, belirli Ã¼retim sÃ¼reÃ§lerinde kullanÄ±lan makinelerin toplu olarak deÄŸiÅŸtirilmesi veya gÃ¼ncellenmesi gereken durumlarda kullanÄ±lan bir fonksiyondur. 
+Ãœretim sÃ¼reÃ§lerinde esneklik ve verimlilik saÄŸlar ve makine arÄ±zalarÄ±, bakÄ±m ihtiyaÃ§larÄ± veya kapasite deÄŸiÅŸiklikleri gibi durumlara hÄ±zlÄ± bir ÅŸekilde adapte olmayÄ± mÃ¼mkÃ¼n kÄ±lar.
 
-### Geçmiş Tarihli Planı Bugüne Taşı 
+### GeÃ§miÅŸ Tarihli PlanÄ± BugÃ¼ne TaÅŸÄ± 
 
-Geçmiş Tarihli Planı Bugüne Taşı işlemi, planlanmış ancak belirli bir nedenle gerçekleştiremediğimiz üretim faaliyetlerini yeniden planlayarak bugüne alınmasıdır. 
-Bu işlem, özellikle üretim süreçlerinde gecikmelerin telafi edebilmemiz ve üretim hedeflerinin zamanında gerçekleştirebilmemiz için önemlidir.
+GeÃ§miÅŸ Tarihli PlanÄ± BugÃ¼ne TaÅŸÄ± iÅŸlemi, planlanmÄ±ÅŸ ancak belirli bir nedenle gerÃ§ekleÅŸtiremediÄŸimiz Ã¼retim faaliyetlerini yeniden planlayarak bugÃ¼ne alÄ±nmasÄ±dÄ±r. 
+Bu iÅŸlem, Ã¶zellikle Ã¼retim sÃ¼reÃ§lerinde gecikmelerin telafi edebilmemiz ve Ã¼retim hedeflerinin zamanÄ±nda gerÃ§ekleÅŸtirebilmemiz iÃ§in Ã¶nemlidir.
 
-### Tüm Üretimi Planla
+### TÃ¼m Ãœretimi Planla
 
-Hazır olan tüm iş emirlerinin otomatik planlamasının yapılmasıdır.
-İşlem yaptığımız gün itibariyle tüm üretimi, teslim tarihi ve önceliklere göre otomatik olarak planlanacaktır.
+HazÄ±r olan tÃ¼m iÅŸ emirlerinin otomatik planlamasÄ±nÄ±n yapÄ±lmasÄ±dÄ±r.
+Ä°ÅŸlem yaptÄ±ÄŸÄ±mÄ±z gÃ¼n itibariyle tÃ¼m Ã¼retimi, teslim tarihi ve Ã¶nceliklere gÃ¶re otomatik olarak planlanacaktÄ±r.
 
 
 
-**Bu işlemleri gerçekleştirmek için detaylı anlatıma buradan erişebilirsiniz.** [Üretim Planlama](../Uretim/Planlama.md)
+**Bu iÅŸlemleri gerÃ§ekleÅŸtirmek iÃ§in detaylÄ± anlatÄ±ma buradan eriÅŸebilirsiniz.** [Ãœretim Planlama](../Uretim/Planlama.md)
 

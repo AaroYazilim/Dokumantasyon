@@ -1,9 +1,9 @@
 
 # Kartlar 
 
-- [Operasyon ile Makine Eşleştirme](../Uretim/OperasyonMakineEslestirme.md)
-- [Taslak Reçete Listesi](../Uretim/TaslakReceteListesi.md)
-- [İş Emri Reçete Listesi](../IsEmriReceteleri.md)
+- [Operasyon ile Makine EÅŸleÅŸtirme](../Uretim/OperasyonMakineEslestirme.md)
+- [Taslak ReÃ§ete Listesi](../Uretim/TaslakReceteListesi.md)
+- [Ä°ÅŸ Emri ReÃ§ete Listesi](../IsEmriReceteleri.md)
 - [Makine Listesi](../Uretim/Makine.md)
 - [Operasyon Listesi](../Uretim/Operasyon.md)
-- [Üretim Terminali Makine Eşleştirme](../Uretim/TerminalKullaniciEkleme.md)
+- [Ãœretim Terminali Makine EÅŸleÅŸtirme](../Uretim/TerminalKullaniciEkleme.md)

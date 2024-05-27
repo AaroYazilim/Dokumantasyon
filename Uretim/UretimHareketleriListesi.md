@@ -1,19 +1,19 @@
 
-# Üretim Hareketleri Listesi
+# Ãœretim Hareketleri Listesi
 
-Üretim hareketleri listesi, işletmemizde üretim sürecinde gerçekleşen tüm hareketleri içeren detaylarını gösteren bir listelemedir. 
-Bu liste, üretim işlemleri, iş emri numarası,operasyon, makine, mamülün üretim hareketleri, sürelerini ve diğer üretimle ilgili faaliyetleri içerebilir. 
-İstediğimiz tarih, iş emri numarası, operasyon, makine gibi filtrelemeler yaparak istediğimiz verilere kolayca erişim sağlayabiliriz.
-Üretim hareketlerine tıklayarak detaylarına erişebiliriz, düzenleme sağlayabiliriz.
-Hareket için eklenmiş görselleri, belgeleri ve notları görüntüntüleyebiliriz.
-Hareket kayıtlarını giren yetkiliyi görebiliriz.
-İş Emrine, Reçete diagramına, üretim planlamasına kolayca erişim sağlayarak düzenlememiz gereken bilgileri düzenleyebiliriz.
+Ãœretim hareketleri listesi, iÅŸletmemizde Ã¼retim sÃ¼recinde gerÃ§ekleÅŸen tÃ¼m hareketleri iÃ§eren detaylarÄ±nÄ± gÃ¶steren bir listelemedir. 
+Bu liste, Ã¼retim iÅŸlemleri, iÅŸ emri numarasÄ±,operasyon, makine, mamÃ¼lÃ¼n Ã¼retim hareketleri, sÃ¼relerini ve diÄŸer Ã¼retimle ilgili faaliyetleri iÃ§erebilir. 
+Ä°stediÄŸimiz tarih, iÅŸ emri numarasÄ±, operasyon, makine gibi filtrelemeler yaparak istediÄŸimiz verilere kolayca eriÅŸim saÄŸlayabiliriz.
+Ãœretim hareketlerine tÄ±klayarak detaylarÄ±na eriÅŸebiliriz, dÃ¼zenleme saÄŸlayabiliriz.
+Hareket iÃ§in eklenmiÅŸ gÃ¶rselleri, belgeleri ve notlarÄ± gÃ¶rÃ¼ntÃ¼ntÃ¼leyebiliriz.
+Hareket kayÄ±tlarÄ±nÄ± giren yetkiliyi gÃ¶rebiliriz.
+Ä°ÅŸ Emrine, ReÃ§ete diagramÄ±na, Ã¼retim planlamasÄ±na kolayca eriÅŸim saÄŸlayarak dÃ¼zenlememiz gereken bilgileri dÃ¼zenleyebiliriz.
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol menüden Üretim -> Listeler -> Üretim Hareketleri Listesi şeklinde ulaşım sağlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Listeler -> Ãœretim Hareketleri Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-### Anasayfaya kısayol olarak ekle 
+### Anasayfaya kÄ±sayol olarak ekle 
 
-İş emri reçete listesini anasayfaya kısayol olarak ekleyebiliriz, böylece hızlı ve kolay erişim sağlayabiliriz.
-Bu kısayol, iş emri reçete listesine anında ulaşmanızı sağlar.
+Ä°ÅŸ emri reÃ§ete listesini anasayfaya kÄ±sayol olarak ekleyebiliriz, bÃ¶ylece hÄ±zlÄ± ve kolay eriÅŸim saÄŸlayabiliriz.
+Bu kÄ±sayol, iÅŸ emri reÃ§ete listesine anÄ±nda ulaÅŸmanÄ±zÄ± saÄŸlar.

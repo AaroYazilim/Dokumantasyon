@@ -1,101 +1,101 @@
 
-# Üretim Planı
+# Ãœretim PlanÄ±
 
-Üretim süreçlerinin ne zaman ve hangi sırayla gerçekleşeceğini görüntüleyebiliriz. 
-Makine ve işgücü gibi kaynakların en verimli şekilde kullanılması hedeflenir.
-Üretim planında, üretim planınızı görüntüleyerek üretim planlamalarınızı yapabilirsiniz.
-Makine doluluk oranını görüntüleyebilir, iş yükünü değerlendirerek yeni düzenlemeler yapabilirsiniz.
-Tarih, cari, iş emri, operasyon, makineye göre filtreleme yaparak istediğimiz verilere kolayca erişim sağlayabiliriz.
-Filtrelemede Sadece İş Emri Gelsin;
-**Evet** seçeneği seçili olduğunda sadece iş emirlerini görüntüleriz.
-**Hayır** seçeneği seçili olduğunda set ve süreler gözükmektedir.
+Ãœretim sÃ¼reÃ§lerinin ne zaman ve hangi sÄ±rayla gerÃ§ekleÅŸeceÄŸini gÃ¶rÃ¼ntÃ¼leyebiliriz. 
+Makine ve iÅŸgÃ¼cÃ¼ gibi kaynaklarÄ±n en verimli ÅŸekilde kullanÄ±lmasÄ± hedeflenir.
+Ãœretim planÄ±nda, Ã¼retim planÄ±nÄ±zÄ± gÃ¶rÃ¼ntÃ¼leyerek Ã¼retim planlamalarÄ±nÄ±zÄ± yapabilirsiniz.
+Makine doluluk oranÄ±nÄ± gÃ¶rÃ¼ntÃ¼leyebilir, iÅŸ yÃ¼kÃ¼nÃ¼ deÄŸerlendirerek yeni dÃ¼zenlemeler yapabilirsiniz.
+Tarih, cari, iÅŸ emri, operasyon, makineye gÃ¶re filtreleme yaparak istediÄŸimiz verilere kolayca eriÅŸim saÄŸlayabiliriz.
+Filtrelemede Sadece Ä°ÅŸ Emri Gelsin;
+**Evet** seÃ§eneÄŸi seÃ§ili olduÄŸunda sadece iÅŸ emirlerini gÃ¶rÃ¼ntÃ¼leriz.
+**HayÄ±r** seÃ§eneÄŸi seÃ§ili olduÄŸunda set ve sÃ¼reler gÃ¶zÃ¼kmektedir.
 
-İş emirlerinize tıklayarak yeni üretim girişi yapabilir, üretilen setleri görüntüleyebilir, parçalayabilir, iş emrine erişebilir, makine değiştirebilir, üretime ait çıktılar alabiliriz.
+Ä°ÅŸ emirlerinize tÄ±klayarak yeni Ã¼retim giriÅŸi yapabilir, Ã¼retilen setleri gÃ¶rÃ¼ntÃ¼leyebilir, parÃ§alayabilir, iÅŸ emrine eriÅŸebilir, makine deÄŸiÅŸtirebilir, Ã¼retime ait Ã§Ä±ktÄ±lar alabiliriz.
 
-## Yeni Üretim Girişi
+## Yeni Ãœretim GiriÅŸi
 
-	İş emrine ait yeni üretim hareketi girişinde düzenleme yapabiliriz, hareket düzenleme yapabiliriz.
+	Ä°ÅŸ emrine ait yeni Ã¼retim hareketi giriÅŸinde dÃ¼zenleme yapabiliriz, hareket dÃ¼zenleme yapabiliriz.
 
 	### Genel
 	
-	**Tarih:** İşlem tarihini girelim.
-	**Makine Adı:** İşlemde kullanılan makineyi seçelim.
+	**Tarih:** Ä°ÅŸlem tarihini girelim.
+	**Makine AdÄ±:** Ä°ÅŸlemde kullanÄ±lan makineyi seÃ§elim.
 	**Detay:**
 	
-	### Mamüller
+	### MamÃ¼ller
 	
-	**Mamül Adı:** Mamül adına tıkladığımızda mamülün stok kartı açılacaktır. 
-		Stok detaylarını görüntüleyebiliriz birim1, stok kodu, kategori, alış, satış fiyatları, barkod ve ölçü birimlerinde değişiklik yapabiliriz.
-	**Miktar:** Mamülümüzün olması gereken miktarını girelim. 
+	**MamÃ¼l AdÄ±:** MamÃ¼l adÄ±na tÄ±kladÄ±ÄŸÄ±mÄ±zda mamÃ¼lÃ¼n stok kartÄ± aÃ§Ä±lacaktÄ±r. 
+		Stok detaylarÄ±nÄ± gÃ¶rÃ¼ntÃ¼leyebiliriz birim1, stok kodu, kategori, alÄ±ÅŸ, satÄ±ÅŸ fiyatlarÄ±, barkod ve Ã¶lÃ§Ã¼ birimlerinde deÄŸiÅŸiklik yapabiliriz.
+	**Miktar:** MamÃ¼lÃ¼mÃ¼zÃ¼n olmasÄ± gereken miktarÄ±nÄ± girelim. 
 	**Birim:** Miktar birim cinsi, kg, adet, metrekare vb. burada yazar.
-	**Seri/Lot:** Seri lotla takip ettiğimiz ürün ise detaylarını burada görüntüleyebiliriz.
+	**Seri/Lot:** Seri lotla takip ettiÄŸimiz Ã¼rÃ¼n ise detaylarÄ±nÄ± burada gÃ¶rÃ¼ntÃ¼leyebiliriz.
 	
 	### Hammaddeler
 	
-	**Hammadde Adı:** Hammadde adına tıkladığımızda hammaddenin stok kartı açılacaktır. 
-		Stok detaylarını görüntüleyebiliriz birim1, stok kodu, kategori, alış, satış fiyatları, barkod ve ölçü birimlerinde değişiklik yapabiliriz.
-	**Miktar:** Hammaddemizin olması gereken miktarını girelim. 
+	**Hammadde AdÄ±:** Hammadde adÄ±na tÄ±kladÄ±ÄŸÄ±mÄ±zda hammaddenin stok kartÄ± aÃ§Ä±lacaktÄ±r. 
+		Stok detaylarÄ±nÄ± gÃ¶rÃ¼ntÃ¼leyebiliriz birim1, stok kodu, kategori, alÄ±ÅŸ, satÄ±ÅŸ fiyatlarÄ±, barkod ve Ã¶lÃ§Ã¼ birimlerinde deÄŸiÅŸiklik yapabiliriz.
+	**Miktar:** Hammaddemizin olmasÄ± gereken miktarÄ±nÄ± girelim. 
 	**Birim:** Miktar birim cinsi, kg, adet, metrekare vb. burada yazar.
-	**Reçete Miktar:** Reçete için gerekli olan miktarı burada görüntüleyebiliriz.
-	**Seri/Lot:** Seri lotla takip ettiğimiz ürün ise detaylarını burada görüntüleyebiliriz.
+	**ReÃ§ete Miktar:** ReÃ§ete iÃ§in gerekli olan miktarÄ± burada gÃ¶rÃ¼ntÃ¼leyebiliriz.
+	**Seri/Lot:** Seri lotla takip ettiÄŸimiz Ã¼rÃ¼n ise detaylarÄ±nÄ± burada gÃ¶rÃ¼ntÃ¼leyebiliriz.
 	
-	### Çalışan Personel Listesi
+	### Ã‡alÄ±ÅŸan Personel Listesi
 	
-	Üretimde çalışan personelleri seçelim. Personelin kaydı yok ise detaylı ekle diyerek ekleme yapabiliriz.
+	Ãœretimde Ã§alÄ±ÅŸan personelleri seÃ§elim. Personelin kaydÄ± yok ise detaylÄ± ekle diyerek ekleme yapabiliriz.
 	
-	### Üretim Süreçleri
+	### Ãœretim SÃ¼reÃ§leri
 	
-	**Başlangıç** Operasyona başlama saatini giriniz.
-	**Bitiş** Operasyonun bitiş tarihini giriniz.
-	**Hazırlık Süre** Operasyona hazırlık süresi, makine ne kadar sürede ısındı gibi operasyona başlamadan önceki geçen süredir.
-	**Üretim Süre** Operasyonun üretim süresi, ne kadar sürede yapıldığıdır.
-	**Duraklama Süre** Makine bozulduğunda ya da makine arızaları gibi duraklama olduğunda ne kadar süre arıza verdi ise o süreyi gireceğimiz alan.
-	**Mola Süre** Personel ne kadar süre mola verdi ise o süreyi gireceğimiz alan. 
+	**BaÅŸlangÄ±Ã§** Operasyona baÅŸlama saatini giriniz.
+	**BitiÅŸ** Operasyonun bitiÅŸ tarihini giriniz.
+	**HazÄ±rlÄ±k SÃ¼re** Operasyona hazÄ±rlÄ±k sÃ¼resi, makine ne kadar sÃ¼rede Ä±sÄ±ndÄ± gibi operasyona baÅŸlamadan Ã¶nceki geÃ§en sÃ¼redir.
+	**Ãœretim SÃ¼re** Operasyonun Ã¼retim sÃ¼resi, ne kadar sÃ¼rede yapÄ±ldÄ±ÄŸÄ±dÄ±r.
+	**Duraklama SÃ¼re** Makine bozulduÄŸunda ya da makine arÄ±zalarÄ± gibi duraklama olduÄŸunda ne kadar sÃ¼re arÄ±za verdi ise o sÃ¼reyi gireceÄŸimiz alan.
+	**Mola SÃ¼re** Personel ne kadar sÃ¼re mola verdi ise o sÃ¼reyi gireceÄŸimiz alan. 
 	
 	### Duraklama Nedeni
 	
-	**Neden** Operasyon neden duraklamaya uğradığının detayını girdiğimiz alandır. Makine bozuldu, arızlandı gibi nedenleri belirttiğimiz yerdir. 
-	Kayıtlı nedenleri listeden seçebilirsiniz, yeni bir neden eklemek için detaylı ekle yaparak hızlıca ekleme yapabilirsiniz.
+	**Neden** Operasyon neden duraklamaya uÄŸradÄ±ÄŸÄ±nÄ±n detayÄ±nÄ± girdiÄŸimiz alandÄ±r. Makine bozuldu, arÄ±zlandÄ± gibi nedenleri belirttiÄŸimiz yerdir. 
+	KayÄ±tlÄ± nedenleri listeden seÃ§ebilirsiniz, yeni bir neden eklemek iÃ§in detaylÄ± ekle yaparak hÄ±zlÄ±ca ekleme yapabilirsiniz.
 	
-	### Üretim Açıklama
+	### Ãœretim AÃ§Ä±klama
 	
-	Operasyona ait detayları ve özel açıklamalar burada belirtilmelidir.
+	Operasyona ait detaylarÄ± ve Ã¶zel aÃ§Ä±klamalar burada belirtilmelidir.
 	
-	### Gelişmiş
+	### GeliÅŸmiÅŸ
 	
-	**Atlandı:** Üretim hareketi ekranında atlamak, üretim sürecinde belirli bir adıma geçişi ifade eder. 
-		Örneğin, bir üretim işçisi veya yönetici, ürünlerin üretim aşamalarını takip ederken, belirli bir aşamadan diğerine geçişi için kullanım sağlar.
-		Üretim aşamasının atlandığını veya tamamlandığını göstermek için kullanılır.
+	**AtlandÄ±:** Ãœretim hareketi ekranÄ±nda atlamak, Ã¼retim sÃ¼recinde belirli bir adÄ±ma geÃ§iÅŸi ifade eder. 
+		Ã–rneÄŸin, bir Ã¼retim iÅŸÃ§isi veya yÃ¶netici, Ã¼rÃ¼nlerin Ã¼retim aÅŸamalarÄ±nÄ± takip ederken, belirli bir aÅŸamadan diÄŸerine geÃ§iÅŸi iÃ§in kullanÄ±m saÄŸlar.
+		Ãœretim aÅŸamasÄ±nÄ±n atlandÄ±ÄŸÄ±nÄ± veya tamamlandÄ±ÄŸÄ±nÄ± gÃ¶stermek iÃ§in kullanÄ±lÄ±r.
 	
-	**İş Emri No:** İş emri numarasına tıklayarak iş emrine erişim sağlayabilirsiniz.
+	**Ä°ÅŸ Emri No:** Ä°ÅŸ emri numarasÄ±na tÄ±klayarak iÅŸ emrine eriÅŸim saÄŸlayabilirsiniz.
 	
-## Üretilen 
+## Ãœretilen 
 
-Burada İş emrinin ne kadarı gerçekleştirilen miktar görünür. Tıklayarak hareketlerine erişim sağlayabiliriz.
+Burada Ä°ÅŸ emrinin ne kadarÄ± gerÃ§ekleÅŸtirilen miktar gÃ¶rÃ¼nÃ¼r. TÄ±klayarak hareketlerine eriÅŸim saÄŸlayabiliriz.
 
-## Parçala
+## ParÃ§ala
 
-İş emrimizden kalan kısımlar yetişmedi ya da iş yoğunluğu değişti gibi detyalar olduğunda parçala kısmını kullanarak iş emrini bölebilirsiniz.
+Ä°ÅŸ emrimizden kalan kÄ±sÄ±mlar yetiÅŸmedi ya da iÅŸ yoÄŸunluÄŸu deÄŸiÅŸti gibi detyalar olduÄŸunda parÃ§ala kÄ±smÄ±nÄ± kullanarak iÅŸ emrini bÃ¶lebilirsiniz.
 
-## İş Emri Çıktısı (Y.I)
+## Ä°ÅŸ Emri Ã‡Ä±ktÄ±sÄ± (Y.I)
 
-İş emrine kısa yoldan buradan erişim sağlayarak çıktı alabiliriz.
+Ä°ÅŸ emrine kÄ±sa yoldan buradan eriÅŸim saÄŸlayarak Ã§Ä±ktÄ± alabiliriz.
 
-## İstifleme Barkod Çıktısı Stok
+## Ä°stifleme Barkod Ã‡Ä±ktÄ±sÄ± Stok
 
-Siparişle üretimi birbirine bağlayan istifleme barkodudur.
-İş emrinde istifleme barkodu, üretim sürecinde kullanılan malzemelerin veya tamamlanmış ürünlerin izlenebilirliğini ve doğru şekilde istiflenmesini sağlamak amacıyla kullanılan bir barkod sistemidir. 
-Bu barkodlar, malzeme veya ürünlerin depolanması, taşınması ve takibi süreçlerinde büyük kolaylık sağlar.
+SipariÅŸle Ã¼retimi birbirine baÄŸlayan istifleme barkodudur.
+Ä°ÅŸ emrinde istifleme barkodu, Ã¼retim sÃ¼recinde kullanÄ±lan malzemelerin veya tamamlanmÄ±ÅŸ Ã¼rÃ¼nlerin izlenebilirliÄŸini ve doÄŸru ÅŸekilde istiflenmesini saÄŸlamak amacÄ±yla kullanÄ±lan bir barkod sistemidir. 
+Bu barkodlar, malzeme veya Ã¼rÃ¼nlerin depolanmasÄ±, taÅŸÄ±nmasÄ± ve takibi sÃ¼reÃ§lerinde bÃ¼yÃ¼k kolaylÄ±k saÄŸlar.
 
-## İş Emri
+## Ä°ÅŸ Emri
 
-Üretim planındayken kolayca iş emrine erişim sağlar. 
-İş emrinde sipariş detaylarını, operasyon işlemlerini, iş emrine ait belge ve görselleri, kayıt bilgilerini görüntüleyebiliriz.
+Ãœretim planÄ±ndayken kolayca iÅŸ emrine eriÅŸim saÄŸlar. 
+Ä°ÅŸ emrinde sipariÅŸ detaylarÄ±nÄ±, operasyon iÅŸlemlerini, iÅŸ emrine ait belge ve gÃ¶rselleri, kayÄ±t bilgilerini gÃ¶rÃ¼ntÃ¼leyebiliriz.
 
-## Makine Değiştir
+## Makine DeÄŸiÅŸtir
 
-Alternatif makineler gösterilir buradan değişim yapacağımız makineyi seçelim.
+Alternatif makineler gÃ¶sterilir buradan deÄŸiÅŸim yapacaÄŸÄ±mÄ±z makineyi seÃ§elim.
 
-## Sipariş Açıklamaları
+## SipariÅŸ AÃ§Ä±klamalarÄ±
 
-Sipariş detaylarını burada görüntüleyebilir linklerinden kolayca erişim sağlayabiliriz.
+SipariÅŸ detaylarÄ±nÄ± burada gÃ¶rÃ¼ntÃ¼leyebilir linklerinden kolayca eriÅŸim saÄŸlayabiliriz.

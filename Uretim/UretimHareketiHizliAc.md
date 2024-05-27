@@ -1,12 +1,12 @@
 
-# Üretim Hareketi Hızlı Aç
+# Ãœretim Hareketi HÄ±zlÄ± AÃ§
 
-üretim süreçlerini daha hızlı ve verimli hale getirmek amacıyla tasarlanmış bir sistemdir. 
-Bu sistem, iş emirlerine barkod okutma yöntemiyle hızlıca erişim sağlar ve işlemleri kolaylaştırır.
+Ã¼retim sÃ¼reÃ§lerini daha hÄ±zlÄ± ve verimli hale getirmek amacÄ±yla tasarlanmÄ±ÅŸ bir sistemdir. 
+Bu sistem, iÅŸ emirlerine barkod okutma yÃ¶ntemiyle hÄ±zlÄ±ca eriÅŸim saÄŸlar ve iÅŸlemleri kolaylaÅŸtÄ±rÄ±r.
 
-Her iş emri, belirli bir barkod ile ilişkilendirilir.
-Üretim sahasında çalışan operatörler, barkod okuyucular (el terminalleri veya sabit okuyucular) kullanarak iş emrinin barkodunu okutur.
-Barkod okutulduğunda, ilgili iş emri bilgileri anında sistemde görüntülenir.
-Bu bilgiler, iş emrinin durumu, başlangıç ve bitiş tarihleri, üretilecek ürün miktarı, kullanılan malzemeler ve diğer ilgili detayları içerir.
-Barkod okutma işlemiyle birlikte, iş emrinin durumu ve üretim sürecindeki ilerleme gerçek zamanlı olarak güncellenir.
-Bu, anlık izleme ve kontrol imkanı sağlar.
+Her iÅŸ emri, belirli bir barkod ile iliÅŸkilendirilir.
+Ãœretim sahasÄ±nda Ã§alÄ±ÅŸan operatÃ¶rler, barkod okuyucular (el terminalleri veya sabit okuyucular) kullanarak iÅŸ emrinin barkodunu okutur.
+Barkod okutulduÄŸunda, ilgili iÅŸ emri bilgileri anÄ±nda sistemde gÃ¶rÃ¼ntÃ¼lenir.
+Bu bilgiler, iÅŸ emrinin durumu, baÅŸlangÄ±Ã§ ve bitiÅŸ tarihleri, Ã¼retilecek Ã¼rÃ¼n miktarÄ±, kullanÄ±lan malzemeler ve diÄŸer ilgili detaylarÄ± iÃ§erir.
+Barkod okutma iÅŸlemiyle birlikte, iÅŸ emrinin durumu ve Ã¼retim sÃ¼recindeki ilerleme gerÃ§ek zamanlÄ± olarak gÃ¼ncellenir.
+Bu, anlÄ±k izleme ve kontrol imkanÄ± saÄŸlar.

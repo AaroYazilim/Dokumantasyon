@@ -1,13 +1,13 @@
 
-# Üretim Hareketi Üretilen Mamüller Listesi
+# Ãœretim Hareketi Ãœretilen MamÃ¼ller Listesi
 
-Belirli bir üretim döneminde üretilen ürünleri takip eden bir kayıttır. 
-Bu liste, iş emri numarası, reçete adı, üretim tarihi, miktar, birim, operasyon ve makine adı gibi bilgileri içerir. 
-Amaç, stok yönetimi, üretim planlaması ve kalite kontrolü sağlamaktır. 
-Örneğin, Ürün A, 25.05.2024'te kesim operayonun'da üretilmiş, hazırlık süresi, duraklama nedeni vb detayları görüntüleyebiliriz. 
-Satırlara tıklayarak üretilen mamül detaylarını görüntüleyerek, iş emrine, reçete diagramına, üretim planına erişim sağlayabiliriz.
-Üretime ait özel görseller veya özel notlar eklenmişse görüntüleyebiliriz.
+Belirli bir Ã¼retim dÃ¶neminde Ã¼retilen Ã¼rÃ¼nleri takip eden bir kayÄ±ttÄ±r. 
+Bu liste, iÅŸ emri numarasÄ±, reÃ§ete adÄ±, Ã¼retim tarihi, miktar, birim, operasyon ve makine adÄ± gibi bilgileri iÃ§erir. 
+AmaÃ§, stok yÃ¶netimi, Ã¼retim planlamasÄ± ve kalite kontrolÃ¼ saÄŸlamaktÄ±r. 
+Ã–rneÄŸin, ÃœrÃ¼n A, 25.05.2024'te kesim operayonun'da Ã¼retilmiÅŸ, hazÄ±rlÄ±k sÃ¼resi, duraklama nedeni vb detaylarÄ± gÃ¶rÃ¼ntÃ¼leyebiliriz. 
+SatÄ±rlara tÄ±klayarak Ã¼retilen mamÃ¼l detaylarÄ±nÄ± gÃ¶rÃ¼ntÃ¼leyerek, iÅŸ emrine, reÃ§ete diagramÄ±na, Ã¼retim planÄ±na eriÅŸim saÄŸlayabiliriz.
+Ãœretime ait Ã¶zel gÃ¶rseller veya Ã¶zel notlar eklenmiÅŸse gÃ¶rÃ¼ntÃ¼leyebiliriz.
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol menüden Üretim -> Listeler -> Üretim Hareketi Kullanılan Mamül şeklinde ulaşım sağlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Listeler -> Ãœretim Hareketi KullanÄ±lan MamÃ¼l ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.

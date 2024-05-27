@@ -1,25 +1,25 @@
 
-# Makine Arıza Kaydı Listesi
+# Makine ArÄ±za KaydÄ± Listesi
 
-Makinelerin arızalarını buradan görüntüleyebiliriz, yeni arıza kaydı girebiliriz.
+Makinelerin arÄ±zalarÄ±nÄ± buradan gÃ¶rÃ¼ntÃ¼leyebiliriz, yeni arÄ±za kaydÄ± girebiliriz.
 
-Makine arıza detaylarını görüntülemek için satıra çift tıklayabilirsiniz.
-Hangi makinenin ne arızası verdiğini, tamir süresini, arıza tarihlerini görüntüleyebiliriz.
+Makine arÄ±za detaylarÄ±nÄ± gÃ¶rÃ¼ntÃ¼lemek iÃ§in satÄ±ra Ã§ift tÄ±klayabilirsiniz.
+Hangi makinenin ne arÄ±zasÄ± verdiÄŸini, tamir sÃ¼resini, arÄ±za tarihlerini gÃ¶rÃ¼ntÃ¼leyebiliriz.
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "makine arıza" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Listeler -> Makine Arıza Kaydı Listesi şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "makine arÄ±za" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Listeler -> Makine ArÄ±za KaydÄ± Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-## Yeni Makine Arıza Kaydı Ekle
+## Yeni Makine ArÄ±za KaydÄ± Ekle
 
-Makinelerimizden biri arıza verdiğinde yeni makine arıza kaydını girebiliriz.
+Makinelerimizden biri arÄ±za verdiÄŸinde yeni makine arÄ±za kaydÄ±nÄ± girebiliriz.
 
 ### Genel
 
-**Makine:** Arıza veren makineyi seçelim.
-**Arıza Başlangıç:** Arızanın başladığı tarihi girelim.
-**Arıza Açıklama:** Arıza açıklaması detaylarını burada belirtebiliriz. Neden arızalandığı gibi detaylar belirtilebilir.
+**Makine:** ArÄ±za veren makineyi seÃ§elim.
+**ArÄ±za BaÅŸlangÄ±Ã§:** ArÄ±zanÄ±n baÅŸladÄ±ÄŸÄ± tarihi girelim.
+**ArÄ±za AÃ§Ä±klama:** ArÄ±za aÃ§Ä±klamasÄ± detaylarÄ±nÄ± burada belirtebiliriz. Neden arÄ±zalandÄ±ÄŸÄ± gibi detaylar belirtilebilir.
 
 ### Tamir Plan Tarihi
 
@@ -27,43 +27,43 @@ Makinelerimizden biri arıza verdiğinde yeni makine arıza kaydını girebiliriz.
 
 ### Tamir Bilgileri
 
-**Tamir Başlangıç:** Makinemizin tamirine başladığımız tarihi girelim.
-**Tamir Süresi:** Makinemizin arıza durumuna göre tamir süreleri değişiklik göstermektedir. Arızamızın ne kadar sürede tamir olacağını girelim.
-**Arıza Bitiş:** Makinemizin arızasını bittiği yeniden işleme başlayacağı tarihi girelim. 
-**İşçi Adedi:** Makine tamirini kendimiz yapıyorsak kaç işçi çalıştığını girelim.
-**Yapılan İşlem:** Makinemizin arızalanıp tamirine başladığımızda yaptığımız tamir işlemlerini açıklayalım.
+**Tamir BaÅŸlangÄ±Ã§:** Makinemizin tamirine baÅŸladÄ±ÄŸÄ±mÄ±z tarihi girelim.
+**Tamir SÃ¼resi:** Makinemizin arÄ±za durumuna gÃ¶re tamir sÃ¼releri deÄŸiÅŸiklik gÃ¶stermektedir. ArÄ±zamÄ±zÄ±n ne kadar sÃ¼rede tamir olacaÄŸÄ±nÄ± girelim.
+**ArÄ±za BitiÅŸ:** Makinemizin arÄ±zasÄ±nÄ± bittiÄŸi yeniden iÅŸleme baÅŸlayacaÄŸÄ± tarihi girelim. 
+**Ä°ÅŸÃ§i Adedi:** Makine tamirini kendimiz yapÄ±yorsak kaÃ§ iÅŸÃ§i Ã§alÄ±ÅŸtÄ±ÄŸÄ±nÄ± girelim.
+**YapÄ±lan Ä°ÅŸlem:** Makinemizin arÄ±zalanÄ±p tamirine baÅŸladÄ±ÄŸÄ±mÄ±zda yaptÄ±ÄŸÄ±mÄ±z tamir iÅŸlemlerini aÃ§Ä±klayalÄ±m.
 
 ### Maliyet Bilgileri
 
-**Malzeme Maliyeti:** Makinemizin tamirinde kullanadığımız, yanan ya da bozulan bir parçadan kaynaklı arıza oluştuyduysa yeniden aldığımız parçaların (malzemelerin) ücretleridir.
-**İşçilik Maliyeti:** Makinemizin tamirinde kaç kişi çalıştığı ve çalışanların saatlik maliyetleridir.
+**Malzeme Maliyeti:** Makinemizin tamirinde kullanadÄ±ÄŸÄ±mÄ±z, yanan ya da bozulan bir parÃ§adan kaynaklÄ± arÄ±za oluÅŸtuyduysa yeniden aldÄ±ÄŸÄ±mÄ±z parÃ§alarÄ±n (malzemelerin) Ã¼cretleridir.
+**Ä°ÅŸÃ§ilik Maliyeti:** Makinemizin tamirinde kaÃ§ kiÅŸi Ã§alÄ±ÅŸtÄ±ÄŸÄ± ve Ã§alÄ±ÅŸanlarÄ±n saatlik maliyetleridir.
 
-### Gelişmiş
+### GeliÅŸmiÅŸ
 
-**Şirket-Şube:** Hangi şirket-şubedeki makine arızalandıysa o şirket-şubeyi seçelim. 
+**Åirket-Åube:** Hangi ÅŸirket-ÅŸubedeki makine arÄ±zalandÄ±ysa o ÅŸirket-ÅŸubeyi seÃ§elim. 
 
-**Kaydet butonu basarak kaydetme işlemimizi tamamladıktan sonra karşımıza çıkan ekranda belgeler ve notlar kısmından belge ve not ekleyebiliriz.**
+**Kaydet butonu basarak kaydetme iÅŸlemimizi tamamladÄ±ktan sonra karÅŸÄ±mÄ±za Ã§Ä±kan ekranda belgeler ve notlar kÄ±smÄ±ndan belge ve not ekleyebiliriz.**
 
-## Ek İşlemler 
+## Ek Ä°ÅŸlemler 
 
-### Anasayfaya Kısayol Olarak Ekle
+### Anasayfaya KÄ±sayol Olarak Ekle
 
-Kısayollarına ekleyerek kolayce erişim sağlayabilirsiniz. Kısayollarınıza ekleme detayları için tıklayınız. [Anasayfaya Kısayol Ekle](../Uretim/KisaYollaraEkleme.md)
+KÄ±sayollarÄ±na ekleyerek kolayce eriÅŸim saÄŸlayabilirsiniz. KÄ±sayollarÄ±nÄ±za ekleme detaylarÄ± iÃ§in tÄ±klayÄ±nÄ±z. [Anasayfaya KÄ±sayol Ekle](../Uretim/KisaYollaraEkleme.md)
 
-### Görev Oluştur
+### GÃ¶rev OluÅŸtur
 
-**Adı:** Görevin adını girelim, mesela bakım periyodu oluşturmak istiyprum bakım diyebiliriz.
-**Açıklama:** Görevle ilgili özel notlar var ise burada belirtilebilir.
-**Tarih Bitiş:** Görevin biteceği tarihi seçelim. 
-**Hatırlatma Süresi:**
-**Yönetici:** Görevin takibi sağlayacak kişiyi ifade eder. 
-**Kullanıcı:** Görevi gerçekleştirecek kişiyi ifade eder.
-**Tamamlanma Tipi:** Herkes: Tüm kullanıcılar görevi yaptığında görev tamamlanmış olur. 
-	Herhangi Biri: Kullanıcılardan herhangi bir kişi görevi yaptığında ,görev tamamlanmış olur.
-**Tekrar Şekli:** Görev ne kadar sürede tekrar edecek onu seçelim. Tekrar yok, günlük, haftalık, aylık, yıllık seçeneklerinden yapmak istediğimiz tekrar aralığını seçelim.
-	Ayda bir bakım yaptırmak istiyoruz diyelim ki, tekrar şekline aylık seçiyorum.
-	Aylık 1 seçiyorum, ayın son günü ya da ilk günü yapılsın tercihlerimi seçiyorum.
-	Aylık bakımın kaç ay yapılsın bilgisini seçelim.
+**AdÄ±:** GÃ¶revin adÄ±nÄ± girelim, mesela bakÄ±m periyodu oluÅŸturmak istiyprum bakÄ±m diyebiliriz.
+**AÃ§Ä±klama:** GÃ¶revle ilgili Ã¶zel notlar var ise burada belirtilebilir.
+**Tarih BitiÅŸ:** GÃ¶revin biteceÄŸi tarihi seÃ§elim. 
+**HatÄ±rlatma SÃ¼resi:**
+**YÃ¶netici:** GÃ¶revin takibi saÄŸlayacak kiÅŸiyi ifade eder. 
+**KullanÄ±cÄ±:** GÃ¶revi gerÃ§ekleÅŸtirecek kiÅŸiyi ifade eder.
+**Tamamlanma Tipi:** Herkes: TÃ¼m kullanÄ±cÄ±lar gÃ¶revi yaptÄ±ÄŸÄ±nda gÃ¶rev tamamlanmÄ±ÅŸ olur. 
+	Herhangi Biri: KullanÄ±cÄ±lardan herhangi bir kiÅŸi gÃ¶revi yaptÄ±ÄŸÄ±nda ,gÃ¶rev tamamlanmÄ±ÅŸ olur.
+**Tekrar Åekli:** GÃ¶rev ne kadar sÃ¼rede tekrar edecek onu seÃ§elim. Tekrar yok, gÃ¼nlÃ¼k, haftalÄ±k, aylÄ±k, yÄ±llÄ±k seÃ§eneklerinden yapmak istediÄŸimiz tekrar aralÄ±ÄŸÄ±nÄ± seÃ§elim.
+	Ayda bir bakÄ±m yaptÄ±rmak istiyoruz diyelim ki, tekrar ÅŸekline aylÄ±k seÃ§iyorum.
+	AylÄ±k 1 seÃ§iyorum, ayÄ±n son gÃ¼nÃ¼ ya da ilk gÃ¼nÃ¼ yapÄ±lsÄ±n tercihlerimi seÃ§iyorum.
+	AylÄ±k bakÄ±mÄ±n kaÃ§ ay yapÄ±lsÄ±n bilgisini seÃ§elim.
 
-### Görev Bağla
+### GÃ¶rev BaÄŸla
 

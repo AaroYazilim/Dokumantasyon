@@ -1,57 +1,57 @@
 
-# Yeni Reçete Taslağı Ekle
+# Yeni ReÃ§ete TaslaÄŸÄ± Ekle
 
-Yeni reçete tasalağı olarak ilk aşamamıza başlayabiliriz. 
-İş emirleri reçeteleri listesi ekranında sağ üst köşede yer alan Yeni Reçete Taslağı Ekle diyerek erişim sağlayabiliriz.
-Yeni reçete taslağımızı oluşturarak üretim planımıza başlayabiliriz. 
-Reçetemizi oluşturduktan sonra iş emri vererek üretim aşamamıza başlayabiliriz.
+Yeni reÃ§ete tasalaÄŸÄ± olarak ilk aÅŸamamÄ±za baÅŸlayabiliriz. 
+Ä°ÅŸ emirleri reÃ§eteleri listesi ekranÄ±nda saÄŸ Ã¼st kÃ¶ÅŸede yer alan Yeni ReÃ§ete TaslaÄŸÄ± Ekle diyerek eriÅŸim saÄŸlayabiliriz.
+Yeni reÃ§ete taslaÄŸÄ±mÄ±zÄ± oluÅŸturarak Ã¼retim planÄ±mÄ±za baÅŸlayabiliriz. 
+ReÃ§etemizi oluÅŸturduktan sonra iÅŸ emri vererek Ã¼retim aÅŸamamÄ±za baÅŸlayabiliriz.
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> Taslak Reçete Listesi -> Yeni Reçete Taslağı Ekle şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> İş Emri Reçete Listesi -> Yeni Reçete Taslağı Ekle şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "reÃ§ete" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartlar -> Taslak ReÃ§ete Listesi -> Yeni ReÃ§ete TaslaÄŸÄ± Ekle ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Kartlar -> Ä°ÅŸ Emri ReÃ§ete Listesi -> Yeni ReÃ§ete TaslaÄŸÄ± Ekle ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
 
 ### Genel
 
-**Reçete Kodu** Sistem otomatik kod atıyor kodu kullanabiliriz ya da kendi kodumuzu oluşturabiliriz.
-**Reçete Adı** Reçete adımızı girebiliriz.
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
-**Kodlar** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Kodlar hakkında detaylı bilgiler için tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
-**Etiketler** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Etiketler hakkında detaylı bilgiler için tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
-**Döviz** Bu işleme ait döviz birimini seçiniz.
+**ReÃ§ete Kodu** Sistem otomatik kod atÄ±yor kodu kullanabiliriz ya da kendi kodumuzu oluÅŸturabiliriz.
+**ReÃ§ete AdÄ±** ReÃ§ete adÄ±mÄ±zÄ± girebiliriz.
+**AÃ§Ä±klama** ReÃ§eteye ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
+**Kodlar** ReÃ§eteyi gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lanabilirsiniz. Kodlar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [Kodlar](../TemelOzellikler/Kodlar.md)
+**Etiketler** ReÃ§eteyi gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lanabilirsiniz. Etiketler hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [Etiketler](../TemelOzellikler/Etiketler.md)
+**DÃ¶viz** Bu iÅŸleme ait dÃ¶viz birimini seÃ§iniz.
 
-### Mamül Bilgileri
+### MamÃ¼l Bilgileri
 
-Hazırladığımız reçetede üretmek istediğiniz mamül bilgilerini ifade eder. Daha sonra diagram üzerinden düzenleyebilirsiniz.
+HazÄ±rladÄ±ÄŸÄ±mÄ±z reÃ§etede Ã¼retmek istediÄŸiniz mamÃ¼l bilgilerini ifade eder. Daha sonra diagram Ã¼zerinden dÃ¼zenleyebilirsiniz.
 
-**Mamül** Oluşturacağımız mamülü seçelim, olmayan stoğumuzu için detaylı ekle, hızlı ekle yaparakta mamül girişi yapabiliriz.
-**Miktar** Kaç adet oluşturacağımızı girelim.
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
-**Ek Maliyet** Birim başı ek maliyeti gösterir. Mamül için ek maliyetimiz var ise onu girelim.
+**MamÃ¼l** OluÅŸturacaÄŸÄ±mÄ±z mamÃ¼lÃ¼ seÃ§elim, olmayan stoÄŸumuzu iÃ§in detaylÄ± ekle, hÄ±zlÄ± ekle yaparakta mamÃ¼l giriÅŸi yapabiliriz.
+**Miktar** KaÃ§ adet oluÅŸturacaÄŸÄ±mÄ±zÄ± girelim.
+**AÃ§Ä±klama** ReÃ§eteye ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
+**Ek Maliyet** Birim baÅŸÄ± ek maliyeti gÃ¶sterir. MamÃ¼l iÃ§in ek maliyetimiz var ise onu girelim.
 
 ### Hammadde Bilgileri
 
-**Hammmadde** Oluşturacağımız mamül için hammadde seçelim, detaylı ekle, hızlı ekle yaparakta mamül girişi yapabiliriz.
-**Miktar** Oluşturacağımız mamül için birim başına ne kadar hammadde gireceğini girelim. 
-**Birim Fiyatı** Oluşturacağımız mamül için birim başına hammadde maliyetini girelim. (Alış işlemi girilmiş ise sistem bize en son alım maliyetini otomatik getirecektir.)
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+**Hammmadde** OluÅŸturacaÄŸÄ±mÄ±z mamÃ¼l iÃ§in hammadde seÃ§elim, detaylÄ± ekle, hÄ±zlÄ± ekle yaparakta mamÃ¼l giriÅŸi yapabiliriz.
+**Miktar** OluÅŸturacaÄŸÄ±mÄ±z mamÃ¼l iÃ§in birim baÅŸÄ±na ne kadar hammadde gireceÄŸini girelim. 
+**Birim FiyatÄ±** OluÅŸturacaÄŸÄ±mÄ±z mamÃ¼l iÃ§in birim baÅŸÄ±na hammadde maliyetini girelim. (AlÄ±ÅŸ iÅŸlemi girilmiÅŸ ise sistem bize en son alÄ±m maliyetini otomatik getirecektir.)
+**AÃ§Ä±klama** ReÃ§eteye ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
 ### Operasyon Bilgileri
 
-**Operasyon** Operasyon makinemizi seçelim. Yeni bir operasyon eklemek için Detaylı Ekleyerek ekleme yapabiliriz.
-**Makine** Operasyonda kullanılacak makineyi ifade eder. Kullanacağınız makine seçiniz makine kayıtlı değil ise detaylı ekle yaparak ekleme yapabiliriz.
-**İşci Adedi** Operasyonda çalışacak işçi sayısını belirtie, bu opersayonda kaç işçi çalışacaksa sayısını girelim.
-**Hazırlık Süre** Makinenin ısınması gibi süreçleri ifade eder.
-**Üretim Süresi** Ne kadar sürede üretildiğini ifade eder. Üretim süresini girelim.
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
-**Hesap Açıklaması** Maliyet hesaplamaların yapıldığı formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
-**İşçilik/Saat** Operasyonda çalışan işçinin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [İşçiliyet Maliyeti](../Uretim/IscilikMaliyeti.md)
-**Çalışma Mal/Saat** Operasyonda çalışan işçi, makine, elektrik gibi giderlerin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [Birim Maliyeti](../Uretim/BirimMaliyeti.md)
+**Operasyon** Operasyon makinemizi seÃ§elim. Yeni bir operasyon eklemek iÃ§in DetaylÄ± Ekleyerek ekleme yapabiliriz.
+**Makine** Operasyonda kullanÄ±lacak makineyi ifade eder. KullanacaÄŸÄ±nÄ±z makine seÃ§iniz makine kayÄ±tlÄ± deÄŸil ise detaylÄ± ekle yaparak ekleme yapabiliriz.
+**Ä°ÅŸci Adedi** Operasyonda Ã§alÄ±ÅŸacak iÅŸÃ§i sayÄ±sÄ±nÄ± belirtie, bu opersayonda kaÃ§ iÅŸÃ§i Ã§alÄ±ÅŸacaksa sayÄ±sÄ±nÄ± girelim.
+**HazÄ±rlÄ±k SÃ¼re** Makinenin Ä±sÄ±nmasÄ± gibi sÃ¼reÃ§leri ifade eder.
+**Ãœretim SÃ¼resi** Ne kadar sÃ¼rede Ã¼retildiÄŸini ifade eder. Ãœretim sÃ¼resini girelim.
+**AÃ§Ä±klama** ReÃ§eteye ait detay aÃ§Ä±klamasÄ± eklemesi yapabilirsiniz. AÃ§Ä±klamalar hakkÄ±nda detaylÄ± bilgiler iÃ§in tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
+**Hesap AÃ§Ä±klamasÄ±** Maliyet hesaplamalarÄ±n yapÄ±ldÄ±ÄŸÄ± formÃ¼lÃ¼ ifade eder. Ã–zel hesaplamalar burada belirtilmelidir.
+**Ä°ÅŸÃ§ilik/Saat** Operasyonda Ã§alÄ±ÅŸan iÅŸÃ§inin saatlik Ã¼cretini ifade eder. Maliyet hesaplamasÄ± detaylarÄ± iÃ§in tÄ±klayÄ±nÄ±z. [Ä°ÅŸÃ§iliyet Maliyeti](../Uretim/IscilikMaliyeti.md)
+**Ã‡alÄ±ÅŸma Mal/Saat** Operasyonda Ã§alÄ±ÅŸan iÅŸÃ§i, makine, elektrik gibi giderlerin saatlik Ã¼cretini ifade eder. Maliyet hesaplamasÄ± detaylarÄ± iÃ§in tÄ±klayÄ±nÄ±z. [Birim Maliyeti](../Uretim/BirimMaliyeti.md)
 
-### Gelişmiş
+### GeliÅŸmiÅŸ
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
-**Şarj Kg**
+**Åirket-Åube:** KartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](../TemelOzellikler/SirketSubeKart.md)
+**Åarj Kg**
 
