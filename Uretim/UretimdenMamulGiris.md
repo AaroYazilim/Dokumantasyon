@@ -8,18 +8,25 @@ Bu süreç, işletmenin üretim faaliyetlerinden elde edilen nihai ürünlerin d
 ### Genel 
 
 **Şirket-Şube:** Üretimi tamamlanan ürünün hangi depodan yapılacağını ifade eder. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+
 **Tarih** İşlemin yapıldığı tarihi ifade eder.
+
 **Belge No** İşlemi yapacağımız belgenin numarasını ifade eder.
+
 **Kaynak Depo** Ürünün şuan bulunduğu depoyu seçelim.
 
 **Şirket-Şube:** Üretimi sonucunda elde ettiğimiz mamülü göndereceğimiz şirket ya da şubeyi ifade eder. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+
 **Hedef Depo** Mamülleri göndereceğimiz depoyu seçelim.
+
 **Vade** Gönderim sağladığımız depolarda ki gelir giderleri takip edebilmek için vade girebiliriz.
+
 **Tip**
 
 ### Detay
 
 **Proje:** İşleme ait proje var ise kaydettiğimiz projeyi buradan seçelim.
+
 **Plasiyer:** İşlemi yapacak kullanıcı ifade eder. 
 
 ### Açıklamalar
@@ -40,18 +47,27 @@ Etiketler kullanım detayları için linke tıklayınız. [Etiketler](../TemelOz
 ### Genel 
 
 **Stok:** İşlem yapacağımız mamülü seçelim.
+
 **Miktar:** Stoğumuzdan ne kadar miktarda gönderim sağlayacağız, miktarı girelim.
+
 **Brüt Fiyat:** İskonto yapılmadan önceki fiyattır.
+
 **İskonto Oranı:** İndirim yapacağımız iskonto oranını girelim.
+
 **Net Fiyat:** Brüt fiyata isokontonun uygulanmış fiyatıdır.
+
 **Tutar:** Miktar ve net tutarın çarpılarak elde edilen değerdir.
+
 **Depo:** Mamülümüzün şuan bulunduğu depoyu seçelim.
+
 **Açıklama:** İşleme ait özel açıklamamız notlarımız varsa burada belirtebiliriz. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+
 **Vergiler:**
 
 ### Detay
 
 **Proje:** İşleme ait proje var ise kaydettiğimiz projeyi buradan seçelim.
+
 **Plasiyer:** Plasiyer, bir şirketin ürün veya hizmetlerini belirli bir bölgede tanıtan ve satan saha satış temsilcisidir. 
 	Müşterilerle doğrudan iletişim kurarak sipariş alır, ürünlerin tanıtımını yapar ve satış hacmini artırmaya çalışır. 
 

@@ -7,19 +7,29 @@
 ### Genel
 
 **İş Emri No:** Sistemin veröiş olduğu otomatik kodu kullanım sağlayabilirsiniz ya da size özel kodunuzu kullanım sağlayabilirsiniz.
+
 **Tarih:** İşleme başlanacak tarihi seçiniz.
+
 **Teslim Tarihi:** Teslim edilmesi gerek tarihi seçiniz.
+
 **Reçete:** Yapılacak olan reçeteyi seçiniz.
+
 **İş Emri Adı:** İş emri için bir ad verebilirsiniz.
+
 **Miktar:** Ka. adet yapılacağını giriniz.
+
 **Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 ### Gelişmiş
 
 **Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
+
 **Renk:** Özel renk seçimi yapabilirsiniz.
+
 **Üst İş Emri** 
+
 **Öncelik:** Öncelik sıralama sayısını seçiniz.
+
 **Şarj Kg:**
 
 Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna basarak işleminizi kaydebilirsiniz.

@@ -7,7 +7,9 @@ Makine ve işgücü gibi kaynakların en verimli şekilde kullanılması hedefle
 Makine doluluk oranını görüntüleyebilir, iş yükünü değerlendirerek yeni düzenlemeler yapabilirsiniz.
 Tarih, cari, iş emri, operasyon, makineye göre filtreleme yaparak istediğimiz verilere kolayca erişim sağlayabiliriz.
 Filtrelemede Sadece İş Emri Gelsin;
+
 **Evet** seçeneği seçili olduğunda sadece iş emirlerini görüntüleriz.
+
 **Hayır** seçeneği seçili olduğunda set ve süreler gözükmektedir.
 
 İş emirlerinize tıklayarak yeni üretim girişi yapabilir, üretilen setleri görüntüleyebilir, parçalayabilir, iş emrine erişebilir, makine değiştirebilir, üretime ait çıktılar alabiliriz.
@@ -46,9 +48,13 @@ Filtrelemede Sadece İş Emri Gelsin;
 	### Üretim Süreçleri
 	
 	**Başlangıç** Operasyona başlama saatini giriniz.
+
 	**Bitiş** Operasyonun bitiş tarihini giriniz.
+
 	**Hazırlık Süre** Operasyona hazırlık süresi, makine ne kadar sürede ısındı gibi operasyona başlamadan önceki geçen süredir.
+
 	**Üretim Süre** Operasyonun üretim süresi, ne kadar sürede yapıldığıdır.
+	
 	**Duraklama Süre** Makine bozulduğunda ya da makine arızaları gibi duraklama olduğunda ne kadar süre arıza verdi ise o süreyi gireceğimiz alan.
 	**Mola Süre** Personel ne kadar süre mola verdi ise o süreyi gireceğimiz alan. 
 	

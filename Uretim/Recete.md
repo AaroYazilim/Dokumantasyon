@@ -12,8 +12,11 @@ Reçetelerde belirtilen adımların nasıl uygulanacağını ve malzemelerin nas
 Reçetede renklerin anlamları;
 
 **Mavi renkli:** Operasyon belirtir.
+
 **Turuncu renkli:** Hammadde belirtir.
+
 **Bordo renkli:** Mamül belirtir.
+
 **Bordo-Turuncu renkli:** Hem hammadde hem mamül belirtir.
 
 Reçeteleri girebilmemiz için her bir hammadde, mamul ve yarı mamul için stok kaydımızın olması gerekmektedir.

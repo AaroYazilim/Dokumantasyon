@@ -1,18 +1,18 @@
 
-# Üretim Hareketi Çalışan Personeller Listesi
+# Ãœretim Hareketi Ã‡alÄ±ÅŸan Personeller Listesi
 
-Üretim Hareketi Çalışan Personeller Listesi, üretim sürecinde görev alan personelin takibini sağlar. 
-Bu listede personel iş emri numarası, görev tarihi, görev aldığı operasyon gibi bilgiler yer alır. 
-Görev tarihi, personelin hangi tarihte görev aldığını gösterir ve iş takibi için önemlidir. 
-Operasyonda çalıştığı süreler, personelin ne kadar süre durakladığı, ne kadar süre çalıştığını belirtir.
-Operasyon, personelin hangi operasyonda veya makinede çalıştığını gösterir. 
-Performans durumu, personelin iş performansını ve verimliliğini değerlendirmek için kullanılır (örneğin, başarılı, yetersiz). Açıklamalar bölümü, personelle ilgili ek bilgiler veya özel durumlar hakkında bilgi sağlar.
+Ãœretim Hareketi Ã‡alÄ±ÅŸan Personeller Listesi, Ã¼retim sÃ¼recinde gÃ¶rev alan personelin takibini saÄŸlar. 
+Bu listede personel iÅŸ emri numarasÄ±, gÃ¶rev tarihi, gÃ¶rev aldÄ±ÄŸÄ± operasyon gibi bilgiler yer alÄ±r. 
+GÃ¶rev tarihi, personelin hangi tarihte gÃ¶rev aldÄ±ÄŸÄ±nÄ± gÃ¶sterir ve iÅŸ takibi iÃ§in Ã¶nemlidir. 
+Operasyonda Ã§alÄ±ÅŸtÄ±ÄŸÄ± sÃ¼reler, personelin ne kadar sÃ¼re durakladÄ±ÄŸÄ±, ne kadar sÃ¼re Ã§alÄ±ÅŸtÄ±ÄŸÄ±nÄ± belirtir.
+Operasyon, personelin hangi operasyonda veya makinede Ã§alÄ±ÅŸtÄ±ÄŸÄ±nÄ± gÃ¶sterir. 
+Performans durumu, personelin iÅŸ performansÄ±nÄ± ve verimliliÄŸini deÄŸerlendirmek iÃ§in kullanÄ±lÄ±r (Ã¶rneÄŸin, baÅŸarÄ±lÄ±, yetersiz). AÃ§Ä±klamalar bÃ¶lÃ¼mÃ¼, personelle ilgili ek bilgiler veya Ã¶zel durumlar hakkÄ±nda bilgi saÄŸlar.
 
-Bu liste, insan kaynakları yönetimi, üretim planlaması ve performans değerlendirmesi açısından kritiktir. 
-Örneğin, Personel A, 25 Mayıs 2024'te Operasyon 1'de operatör olarak çalışmış ve her zamankinden daha az bir sürede iş çıkarmış, performansı başarılı olarak değerlendirilmiştir. 
-Bu bilgiler, personelin görev dağılımının düzenli ve şeffaf bir şekilde yönetilmesini sağlar. 
-Çalışanların hangi tarihte, hangi görevde ve nasıl performans gösterdiği bu liste ile takip edilir, böylece üretim sürecinde verimlilik ve etkinlik artırılır.
+Bu liste, insan kaynaklarÄ± yÃ¶netimi, Ã¼retim planlamasÄ± ve performans deÄŸerlendirmesi aÃ§Ä±sÄ±ndan kritiktir. 
+Ã–rneÄŸin, Personel A, 25 MayÄ±s 2024'te Operasyon 1'de operatÃ¶r olarak Ã§alÄ±ÅŸmÄ±ÅŸ ve her zamankinden daha az bir sÃ¼rede iÅŸ Ã§Ä±karmÄ±ÅŸ, performansÄ± baÅŸarÄ±lÄ± olarak deÄŸerlendirilmiÅŸtir. 
+Bu bilgiler, personelin gÃ¶rev daÄŸÄ±lÄ±mÄ±nÄ±n dÃ¼zenli ve ÅŸeffaf bir ÅŸekilde yÃ¶netilmesini saÄŸlar. 
+Ã‡alÄ±ÅŸanlarÄ±n hangi tarihte, hangi gÃ¶revde ve nasÄ±l performans gÃ¶sterdiÄŸi bu liste ile takip edilir, bÃ¶ylece Ã¼retim sÃ¼recinde verimlilik ve etkinlik artÄ±rÄ±lÄ±r.
 
-# Ulaşım
+# UlaÅŸÄ±m
 
-- Sol menüden Üretim -> Listeler -> Üretim Hareketi Çalışan Personel şeklinde ulaşım sağlayabilirsiniz.
+- Sol menÃ¼den Ãœretim -> Listeler -> Ãœretim Hareketi Ã‡alÄ±ÅŸan Personel ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.

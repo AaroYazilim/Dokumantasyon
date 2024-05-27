@@ -7,14 +7,23 @@ Reçetesiz hızlı hareket girmek için kullanılır.
 ## Genel 
 
 **Tarih** İşlemin yapıldığı tarihi girelim.
+
 **İş Emri No:** İş emrini sistem sırasıyla otomatik verir, kendi sıralamanızdan da iş emri numarası verebilirsiniz.
+
 **Operasyon:** Yapılacak ya da yapılan operasyonu seçelim. Yok ise Detaylı Ekle diyerek hızlıca kayıt açabiliriz.
+
 **Makine:** Operasyonun yapılacağı ya da yapıldığı makineyi seçelim. 
+
 **Detay:**
+
 **Şirket-Şube:** Üretimin hangi şirket-şubede yapıldığını seçelim. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+
 **Açıklama:** Üretime ait açıklamalar girebiliriz. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+
 **İşçilik/Saat** Operasyonda çalışan işçinin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [İşçiliyet Maliyeti](../Uretim/IscilikMaliyeti.md)
+
 **Çalışma Mal/Saat** Operasyonda çalışan işçi, makine, elektrik gibi giderlerin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [Birim Maliyeti](../Uretim/BirimMaliyeti.md)
+
 **Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
 	Üretim işleminin bakiyesi seçilen döviz cinsinden takip edilir.
 
@@ -34,10 +43,16 @@ Listede isimleri yok ise detaylı ekle diyerek personel ekleme ekranına erişim
 ## Üretim Süreçleri
 
 **Başlangıç:** Üretime başlama saatini girelim.
+
 **Bitiş:** Üretimin bittiği saati girelim.
+
 **Hazırlık Süre:** Makinenin ısınması gibi durumlar hazırlık süresi olarak geçer. Makinenin ısındığı süreyi girelim.
-**Üretim Süre:** Başlangıç ve bitiş saati girildiğinde otomatik hesaplanır. Üretim süresine veri girdiğimizde başlangıç ve bitiş saati otomatik hesaplanır.
+
+**Üretim Süre:** Başlangıç ve bitiş saati girildiğinde otomatik hesaplanır. 
+Üretim süresine veri girdiğimizde başlangıç ve bitiş saati otomatik hesaplanır.
+
 **Duraklama Süre:** Makine arızaları gibi durumları ifade eder. Makinenin arızadı ne kadar sürdü girelim. 
+
 **Mola Süre:** Üretim sırasında ne kadar süre mola verildi girelim. 
 
 ## Duraklama Nedeni
