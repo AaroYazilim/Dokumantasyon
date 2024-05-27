@@ -178,3 +178,11 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
  Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
 - [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - ................
+
+## Belgeler
+
+.................................
+
+## Notlar
+
+.................................
