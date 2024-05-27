@@ -1,5 +1,11 @@
+---
+SayfaID: CariHareketleri
+SayfaTipi: HareketListe
+---
 
 # Müşteri/Satıcı Hareket Listesi
+
+**Erişim Linki :** [erp.aaro.com.tr/CariHareketleri/Liste](erp.aaro.com.tr/CariHareketleri/Liste)
 
 ### Ulaşım 
 
