@@ -1,5 +1,18 @@
+---
+SayfaID: UrMakine/Liste
+SayfaTipi: KartListe
+---
 
 # Makine
+
+**Erişim Linki :** [erp.aaro.com.tr/UrMakine/Liste](erp.aaro.com.tr/UrMakine/Liste)
+
+## Ulaşım 
+
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "makine" aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden Üretim -> Kartlar -> Makine -> Makine Listesi şeklinde ulaşım sağlayabilirsiniz.
+
+## Tanım
 
 Makine, bir ürünün veya bileşenin üretiminde kullanılan herhangi bir ekipman olabilir. 
 Üretim makineleri, üretim hattında farklı işlevlere sahip olabilir; 
@@ -13,10 +26,10 @@ Bu verilerin doğru ve güncel olarak kaydedilmesi, işletmenin üretim sürecin
 Bu entegrasyon sayesinde, manuel giriş gereksinimi ortadan kalkar ve verimlilik artar. 
 Ayrıca, üretim makinelerine cihazlar takılarak, bu süreçlerin otomatikleştirilmesi ve verilerin gerçek zamanlı olarak izlenmesi mümkün hale gelir.
 
-## Ulaşım 
+### Ek Özellikler 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "makine" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> Makine -> Makine Listesi -> Yeni Makine Ekle şeklinde ulaşım sağlayabilirsiniz.
+- Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
+- Sayfada ki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
 
 ### Yemi Makine Ekle 
 
@@ -60,3 +73,37 @@ Ayrıca, üretim makinelerine cihazlar takılarak, bu süreçlerin otomatikleşt
 
 **Plan Gösterim Sıra**
 
+## Kaydet butonuna basarak makine tanımalama işlemimimiz tamamlanır, belgeler ve notlar ekranına ulaşım sağlarız.
+## Görev oluşturabilir, görev bağlayabiliriz.
+
+### Belgeler
+
+Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+
+Belge eklemek için tıklayalım ;
+
+- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+
+Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+
+### Notlar 
+
+İşleme ait özel notlar belirtebiliriz. 
+Önemli bir detay var ise bu detayları burada belirtebiliriz.
+Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+
+### Kayıt Bilgileri
+
+Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+
+Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+
+## Ek İşlemler
+
+ Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+- [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
+- Görev Oluştur
+- Görev Bağla

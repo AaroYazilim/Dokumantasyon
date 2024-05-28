@@ -37,3 +37,4 @@ Reçete Hızlı düzeltme kullanım detayları için tıklayınız. [Reçete Hı
 İş emri planlama ve düzenleme, üretim sürecinde belirli bir işin nasıl ve ne zaman yapılacağını belirlemek ve gerektiğinde bu planı güncellemektir. 
 İş emri, üretim sürecinde belirli bir ürün veya parça için gereken işlemleri tanımlar ve bu işlemlerin zamanlamasını içerir. 
 İş Emri Planlama kullanım detayları için tıklayınız.[İş Emri Planla](../Uretim/IsEmriPlanla.md)
+

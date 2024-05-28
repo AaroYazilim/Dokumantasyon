@@ -1,6 +1,8 @@
 
 # Reçete
 
+## Tanım
+
 Üretim sürecinin başlangıçını reçete oluşturmaktadır. 
 Reçete bir ürünün yapımında kullanılan malzemenin ve bu malzemlerin hangi oranlarda ve nasıl kullanılacağının belirtildiği bir belgedir.
 Üretim endüstrisinde ürünlerin seri üretiminde, restoran ve yemekhane gibi yerlerde yemeklerin hazırlanmasında, ilaç endüstrisinde ilaçların formülasyonunda ve daha birçok alanda reçeteler kullanılır.
@@ -26,5 +28,5 @@ Taslak Reçete oluşturarak üretim aşamalarına başlayabiliriz.
 ## Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> Taslak Reçete Listesi -> Yeni Reçete Taslağı Ekle şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> İş Emri Reçete Listesi -> Yeni Reçete Taslağı Ekle şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden Üretim -> Kartlar -> Taslak Reçete Listesi şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden Üretim -> Kartlar -> İş Emri Reçete Listesi şeklinde ulaşım sağlayabilirsiniz.

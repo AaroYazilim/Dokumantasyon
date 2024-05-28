@@ -1,17 +1,27 @@
+---
+SayfaID: UrRecete/Liste
+SayfaTipi: KartListe
+---
 
 # Yeni Reçete Taslağı Ekle
 
-Yeni reçete taslağı olarak ilk aşamamıza başlayabiliriz. 
-İş emirleri reçeteleri listesi ekranında sağ üst köşede yer alan Yeni Reçete Taslağı Ekle diyerek erişim sağlayabiliriz.
-Yeni reçete taslağımızı oluşturarak üretim planımıza başlayabiliriz. 
-Reçetemizi oluşturduktan sonra iş emri vererek üretim aşamamıza başlayabiliriz.
+**Erişim Linki :** [erp.aaro.com.tr/UrRecete/Liste](erp.aaro.com.tr/UrRecete/Liste)
 
-## Ulaşım
+### Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Kartlar -> Taslak Reçete Listesi -> Yeni Reçete Taslağı Ekle şeklinde ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Kartlar -> İş Emri Reçete Listesi -> Yeni Reçete Taslağı Ekle şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden Üretim -> Modül Sayfası -> Hareket -> Yeni Taslak Reçete Oluştur şeklinde ulaşım sağlayabilirsiniz.
 
+### Tanım 
+
+Üretim sürecinin başlangıçını reçete oluşturmaktadır. 
+[Reçete](../Uretim/Recete.md) bir ürünün yapımında kullanılan malzemenin ve bu malzemlerin hangi oranlarda ve nasıl kullanılacağının belirtildiği bir belgedir.
+Yeni reçete taslağı olarak ilk aşamamıza başlayabiliriz. 
+İş emirleri reçeteleri listesi ekranında sağ üst köşede yer alan Yeni Reçete Taslağı Ekle diyerek erişim sağlayabiliriz.
+Yeni reçete taslağımızı oluşturarak üretim planımıza başlayabiliriz. 
+Reçetemizi oluşturduktan sonra iş emri vererek üretim aşamamıza başlayabiliriz.
 
 ### Genel
 
@@ -75,3 +85,15 @@ Hazırladığımız reçetede üretmek istediğiniz mamül bilgilerini ifade ede
 
 **Şarj Kg**
 
+## Kaydetme ve Silme
+
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+
+## Ek İşlemler 
+
+Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+- [Makine Listesi](../Uretim/MakineListesi.md)
+- [Operasyon Listesi](../Uretim/OperasyonListesi.md)
+- [Operasyon - Makine Eşleştirme Listesi](../Uretim/OperasyonMakineEslestirme.md)

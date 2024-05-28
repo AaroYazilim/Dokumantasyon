@@ -1,15 +1,28 @@
+---
+SayfaID: UrMakineAriza
+SayfaTipi: Liste
+---
 
 # Makine Arıza Kaydı Listesi
+
+**Erişim Linki :** [erp.aaro.com.tr/UrMakineAriza/Liste](erp.aaro.com.tr/UrMakineAriza/Liste)
+
+## Ulaşım
+
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "makine arıza" aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden Üretim -> Listeler -> Makine Arıza Kaydı Listesi şeklinde ulaşım sağlayabilirsiniz.
+
+## Tanım 
 
 Makinelerin arızalarını buradan görüntüleyebiliriz, yeni arıza kaydı girebiliriz.
 
 Makine arıza detaylarını görüntülemek için satıra çift tıklayabilirsiniz.
 Hangi makinenin ne arızası verdiğini, tamir süresini, arıza tarihlerini görüntüleyebiliriz.
 
-## Ulaşım
+### Ek Özellikler 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "makine arıza" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Listeler -> Makine Arıza Kaydı Listesi şeklinde ulaşım sağlayabilirsiniz.
+- Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
+- Sayfada ki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
 
 ## Yeni Makine Arıza Kaydı Ekle
 
@@ -51,12 +64,6 @@ Makinelerimizden biri arıza verdiğinde yeni makine arıza kaydını girebiliri
 
 **Kaydet butonu basarak kaydetme işlemimizi tamamladıktan sonra karşımıza çıkan ekranda belgeler ve notlar kısmından belge ve not ekleyebiliriz.**
 
-## Ek İşlemler 
-
-### Anasayfaya Kısayol Olarak Ekle
-
-Kısayollarına ekleyerek kolayce erişim sağlayabilirsiniz. Kısayollarınıza ekleme detayları için tıklayınız. [Anasayfaya Kısayol Ekle](../Uretim/KisaYollaraEkleme.md)
-
 ### Görev Oluştur
 
 **Adı:** Görevin adını girelim, mesela bakım periyodu oluşturmak istiyprum bakım diyebiliriz.
@@ -79,5 +86,37 @@ Kısayollarına ekleyerek kolayce erişim sağlayabilirsiniz. Kısayollarınıza
 	Aylık 1 seçiyorum, ayın son günü ya da ilk günü yapılsın tercihlerimi seçiyorum.
 	Aylık bakımın kaç ay yapılsın bilgisini seçelim.
 
-### Görev Bağla
+### Belgeler
 
+Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+
+Belge eklemek için tıklayalım ;
+
+- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+
+Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+
+### Notlar 
+
+İşleme ait özel notlar belirtebiliriz. 
+Önemli bir detay var ise bu detayları burada belirtebiliriz.
+Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+
+## Kaydetme 
+
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak üretim hareketi girişi işlemimizi tamamlayabiliriz.
+
+### Yazdır
+
+.............
+
+
+### Ek İşlem Butonu
+
+- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+- [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
+- Görev Oluştur
+- Görev Bağla

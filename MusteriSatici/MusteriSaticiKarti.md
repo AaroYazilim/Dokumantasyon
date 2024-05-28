@@ -68,7 +68,7 @@ Aynı vergi numarası ile birden çok kart açılması ek yetkilerle ayarlanabil
 
 **Web:** Karta ait web adresini ifade eder.
 
-**Öncelik:** Öncelik belirterek belirli bir adrsin ön tanımlı olarak kullanılmasını sağlayabilirsiniz.
+**Öncelik:** Öncelik belirterek belirli bir adresin ön tanımlı olarak kullanılmasını sağlayabilirsiniz.
 
 
 ### İlgili Bilgileri
