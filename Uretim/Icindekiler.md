@@ -87,9 +87,6 @@ SayfaTipi: Modul
 
 ### İlişkili Modüller
 
-
-
-- [Üretim Nedir](../Uretim/UretimNedir.md)
 - [Otomatik Planlama](../Uretim/OtomatikPlanlama.md)
 - [İş Emri Çıktı](../Uretim/IsEmriCikti.md)
 - [Operasyon Çıktı](../Uretim/OperasyonCikti.md)
