@@ -22,23 +22,23 @@ Stok modülü ile işletmenizin envanter yönetimini etkin bir şekilde yapmanı
 
 ### [Gelir / Gider Modülü](/GelirGider/Icindekiler.md)
 
-Gelir / Gider modülü ile işletmenizin gelir ve gider yönetimini etkin bir şekilde yapmanıza, gelir ve giderlerinizi takip edebilirsiniz.
+Gelir / Gider modülü ile işletmenizin gelir ve giderleri etkin bir şekilde yönetmek, gelir ve giderlerinizi izlemek için kullanabilirsiniz.
 
 ### [Satış / Pazarlama Modülü](/SatisPazarlama/Icindekiler.md)
 
-Satış / Pazarlama modülünü işletmenizin satışlarınızı etkin bir şekilde yapmanıza ve satış süreçlerinizi takip edebilirsiniz. 
+Satış / Pazarlama modülünü işletmenizin satışlarınızı etkin bir şekilde yönetmek ve satış süreçlerini izlemek için kullanabilirsiniz. 
 
 ### [Satın Alma Modülü](/SatinAlma/Icindekiler.md)
 
-Satış Alma modülünü işletmenizin alışlarınızı etkin bir şekilde yapmanıza ve alış süreçlerinizi takip edebilirsiniz. 
+Satış Alma modülünü işletmenizin alışlarınızı etkin bir şekilde yapmak ve alış süreçlerini izlemek için kullanabilirsiniz. 
 
 ### [Üretim Modülü](/Uretim/Icindekiler.md)
 
-Üretim modülünü işletmenizin üretim süreçlerini etkin bir şekilde yapmanıza ve üretim süreçlerinizi takip edebilirsiniz. 
+Üretim modülünü işletmenizin üretim süreçlerini etkin bir şekilde yönetmek ve üretim süreçlerini izlemek için kullanabilirsiniz. 
 
 ### [e-Dönüşüm Modülü](/E-Donusum/Icindekiler.md)
 
-e-Dönüşüm modülünü işletmenizin fatura süreçlerini etkin bir şekilde yapmanıza ve fatura süreçlerinizi takip edebilirsiniz. 
+e-Dönüşüm modülünü işletmenizin fatura süreçlerini etkin bir şekilde yönetmek ve fatura süreçlerinizi izlemek için kullanabilirsiniz. 
 
 ### [Kasa Modülü](/Kasa/Icindekiler.md)
 
@@ -50,7 +50,7 @@ Banka modülü ile İşletmenizin sahip olduğu banka hesaplarını kaydedebilir
 
 ### [Çek / Senet Modülü](/CekSenet/Icindekiler.md)
 
-Çek / Senet modülü ile İşletmenizin çek / senet süreçlerini kaydedebilir ve takip edebilirsiniz. 
+Çek / Senet modülü ile İşletmenizin çek / senet süreçlerini etki bir şekilde yönetmek ve izlemek için kullanabilirsiniz. 
 
 ### [Demirbaş Modülü](/Demirbas/Icindekiler.md)
 
