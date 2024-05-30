@@ -1,5 +1,9 @@
- 
-## Çek/Senet Hareketleri 
+---
+SayfaID: CekSenetHareketleri
+SayfaTipi: Hareket Olustur
+---
+
+# Çek/Senet Hareketleri 
 
 ### Çekler
 
@@ -10,7 +14,7 @@
 - [Çek Bankadan Ödendi](../TemelHareketler/CekBankadanÖdendi.md)
 - [Çek Kasadan Ödendi](../TemelHareketler/CekKasadanÖdendi.md)
 
-**Diğer İşlemler**
+### Diğer İşlemler
 
 - [Çek Satıcıdan İade Alındı](../TemelHareketler/CekSaticidanİadeAlindi.md)
 - [Çek Müşteriye İade Edildi](../TemelHareketler/CekMüsteriyeİadeEdildi.md)
@@ -28,7 +32,7 @@
 - [Senet Bankadan Tahsil Edildi](../TemelHareketler/CekBankadanTahsilEdildi.md)
 - [Senet Kasadan Ödendi](../TemelHareketler/SenetKasadanOdendi.md)
 
-**Diğer İşlemler**
+### Diğer İşlemler
 
 - [Senet Portföyde Karşılıksız Çıktı](../TemelHareketler/CekPortfoydeKarsiliksizCikti.md)
 - [Senet Bankadan İade Alındı](../TemelHareketler/CekBankadanİadeAlindi.md)

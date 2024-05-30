@@ -1,5 +1,11 @@
+---
+SayfaID: KasaListe
+SayfaTipi: KartListe
+---
 
 # Kasa Kartı Listesi
+
+**Erişim Linki :** [erp.aaro.com.tr/Kasa/Liste](erp.aaro.com.tr/Kasa/Liste)
 
 ### Ulaşım
 
@@ -21,7 +27,7 @@
 ### Ek İşlem Butonu
 
 - Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
-- [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
-- [Listeyi Excele Aktar](../TemelOzellikler/ListeyiExceleAktar.md)
-
+	- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+	- [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
+	- [Listeyi Excele Aktar](../TemelOzellikler/ListeyiExceleAktar.md)
+	

@@ -32,7 +32,7 @@ Bu modül, müşteri bilgilerini saklamak, alış satış işlemlerini takip etm
 
 - [Hareket Oluştur](../MusteriSatici/HareketOlustur.md)
 
-### İşlemler
+### İşlemler 
 
 - [Borç - Alacak Eşleştirme](../MusteriSatici/HareketOlustur.md)
 

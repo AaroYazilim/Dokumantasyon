@@ -1,3 +1,7 @@
+---
+SayfaID: StokHareketleri
+SayfaTipi: Hareket Olustur
+---
 
 ## Stok Hareketleri
 
