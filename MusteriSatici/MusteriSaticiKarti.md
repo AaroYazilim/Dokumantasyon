@@ -148,14 +148,22 @@ Kartta bulunan kısayolları sekmesi ile cariye ait ilgili raporlara ve öncelik
 - Sık Kullanılanlar
     - **Cari Hareketleri** linki ile carinin kartına ait tüm hareketlerine ve bakiye bilgisine ulaşabilirsiniz. Belirli bir tarihteki bakiyesini görüntüleyebilir, ilgili hareketin detaylarına ulaşabilirsiniz. Detaylı bilgi için [Müşteri / Satıcı Hareketleri](../MusteriSatici/MusteriSaticiHareketleriListesi.md)
     - **Stok Hareketleri** linki ile faturalarda ve irsaliyelerde bulunan cari kartına ait tüm stok hareketlerinin detaylı bilgisine ulaşabilirsiniz. Örneğin sevk edilen stoğun cinsi, miktarı, tutarı ve tarihi vs bilgilerini görüntüleyebilirsiniz. Detaylı bilgi için [Stok Hareketleri](../Stok/StokHareketleriListesi.md)
-
-    - ..............
+    - **Ekstre Dökümü** 
+    - **Ekstre Dökümü (Malzeme Detaylı)
+    - **Özet**
 
 - Satış / Pazarlama
-    - ..............
+    - **Alınan Siparişleri**
+    - **Verilen Siparişleri**
+    - **Alınan Sipariş Hareketleri**
+    - **Verilen Teklif Hareketleri**
+    - **Sipariş Üretim ve Sevkiyat Oranları**
 
 - Satın Alma
-    - ..............
+    - **Verilen Siparişler**
+    - **Alınan Teklifler**
+    - **Verilen Sipariş Hareketleri**
+    - **Alınan Teklif Hareketleri**
 
 ## Kayıt Bilgileri
 

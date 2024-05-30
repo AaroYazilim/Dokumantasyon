@@ -1,6 +1,6 @@
 # Aaro ERP Kullanıcı Kılavuzu
 
-### [Ön Muhasebe Kavramları](../OnMuhasebeGiris/Icindekiler.md)
+### [Ön Muhasebe Kavramları](/OnMuhasebeGiris/Icindekiler.md)
 Ön muhasebe ile ilgili genel kavramları öğrenmek ve incelemek için bu bölümde bulunan konu başlıklarını inceleyebilirsiniz.
 
 
@@ -12,63 +12,63 @@ Aaro'da tüm modüller birbirleriyle entegre olarak çalışmaktadır. Modülelr
 Aşağıda bulunan modül linklerini inceleyerek modüller hakkında detaylı bilgiye sahip olabilirsiniz.
 
 
-### [Müşteri / Satıcı Modülü](../MusteriSatici/Icindekiler.md)
+### [Müşteri / Satıcı Modülü](/MusteriSatici/Icindekiler.md)
 
 Müşteri satıcı modülünü işletmenizin müşteri ve satıcılar ile ilişkilerini yönetmek, satış ve alış süreçlerini izlemek için kullanabilirsiniz. 
 
-### [Stok Modülü](../Stok/Icindekiler.md)
+### [Stok Modülü](/Stok/Icindekiler.md)
 
 Stok modülü ile işletmenizin envanter yönetimini etkin bir şekilde yapmanıza ve stoklarınızla ilgili süreçleri optimize etmenize yardımcı olur.
 
-### [Gelir / Gider Modülü](../GelirGider/Icindekiler.md)
+### [Gelir / Gider Modülü](/GelirGider/Icindekiler.md)
 
 Gelir / Gider modülü ile işletmenizin gelir ve gider yönetimini etkin bir şekilde yapmanıza, gelir ve giderlerinizi takip edebilirsiniz.
 
-### [Satış / Pazarlama Modülü](../SatisPazarlama/Icindekiler.md)
+### [Satış / Pazarlama Modülü](/SatisPazarlama/Icindekiler.md)
 
 Satış / Pazarlama modülünü işletmenizin satışlarınızı etkin bir şekilde yapmanıza ve satış süreçlerinizi takip edebilirsiniz. 
 
-### [Satın Alma Modülü](../SatinAlma/Icindekiler.md)
+### [Satın Alma Modülü](/SatinAlma/Icindekiler.md)
 
 Satış Alma modülünü işletmenizin alışlarınızı etkin bir şekilde yapmanıza ve alış süreçlerinizi takip edebilirsiniz. 
 
-### [Üretim Modülü](../Uretim/Icindekiler.md)
+### [Üretim Modülü](/Uretim/Icindekiler.md)
 
 Üretim modülünü işletmenizin üretim süreçlerini etkin bir şekilde yapmanıza ve üretim süreçlerinizi takip edebilirsiniz. 
 
-### [e-Dönüşüm Modülü](../E-Donusum/Icindekiler.md)
+### [e-Dönüşüm Modülü](/E-Donusum/Icindekiler.md)
 
 e-Dönüşüm modülünü işletmenizin fatura süreçlerini etkin bir şekilde yapmanıza ve fatura süreçlerinizi takip edebilirsiniz. 
 
-### [Kasa Modülü](../Kasa/Icindekiler.md)
+### [Kasa Modülü](/Kasa/Icindekiler.md)
 
 Kasa modülü ile işletmenizin nakit akış süreçlerinizi ve bakiyelerini takip edebilirsiniz. 
 
-### [Banka Modülü](../Banka/Icindekiler.md)
+### [Banka Modülü](/Banka/Icindekiler.md)
 
 Banka modülü ile İşletmenizin sahip olduğu banka hesaplarını kaydedebilir ve izleyebilirsiniz. İşletmenizin farklı bankalardaki hesaplarınızı tek bir yerden yönetmenize olanak tanır.
 
-### [Çek / Senet Modülü](../CekSenet/Icindekiler.md)
+### [Çek / Senet Modülü](/CekSenet/Icindekiler.md)
 
 Çek / Senet modülü ile İşletmenizin çek / senet süreçlerini kaydedebilir ve takip edebilirsiniz. 
 
-### [Demirbaş Modülü](../Demirbas/Icindekiler.md)
+### [Demirbaş Modülü](/Demirbas/Icindekiler.md)
 
 Demirbaş modülü ile işletmenizin demirbaşlarını kaydedebilir ve izleyebilirsiniz.
 
-### [Personel Modülü](../Personel/Icindekiler.md)
+### [Personel Modülü](/Personel/Icindekiler.md)
 
 Personel modülü ile işletmenizde çalışan personelleri, çalışma saatlerini kaydedebilir, iş emirleri ile çalışma verimliliklerini izleyebilirsiniz.
 
-### [Ayarlar](../Ayarlar/Icindekiler.md)
+### [Ayarlar](/Ayarlar/Icindekiler.md)
 
 .............
 
-### [Genel Özellikler](../GenelOzellikler/Icindekiler.md)
+### [Genel Özellikler](/GenelOzellikler/Icindekiler.md)
 
 .............
 
-## [API Referansı](../API/Icindekiler.md)
+## [API Referansı](/API/Icindekiler.md)
 
 .............
 

@@ -19,7 +19,7 @@ SayfaTipi: KartListe
 - Müşteri/Satıcı kartlarının genel bilgilerini bu sayfadan görüntüleyebilirsiniz.
 - Müşteri/Satıcı kartlarının güncel bakiyelerini görüntüleyebilirsiniz.
 - Mevcut müşteri/satıcı kartlarını düzenleyebilir, silebilir veya yeni müşteri/satıcı kartlarını bu sayfadan ekleyebilirsiniz. 
-    - Musteri/Satici Kartını sayfanın sqğ üstünde bulunan **Müşteri / Satıcı Ekle** linki ile [Musteri/Satici Kartı](../MusteriSatici/MusteriSaticiKarti.md) sayfasını açarak ekleyebilirsiniz.
+    - Musteri/Satici Kartını sayfanın sağ üstünde bulunan **Müşteri / Satıcı Ekle** linki ile [Musteri/Satici Kartı](../MusteriSatici/MusteriSaticiKarti.md) sayfasını açarak ekleyebilirsiniz.
     - Sayfadaki listeden mevcut bir kartı solunda bulunan büyüteç işaretine tıklatarak açabilir, kartla ilgili bilgiler ulaşabilir, düzenleyebilir, veya silebilirsiniz.
     - Müşteri satıcı kartında bulunan bilgiler ve özellikler için [Musteri/Satici Kartı](../MusteriSatici/MusteriSaticiKarti.md) dökümantasyonunu inceleyebilirsiniz.
  
