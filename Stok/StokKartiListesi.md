@@ -30,4 +30,3 @@ SayfaTipi: KartListe
 	- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 	- [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
 	- [Listeyi Excele Aktar](../TemelOzellikler/ListeyiExceleAktar.md)
-
