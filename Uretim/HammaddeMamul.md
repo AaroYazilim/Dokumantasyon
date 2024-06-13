@@ -4,17 +4,27 @@
 ## Mamül-Hammadde Düzelt 
 
 **Stok:** Bir operasyondan çıkan mamül diğer operasyona aktarılacak hammaddedir.
+
 **Mamül Miktar:** Kaç adet mamül çıktığı miktarını ifade eder.
+
 **Birim Fiyatı:** Bir adet mamülün birim fiyatını gösterir.
+
 **Hesap Açıklaması** Maliyet hesaplamaların yapıldığı formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
+
 **Açıklama** Mamül ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+
 **Depo:** Oluşan mamülün hangi depoya gireceğini belirtir.
+
 **Ek Maliyet** Birim başı ek maliyeti gösterir.(Kargo, fason vb.)
 
 **Stok:** Bir operasyona giren hammaddeyi ifade eder.
+
 **Hammadde Miktar:** Operasyona, hammaddeden kaç adet kullanılacağı birimi ifade eder. 
+
 **Birim Fiyatı:** Bir adet hammaddenin birim fiyatını gösterir.
+
 **Hesap Açıklaması** Maliyet hesaplamaların yapıldığı formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
+
 **Açıklama** Mamül ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 **Yapılan düzeltmeleri onayladıktan sonra, değişiklikleri sisteme kaydedin. Böylece, mamül bilgileri güncellenir/eklenir ve doğru bilgilerle işlem yapılabilir hale gelir.**

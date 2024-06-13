@@ -14,38 +14,21 @@
 - Gereksiz harcamaların önüne geçilerek üretim maliyetleri kontrol altında tutulur.
 - Üretim sürecinde karşılaşılan değişikliklere ve acil durumlara hızlıca uyum sağlanabilir.
 
-## Üretim Planı
+## Plan Göster 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Üretim Planı" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> İş Emri Listesi -> İş Emrini açınız -> Plan Göster şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Listeler -> Üretim Planı şeklinde ulaşım sağlayabilirsiniz.
+Üretim planı ekranına yönlendirir buradan üretim planlamalarını görüntüleyebiliriz.
+Makine yoğunluklarına işlemlerin yoğunluğu görünteleyerek planlanımızı gözden geçirebiliriz.
 
-## Tanım 
+## Hızlı Düzelt
 
-Üretim süreçlerinin ne zaman ve hangi sırayla gerçekleşeceğini görüntüleyebiliriz. 
-Makine ve işgücü gibi kaynakların en verimli şekilde kullanılması hedeflenir.
-Üretim planında, üretim planınızı görüntüleyerek üretim planlamalarınızı yapabilirsiniz.
+Operasyon, makinelerimizi, tarihleriniz, vardiyalarını,s stok kodlarını, miktarlarını görüntüleyebiliriz.
+İş emri numarasına tıklayarak iş emrine hızlıca erişim sağlayabiliriz.
+Reçete numarasına tıklayarak reçeteye hızlıca erişim sağlayabiliriz.
+Sipariş numarasına tıklayarak siaprişe hızlıca erişim sağlayabiliriz.
 
-### Toplu Plan Kaydırma
+İşlem yoğunluğuna, arızalarına göre makine, miktar, vardiya değişikliği yapmamız gerektiğinde buradan hızlıca değişim yapabiliriz.
 
-Üretim planlarında esneklik sağlayarak, beklenmedik durumlara hızlıca adapte olmayı mümkün kılar.
+## Tekrar Planla 
 
-### Toplu Makine Değiştir
-
-Toplu Makine Değiştir işlemi, belirli üretim süreçlerinde kullanılan makinelerin toplu olarak değiştirilmesi veya güncellenmesi gereken durumlarda kullanılan bir fonksiyondur. 
-Üretim süreçlerinde esneklik ve verimlilik sağlar ve makine arızaları, bakım ihtiyaçları veya kapasite değişiklikleri gibi durumlara hızlı bir şekilde adapte olmayı mümkün kılar.
-
-### Geçmiş Tarihli Planı Bugüne Taşı 
-
-Geçmiş Tarihli Planı Bugüne Taşı işlemi, planlanmış ancak belirli bir nedenle gerçekleştiremediğimiz üretim faaliyetlerini yeniden planlayarak bugüne alınmasıdır. 
-Bu işlem, özellikle üretim süreçlerinde gecikmelerin telafi edebilmemiz ve üretim hedeflerinin zamanında gerçekleştirebilmemiz için önemlidir.
-
-### Tüm Üretimi Planla
-
-Hazır olan tüm iş emirlerinin otomatik planlamasının yapılmasıdır.
-İşlem yaptığımız gün itibariyle tüm üretimi, teslim tarihi ve önceliklere göre otomatik olarak planlanacaktır.
-
-
-
-**Bu işlemleri gerçekleştirmek için detaylı anlatıma buradan erişebilirsiniz.** [Üretim Planlama](../Uretim/Planlama.md)
-
+İş emri başlangıç tarihini değiştirebiliriz.
+Otomatik planlama seçeneği seçerek makine işlem oranına göre otomatik planlama yapabiliriz.

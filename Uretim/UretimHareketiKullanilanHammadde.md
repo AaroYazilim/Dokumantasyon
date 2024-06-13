@@ -1,6 +1,17 @@
+---
+SayfaID: UrAkisOperasyonHammadde
+SayfaTipi: Liste
+---
 
 # Üretim Hareketi Kullanılan Hammaddeler Listesi
 
+**Erişim Linki :** [erp.aaro.com.tr/UrAkisOperasyonHammadde/Liste](erp.aaro.com.tr/UrAkisOperasyonHammadde/Liste)
+
+## Ulaşım
+
+- Sol menüden Üretim -> Listeler -> Üretim Hareketi Kullanılan Hammadde şeklinde ulaşım sağlayabilirsiniz.
+
+## Tanım
 
 Üretim Hareketi Kullanılan Hammaddeler Listesi, üretim sürecinde kullanılan hammaddelerin takibini sağlar. 
 Bu listede hammadde kodu, adı, kullanım tarihi, miktar, birim, operasyonu gibi bilgiler yer alır. 
@@ -15,10 +26,16 @@ Bu liste, stok yönetimi, üretim planlaması ve operasyon açısından kritikti
 Satırlara tıklayarak üretilen mamül detaylarını görüntüleyerek, iş emrine, reçete diagramına, üretim planına erişim sağlayabiliriz.
 Üretime ait özel görseller veya özel notlar eklenmişse görüntüleyebiliriz.
 
-## Ulaşım
+### Ek Özellikler 
 
-- Sol menüden Üretim -> Listeler -> Üretim Hareketi Kullanılan Hammadde şeklinde ulaşım sağlayabilirsiniz.
+- Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
+- Sayfada ki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
 
+### Ek İşlem Butonu
+
+- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+- [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
 
 
 

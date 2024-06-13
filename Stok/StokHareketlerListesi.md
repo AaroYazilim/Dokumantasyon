@@ -1,5 +1,11 @@
+---
+SayfaID: StokHareketleri
+SayfaTipi: HareketListe
+---
 
 # Stok Hareketleri Listesi
+
+**Erişim Linki :** [erp.aaro.com.tr/StokHareketleri/Liste](erp.aaro.com.tr/StokHareketleri/Liste)
 
 ### Ulaşım 
 

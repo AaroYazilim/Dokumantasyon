@@ -1,18 +1,24 @@
+---
+SayfaID: UretimModulu
+SayfaTipi: Modül
+---
 
 # Üretim
 
-Üretim modülünde yapabileceğimiz haraketler için;
-
-- [Üretim Hareketleri](../Uretim/Hareketler.md)
-
-- [Kartlar](../Uretim/Kartlar.md)
-
-- [Listeler](../Uretim/Listeler.md)
+**Erişim Linki :** [erp.aaro.com.tr/UretimModulu](erp.aaro.com.tr/UretimModulu)
 
 # Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Üretim" aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Üretim Modülü şeklinde ulaşım sağlayabilirsiniz. 
+
+## Tanım 
+
+Üretim, mal ve hizmetlerin ekonomik değer yaratmak amacıyla dönüştürülmesi sürecidir. 
+Doğal kaynaklar, iş gücü, sermaye ve teknoloji gibi üretim faktörlerini kullanarak ham maddelerin nihai ürünlere veya hizmetlere dönüştürülmesini içerir. 
+Üretim, tarım, imalat, inşaat ve hizmet sektörlerinde gerçekleşebilir. 
+Ekonomik büyüme, istihdam yaratma ve yaşam standartlarının yükseltilmesi açısından kritik bir rol oynar. 
+
 
 # Üretim Modülü 
 
@@ -24,11 +30,11 @@ Modül Sayfasında üretim hareketlerini, hareket ekleme, listeler ve raporlara 
 
 [Reçete](../Uretim/Recete.md) bir ürünün yapımında kullanılan malzemenin ve bu malzemlerin hangi oranlarda ve nasıl kullanılacağının belirtildiği bir belgedir.
 
-[Makine](../Uretim/Makine.md) bir üretim tesisinde kullanılan herhangi bir makineyi ifade eder, ürünün veya bileşenin üretiminde kullanılan herhangi bir ekipman olabilir. 
+[Makine](../Uretim/MakineListesi.md) bir üretim tesisinde kullanılan herhangi bir makineyi ifade eder, ürünün veya bileşenin üretiminde kullanılan herhangi bir ekipman olabilir. 
 Üretim makineleri, üretim hattında farklı işlevlere sahip olabilir; 
 Bazıları hammaddeleri işleyebilir, bazıları montaj yapabilir, bazıları test edebilir ve diğerleri ise ambalajlama gibi son işlemleri gerçekleştirebilir.
 
-[Operasyon](../Uretim/Operasyon.md) bir üretim sürecinin belirli bir aşamasında gerçekleştirilen belirli bir faaliyettir. 
+[Operasyon](../Uretim/OperasyonListesi.md) bir üretim sürecinin belirli bir aşamasında gerçekleştirilen belirli bir faaliyettir. 
 Operasyon, hammaddelerin işlenmesi, parçaların montajı, ürünlerin test edilmesi gibi çeşitli işlemleri içerebilir. 
 Operasyonlar genellikle belirli bir ürün veya hizmetin üretimini tamamlamak için gerekli adımları içeren bir operasyonel planın parçasıdır.
 
@@ -40,8 +46,13 @@ Her bir operasyon ve ürünler(reçeteler) iş emrinde aşamalı olarak yer alma
 
 İş emirleri tamamlandıktan sonraki aşama Planlama aşamasıdır.
 
-[Planlama](../Uretim/Planlama.md) işletmenin belirli bir zaman diliminde hangi ürünleri ne zaman, ne kadar ve hangi kaynaklarla üreteceğini planlama sürecidir. 
+Planlama işletmenizin belirli bir zaman diliminde hangi ürünleri ne zaman, ne kadar ve hangi kaynaklarla üreteceğinizi planlama sürecidir. 
 Üretim faaliyetlerini etkin bir şekilde organize etmeyi ve kaynakların en verimli şekilde kullanılmasını sağlar.
+Üretim planlamasının amacı, üretim süreçlerini optimize ederek stok maliyetlerini düşürmek, teslimat sürelerini iyileştirmek, müşteri taleplerini karşılamak ve işletme verimliliğini artırmaktır.
+Üretim planlaması, işletmenizin mevcut üretim kapasitesini ve kaynaklarını değerlendirir. 
+Makine kapasitesi, işçi sayısı, malzeme stokları ve diğer üretim kaynaklarını içerir.
+Üretim planlaması, malzeme ihtiyaçlarını belirlemek için malzeme ihtiyaçları planlaması (MRP) yöntemini kullanır. 
+MRP, üretim sürecinin her aşamasında hangi malzemelerin ne zaman ve ne kadar gerektiğini hesaplar.
 Aynı zamanda üretim yapılırken canlı takip etme olanağınız mevcuttur. İşçi ne zaman ara verdi, ne zaman başladı gibi süreçleri izleyebilirsiniz.
 
 Üretim Aşamasında Canlı takip ve Sonradan manuel olarak iki şekilde giriş yapılmaktadır. 
@@ -49,7 +60,7 @@ Aynı zamanda üretim yapılırken canlı takip etme olanağınız mevcuttur. İ
 [Canlı Üretim Terminali](../Uretim/Terminal.md) üretim süreçlerini izlemek, yönetmek ve kontrol etmek için kullanılan bir araçtır. 
 Canlı üretim terminali, fabrika veya üretim tesisindeki üretim faaliyetlerini gerçek zamanlı olarak takip etmeyi ve yönetmeyi sağlar. 
 
-Bir diğer alternatif olarak üretim bittikten sonra [Üretim Hareketi](../Uretim/UretimHareketi.md) manuel giriş yapabilirsiniz.
+Bir diğer alternatif olarak üretim bittikten sonra [Üretim Hareketi Girişi](../Uretim/HizliUretimHareketi.md) manuel giriş yapabilirsiniz.
 Üretim hareketleri manuel gireceğiniz taktirde;
 [İş Emri Çıktı](../Uretim/IsEmriCıktı.md)sını alarak üretimden sorumlu usta başı buradan bütün aşamaları görecek şekilde çıktı alabilir.
 Her bir operasyon için sorumlu olacak personeller için [Operasyon Çıktısı](../Uretim/OperasyonCikti.md) alarak personellere iş emri verebilir.

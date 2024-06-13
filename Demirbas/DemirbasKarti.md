@@ -1,9 +1,15 @@
+---
+SayfaID: Demirbas
+SayfaTipi: Kart
+---
 
 ## Demirbaş Kartı
 
+**Erişim Linki :** [erp.aaro.com.tr/Demirbas/Kalem](erp.aaro.com.tr/Demirbas/Kalem)
+
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Demirbaş kartı" olarak aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Demirbaş" olarak aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Demirbaş -> Demirbaş Modülü -> Demirbaş Kartı şeklinde ulaşım sağlayabilirsiniz. 
 - Sol menüden Demirbaş -> Kartlar -> Demirbaş Kartı Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
 
@@ -73,3 +79,57 @@ Demirbaş kartı, işletmenin demirbaşlarını etkin bir şekilde izlemesine, e
 
 
 Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna basarak Müşteri/Satıcı kartı açma işlemimizi bitirebiliriz.
+
+## Kaydetme ve Silme
+
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+
+## Kısayollar
+
+Demirbaşta bulunan kısayolları sekmesi ile demirbaşa ait ilgili raporlara ve öncelikli sayfalara kolayca ulaşabilirsiniz.
+
+- Liste 
+	- Hareketleri
+	- Bu Demirbaş için Yapılan Giderler
+
+## Kayıt Bilgileri
+
+Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+
+Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+
+## Yazdır
+
+- Sayfanın sağ üstünde bulunan yazıcı sembolü ile sayfaya tanımlanan özel çıktı formatları ile farklı çıktılar alınabilir. 
+- Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
+- Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
+- Kullanıcıya özel ekstre, dövizli ekstre gibi farklı tasarımlar yapılabilir.
+- Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktılar program üzerinden e-mail olarak gönderilebilir. 
+
+## Ek İşlemler
+
+ Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+- [Görev Oluştur]()
+- [Görev Bağla]()
+
+## Belgeler
+
+Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+
+Belge eklemek için tıklayalım ;
+
+- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+
+Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+
+
+## Notlar
+
+İşleme ait özel notlar belirtebiliriz. 
+Önemli bir detay var ise bu detayları burada belirtebiliriz.
+Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)

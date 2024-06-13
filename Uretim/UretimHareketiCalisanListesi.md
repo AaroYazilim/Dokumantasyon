@@ -1,5 +1,17 @@
+---
+SayfaID: UrAkisOperasyonPersonel
+SayfaTipi: Liste
+---
 
 # Üretim Hareketi Çalışan Personeller Listesi
+
+**Erişim Linki :** [erp.aaro.com.tr/UrAkisOperasyonPersonel/Liste](erp.aaro.com.tr/UrAkisOperasyonPersonel/Liste)
+
+## Ulaşım
+
+- Sol menüden Üretim -> Listeler -> Üretim Hareketi Çalışan Personel şeklinde ulaşım sağlayabilirsiniz.
+
+## Tanım
 
 Üretim Hareketi Çalışan Personeller Listesi, üretim sürecinde görev alan personelin takibini sağlar. 
 Bu listede personel iş emri numarası, görev tarihi, görev aldığı operasyon gibi bilgiler yer alır. 
@@ -13,6 +25,15 @@ Bu liste, insan kaynakları yönetimi, üretim planlaması ve performans değerl
 Bu bilgiler, personelin görev dağılımının düzenli ve şeffaf bir şekilde yönetilmesini sağlar. 
 Çalışanların hangi tarihte, hangi görevde ve nasıl performans gösterdiği bu liste ile takip edilir, böylece üretim sürecinde verimlilik ve etkinlik artırılır.
 
-# Ulaşım
+Satırlara tıkladığımızda üretim hareketi sayfasını görüntüleyebiliriz.
 
-- Sol menüden Üretim -> Listeler -> Üretim Hareketi Çalışan Personel şeklinde ulaşım sağlayabilirsiniz.
+### Ek Özellikler 
+
+- Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
+- Sayfada ki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
+
+### Ek İşlem Butonu
+
+- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+- [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)

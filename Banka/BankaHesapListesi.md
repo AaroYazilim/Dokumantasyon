@@ -1,5 +1,11 @@
+---
+SayfaID: BankaHesap
+SayfaTipi: KartListe
+---
 
 # Banka Hesap Kartı Listesi
+
+**Erişim Linki :** [erp.aaro.com.tr/BankaHesap/Liste](erp.aaro.com.tr/BankaHesap/Liste)
 
 ### Ulaşım 
 
@@ -9,10 +15,13 @@
 
 ### Tanım 
 
-- Banka hesaplarının genel bilgilerini bu sayfadan görüntüleyebilirsiniz. [Banka Hesap Kartı](../Banka/BankaHesapKarti.md)
+- [Banka Hesap Kartı](../Banka/BankaHesapKarti.md) listesidir.
+- Banka hesaplarının genel bilgilerini bu sayfadan görüntüleyebilirsiniz. 
 - Banka hesaplarının güncel bakiyelerini görüntüleyebilirsiniz.
 - Mevcut Banka hesaplarını düzenleyebilir, silebilir veya yeni banka hesaplarını bu sayfadan ekleyebilirsiniz.
-
+    - Banka Hesap Kartını sayfanın sağ üstünde bulunan **Yeni Banka Hesap Kartı Ekle** linki ile [Banka Hesap Kartı](../Banka/BankaHesapKarti.md) sayfasını açarak ekleyebilirsiniz.
+	- Sayfadaki listeden mevcut bir kartı solunda bulunan büyüteç işaretine tıklatarak açabilir, kartla ilgili bilgiler ulaşabilir, düzenleyebilir, veya silebilirsiniz.
+	
 ### Ek Özellikler 
 
 - Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.

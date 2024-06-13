@@ -1,5 +1,25 @@
+---
+SayfaID: HizliUretimHareketi
+SayfaTipi: HizliUretimKalem
+---
 
 # Hızlı Üretim Hareketi Girişi
+
+**Erişim Linki :** [erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem](erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem)
+
+### Ulaşım
+
+- Sol menüden Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Uretim Hareketi" aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden Üretim -> Hareketler -> Hızlı Üretim Hareketi Girişi şeklinde ulaşım sağlayabilirsiniz.
+
+### Tanım
+
+Üretim süreçlerinde gerçekleşen her aşama bir üretim hareketidir. Bunlar karıştırma, başlama, durma gibi eylemlerde birer harekettir.
+Üretim aşamasında iki çeşit yöntem mevcuttur birincisi, manuel giriş yapmak diğeri ise canlı üretim hareketidir.
+Canlı üretim hareketinde işlem operasyon yapılırken üretim hattında yapılan her hareketin anında işlenmesidir.
+Operasyona başlandığında başla seçeneğini ile başlamak, arıza olduğunda duraklama işlem bittiğinde bitire basarak süreleri sistemin otomatik hesaplamasını ve canlı takip yapabilmektir.
+Manuel giriş ise işlem bittikten sonra verilerin sisteme manuel olarak girilmesidir.
+Çalışan personellerin isimleri, ne kadar mola verildi, neden işlem durdu ne kadar sürede operasyon bitti bunların manuel olarak girilmesidir.
 
 Reçetesiz hızlı hareket girmek için kullanılır.
 Üretim hareketlerinin girişlerini, hareketlerini buradan girebiliriz.
@@ -7,24 +27,46 @@ Reçetesiz hızlı hareket girmek için kullanılır.
 ## Genel 
 
 **Tarih** İşlemin yapıldığı tarihi girelim.
+
 **İş Emri No:** İş emrini sistem sırasıyla otomatik verir, kendi sıralamanızdan da iş emri numarası verebilirsiniz.
+
 **Operasyon:** Yapılacak ya da yapılan operasyonu seçelim. Yok ise Detaylı Ekle diyerek hızlıca kayıt açabiliriz.
+
 **Makine:** Operasyonun yapılacağı ya da yapıldığı makineyi seçelim. 
-**Detay:**
+
+**Detay:** Detayı listeden seçebilirsiniz ya da detaylı ekle yaparak hızlıca ekleyebilirsiniz.
+
 **Şirket-Şube:** Üretimin hangi şirket-şubede yapıldığını seçelim. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+
 **Açıklama:** Üretime ait açıklamalar girebiliriz. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+
 **İşçilik/Saat** Operasyonda çalışan işçinin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [İşçiliyet Maliyeti](../Uretim/IscilikMaliyeti.md)
+
 **Çalışma Mal/Saat** Operasyonda çalışan işçi, makine, elektrik gibi giderlerin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [Birim Maliyeti](../Uretim/BirimMaliyeti.md)
+
 **Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
 	Üretim işleminin bakiyesi seçilen döviz cinsinden takip edilir.
 
-## Mamüller
+İşlemler dışında hammadde ya da mamul eklemesi yapıldığında buradan hareket girişi yapılmalıdır. 
+Burada işlemler aynı fakat buradan hammadde ve mamul girişi ekleyebilirsiniz.
 
-Seçtiğimiz işlemde kullanılacak mamülleri, miktarını ve mamülün hangi depodan tedarik edileceğini seçelim.
+### Mamüller
 
-## Hammaddeler
+**Mamül Adı** Mamülün adını giriniz.
 
-Seçtiğimiz işlemde kullanılacak hammaddeleri, miktarını ve hammaddenin hangi depodan tedarik edileceğini seçelim.
+**Miktar** Kullanılan miktar, kaç adet kullanıldığını giriniz.
+
+**Depo** Hangi depodan temin edildiğini çıkış yapılacak olan depoyu seçiniz.
+
+### Hammmaddeler 
+
+**Hammadde Adı** Hammaddenin adını giriniz.
+
+**Miktar** Kullanılan miktar, kaç adet kullanıldığını giriniz.
+
+**Birim Fiyat** Kullanılan hammaddenin birim fiyatını ifade eder.
+
+**Depo** Hangi depodan temin edildiğini çıkış yapılacak olan depoyu seçiniz.
 
 ## Çalışan Personel Listesi
 
@@ -34,10 +76,16 @@ Listede isimleri yok ise detaylı ekle diyerek personel ekleme ekranına erişim
 ## Üretim Süreçleri
 
 **Başlangıç:** Üretime başlama saatini girelim.
+
 **Bitiş:** Üretimin bittiği saati girelim.
+
 **Hazırlık Süre:** Makinenin ısınması gibi durumlar hazırlık süresi olarak geçer. Makinenin ısındığı süreyi girelim.
-**Üretim Süre:** Başlangıç ve bitiş saati girildiğinde otomatik hesaplanır. Üretim süresine veri girdiğimizde başlangıç ve bitiş saati otomatik hesaplanır.
+
+**Üretim Süre:** Başlangıç ve bitiş saati girildiğinde otomatik hesaplanır. 
+Üretim süresine veri girdiğimizde başlangıç ve bitiş saati otomatik hesaplanır.
+
 **Duraklama Süre:** Makine arızaları gibi durumları ifade eder. Makinenin arızadı ne kadar sürdü girelim. 
+
 **Mola Süre:** Üretim sırasında ne kadar süre mola verildi girelim. 
 
 ## Duraklama Nedeni
@@ -79,3 +127,34 @@ Reçete düzenleme kullanım detayları için tıklayınız. [Recete Diagramı](
 Üretim hareketimizde yaptığımız işlemlerin üretim planına sağ üst köşesinden erişim sağlayabiliriz.
 Üretim planı ekranımızda makine işlerimizi, makine yoğunluklarımızı görüntüleyebilir, iş planlamamızı yapabiliriz.
 Üretim planı kullanım detayları için tıklayınız. [Üretim Planı](../Uretim/Planlama.md)
+
+## Mola Saatleri
+
+............
+
+
+### Belgeler
+
+Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+
+Belge eklemek için tıklayalım ;
+
+- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+
+Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+
+### Notlar 
+
+İşleme ait özel notlar belirtebiliriz. 
+Önemli bir detay var ise bu detayları burada belirtebiliriz.
+Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+
+## Kaydetme 
+
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak üretim hareketi girişi işlemimizi tamamlayabiliriz.
+
+### Yazdır
+
+.............

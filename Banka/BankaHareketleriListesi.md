@@ -1,5 +1,11 @@
+---
+SayfaID: BankaHareketleri
+SayfaTipi: HareketListe
+---
 
 # Banka Hareket Listesi
+
+**Erişim Linki :** [erp.aaro.com.tr/BankaHareketleri/Liste](erp.aaro.com.tr/BankaHareketleri/Liste)
 
 ### Ulaşım 
 

@@ -68,7 +68,7 @@ Aynı vergi numarası ile birden çok kart açılması ek yetkilerle ayarlanabil
 
 **Web:** Karta ait web adresini ifade eder.
 
-**Öncelik:** Öncelik belirterek belirli bir adrsin ön tanımlı olarak kullanılmasını sağlayabilirsiniz.
+**Öncelik:** Öncelik belirterek belirli bir adresin ön tanımlı olarak kullanılmasını sağlayabilirsiniz.
 
 
 ### İlgili Bilgileri
@@ -148,14 +148,22 @@ Kartta bulunan kısayolları sekmesi ile cariye ait ilgili raporlara ve öncelik
 - Sık Kullanılanlar
     - **Cari Hareketleri** linki ile carinin kartına ait tüm hareketlerine ve bakiye bilgisine ulaşabilirsiniz. Belirli bir tarihteki bakiyesini görüntüleyebilir, ilgili hareketin detaylarına ulaşabilirsiniz. Detaylı bilgi için [Müşteri / Satıcı Hareketleri](../MusteriSatici/MusteriSaticiHareketleriListesi.md)
     - **Stok Hareketleri** linki ile faturalarda ve irsaliyelerde bulunan cari kartına ait tüm stok hareketlerinin detaylı bilgisine ulaşabilirsiniz. Örneğin sevk edilen stoğun cinsi, miktarı, tutarı ve tarihi vs bilgilerini görüntüleyebilirsiniz. Detaylı bilgi için [Stok Hareketleri](../Stok/StokHareketleriListesi.md)
-
-    - ..............
+    - **Ekstre Dökümü** 
+    - **Ekstre Dökümü (Malzeme Detaylı)
+    - **Özet**
 
 - Satış / Pazarlama
-    - ..............
+    - **Alınan Siparişleri**
+    - **Verilen Siparişleri**
+    - **Alınan Sipariş Hareketleri**
+    - **Verilen Teklif Hareketleri**
+    - **Sipariş Üretim ve Sevkiyat Oranları**
 
 - Satın Alma
-    - ..............
+    - **Verilen Siparişler**
+    - **Alınan Teklifler**
+    - **Verilen Sipariş Hareketleri**
+    - **Alınan Teklif Hareketleri**
 
 ## Kayıt Bilgileri
 
@@ -181,8 +189,20 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Belgeler
 
-.................................
+Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+
+Belge eklemek için tıklayalım ;
+
+- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+
+Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+
 
 ## Notlar
 
-.................................
+İşleme ait özel notlar belirtebiliriz. 
+Önemli bir detay var ise bu detayları burada belirtebiliriz.
+Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+

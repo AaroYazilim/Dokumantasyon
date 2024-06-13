@@ -1,5 +1,11 @@
+---
+SayfaID: CekSenet
+SayfaTipi: KartListe
+---
 
 # Çek/Senet Kartı Listesi
+
+**Erişim Linki :** [erp.aaro.com.tr/CekSenet/Liste](erp.aaro.com.tr/CekSenet/Liste)
 
 ### Ulaşım
 
