@@ -1,20 +1,20 @@
 
 # Listeler 
 
-- [Satış Faturası Listesi](../TemelHareketler/SatisFaturasi)
-- [Satış İrsaliyesi Listesi](../TemelHareketler/Satisİrsaliyesi)
-- [Alınan Sipariş Listesi](../TemelHareketler/AlinanSiparis)
+- [SatÄ±ÅŸ FaturasÄ± Listesi](../TemelHareketler/SatisFaturasi)
+- [SatÄ±ÅŸ Ä°rsaliyesi Listesi](../TemelHareketler/SatisÄ°rsaliyesi)
+- [AlÄ±nan SipariÅŸ Listesi](../TemelHareketler/AlinanSiparis)
 - [Verilen Teklif Listesi](../TemelHareketler/VerilenTeklif)
-- [Satış İade Faturası Listesi](../TemelHareketler/SatisİadeFaturasi)
-- [Satış İade İrsaliyesi Listesi](../TemelHareketler/Satisİadeİrsaliyesi)
-- [Satış Faturası Hareketleri](../TemelHareketler/SatisFaturasi)
-- [Satış İrsaliyesi Hareketleri](../TemelHareketler/Satisİrsaliyesi)
-- [Alınan Sipariş Hareketleri](../TemelHareketler/AlinanSiparis)
+- [SatÄ±ÅŸ Ä°ade FaturasÄ± Listesi](../TemelHareketler/SatisÄ°adeFaturasi)
+- [SatÄ±ÅŸ Ä°ade Ä°rsaliyesi Listesi](../TemelHareketler/SatisÄ°adeÄ°rsaliyesi)
+- [SatÄ±ÅŸ FaturasÄ± Hareketleri](../TemelHareketler/SatisFaturasi)
+- [SatÄ±ÅŸ Ä°rsaliyesi Hareketleri](../TemelHareketler/SatisÄ°rsaliyesi)
+- [AlÄ±nan SipariÅŸ Hareketleri](../TemelHareketler/AlinanSiparis)
 - [Verilen Teklif Hareketleri](../TemelHareketler/VerilenTeklif)
-- [Satış İade Faturası Hareketleri](../TemelHareketler/SatisİadeFaturasi)
-- [Satış İade İrsaliyesi Hareketleri](../TemelHareketler/Satisİadeİrsaliyesi)
+- [SatÄ±ÅŸ Ä°ade FaturasÄ± Hareketleri](../TemelHareketler/SatisÄ°adeFaturasi)
+- [SatÄ±ÅŸ Ä°ade Ä°rsaliyesi Hareketleri](../TemelHareketler/SatisÄ°adeÄ°rsaliyesi)
 
-Listelerde son 3 aya ait teklif, sipariş, irsaliye, fatura hareketlerimize listeleri şekilde ulaşım sağlayabiliriz.
-Filtreme özelliği ile özel özelliklerde, tarihlere göre sıralama yapabiliriz.
-Yeni hareket ekleyebiliriz, toplu değiştirme özelliği ile toplu değişiklik yapabiliriz.
-Listeyi Excele aktarabiliriz, filtreleme seçeneklerimizi grid sütunlarından ayarlayabiliriz, anasayfaya kısayol olarak ekleyebiliriz.
+Listelerde son 3 aya ait teklif, sipariÅŸ, irsaliye, fatura hareketlerimize listeleri ÅŸekilde ulaÅŸÄ±m saÄŸlayabiliriz.
+Filtreme Ã¶zelliÄŸi ile Ã¶zel Ã¶zelliklerde, tarihlere gÃ¶re sÄ±ralama yapabiliriz.
+Yeni hareket ekleyebiliriz, toplu deÄŸiÅŸtirme Ã¶zelliÄŸi ile toplu deÄŸiÅŸiklik yapabiliriz.
+Listeyi Excele aktarabiliriz, filtreleme seÃ§eneklerimizi grid sÃ¼tunlarÄ±ndan ayarlayabiliriz, anasayfaya kÄ±sayol olarak ekleyebiliriz.

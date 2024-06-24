@@ -3,52 +3,52 @@ SayfaID: SatisPazarlamaModulu
 SayfaTipi: Modul
 ---
 
-#Satış Pazarlama Modülü
+# SatÄ±ÅŸ Pazarlama ModÃ¼lÃ¼
 
-**Erişim Linki :** [erp.aaro.com.tr/SatisPazarlamaModulu](erp.aaro.com.tr/SatisPazarlamaModulu)
+**EriÅŸim Linki :** [erp.aaro.com.tr/SatisPazarlamaModulu](erp.aaro.com.tr/SatisPazarlamaModulu)
 
-Bu kısımda; Satışın her aşamasınında tekliften satışa kadar olan bütün süreçleri bıuradan takip edebilirsiniz.
-Teklif formu, sipariş formu, irsaliye, fatura işlemlerinizi buradan gerçekleştirebilirsiniz.
-Satışımız için gerçekleşen her aşama için satış pazarlama modülünü kullanılmkatadır.
+Bu kÄ±sÄ±mda; SatÄ±ÅŸÄ±n her aÅŸamasÄ±nÄ±nda tekliften satÄ±ÅŸa kadar olan bÃ¼tÃ¼n sÃ¼reÃ§leri bÄ±uradan takip edebilirsiniz.
+Teklif formu, sipariÅŸ formu, irsaliye, fatura iÅŸlemlerinizi buradan gerÃ§ekleÅŸtirebilirsiniz.
+SatÄ±ÅŸÄ±mÄ±z iÃ§in gerÃ§ekleÅŸen her aÅŸama iÃ§in satÄ±ÅŸ pazarlama modÃ¼lÃ¼nÃ¼ kullanÄ±lmkatadÄ±r.
 
-- İşletmenizin satış için teklif verme, sipariş formu oluşturma siparişi irsaliyeleştirme ve faturalaştırma işlemlerini gerçekleştirebiliriz.
-- Satış aşamalarınız tüm aşamalarını izleyebilir ve kaydedebilirsiniz. İşletmenizin siparişlerinizi kontrol etmenize kolaylaştırır.
-- Siparişleriniz ile ilgili detaylı raporlar sunar. Bu rapor sipariş hareketlerinizi, siparişinizin durumunu gösterir.
+- Ä°ÅŸletmenizin satÄ±ÅŸ iÃ§in teklif verme, sipariÅŸ formu oluÅŸturma sipariÅŸi irsaliyeleÅŸtirme ve faturalaÅŸtÄ±rma iÅŸlemlerini gerÃ§ekleÅŸtirebiliriz.
+- SatÄ±ÅŸ aÅŸamalarÄ±nÄ±z tÃ¼m aÅŸamalarÄ±nÄ± izleyebilir ve kaydedebilirsiniz. Ä°ÅŸletmenizin sipariÅŸlerinizi kontrol etmenize kolaylaÅŸtÄ±rÄ±r.
+- SipariÅŸleriniz ile ilgili detaylÄ± raporlar sunar. Bu rapor sipariÅŸ hareketlerinizi, sipariÅŸinizin durumunu gÃ¶sterir.
 
-## Bu modülde yer alan işlemler;
+## Bu modÃ¼lde yer alan iÅŸlemler;
 
-### Satış Pazarlama Aşamaları
+### SatÄ±ÅŸ Pazarlama AÅŸamalarÄ±
 
-- [Satış Pazarlama Aşamaları](../SatisPazarlama/SatisPazarlamaAsamalari.md)
+- [SatÄ±ÅŸ Pazarlama AÅŸamalarÄ±](../SatisPazarlama/SatisPazarlamaAsamalari.md)
 
 ### Listeler 
 
-- [Satış Pazarlama Hareketleri Listesi](../SatisPazarlama/SatisPazarlamaHareketleriListesi.md)
+- [SatÄ±ÅŸ Pazarlama Hareketleri Listesi](../SatisPazarlama/SatisPazarlamaHareketleriListesi.md)
 - [Fatura Listesi](../SatisPazarlama/Fatura Listesi.md)
-- [Sipariş Listesi](../SatisPazarlama/SiparisListesi.md)
+- [SipariÅŸ Listesi](../SatisPazarlama/SiparisListesi.md)
 - [Fiyat Listeleri Listesi](../SatisPazarlama/FiyatListeleriListesi.md)
 
 
 ### Hareketler 
 
-- [Satış Pazarlama Hareket Oluştur](../SatisPazarlama/SatisPazarlamaHareketleriListesi.md)
+- [SatÄ±ÅŸ Pazarlama Hareket OluÅŸtur](../SatisPazarlama/SatisPazarlamaHareketleriListesi.md)
 
-### İşlemler 
+### Ä°ÅŸlemler 
 
 ............
 
 ### Raporlar
 
 - ...
-	- Alış - Satış Analiz
-    - Alış - Satış Analiz Aylık Ortalama Döviz
-	- Alış - Satış Analiz Döviz
+	- AlÄ±ÅŸ - SatÄ±ÅŸ Analiz
+    - AlÄ±ÅŸ - SatÄ±ÅŸ Analiz AylÄ±k Ortalama DÃ¶viz
+	- AlÄ±ÅŸ - SatÄ±ÅŸ Analiz DÃ¶viz
 	- Fatura Fiyat Kontrol Listesi
-	- Fatura Sipariş Detayları
+	- Fatura SipariÅŸ DetaylarÄ±
 	- Fiyat Listesi
-	- Günlük Satış Hareketleri
-	- Müşteri/Satıcı Sözleşme Detaylı Hareketler
-	- Sipariş Fiyat Karşılaştırması
-	- Sipariş Fiyat Kontrol Listesi
+	- GÃ¼nlÃ¼k SatÄ±ÅŸ Hareketleri
+	- MÃ¼ÅŸteri/SatÄ±cÄ± SÃ¶zleÅŸme DetaylÄ± Hareketler
+	- SipariÅŸ Fiyat KarÅŸÄ±laÅŸtÄ±rmasÄ±
+	- SipariÅŸ Fiyat Kontrol Listesi
 
 ### Parametreler
