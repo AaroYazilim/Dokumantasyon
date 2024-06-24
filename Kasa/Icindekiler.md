@@ -23,7 +23,7 @@ Düzenli tutmamız hareket takibi yapabilmemiz için çok önemlidir.
 ### Kartlar
 
 - [Kasa Kartı](../Kasa/KasaKarti.md)
-- [Kasa Kartı Listesi](../Kasa/KasaKatiListesi.md)
+- [Kasa Kartı Listesi](../Kasa/KasaKartiListesi.md)
 
 ### Listeler 
 
@@ -31,7 +31,7 @@ Düzenli tutmamız hareket takibi yapabilmemiz için çok önemlidir.
 
 ### Hareketler 
 
-- [Hareket Oluştur](../Banka/HareketOlustur.md)
+- [Hareket Oluştur](../Kasa/HareketOlustur.md)
 
 ### İşlemler 
 
