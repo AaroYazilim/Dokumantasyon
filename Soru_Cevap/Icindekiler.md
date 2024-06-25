@@ -48,23 +48,45 @@ Cevap: Siparişlerin sevkiyatlarını görüntülemek için; Satış&Pazarlama -
 Bir diğer yöntem ise;
 Rapor -> Sipariş/Teklif -> Hareket -> Sipariş Sevkiyat Detayları -> Alınan Sipariş -> Cariyi seçelim -> Sadece Açık Siparişler seçeneğini seçelim -> Raporla diyerek erişim sağlayabiliriz.
 
+## Banka Soruları
+
+Soru: Banka eksi girişi yapmıyor nasıl girilebilir ?
+
+Cevap: Borcu Alacak yapıyoruz bu şekilde sistem izin veriyor.
+
+Soru: Bankadan nasıl virman yapabilirim ?
+
+Cevap: Bankalar Arası Transfer yapmamız gerekiyor;
+Banka -> Hareket Oluştur -> Banka Hesapları Arası Transfer -> Banka Alacak: Gönderici bankayı seçelim -> Tutarı girelim -> Şirket-Şube seçelim -> Banka Borç: Alıcı bankayı seçelim. 
+Kaydet diyerek işlemimizi tamamlayabiliriz.
+
+Soru: Personel maaşlarını bankadan nasıl gösterebilirim ?
+
+?? Cevap: Bankalar içerisinde maaş ödeme hesabına para aktarıp personel maaş ödemesi çıkabilirsiniz.
+?? Banka -> Hareket -> Yeni Banka Hesap Kartı -> 
+
+Soru: Kredi kartını nasıl takip ediyoruz ödemelerini nasıl yapacağız ?
+
+??? Cevap: Ödeme zamanı geldiğinde kredi carisine diğer bankadan transfer yapıyoruz.
 
 
+## Diğer
 
+Soru: Geçiçi Anahtar Nasıl Oluşturulur ?
 
-### Geçiçi Anahtar Nasıl Oluşturulur ?
-
-- Ayarlar -> Modül Sayfası -> Destek -> Geçici Erişim Anahtarı
+Cevap: Ayarlar -> Modül Sayfası -> Destek -> Geçici Erişim Anahtarı
 Geçici erişim anahtarınızdan 12 saat erişim izni verilmektedir.
 Erişim anahtarı sayesinde yapılması gereken işlemler için sizin adına destek verebilmemiz adına kullanım sağlanmaktadır.
 
+## Yetki Soruları
 
-## Herhangi bir çıktı tasarımında rapor yetkisi nasıl açılır ?
+Soru: Herhangi bir çıktı tasarımında rapor yetkisi nasıl açılır ?
 
-Bu işlemi herhangi bir çıktı tasarımından gerçekleştirebiliriz,
+Cevap: Bu işlemi herhangi bir çıktı tasarımından gerçekleştirebiliriz,
 Çıktımıza gelelim; Ayarlar -> Çıktı Listesi -> çıktımızın kategorisinden tasarımızı açalım, açılan ekranda rapor yetkileri kısmında Yeni Rapor Yetkileri Ekle,
 kullanıcıyı ya da kullanıcı grubu seçelim okuma yetkisini açalım.
 
+## Personel Soruları
 
 Soru: Personel çıkışını nasıl yapacağım ?
 
