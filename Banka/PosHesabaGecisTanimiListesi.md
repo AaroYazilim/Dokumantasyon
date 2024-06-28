@@ -3,70 +3,87 @@ SayfaID: KrediPosKosul
 SayfaTipi: HareketListe
 ---
 
-# POS Hesaba Geçiş Tanımı
+# POS Hesaba GeÃ§iÅŸ TanÄ±mÄ±
 
-**Erişim Linki :** [erp.aaro.com.tr/KrediPosKosul/Liste](erp.aaro.com.tr/KrediPosKosul/Liste)
+**EriÅŸim Linki :** [erp.aaro.com.tr/KrediPosKosul/Liste](erp.aaro.com.tr/KrediPosKosul/Liste)
 
-### Ulaşım 
+### UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "pos" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Banka -> Kartlar -> POS Hesaba Geçiş Tanımı Listesi üzerinden ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "pos" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Banka -> Kartlar -> POS Hesaba GeÃ§iÅŸ TanÄ±mÄ± Listesi Ã¼zerinden ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-### Tanım
+### TanÄ±m
 
-Pos hesaba geçiş tanımı hareketleri, pos cihazları aracılığıyla yapılan işlemlerin banka hesaplarına yansıma sürecidir. 
-İşte bu süreci detaylandıran tanım:
+Pos hesaba geÃ§iÅŸ tanÄ±mÄ± hareketleri, pos cihazlarÄ± aracÄ±lÄ±ÄŸÄ±yla yapÄ±lan iÅŸlemlerin banka hesaplarÄ±na yansÄ±ma sÃ¼recidir. 
+Ä°ÅŸte bu sÃ¼reci detaylandÄ±ran tanÄ±m:
 
-- Müşteri, kredi kartı veya banka kartı ile pos cihazında ödeme yapar. 
-- Pos cihazı, işlem bilgilerini bankaya ileterek onay alır ve ödeme işlemini tamamlar. 
-- Gün sonunda pos cihazı, tüm işlemleri toplu olarak bankaya gönderir. 
-- Banka, bu işlemleri kontrol ederek doğrular ve işletmenin hesabına aktarır. 
-- İşlemler hesaba geçtikten sonra banka, komisyon kesintilerini yaparak kalan tutarı işletmenin hesabına yatırır. 
-- İşletme, banka tarafından gönderilen dekont ve raporlarla işlemleri takip eder ve muhasebe kayıtlarını günceller.
+- MÃ¼ÅŸteri, kredi kartÄ± veya banka kartÄ± ile pos cihazÄ±nda Ã¶deme yapar. 
+- Pos cihazÄ±, iÅŸlem bilgilerini bankaya ileterek onay alÄ±r ve Ã¶deme iÅŸlemini tamamlar. 
+- GÃ¼n sonunda pos cihazÄ±, tÃ¼m iÅŸlemleri toplu olarak bankaya gÃ¶nderir. 
+- Banka, bu iÅŸlemleri kontrol ederek doÄŸrular ve iÅŸletmenin hesabÄ±na aktarÄ±r. 
+- Ä°ÅŸlemler hesaba geÃ§tikten sonra banka, komisyon kesintilerini yaparak kalan tutarÄ± iÅŸletmenin hesabÄ±na yatÄ±rÄ±r. 
+- Ä°ÅŸletme, banka tarafÄ±ndan gÃ¶nderilen dekont ve raporlarla iÅŸlemleri takip eder ve muhasebe kayÄ±tlarÄ±nÄ± gÃ¼nceller.
 
-Bu süreç, pos cihazı ile yapılan ödemelerin işletme hesaplarına güvenli ve düzenli bir şekilde geçmesini sağlar.
+Bu sÃ¼reÃ§, pos cihazÄ± ile yapÄ±lan Ã¶demelerin iÅŸletme hesaplarÄ±na gÃ¼venli ve dÃ¼zenli bir ÅŸekilde geÃ§mesini saÄŸlar.
 
-### Ek Özellikler 
+### Ek Ã–zellikler 
 
-- Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
-- Sayfada ki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
+- SayfanÄ±n Ã¼st kÄ±smÄ±nda bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) Ã¶zelliÄŸi ile gelen veriyi istediÄŸiniz ÅŸekilde sÄ±nÄ±rlandÄ±rabilirsiniz.
+- Sayfada ki listeyi [Ã–zel Listeleme](../TemelOzellikler/ListeNesnesi.md) sÄ±ralayabilir, yeniden boyutlandÄ±rabilir ve sayfa sayfa gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
 
-## Yeni POS Hesaba Geçiş Tanımı Ekle
+## Yeni POS Hesaba GeÃ§iÅŸ TanÄ±mÄ± Ekle
 
 **Kodu:**
-**Adı:**
 
-**Şirket-Şube:**
+**AdÄ±:**
+
+**Åirket-Åube:**
+
 **Durum:**
-**Tip:**
-**Kredi Hesap:**
-**Cari Hesap:**
-**Taksit GelGid:**
-**Puan GelGid:**
-**Diğer GelGid:**
-**Sabit Masraf GelGid:**
-**Yuvarlama İlk Vadede:**
 
-**Aşağıda değiştirilen değerler tüm taksit seçenekleri için otomatik uygulanır.**
+**Tip:**
+
+**Kredi Hesap:**
+
+**Cari Hesap:**
+
+**Taksit GelGid:**
+
+**Puan GelGid:**
+
+**DiÄŸer GelGid:**
+
+**Sabit Masraf GelGid:**
+
+**Yuvarlama Ä°lk Vadede:**
+
+**AÅŸaÄŸÄ±da deÄŸiÅŸtirilen deÄŸerler tÃ¼m taksit seÃ§enekleri iÃ§in otomatik uygulanÄ±r.**
 
 **Min Taksit:**
+
 **Mak Taksit:**
-**Vade Aralığı:**
+
+**Vade AralÄ±ÄŸÄ±:**
+
 **Vade Tip:**
+
 **Taksit Kom.**
+
 **Puan Kom.**
-**İşlem Kom.**
+
+**Ä°ÅŸlem Kom.**
+
 **Sabit Mas. Oran:**
 
 
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+- DoldurulmasÄ± gereken alanlar girildikten sonra saÄŸ alt kÃ¶ÅŸede bulunan Kaydet butonuna tÄ±klayarak MÃ¼ÅŸteri/SatÄ±cÄ± kartÄ± aÃ§ma iÅŸlemimizi tamamlayabilirsiniz.
+- KayÄ±tlÄ± bir kartÄ± silmek iÃ§in sol altta bulunan sil butonuna tÄ±klayarak silebilirsiniz.
 
-### Ek İşlem Butonu
+### Ek Ä°ÅŸlem Butonu
 
-- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+- SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan alt altta Ã¼Ã§ Ã§izgi ÅŸeklinde olan dÃ¼ÄŸme ile ek iÅŸlemlere ulaÅŸÄ±lÄ±r.
+- [Anasayfaya KÄ±sayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 
