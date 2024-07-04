@@ -1,3 +1,7 @@
+---
+SayfaID: AlinanSiparis
+SayfaTipi: Siparis
+---
 
 # Alınan Sipariş
 
@@ -26,37 +30,42 @@ Alınan sipariş, işletmenin siparişleri işleme koyması, ürünleri hazırla
 İşletme, siparişi kabul ettikten sonra, müşteriye ürünleri/hizmetleri sağlamak için gerekli adımları atar ve siparişin teslimatını gerçekleştirir. 
 Siparişlerin işlenmesi ve teslimatı, işletmenin müşteri ilişkilerini yönetmek, stok seviyelerini izlemek ve satışları takip etmek için önemlidir.
 
-### Ek İşlem Butonu 
-
-[Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
-[Sevkiyat Detayları](../TemelOzellikler/SevkiyatDetaylari.md)
-[Fiyat Kontrol](../TemelOzellikler/FiyatKontrol.md)
-[Üretim Durumu](../TemelOzellikler/ÜretimDurumu.md)
-[Reçeteye göre üretim maliyeti](../TemelOzellikler/ReceteyeGoreUretimMaliyeti.md)
-[Gerçekleşen Üretim Maliyeti](../TemelOzellikler/GerceklesenUretimMaliyeti.md)
-[Sipariş için gerekli stok durumu](../TemelOzellikler/SiparisIçinGerekliStokDurumu.md)
-
 ### Genel 
 
-- **Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
-- **Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
-- **Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
-- **Müşteri:** İşlemin yapıldığı cari kartını ifade eder. **Girilmesi Zorunludur.**
-- **Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
-- **Depo:** Bu işlemin kullanıldığı depoyu belirtir.
-- **Vade:** İşlemin yapıldığı vadeyi belirtir.
-- **Açıklama:** İşleme ait açıklamayı belirtir.
-- **KDV Dahil:** Kalemlerde birim fiyat ve tutarın 'KDV Dahil' olduğunu belirtir.
+**Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+
+**Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
+
+**Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+
+**Müşteri:** İşlemin yapıldığı cari kartını ifade eder. **Girilmesi Zorunludur.**
+
+**Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+
+**Depo:** Bu işlemin kullanıldığı depoyu belirtir.
+
+**Vade:** İşlemin yapıldığı vadeyi belirtir.
+
+**Açıklama:** İşleme ait açıklamayı belirtir.
+
+**KDV Dahil:** Kalemlerde birim fiyat ve tutarın 'KDV Dahil' olduğunu belirtir.
 
 ### Detay
 
 - **Beklenen Tahsilat ve Ödemeler:**
+
 - **Alt Tip:** Alt hareket tipini belirtir.
+
 - **Sözleşme:** Bu hareketin hangi sözleşmeye ait olduğunu gösterir.
+
 - **Proje: Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir.
+
 - **Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir.
+
 - **Cari Adres:** Carinin adresini belirtir. Farklı adrese gönderilecekse seçilmelidir. Kalemlerde değiştirilebilir.
-- **Ref. İthalat İhracat:** Bu hareket bir ithalat yada ihracat ise seçilmelidir. Hangi ithlata veya ihracata ait odluğunu belirtir. Kalemlerde Değiştirilebilir.
+
+- **Ref. İthalat İhracat:** Bu hareket bir ithalat yada ihracat ise seçilmelidir. Hangi ithlata veya ihracata ait olduğunu belirtir. Kalemlerde Değiştirilebilir.
+
 - **Teslim Tarihi:** Bu siparişin teslim edildiği tarihi belirtir.
 
 ### Açıklamalar
@@ -66,3 +75,106 @@ Siparişlerin işlenmesi ve teslimatı, işletmenin müşteri ilişkilerini yön
 ### Etiketler
 
 - **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
+
+## Kaydetme ve Silme
+
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+
+## İş Emri Ver 
+
+Kaydet dediğimizde karşımıza çıkan ekranda siparişlerimizi görüntüleyebilir, iş emri verebiliriz.
+Kalemlerin yanında İş Emri Ver seçeneği bulunmaktadır burayı seçerek iş emri oluşturabiliriz.
+
+Karşımıza çıkan ekranda;
+
+#### Genel
+
+**İş Emri No:** Sistem bize otomatik bir numara veriyor dilersek kendi sıralama kodlarımızdan manuel değiştirebiliriz.
+**Tarih:** İş emri başlangıç tarihini girelim.
+**Teslim Tarihi:** İş emrinin teslim edileceği tarihi girelim.
+**Reçete:** Ürünümüzü hangi reçeten oluşturulması gerekiyorsa iş emri vereceğimiz reçeteyi seçelim.
+**Miktar:** Kaç adet üretim için iş emri vereceğimiz adeti girelim.
+**Açıklama:** İş emri ait özel açıklamaları burada belirtebiliriz.
+
+#### Gelişmiş
+
+**Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+**Renk:** İş emri için üretim planlama alanında ayırt edici renk seçebiliriz.
+**Öncelik:** İş emrimize 1 ila 6 arasında öncelik sıralaması verebiliriz.
+**Şarj Kg:**
+
+#### Sipariş Bilgileri
+
+**Belge No:** Siparişimizin belge numarasını burada görüntüleyebiliriz.
+**Cari Adı:** Siparişimizin hangi cariye ait olduğunu buradan görüntüleyebiliriz.
+**Stok:** Siparişimizin hangi stoktan olduğunu buradan görüntüleyebiliriz.
+**Miktar:** Siparişimizin ne kadar miktarda oluşturulduğunu burada görüntüleyebiliriz.
+
+## Belgeler
+
+Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+
+Belge eklemek için tıklayalım ;
+
+- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+
+Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+
+## Notlar 
+
+İşleme ait özel notlar belirtebiliriz. 
+Önemli bir detay var ise bu detayları burada belirtebiliriz.
+Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+
+## Kısayollar
+
+**Rapor**
+- **Sevkiyat Detayları:** Siparişin sevkiyat detaylarını buradan görüntüleyebiliriz.
+- **Fiyat Kontrol:** Siparişin iskontolarını fiyat raporlarını görüntülemek için kullanım sağlayabilirsiniz.
+- **Üretim Durumu:** Üretim durumunu, ne kadarı üretildi, üretimim hangi aşamada buradan görüntüleyebilirsiniz.
+- **Reçeteye Göre Üretim Maliyeti:** Reçeteye göre üretim maliyet analizi yapmak için rapor incelemesi sağlayabilirsiniz.
+- **Gerçekleşen Üretim Maliyeti:** Siparişimizin gerçekleşen üretim kısmında ne kadar maliyet olmuş buradan görüntüleyebiliriz.
+- **Sipariş için Gerekli Stok Durumu:** Siparişimiz için ne kadar malzeme eksiğimiz var tedarik etmemiz ya da üretmemiz gereken stokları buradan görebiliriz.
+
+## Kayıt Bilgileri
+
+Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+
+Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+
+## Yazdır
+
+- Sayfanın sağ üstünde bulunan yazıcı sembolü ile sayfaya tanımlanan özel çıktı formatları ile farklı çıktılar alınabilir. 
+- Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
+- Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
+- Kullanıcıya özel sipariş formu gibi farklı tasarımlar yapılabilir.
+- Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktılar program üzerinden e-mail olarak gönderilebilir. 
+
+## Ek İşlemler
+
+ Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+- Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
+- Kopyala: Alınan siparişi kopyalamak için kullanılır.
+- Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
+- Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
+- Görev Oluştur: Sipariş için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
+- Kapat: Siparişimizi açmak ya da kapatmak için kullanılır.
+- Paylaş: Alınan siparişin hangi şirket veya şubelerde gözükeceğini buradan seçebiliriz.
+- Nakit Tahsilat: Sipariş için nakit tahsilata hızlı erişimdir. Buradan kasamızı, nakit tahsilat tutarını girerek, eklemek istediğimiz bilgileri ekleyerek, siparişe ait nakit tahlisat tanımlayabiliriz.
+- Kredi Pos Tahsilat: Sipariş için pos tahsilata hızlı erişimdir. Buradan pos tahsilat işlemlerini gösterebiliriz, çekim yaptığım pos tahsilatın bankasını seçelim, tutarını girelim, taksit adedini girelim, eklemek istediğimiz bilgileri ekleyerek, siparişe ait pos tahlisat tanımlayabiliriz. 
+- Tekliflerini Gör: Buradan siparişe ait verilen teklifi görüntüleyebiliriz. 
+- İrsaliyeleştir: Siparişimizi irsaliyeleştirmek için burayı kullanabiliriz.
+- Faturalaştır: Siparişimizi faturalaştırmak için burayı kullanabiliriz.
+- Sevke Hazırla: Depolar arası transfer yapmak için kullanım sağlayabiliriz. Örn; Üretim depomda yapılan ürünler, depoma gidecek depomdan tüm ürünlerin sevkiyatı gerçekleşecektir.
+- Sevkiyat Detayları: Siparişimin ne kadarı sevk edildiğini buradan görüntüleyebiliriz.
+- Fiyat Kontrol: Siparişin iskontolarını fiyat raporlarını görüntülemek için kullanım sağlayabilirsiniz.
+- Üretim Durumu: Üretim durumunu, ne kadarı üretildi, üretimim hangi aşamada buradan görüntüleyebilirsiniz.
+- Reçeteye Göre Üretim Maliyeti: Reçeteye göre üretim maliyet analizi yapmak için rapor incelemesi sağlayabilirsiniz.
+- Gerçekleşen Üretim Maliyeti: Siparişimizin gerçekleşen üretim kısmında ne kadar maliyet olmuş buradan görüntüleyebiliriz.
+- Sipariş için Gerekli Stok Durumu: Siparişimiz için ne kadar malzeme eksiğimiz var tedarik etmemiz ya da üretmemiz gereken stokları buradan görebiliriz.
+- Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.

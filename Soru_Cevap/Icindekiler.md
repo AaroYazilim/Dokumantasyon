@@ -12,6 +12,11 @@ Soru: Elimde tek bir ürün farkı var bunu nasıl işlerim ?
 Cevap: Stok Modülüne gelelim -> Hareket Oluştur -> Devir -> depomuzu seçelim -> Yeni Stok Kalemi Ekle -> stoğu seçelim miktarı girelim.
 Kaydet diyerek işlemimizi tamamlayabiliriz.
 
+Soru: Kesilen fatura da stok kodu nasıl görüntülenir?
+
+Cevap: Ayarlar -> Modül sayfası -> Parametre Listesi -> Yeni Parametre ekle diyerek "eDonusum_KalemdeStokKoduBilgisiGonderilsin (E-Fatura)" 
+parametresi evet yapılarak gönderilen faturalarda stok kodunun görüntülenmesi sağlanır.
+
 *** Soru: Yanlış açılan stok ve cari kayıtlarının düzeltilmesi, hareketlerin taşınması nasıl yapılır?
 *** 
 *** Cevap: Yanlış açılan herhangi bir stok kartı ile ilgili hareket yapılmışsa o harekete gidip ilgili kartı değiştirmek gerekir. 
@@ -56,6 +61,15 @@ Soru: Müşteriye çeki nasıl ciro edebilirim ?
 Cevap: Çek/Senet modülünden -> Hareket Olustur -> Çek Ciro Edildi/Verildi şeklinde ulaşım sağlayabilirsiniz.
 Buradan çeki ciro edeceğimiz cariyi seçelim, döviz türünü seçelim kaydet diyelim.
 Çek Senet Ekle mavi butonun yanında ki oktan ciro ekle seçeneğini seçelim, Ciro edilecek çeki seçelim kaydet seçeneğine basalım.
+
+Soru: Çek /senet takibi nasıl yapılır? (alındı, tahsile verme, tahsil etme, iade, detaylandırılacak)
+
+Cevap: Öncelikle çek senet işlemlerinde bir çekin kaydının girilmesi gerekir. 
+- Bu çek alındı kaydıdır. Alınan çek farklı bir firmaya ciro edilebilir borcumuzu kapatabilmek için. 
+- Ayrıca çek/senet işlemlerinde adım adım ilerlemek gerekir. 
+- Çekin banka hesabımıza geçmesi için öncelikle alınan çekin bankaya tahsile verilmesi gerekir tahsile verildikten sonra bankadan tahsil edilip hesabımıza geçer. 
+	Mesela bir çek aldık direk bankadan tahsil et dersek karşımıza gelmez, çekin tahsile verilmesi gerekir .
+- Çek/Senet Hareketleri Listesinden çek/senet hareketlerini görüntüleyebilirsiniz.
 
 ## Müşteri/Satıcı Soruları 
 
@@ -107,8 +121,6 @@ Müşteri/Satıcı -> Müşteri/Satıcı Hareketleri Listesi -> Carimizi seçere
 
 
 
-
-
 ## İhracat Soruları
 
 Soru: Mikro ihracatta KDV nasıl sıfırlanır ?
@@ -128,7 +140,7 @@ Cevap: Normal satış faturası kaydı girilir fatura tamamlandıktan sorna e-Ar
 
 ## Fatura Soruları 
 
-Soru: Birden fazla irsaliye tek fatura nasıl yapılır ?
+Soru: Birden fazla irsaliye tek fatura nasıl birleştirilir ?
 
 Cevap: Bir irsaliyemizi açalım, üç işlem sekmesinden Faturalaştır diyelim, bilgileri kontrol ettikten sonra kaydet diyelim.
 Sağ üstte İrsaliyeden Kalem Ekle seçeneğine tıklayalım, irsaliyelerimizi seçelim kaydet butonu basarak irsaleyimizi fatura dönüştürebiliriz.
@@ -160,7 +172,25 @@ Bu harekette girilen her kart açılarak (Satış faturası alanında her kalemi
 KDV'nin altında yer alan muafiyet ekleme seçeneği ile açılan bölümden ilgili muafiyet nedeni seçilir ve kaydedilir. 
 Eğer birden fazla kart ekli ise her kart için aynı şekilde muafiyet eklenir.
 
+Soru: Tevkifatlı fatura nasıl kesilir ?
 
+Cevap: Fatura hareketi sistemimizde olduğu gibi oluşturulur. Harekete eklenen kartlar için o kartların içeriğine gidilerek vergi oranı kısmında tevkifatlı vergi oranı açılır.
+(Stok kaleminin yanında ki kalem işaretine tıklayalım -> Vergiler -> Muafiyet Ekle -> KDV Muafiyet muafiyeti seçiniz.)
+Açılan vergi tanımında tevkifat tipi belirtilerek kaydedilir. Hareketin içeğindeki kart görüntülenerek tevkifat oranı değiştirilebilir.
+
+Soru: Muhtelif cari özelliği nedir ?
+
+Cevap: Muhtelif cari özelliğimiz ile tek bir cari altında birden fazla carimizi takip edebiliriz. 
+Mesela; N11 sitesinde firmamızın ürünlerini satıyoruz herhangi bir kişi ürünümüzü satın aldı ve bu döngü sürekli halde devam ediyor. 
+Bir ürünü birden fazla kişi bir kereliğine alabilir ve biz bu kişileri müşterimiz olarak açmak istemeyiz. Çünkü; ödeme kısımlarını da biz asıl firmamız olan N11'den almaktayız. 
+O yüzden N11 firmasını  muhtelif cari olarak açabiliriz. Cari kartı içeriğinde yer alan muhtelif cari özelliğimizi aktif ederek.
+(Müşteri/Satıcı kartının içine girelim Muhtelif Cari özelliğini aktif edelim.) 
+
+Soru: Tek bir hareket için kdv oranı nasıl değiştirilir?
+
+Cevap: Herhangi bir kartımızın sadece bir hareket için vergi oranını ilgili harekette kartımızı ekledikten sonra görüntüleyerek
+KDV bölümünde yer alan rakamı ihtiyacımız olan vergi oranını yazıp kaydederek vergi oranını sadece bu hareket için değiştirmiş oluruz.
+Kalemin yanında ki büyüteçe tıklayalım -> Vergiler -> KDV oranını girelim -> Kaydet şeklinde KDV oranını değişikliği gerçekleşir.
 
 ## Diğer
 
