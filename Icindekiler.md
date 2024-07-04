@@ -12,7 +12,6 @@
 - 1.9 [Muhasebe Ýliþkisi](../OnMuhasebeGiris/MuhasebeIliskisi.md)
 
 
-
 ### 2. Programda Bulunan Temel Modüller
 
 #### 2.1. [Müþteri / Satýcý Modülü](/MusteriSatici/Icindekiler.md)
