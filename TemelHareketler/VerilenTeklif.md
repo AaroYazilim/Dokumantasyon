@@ -5,6 +5,8 @@ SayfaTipi: Teklif
 
 # Verilen Teklif
 
+**Eriþim Linki :** [erp.aaro.com.tr/FaturaVerilenTeklif](erp.aaro.com.tr/FaturaVerilenTeklif)
+
 ## Ulaþým 
 
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan 'Verilen Teklif' aratarak ulaþým saðlayabilirsiniz.
