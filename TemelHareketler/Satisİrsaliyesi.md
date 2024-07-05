@@ -65,9 +65,9 @@ Banka hesabýnýn bakiyesi seçilen döviz cinsinden takip edilir.
 ## Doldurmamýz gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aþamamýza geçebiliriz.
 
 - Açýlan ekranda kalem(kart) ekleme alanýmýz açýlacaktýr. 
-- Satýþ faturamýzda satýþ yapacaðýmýz iþlem stok, gelir gider, demirbaþ olabilir. En baþta ki kutucuktan seçim yapýlabilir, sistem otomatik stok olarak getirir.
+- Satýþ irsaliyemizde sevk edilecek stok, gelir gider, demirbaþ olabilir. En baþtaki kutucuktan seçim yapýlabilir, sistem otomatik stok olarak getirir.
 - Kart Adý: Stok, demirbaþ ya da gelir gider satýþýný gerçekleþtireceðimiz kartý belirtir.
-- Miktar: Satýþ yapacaðýmýz stoðun miktarýný belirtir, bu alanýn doldurdurulmasý gerekmektedir.
+- Miktar: Sevk edeceðimiz stoðun miktarýný belirtir, bu alanýn doldurdurulmasý gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satýþ fiyatýný belirtir. 
 	Buraya týklayarak yeni fiyat eklenebilir, son 3 ay için alýþ ve satýþ ortalama fiyatlarýný gösterir.
 - Ýskonto: Satýþýný yaptýðýmýz iþlemlerin iskonto oranýný belirtir. Uyguladýðýmýz iskonto var ise buraya oraný girebiliriz.
@@ -81,14 +81,15 @@ Banka hesabýnýn bakiyesi seçilen döviz cinsinden takip edilir.
 - Sözleþme: Bu kalemin hangi sözleþmeye ait olduðunu gösterir.
 - Plasiyer: Bu kalemin hangi plasiyere ait olduðunu belirtir.
 
-- Satýþ faturasýnda 1 kalem belirtilecekse kaydet diyerek bir sonraki aþamaya geçebiliriz.
+- Satýþ irsaliyesinde 1 kalem belirtilecekse kaydet diyerek bir sonraki aþamaya geçebiliriz.
 - Baþka kalemlerde mevcut ise yukarýda aþamalarý tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
-- Sað üst köþede faturaya ait toplam fiyat kýsýmlarýný içerir;
-	- Toplam: Satýþ faturasýnýn KDV hariç toplam tutarýný içerir.
-	- Ýskonto Sonrasý: Satýþ faturasýnýn KDV dahil fiyatýndan uygulanan iskonto tutarýný ifade eder.
-	- Genel Toplam: Satýþ faturasýnýn tüm kalemlerin KDV dahil tutarýnýn toplamýný belirtir.
+- Sað üst köþede irsaliyeye ait toplam fiyat kýsýmlarýný içerir;
+	- Toplam: Satýþ irsaliyesinin KDV hariç toplam tutarýný içerir.
+	- Ýskonto Sonrasý: Satýþ irsaliyesinin KDV dahil fiyatýndan uygulanan iskonto tutarýný ifade eder.
+	- Genel Toplam: Satýþ irsaliyesinin tüm kalemlerin KDV dahil tutarýnýn toplamýný belirtir.
 	- Tonaj: Tonaj miktarýný belirtir.
+
 
 Kaydet diyelim, notlar ve belgeler kýsmý açýlacaktýr.
 
