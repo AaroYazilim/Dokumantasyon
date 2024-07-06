@@ -5,6 +5,8 @@ SayfaTipi: Teklif
 
 # Verilen Teklif
 
+**Eriþim Linki :** [erp.aaro.com.tr/FaturaVerilenTeklif](erp.aaro.com.tr/FaturaVerilenTeklif)
+
 ## Ulaþým 
 
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan 'Verilen Teklif' aratarak ulaþým saðlayabilirsiniz.
@@ -61,6 +63,35 @@ Bu taným, teklifin kapsamýný, teslim edilecek ürün veya hizmetlerin detaylarýný,
 ### Etiketler
 
 - **Etiketler:** Bu kartý gruplamak ve ileride gruplu rapor alabilmek için kullanýlýr. [Etiketler](../TemelOzellikler/Etiketler.md)
+
+## Doldurmamýz gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aþamamýza geçebiliriz.
+
+- Açýlan ekranda kalem(kart) ekleme alanýmýz açýlacaktýr. 
+- Verilen teklifte müþterinin talebi olan stok, gelir gider, demirbaþ olabilir. En baþta ki kutucuktan seçim yapýlabilir, sistem otomatik stok olarak getirir.
+- Kart Adý: Stok, demirbaþ ya da gelir gider satýþýný gerçekleþtireceðimiz kartý belirtir.
+- Miktar: Teklifte belirtilmesi istenilen stoðun miktarýný belirtir, bu alanýn doldurdurulmasý gerekmektedir.
+- Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satýþ fiyatýný belirtir. 
+	Buraya týklayarak yeni fiyat eklenebilir, son 3 ay için alýþ ve satýþ ortalama fiyatlarýný gösterir.
+- Ýskonto: Teklifimizde girdiðimiz kalem için iskonto oranýný belirtir. Uyguladýðýmýz iskonto var ise buraya oraný girebiliriz.
+- Net Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler hariç, sadece temel maliyetini ifade eden fiyatý belirtir. 
+	Buraya týklayarak yeni fiyat eklenebilir, son 3 ay için alýþ ve satýþ ortalama fiyatlarýný gösterir.
+- Tutar: Bir mal veya hizmetin toplam mali deðerini ifade eden miktarý belirtir. 
+- KDV oran: KDV oranýný ifade eder.
+- Depo: Bu kalemin kullandýðý depoyu belirtir.
+- Açýklama: Kaleme ait açýklamayý belirtir.
+- Proje: Bu kalemin hangi projeye ait olduðunu belirtir.
+- Sözleþme: Bu kalemin hangi sözleþmeye ait olduðunu gösterir.
+- Proje: Bu kalemin hangi projeye ait olduðunu belirtir.
+
+- Teklifte 1 kalem belirtilecekse kaydet diyerek bir sonraki aþamaya geçebiliriz.
+- Baþka kalemlerde mevcut ise yukarýda aþamalarý tekrar ederek yeni kalemleri ekleyebilirsiniz.
+
+- Sað üst köþede faturaya ait toplam fiyat kýsýmlarýný içerir;
+	- Toplam: Teklifin KDV hariç toplam tutarýný içerir.
+	- Ýskonto Sonrasý: Teklifin KDV dahil fiyatýndan uygulanan iskonto tutarýný ifade eder.
+	- KDV: Teklifin KDV oranýnýn karþýlýk geldiði tutarý ifade eder.
+	- Genel Toplam: Teklifin tüm kalemlerin KDV dahil tutarýnýn toplamýný belirtir.
+
 
 ## Belgeler
 

@@ -5,6 +5,8 @@ SayfaTipi: Siparis
 
 # Alınan Sipariş
 
+**Erişim Linki :** [erp.aaro.com.tr/FaturaAlinanSiparis](erp.aaro.com.tr/FaturaAlinanSiparis)
+
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'Alınan sipariş' aratarak ulaşım sağlayabilirsiniz.

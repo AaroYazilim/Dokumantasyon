@@ -13,6 +13,12 @@ SayfaTipi: Fatura
 - Sol menüden Musteri/Satici -> Hareket Oluştur -> Satış Faturası şeklinde ulaşım sağlayabilirsiniz. 
 - Sol menüden Satış & Pazarlama -> Listeler -> Satış Faturası Listesi -> Yeni Hareket Ekle üzerinden ulaşım sağlayabilirsiniz. 
 
+## Tanım 
+
+Satış faturası, bir satıcı tarafından müşteriye mal veya hizmet satışı sonrasında düzenlenen ve satışı belgelendiren ticari bir belgedir.
+Satış faturası, yasal bir belge olduğundan dolayı doğru ve eksiksiz düzenlenmesi önemlidir. Faturanın bir kopyası satıcıda kalırken, asıl nüshası müşteriye verilir. 
+Bu, her iki taraf için de muhasebe kayıtlarının düzgün tutulması ve olası anlaşmazlıkların önlenmesi açısından kritiktir.
+
 ## Genel
 
 **Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
@@ -90,6 +96,14 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 	- KDV: Satış faturasının KDV oranının karşılık geldiği tutarı ifade eder.
 	- Genel Toplam: Satış faturasının tüm kalemlerin KDV dahil tutarının toplamını belirtir.
 
+### Kalem Ekleme Ek Özellikler
+
+- Yeni Stok Kalemi Ekle: Stok kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
+- Yeni Gelirgider Kalemi Ekle: Gelir gider kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
+- Yeni Demirbaş Kalemi Ekle: Demirbaş kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
+- İrsalİyeden Kalem Ekle: İrsaliyeden eklemek istediğimiz kalemleri seçerek faturamıza aktarım yapabiliriz.
+- Siparişten Kalem Ekle: Siparişten eklemek istediğimiz kalemeleri seçerek faturamıza aktarım yapabiliriz.
+
 ## Notlar 
 
 İşleme ait özel notlar belirtebiliriz. 
@@ -131,28 +145,26 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 ## Ek İşlemler
 
  Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- Yevmiye Fiş: 
+- Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Kopyala: Faturayı kopyalamak için kullanılır.
-- Tüm Kalemlerde Değiştir
-- Döviz Türü Değiştir
-- Depo Terminaline Aktar
-- Görev Oluştur
-- Görev Bağla
-- Nakit Tahsilat
-- Kredi Pos Tahsilat
-- Banka Tahsilat
-- e-Arşiv Oluştur
-- İrsaliyelerini Gör
-- Siparişlerini Gör
-- Sipariş Detayları
-- Alış - Satış Analiz
-- Görev oluştur
-- Grid Sütunları Ayarla
+- Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
+- Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
+- Depo Terminaline Aktar: 
+- Görev Oluştur: Sipariş için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
+- Nakit Tahsilat: Fatura için nakit tahsilata hızlı erişimdir. Buradan kasamızı, nakit tahsilat tutarını girerek, eklemek istediğimiz bilgileri ekleyerek, faturaya ait nakit tahsilat tanımlayabiliriz.
+- Kredi Pos Tahsilat: Sipariş için pos tahsilata hızlı erişimdir. Buradan pos tahsilat işlemlerini gösterebiliriz, çekim yaptığım pos tahsilatın bankasını seçelim, tutarını girelim, taksit adedini girelim, eklemek istediğimiz bilgileri ekleyerek, siparişe ait pos tahlisat tanımlayabiliriz. 
+- Banka Tahsilat: Fatura için Havale/EFT Alma hareketine hızlı erişimdir. Buradan banka hesabımıza gelen Havale/EFT Alma işlemimizi, gelen banka hesabımızı seçerek gerekli bilgileri ekleyerek faturaya ait havale/EFT ödemimizi girebiliriz.
+- İrsaliyelerini Gör: Faturasını oluşturduğumuz satışımızın irsaliyesini görmek için hızlı erişim sağlar.
+- Siparişlerini Gör: Faturasını oluşturduğumuz satışımızın siparişini görmek için hızlı erişim sağlar.
+- Sipariş Detayları: Sipariş detyalarına hızlı erişim sağlayabiliriz.
+- Alış - Satış Analiz: Faturasını oluşturduğumuz ürünlerin alış fiyatalarını, satış yaptığımız fiyatları görerek kar-zarar analizi yapabiliriz.
+
 
 # e-Fatura / e-Arşiv Gönderme
 
 - Oluşturduğumuz satış fatura bilgilerimizi kontrol edelim.
-- KDV Dahil Mi:
+- KDV Dahil Mi: Faturaya girilen tutarın KDV dahil mi hariç mi olduğunu ifade eder. KDV dahil fiyat girildiğinde bu seçenek işaretlenmelidir.
 - e-Fatura / e-Arşiv Fatura Gönder seçeneğine tıklandığında fatura oluşturma ekranına yönlendirme sağlanır.
 - e-Fatura / e-Arşiv Fatura Önizle fatura önizlemesini görüntüleyerek kontrolleri sağlayabilirsiniz.
 - e-Fatura / e-Arşiv Fatura Gönder seçeneğine tıklayarak fatura oluşturma işlemeni tamamlayabilirsiniz.
