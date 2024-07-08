@@ -144,6 +144,6 @@ Kart iþ akýþ süreçlerine dahil edildiðinde hangi kullanýcý tarafýndan hangi tari
 - Tüm Kalemlerde Deðiþtir: Buradan depo, proje, sözleþme, vergi muafiyeti, vergileri yenile, iskonto oraný, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde deðiþtirebiliriz.
 - Döviz Türü Deðiþtir: Döviz türü deðiþikliði yapabiliriz.
 - Depo Terminaline Aktar: 
-- Görev Oluþtur: Sipariþ için görev oluþturup, kiþi atayabiliriz, açýklama, tarih bitiþ, hatýrlatma süresi, yönetici, kullanýcý, tamamlanma tipi, tekrar þekli bilgilerini ekleyerek görev tanýmlama iþlemimizi gerçekleþtirebiliriz.
+- Görev Oluþtur: Ýade iþlemi için görev oluþturup, kiþi atayabiliriz, açýklama, tarih bitiþ, hatýrlatma süresi, yönetici, kullanýcý, tamamlanma tipi, tekrar þekli bilgilerini ekleyerek görev tanýmlama iþlemimizi gerçekleþtirebiliriz.
 - Görev Baðla: Açýlan listede ki görevlerden görevi baðlayacaðýmýz, birleþtireceðimiz görevi seçelim, kaydet diyerek görevi baðlayabiliriz.
 
