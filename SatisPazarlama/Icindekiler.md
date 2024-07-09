@@ -24,10 +24,10 @@ Satışımız için gerçekleşen her aşama için satış pazarlama modülünü
 ### Listeler 
 
 - [Satış Pazarlama Hareketleri Listesi](../SatisPazarlama/SatisPazarlamaHareketleriListesi.md)
-- [Fatura Listesi](../SatisPazarlama/Fatura Listesi.md)
+- [Fatura Listesi](../SatisPazarlama/FaturaListesi.md)
 - [Sipariş Listesi](../SatisPazarlama/SiparisListesi.md)
-- [Fiyat Listeleri Listesi](../SatisPazarlama/FiyatListeleriListesi.md)
-
+- [Fiyat Listeleri Listesi](../SatisPazarlama/FiyatListesi.md)
+- [Sözleşme Listesi](../SatisPazarlama/SözlesmeListesi.md)
 
 ### Hareketler 
 

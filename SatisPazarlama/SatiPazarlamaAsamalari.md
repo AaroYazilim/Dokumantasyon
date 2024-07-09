@@ -1,3 +1,7 @@
+---
+SayfaID: SatisPazarlamaModulu
+SayfaTipi: Modul
+---
 
 # Satış Pazarlama Aşamaları;
 

@@ -17,16 +17,17 @@ Soru: Kesilen fatura da stok kodu nasıl görüntülenir?
 Cevap: Ayarlar -> Modül sayfası -> Parametre Listesi -> Yeni Parametre ekle diyerek "eDonusum_KalemdeStokKoduBilgisiGonderilsin (E-Fatura)" 
 parametresi evet yapılarak gönderilen faturalarda stok kodunun görüntülenmesi sağlanır.
 
-*** Soru: Yanlış açılan stok ve cari kayıtlarının düzeltilmesi, hareketlerin taşınması nasıl yapılır?
-*** 
-*** Cevap: Yanlış açılan herhangi bir stok kartı ile ilgili hareket yapılmışsa o harekete gidip ilgili kartı değiştirmek gerekir. 
-*** Örneğin bir satış faturasında yanlış açılan stok kalemi nasıl düzeltilir ilk başta faturanın yevmiye fişinden 
-*** muhasebeleştirmesi(onayını ve kilidini kaldır) iptal edilerek o harekette değişiklik yapılması sağlanır.
+Soru: Yanlış açılan stok ve cari kayıtlarının düzeltilmesi, hareketlerin taşınması nasıl yapılır?
 
-***Soru: Fiyat listesi düzenleme şablonları ve bu şablonların tekrar yüklenmesi nasıl yapılır?
-***
-***Cevap: Rapor -> Stok -> Fiyat -> Fiyat Listesi Aktarım/Düzeltme Şablonu -> sistemde yer alan fiyat listelerinin indirilip düzenleyelim,
-***Ayarlar -> Modül Sayfası -> Dışarıdan Aktarma -> Stok -> Fiyat Listesi Aktarma şeklinde tekrardan yükleyebiliriz.
+Cevap: Yanlış açılan herhangi bir stok kartı ile ilgili hareket yapılmışsa o harekete gidip ilgili kartı değiştirmek gerekir. 
+Örneğin bir satış faturasında yanlış açılan stok kalemi nasıl düzeltilir ilk başta faturanın yevmiye fişinden 
+muhasebeleştirmesi onayını ve kilidini kaldır dedikten sonra fatura içeriğine gidip yanlış kalemler doğru kalemlerle eşleştirilip 
+yanlış kalemin hareketinin kalmaması sağlanır böylelikle yanlış stok kartını listemizden silebiliriz.
+
+Soru: Fiyat listesi düzenleme şablonları ve bu şablonların tekrar yüklenmesi nasıl yapılır?
+
+Cevap: Rapor -> Stok -> Fiyat -> Fiyat Listesi Aktarım/Düzeltme Şablonu -> sistemde yer alan fiyat listelerinin indirilip düzenleyelim,
+Ayarlar -> Modül Sayfası -> Dışarıdan Aktarma -> Stok -> Fiyat Listesi Aktarma şeklinde tekrardan yükleyebiliriz.
 
 
 
