@@ -148,7 +148,7 @@ Verilen teklifimizde ekleme yapmak ya da herhangi bir düzeltme yapmak için kalem
 - Kopyala: Verilen teklifi kopyalamak için kullanýlýr.
 - Tüm Kalemlerde Deðiþtir: Buradan depo, proje, sözleþme, vergi muafiyeti, vergileri yenile, iskonto oraný, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde deðiþtirebiliriz.
 - Döviz Türü Deðiþtir: Döviz türü deðiþikliði yapabiliriz.
-- Görev Oluþtur: Sipariþ için görev oluþturup, kiþi atayabiliriz, açýklama, tarih bitiþ, hatýrlatma süresi, yönetici, kullanýcý, tamamlanma tipi, tekrar þekli bilgilerini ekleyerek görev tanýmlama iþlemimizi gerçekleþtirebiliriz.
+- Görev Oluþtur: Teklif için görev oluþturup, kiþi atayabiliriz, açýklama, tarih bitiþ, hatýrlatma süresi, yönetici, kullanýcý, tamamlanma tipi, tekrar þekli bilgilerini ekleyerek görev tanýmlama iþlemimizi gerçekleþtirebiliriz.
 - Görev Baðla: Açýlan listede ki görevlerden görevi baðlayacaðýmýz, birleþtireceðimiz görevi seçelim, kaydet diyerek görevi baðlayabiliriz.
 - Kapat: Sipariþimizi açmak ya da kapatmak için kullanýlýr.
 - Paylaþ: Alýnan sipariþin hangi þirket veya þubelerde gözükeceðini buradan seçebiliriz.
