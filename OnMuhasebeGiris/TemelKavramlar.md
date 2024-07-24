@@ -16,27 +16,29 @@ Kısacası Borç-Alacak dengesinin kaydının yapılmasını sağlamaktadır.
 
 ## Borç - Alacak Dengesi
 
-**Borç:** Firmananın veya kişinin şirketten aldığı ödeme sonucu, aldığı miktar kadar şirkete borçlanmasıdır.
+**Borç:** Firmananın veya kişinin şirketten aldığı mebla sonucu aldığı miktar kadar şirkete borçlanmasıdır.
 
 Örneğin bir satıcıya ödeme yapıldığında satıcının hesabına borç olarak işlenir.
 
-**Alacak:** Firmadan veya kişiden şirket hesabına olan mali çıkşlar sonucu çıkış miktarı kadar şirkete karşı alacaklı olmasıdıdır. 
+**Alacak:** Firmadan veya kişiden şirkete yapılan ödemeler sonucu ödeme miktarı kadar şirkete karşı alacaklı olmasıdıdır. 
 
 Örneğin bir müşteriden ödeme alındığında müşterinin hesabına alacak olarak işlenir.
 
-Aşağıdaki örnekte firmanın yaptığı satış sonucu alıcıya ürün değeri kadar **borç** yazmıştır. Alıcı ödeme yaptığında ise ona ödeme yapılan miktar kadar **alacak** yazmıştır. Bunun sonucu (**borç** - **alacak**) denkleşmiş olup ürün satımıyla Şirket Bakiyesi 1500TL kadar artmıştır.
+|İşlem|Alıcı|Miktar|Alıcı Bakiye|Şirket Bakiye|
+|-----|-----|------|------------|-------------|
+|Satış faturası|Borç|1500TL|AB|ŞB|
 
 |İşlem|Alıcı|Miktar|Alıcı Bakiye|Şirket Bakiye|
 |-----|-----|------|------------|-------------|
-|Satış|Borç|1500TL|AB|ŞB|
+|Alış faturası|Alacak|1500TL|AB - 1500TL|ŞB + 1500TL|
 
-|İşlem|Alıcı|Miktar|Alıcı Bakiye|Şirket Bakiye|
-|-----|-----|------|------------|-------------|
-|Alış|Alacak|1500TL|AB - 1500TL|ŞB + 1500|
+Yukarıdaki örnekte firmanın yaptığı satış sonucu **satış faturası**nda ürün değeri kadar alıcıya **borç** yazmıştır. Alıcı ödeme yaptığında ise **alış faturasında** ödeme yapılan miktar kadar **alacak** yazmıştır. Bunun sonucu **borç** ve **alacak** birbirine denk olmuş olup ürün satımıyla Alıcı Bakiyesinden Şirket Bakiyesine 1500TL kadar geçmiş olur.
+
+Kısacası bir yerden bir yere aktarılan mebla ya da mal değeri kadar çıktığı yere **alacak**, gittiği yere **borç** olarak yazılır.
 
 Borç - alacak takibi iki taraf arasındaki alışverişin kayıt altına alınmasıdır. 
 
-Tüm evraklarda borçların ve alacakların denkleşmesi gerekmektedir. 
+Tüm evraklarda borçların ve alacakların denkleşmesi gerekmektedir. Çünkü mebla girişi olduysa **borç**, çıkışı olduysa **alacak** olarak kaydedilir. 
 
 Cari borç - alacak takibinin düzenli tutulması çok büyük önem arz etmektedir.
 
