@@ -352,7 +352,7 @@ Fakat bu yöntemde kesilecek faturaların takibini yapamayız. Faturaların ve h
 2. Yöntem: Aracı firma ile olan borç alacak takibini komisyon faturaları ve havale eft alacağı şeklinde detaylı takip edilmek isteniyorsa kullanılabilir. 
 
 Aracı Sanal Pos hesabı iki hesap üzerinden takip edilir. Gelen faturaları bir cari hesapta tutulur. EFT/Havale ödemeleri ve alacaklar başka bir cari hesapta tutulur.
-Örneğin, bize müşterimiz sanal pos aracılığıyla 200 tl ödeme gerçekleştirdi, entegratör firma bu işlem için bize 5 tl komisyon kesti ve faturalandırdı....
+Örneğin, bize müşterimiz sanal pos aracılığıyla 200 tl ödeme gerçekleştirdi, entegratör firma bu işlem için bize 5 tl komisyon kesti ve faturalandırdı.
 Kalan 195 tl'yi EFT/Havale olarak banka hesabımıza gönderdi.
 
 	1. İlk olarak Aracı Sanal Pos hesabımıza iki cari hesap açalım. Örneğin birinin adı "Pos Entegratör Komisyon" olsun. Diğeri cari hesabın adı "Pos Entegratör Havale" olsun.
