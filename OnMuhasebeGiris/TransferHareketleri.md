@@ -1,50 +1,42 @@
 ## Transferler 
 
-Transfer işlem yapılacak hizmetin( banka; para -depo; ürün- kasa; nakit para vb.) bir yerden bir yere taşınmasını veya değiştirilmesine denir.
+Transfer işlem yapılacak hizmetin (banka, para - depo, ürün - kasa, nakit para vb.) bir yerden bir yere taşınmasını veya değiştirilmesine denir.
 
-## Kasalar Arası Transferler
+## Kasalar Arası Transferler*
 
-Bir işletmenin kendi kasasında bulunan nakit parasının başka bir kasasına aktarılmasıdır. 
+Bir işletmenin kendi kasasında bulunan nakit parasını başka bir kasasına aktarmasıdır. 
 
-Kasalar arası transfer genellikle işletme içinde yapılır ve bir tür kayıt tutulur. 
+Kasalar arası transfer genellikle işletme içinde yapılır ve kayıt tutulur. 
 
-Bu işlem, belirli bir bölgedeki nakit akışının dengelenmesini sağlayabilir veya bir kasadaki eksiklikleri gidermek için yapılabilir.
+Bu işlem, belirli bir bölgedeki nakit akışının dengelenmesinin sağlanması veya bir kasadaki eksikliklerin giderilmesi için yapılabilir.
 
-## Borçlu ve Alacaklı İlişkisi;
+## Borçlu ve Alacaklı İlişkisi*:
 
-Gönderici kasa, başka bir kasa veya departmana nakit para transfer ettiğinde, transfer edilen miktar kadar borçlu hâle gelir.
+Gönderici kasa; başka bir kasa veya departmana nakit para transfer ettiğinde, transfer edilen miktar kadar alacaklı hâle gelir.
 
-Alıcı kasa ise, aldığı miktar kadar alacaklı hâle gelir. 
+Alıcı kasa ise aldığı miktar kadar borçlu hâle gelir. 
 
-Böylece, bir kasadan diğerine yapılan transferlerde, gönderici kasa borçlanırken, alıcı kasa alacaklı hâle gelir.
+Böylece bir kasadan diğerine yapılan transferlerde; gönderici kasa alacaklı olurken, alıcı kasa borçlu hâle gelir.
 
-Gönderici kasa borçludur.
+## Bankalar Arası Transferler**
 
-Alıcı kasa alacaklıdır.
+Bankalar arasında yapılan bir işlemdir. Bir bankadan başka bir bankaya para gönderme işlemidir.
 
-## Bankalar Arası Transferler
+Banka transferleri genellikle EFT (Elektronik fon transferi) ya da havale yöntemiyle yapılmaktadır. 
 
-Bankalar arasında yapılan bir işlemdir. Bankadan başka bir bankaya para gönderme işlemidir.
-
-Banka transferleri genellikle EFT(Elektronik fon transferi) ya da havale yöntemiyle yapılmaktadır. 
-
-Bu işlem kendi bankasından transfer yapılacağı tutar miktarında para çekip, belirli bir başka banka hesabına aktarmasıyla gerçekleşir.
+Bu işlem; bankadan transfer yapılacağı tutar miktarında para çekilip, başka bir banka hesabına aktarılmasıyla gerçekleşir.
 
 Bu işlemler genellikle bankanın çevrimiçi bankacılık veya mobil bankacılık hizmetleri üzerinden gerçekleştirilir.
 
-## Borçlu ve Alacaklı İlişkisi;
+## Borçlu ve Alacaklı İlişkisi**:
 
 Gönderici banka, gönderilen miktarı alıcı bankaya transfer ettiğinde, gönderici banka bu miktarı 
-müşterisinin hesabından çıkarır ve kendi hesabında bu miktarı borç olarak kaydeder.
+müşterisinin hesabından çıkarır ve kendi hesabında bu miktarı alacak olarak kaydeder.
 
 Alıcı banka ise, aldığı miktarı alıcı müşterisinin hesabına ekler ve kendi hesabında 
-bu miktarı alacak olarak kaydeder. Böylece, gönderici banka alacaklı durumuna gelirken, alıcı banka borçlu durumuna geçer. 
+bu miktarı borç olarak kaydeder. Böylece, gönderici banka alacaklı durumuna gelirken, alıcı banka borçlu durumuna geçer. 
 
-Gönderici banka borçludur.
-
-Alıcı banka alacaklıdır.
-
-## Cariler Arası Transferle
+## Cariler Arası Transferler***
  Bir işletmenin veya kurumun müşteri hesapları arasında yapılan para veya varlık transferlerini ifade eder.
 
  Bu terim genellikle muhasebe ve finansal işlemler bağlamında kullanılır ve işletmenin cari hesapları arasındaki para akışını yönetmek için kullanılır.
@@ -53,26 +45,28 @@ Alıcı banka alacaklıdır.
 
 Bu durumda, işletme bu transferi cari hesapları arasında gerçekleştirir.
 
-## Borçlu ve Alacaklı İlişkisi;
+## Borçlu ve Alacaklı İlişkisi***:
 
-Gönderici cari hesabından para transferi yapıldığında, gönderici cari hesabı bu miktarı müşteriye borçlu hale gelir. 
+Gönderici cari hesabından para transferi yapıldığında, gönderici cari hesabı bu miktarı müşteriden alacaklı hale gelir. 
 
-Alıcı cari hesabı ise, aldığı miktarı alıcı müşteriye borçlu hâle gelir. 
+Alıcı cari hesabı ise, bu miktarı aldığı müşteriye borçlu hâle gelir. 
 
-Böylece, gönderici cari hesap alacaklı durumuna gelirken, alıcı cari hesap borçlu durumuna geçer.
+Böylece gönderici cari hesap alacaklı durumuna gelirken, alıcı cari hesap borçlu durumuna geçer.
 
-## Depolar Arası Transferler
+## Depolar Arası Transferler****
 Bir işletmenin veya kurumun farklı depoları arasında mal veya envanter transferi yapmasıdır. 
 
-Bu terim, depolama, lojistik ve stok yönetimi bağlamında kullanılır ve genellikle malzemelerin, 
+Bu terim; depolama, lojistik ve stok yönetimi bağlamında kullanılır
+
+Genellikle malzemelerin, 
 ürünlerin veya envanterin ihtiyaç duyulan yerlere yönlendirilmesini sağlar.
 
-## Borçlu ve Alacaklı İlişkisi;
+## Borçlu ve Alacaklı İlişkisi****:
 
-Gönderici depo, başka bir depoya malzeme veya envanter transfer ettiğinde, transfer edilen miktar kadar borçlu hâle gelir.
+Gönderici depo; başka bir depoya malzeme veya envanter transfer ettiğinde, transfer edilen miktar kadar alacaklı hâle gelir.
 
-Alıcı depo ise, aldığı miktar kadar alacaklı hâle gelir. 
+Alıcı depo ise aldığı miktar kadar borçlu hâle gelir. 
 
-Böylece, bir depodan diğerine yapılan transferlerde, gönderici depo borçlanırken, alıcı depo alacaklı hâle gelir.
+Böylece bir depodan diğerine yapılan transferlerde; gönderici depo alacaklı olurken, alıcı depo borçlu hâle gelir.
 
 
