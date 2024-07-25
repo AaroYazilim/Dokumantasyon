@@ -1,14 +1,14 @@
 
 ## Muhasebe Nedir? 
 
-Genel **muhasebe**, diğer adıyla finansal muhasebenin mali işlemleri kaydetme, sınıflandırma, raporlama ve analiz sürecidir.
+Genel **muhasebe**, diğer adıyla finansal muhasebe; mali işlemleri kaydetme, sınıflandırma, raporlama ve analiz sürecidir.
 
-Firmaların hareketlerini görmek kayıt altına almak borç-alacak takibini yaparak son durumlarını görüntüleyebilmektir.
+Firmaların hareketlerini denetleyip kayıt altına alarak ve borç-alacak takibini yaparak son durumlarını görüntüleyebilmektir.
 
 ## Ön Muhasebe Nedir? 
 
 Ön muhasebe, bir şirketin ilk evrak kayıtlarının yapıldığı aşamadır. Cari, fatura, stok takipleri, 
-nakit akışı yönetimi, banka hesapları gibi işlemlerin yapılmasını içermektedir. 
+nakit akışı yönetimi ve banka hesapları gibi işlemlerin yönetimini içermektedir. 
 
 Kısacası Borç-Alacak dengesinin kaydının yapılmasını sağlamaktadır. 
 
@@ -16,25 +16,35 @@ Kısacası Borç-Alacak dengesinin kaydının yapılmasını sağlamaktadır.
 
 ## Borç - Alacak Dengesi
 
-**Borç** ,Sisteme kaydedilen borç bilgileri karşı tarafın Firmaya olan borcunu gösterir. 
+**Borç:** Firmananın veya kişinin şirketten aldığı mebla sonucu aldığı miktar kadar şirkete borçlanmasıdır.
 
 Örneğin bir satıcıya ödeme yapıldığında satıcının hesabına borç olarak işlenir.
 
-**Alacak**, Sisteme kaydedilen alacak bilgileri karşı tarafın Firmaya olan alacağını gösterir. 
+**Alacak:** Firmadan veya kişiden şirkete yapılan ödemeler sonucu ödeme miktarı kadar şirkete karşı alacaklı olmasıdıdır. 
 
-Örneğin bir müşteriden tahsilat yapıldığında müşterinin hesabına alacak olarak işlenir.
+Örneğin bir müşteriden ödeme alındığında müşterinin hesabına alacak olarak işlenir.
 
-Örneğin bir müşteriden fatura kesildiğinde müşterinin hesabına borç olarak işlenir.
+|İşlem|Alıcı|Miktar|Alıcı Bakiye|Şirket Bakiye|
+|-----|-----|------|------------|-------------|
+|Satış faturası|Borç|1500TL|AB|ŞB|
 
-Borç alacak takibi iki taraf arasındaki alışverişin kayıt altına alınmasıdır. 
+|İşlem|Alıcı|Miktar|Alıcı Bakiye|Şirket Bakiye|
+|-----|-----|------|------------|-------------|
+|Alış faturası|Alacak|1500TL|AB - 1500TL|ŞB + 1500TL|
 
-Tüm evraklarda borçların ve alacakların denkleşmesi gerekmektedir. 
+Yukarıdaki örnekte firmanın yaptığı satış sonucu **satış faturası**nda ürün değeri kadar alıcıya **borç** yazmıştır. Alıcı ödeme yaptığında ise **alış faturasında** ödeme yapılan miktar kadar **alacak** yazmıştır. Bunun sonucu **borç** ve **alacak** birbirine denk olmuş olup ürün satımıyla Alıcı Bakiyesinden Şirket Bakiyesine 1500TL kadar geçmiş olur.
 
-Cari borç- alacak takibinin düzenli tutulması çok büyük önem arz etmektedir.
+Kısacası bir yerden bir yere aktarılan mebla ya da mal değeri kadar çıktığı yere **alacak**, gittiği yere **borç** olarak yazılır.
 
-Sisteme girilen tüm kayıtlarda. Bir taraf borçlu olurken diğer taraf alacaklı olur. Borç - Alacak = 0 şeklinde olmalıdır. 
+Borç - alacak takibi iki taraf arasındaki alışverişin kayıt altına alınmasıdır. 
+
+Tüm evraklarda borçların ve alacakların denkleşmesi gerekmektedir. Çünkü mebla girişi olduysa **borç**, çıkışı olduysa **alacak** olarak kaydedilir. 
+
+Cari borç - alacak takibinin düzenli tutulması çok büyük önem arz etmektedir.
+
+Sisteme girilen tüm kayıtlarda. Bir taraf borçlu olurken diğer taraf alacaklı olur. (**Borç** - **Alacak**) = 0 şeklinde olmalıdır. 
 Örneğin sisteme bir nakit tahsilat girildiğinde Müşterinin hesabına 1000TL alacak girilir aynı zamanda Kasa 1000TL borçlanır. 
-Yani kasanın bakiyesi 1000 tl artar.
+Yani kasanın bakiyesi 1000TL artar.
 
 
 
@@ -46,14 +56,14 @@ Banka hesabı hem borçlu hem alacaklı olarak çalışır.
 
 ## Cari
 
-**Cari:** Bir işletmenin mali veya ticari ilişkide bulunduğu alıcı, satıcı, banka vs. 
-hesapların borç ve alacaklarını hareketlerinin takibinin yapıldığı hesaplardır.
+**Cari:** Bir işletmenin mali veya ticari ilişkide bulunduğu alıcı, satıcı, banka vb. 
+hesapların borç ve alacak hareketlerinin takibinin yapıldığı hesaplardır.
 
 ## Stok
 
-**Stok:** Firmaların, ticari işlemlerde kullandıkları ürünleri, üretimde kullanıdıkları hammadde, yarı mamul ve mamul bilgilerinin tutulduğu kartlardır.
+**Stok:** Firmaların; ticari işlemlerde kullandıkları ürünleri, üretimde kullandıkları ham madde, yarı mamul ve mamul bilgilerinin tutulduğu kartlardır.
 
-İşletmeler, faaliyetlerini düzenli bir şekilde sürdürebilmek için stok alışverişinin alış ya da satış takibini kontrolünü sağlamak adına stok tutulur. 
+İşletmeler, faaliyetlerini düzenli bir şekilde sürdürebilmek için stok alışverişinin alış ya da satış takibinin kontrolünü sağlamak adına stok tutar. 
 
 ## Depo
 
@@ -75,7 +85,7 @@ Kasadan çıkışı yapılan her nakit kasayı alacaklı duruma getirir.
 
 ## Çek
 
-**Çek:** Kıymetli evrak niteliğine sahip düzenleyen alacaklı ve banka arasındaki üçlü bir havale ilişkisini barındıran bir alacak hakkını içerir.
+**Çek:** Kişi veya işletmenin belirli bir tarihte veya talep üzerine ödeme yapmayı taahhüt ettiği yazılı belgedir.
 
 Çekin muhatabı bankadır. Çek veren kişi borçludur, bankaya çek verildiğinde banka borçlanır.
 
@@ -86,8 +96,8 @@ işlem özelliği sayesinde ödeme yapılan bir bankacılık sistemidir.
 
 ## Devir Nedir? 
 
-İşletmenin mevcut kullanımda bulunduğu sistemi değişmesiyle sisteminde mevcut olan hesap verilerin 
-(müşteri, kasa, banka, stok, satıcı vs.) en son durumlarının net tutarların aktarılmasına devir denilmektedir.
+İşletmenin mevcut kullanımda bulunduğu sistemi değişmesiyle sisteminde mevcut olan hesap verilerinin 
+(müşteri, kasa, banka, stok, satıcı vb.) en son durumlarının net tutarlarının aktarılmasına devir denilmektedir.
 
 ## Tevkifat
 

@@ -1,9 +1,7 @@
 
 - [Temel Kavramlar](../OnMuhasebeGiris/TemelKavramlar.md)
-- [Temel Hareketler](../OnMuhasebeGiris/TemelHareketler.md)
 - [İrsaliye - Fatura](../OnMuhasebeGiris/İrsaliye_Fatura.md)
 - [Transfer Hareketleri](../OnMuhasebeGiris/TransferHareketleri.md)
-- [Karma Transferler](../OnMuhasebeGiris/KarmaTransfer.md)
 - [Basit Depo Yönetimi](../OnMuhasebeGiris/BasitDepoYonetimi.md)
 - [Basit Üretim](../OnMuhasebeGiris/BasitUretim.md)
 - [E-Fatura Temel Bilgisi](../OnMuhasebeGiris/E-FaturaTemelBilgisi.md)
