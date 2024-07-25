@@ -3,149 +3,149 @@ SayfaID: SatisIadeFaturasi
 SayfaTipi: Fatura
 ---
 
-# Satış İade Faturası
+# SatÄ±ÅŸ Ä°ade FaturasÄ±
 
-**Erişim Linki :** [erp.aaro.com.tr/FaturaSatisIadeFaturasi](erp.aaro.com.tr/FaturaSatisIadeFaturasi)
+**EriÅŸim Linki :** [erp.aaro.com.tr/FaturaSatisIadeFaturasi](erp.aaro.com.tr/FaturaSatisIadeFaturasi)
 
-### Ulaşım
+### UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "satış iade" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Musteri/Satici -> Hareket Oluştur -> Satış İade Faturası şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Satış & Pazarlama -> Listeler -> Satış İade Faturası Listesi -> Yeni Hareket Ekle üzerinden ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "satÄ±ÅŸ iade" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Musteri/Satici -> Hareket OluÅŸtur -> SatÄ±ÅŸ Ä°ade FaturasÄ± ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
+- Sol menÃ¼den SatÄ±ÅŸ & Pazarlama -> Listeler -> SatÄ±ÅŸ Ä°ade FaturasÄ± Listesi -> Yeni Hareket Ekle Ã¼zerinden ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 
-## Tanım 
+## TanÄ±m 
 
-Satış iade faturası, müşterinin satın aldığı mal veya hizmeti geri iade etmesi durumunda düzenlenen bir faturadır. 
-Bu fatura, iade edilen ürün veya hizmetin bedelinin müşteriye geri ödenmesi veya borcunun düşülmesi için kullanılır. 
-İadenin nedeni (örneğin, ürünün kusurlu olması, yanlış ürün gönderimi, müşteri memnuniyetsizliği vb.) fatura üzerinde açıklanmalıdır.
-Satış iade faturası düzenlemek, muhasebe kayıtlarının düzgün tutulması ve yasal gerekliliklerin yerine getirilmesi açısından önemlidir.
+SatÄ±ÅŸ iade faturasÄ±, mÃ¼ÅŸterinin satÄ±n aldÄ±ÄŸÄ± mal veya hizmeti geri iade etmesi durumunda dÃ¼zenlenen bir faturadÄ±r. 
+Bu fatura, iade edilen Ã¼rÃ¼n veya hizmetin bedelinin mÃ¼ÅŸteriye geri Ã¶denmesi veya borcunun dÃ¼ÅŸÃ¼lmesi iÃ§in kullanÄ±lÄ±r. 
+Ä°adenin nedeni (Ã¶rneÄŸin, Ã¼rÃ¼nÃ¼n kusurlu olmasÄ±, yanlÄ±ÅŸ Ã¼rÃ¼n gÃ¶nderimi, mÃ¼ÅŸteri memnuniyetsizliÄŸi vb.) fatura Ã¼zerinde aÃ§Ä±klanmalÄ±dÄ±r.
+SatÄ±ÅŸ iade faturasÄ± dÃ¼zenlemek, muhasebe kayÄ±tlarÄ±nÄ±n dÃ¼zgÃ¼n tutulmasÄ± ve yasal gerekliliklerin yerine getirilmesi aÃ§Ä±sÄ±ndan Ã¶nemlidir.
 
 ## Genel
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
+**Åirket-Åube:** KartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](../TemelOzellikler/SirketSubeKart.md)
 
-**Tarih:** İşlemin yapıldığı tarihi belirtir. 
+**Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir. 
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasÄ±nÄ± ifade eder. Otomatik sÄ±radaki numara gelir. Ä°stenirse seri kullanÄ±labilir.
 
-**Müşteri:** İşlemin yapıldığını cari kartını ifade eder. 
+**MÃ¼ÅŸteri:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ±nÄ± cari kartÄ±nÄ± ifade eder. 
 
-**Döviz:** Bu banka hesabının çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
-Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
+**DÃ¶viz:** Bu banka hesabÄ±nÄ±n Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinsini belirtir.TÃ¼rk lirasÄ± haricinde baÅŸka bir dÃ¶viz seÃ§ildiÄŸinde sadece o dÃ¶viz cinsinden hareket iÅŸlenmesine izin verir. 
+Banka hesabÄ±nÄ±n bakiyesi seÃ§ilen dÃ¶viz cinsinden takip edilir.
 
-**Depo:** Bu işlemin kullandığı depoyu belirtir.
+**Depo:** Bu iÅŸlemin kullandÄ±ÄŸÄ± depoyu belirtir.
 
-**Vade** İşlemin yapıldığı vadeyi belirtir. Cari ile ilgili işlem yapıldığında otomatik buradaki vade gelecektir.
-	Ay sonu seçeneği belirtilen günden sonraki ay sonuna alır. 0 ise ayın sonuna alır. Vade ile ilgili detaylı [Vade](../TemelOzellikler/Vade.md)
+**Vade** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± vadeyi belirtir. Cari ile ilgili iÅŸlem yapÄ±ldÄ±ÄŸÄ±nda otomatik buradaki vade gelecektir.
+	Ay sonu seÃ§eneÄŸi belirtilen gÃ¼nden sonraki ay sonuna alÄ±r. 0 ise ayÄ±n sonuna alÄ±r. Vade ile ilgili detaylÄ± [Vade](../TemelOzellikler/Vade.md)
 
-**Açıklama** İşleme ait açıklamayı belirtir. Açıklama kullanım detayları için linke tıklayınız.[Açıklama](../TemelOzellikler/Aciklama.md)
+**AÃ§Ä±klama** Ä°ÅŸleme ait aÃ§Ä±klamayÄ± belirtir. AÃ§Ä±klama kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
-**KDV Dahil** Kalemlerde birim fiyat ve tutarın 'KDV Dahil' olduğunu belirtir. KDV dahil kullanım detayları için linke tıklayınız.[KDV Dahil](../TemelOzellikler/KDVdahil.md)
+**KDV Dahil** Kalemlerde birim fiyat ve tutarÄ±n 'KDV Dahil' olduÄŸunu belirtir. KDV dahil kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[KDV Dahil](../TemelOzellikler/KDVdahil.md)
 
 ## Detay
 
-**Beklenen Tahsilatlar ve Ödemeler** Bir işletmenin, belirli bir zaman dilimi içinde müşterilerinden almayı beklediği ödemelerdir. 
-	Bu, genellikle satışlardan kaynaklanan alacakları ve diğer gelir kalemlerini içerir. Beklenen Tahsilatlar ve Ödemeler kullanım detayları için linke tıklayınız. [Beklenen Tahsilatlar ve Ödemeler](../TemelOzellikler/BeklenenTahOd.md)
+**Beklenen Tahsilatlar ve Ã–demeler** Bir iÅŸletmenin, belirli bir zaman dilimi iÃ§inde mÃ¼ÅŸterilerinden almayÄ± beklediÄŸi Ã¶demelerdir. 
+	Bu, genellikle satÄ±ÅŸlardan kaynaklanan alacaklarÄ± ve diÄŸer gelir kalemlerini iÃ§erir. Beklenen Tahsilatlar ve Ã–demeler kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Beklenen Tahsilatlar ve Ã–demeler](../TemelOzellikler/BeklenenTahOd.md)
 
 **Cari Detay:**
 
 **Alt Tip:** Alt hareket tipini belirtir.
 
-**Sözleşme:** Bu hareketin hangi sözleşmeye ait olduğunu gösterir. Sözleşme kullanım detayları için linke tıklayınız.[Sözleşme](../TemelOzellikler/Sozlesme.md)
+**SÃ¶zleÅŸme:** Bu hareketin hangi sÃ¶zleÅŸmeye ait olduÄŸunu gÃ¶sterir. SÃ¶zleÅŸme kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[SÃ¶zleÅŸme](../TemelOzellikler/Sozlesme.md)
 
-**Proje:** Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir. Proje kullanım detayları için linke tıklayınız.[Proje](../TemelOzellikler/Proje.md)
+**Proje:** Bu hareketin hangi projeye ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir. Proje kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[Proje](../TemelOzellikler/Proje.md)
 
-**Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir. Plasiyer kullanım detayları için linke tıklayınız.[Plasiyer](../TemelOzellikler/Plasiyer.md)
+**Plasiyer:** Bu hareketin hangi plasiyere ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir. Plasiyer kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[Plasiyer](../TemelOzellikler/Plasiyer.md)
 
-**Cari Adres:** Girilen carinin birden çok adresi varsa ve farklı adrese gönderilecekse seçilmelidir. Carinin adresini belirtir. Kalemlerde değiştirilebilir.
+**Cari Adres:** Girilen carinin birden Ã§ok adresi varsa ve farklÄ± adrese gÃ¶nderilecekse seÃ§ilmelidir. Carinin adresini belirtir. Kalemlerde deÄŸiÅŸtirilebilir.
 
-**Ref. İthalat İhracat:** Bu hareket bir ithalat ya da ihracata ait olduğunu belirtir. Kalemlerde değiştirilebilir.
+**Ref. Ä°thalat Ä°hracat:** Bu hareket bir ithalat ya da ihracata ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir.
 
-### Açıklamalar
+### AÃ§Ä±klamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. İade nedeni burada belirtilebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")	
+- **AÃ§Ä±klamalar:** Ek aÃ§Ä±klamalarÄ± belirtir. Ä°ade nedeni burada belirtilebilir. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")	
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lÄ±r. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
-## Doldurmamız gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
+## DoldurmamÄ±z gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aÅŸamamÄ±za geÃ§ebiliriz.
 
-- Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
-- Satış iade faturamızda iade edilen stok, gelir gider, demirbaş olabilir. En başta ki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
-- Kart Adı: Stok, demirbaş ya da gelir gider satışını gerçekleştireceğimiz kartı belirtir.
-- Miktar: İade yapılan ürünün stok miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
-- Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
-	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
-- İskonto: Satışını yaptığımız işlemlerin iskonto oranını belirtir. Uyguladığımız iskonto var ise buraya oranı girebiliriz.
-- Net Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler hariç, sadece temel maliyetini ifade eden fiyatı belirtir. 
-	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
-- Tutar: Bir mal veya hizmetin toplam mali değerini ifade eden miktarı belirtir. 
-- KDV oran: KDV oranını ifade eder.
-- Depo: Bu kalemin kullandığı depoyu belirtir.
-- Açıklama: Kaleme ait açıklamayı belirtir.
-- Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
-- Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
-- Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
+- AÃ§Ä±lan ekranda kalem(kart) ekleme alanÄ±mÄ±z aÃ§Ä±lacaktÄ±r. 
+- SatÄ±ÅŸ iade faturamÄ±zda iade edilen stok, gelir gider, demirbaÅŸ olabilir. En baÅŸta ki kutucuktan seÃ§im yapÄ±labilir, sistem otomatik stok olarak getirir.
+- Kart AdÄ±: Stok, demirbaÅŸ ya da gelir gider satÄ±ÅŸÄ±nÄ± gerÃ§ekleÅŸtireceÄŸimiz kartÄ± belirtir.
+- Miktar: Ä°ade yapÄ±lan Ã¼rÃ¼nÃ¼n stok miktarÄ±nÄ± belirtir, bu alanÄ±n doldurdurulmasÄ± gerekmektedir.
+- BrÃ¼t Fiyat: Bir Ã¼rÃ¼n veya hizmetin vergiler ve ek Ã¼cretler dahil toplam satÄ±ÅŸ fiyatÄ±nÄ± belirtir. 
+	Buraya tÄ±klayarak yeni fiyat eklenebilir, son 3 ay iÃ§in alÄ±ÅŸ ve satÄ±ÅŸ ortalama fiyatlarÄ±nÄ± gÃ¶sterir.
+- Ä°skonto: SatÄ±ÅŸÄ±nÄ± yaptÄ±ÄŸÄ±mÄ±z iÅŸlemlerin iskonto oranÄ±nÄ± belirtir. UyguladÄ±ÄŸÄ±mÄ±z iskonto var ise buraya oranÄ± girebiliriz.
+- Net Fiyat: Bir Ã¼rÃ¼n veya hizmetin vergiler ve ek Ã¼cretler hariÃ§, sadece temel maliyetini ifade eden fiyatÄ± belirtir. 
+	Buraya tÄ±klayarak yeni fiyat eklenebilir, son 3 ay iÃ§in alÄ±ÅŸ ve satÄ±ÅŸ ortalama fiyatlarÄ±nÄ± gÃ¶sterir.
+- Tutar: Bir mal veya hizmetin toplam mali deÄŸerini ifade eden miktarÄ± belirtir. 
+- KDV oran: KDV oranÄ±nÄ± ifade eder.
+- Depo: Bu kalemin kullandÄ±ÄŸÄ± depoyu belirtir.
+- AÃ§Ä±klama: Kaleme ait aÃ§Ä±klamayÄ± belirtir.
+- Proje: Bu kalemin hangi projeye ait olduÄŸunu belirtir.
+- SÃ¶zleÅŸme: Bu kalemin hangi sÃ¶zleÅŸmeye ait olduÄŸunu gÃ¶sterir.
+- Proje: Bu kalemin hangi projeye ait olduÄŸunu belirtir.
 
-- Satış iade faturasında 1 kalem belirtilecekse kaydet diyerek bir sonraki aşamaya geçebiliriz.
-- Başka kalemlerde mevcut ise yukarıda aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
+- SatÄ±ÅŸ iade faturasÄ±nda 1 kalem belirtilecekse kaydet diyerek bir sonraki aÅŸamaya geÃ§ebiliriz.
+- BaÅŸka kalemlerde mevcut ise yukarÄ±da aÅŸamalarÄ± tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
-- Sağ üst köşede faturaya ait toplam fiyat kısımlarını içerir;
-	- Toplam: Satış iade faturasının KDV hariç toplam tutarını içerir.
-	- İskonto Sonrası: Satış iade faturasının KDV dahil fiyatından uygulanan iskonto tutarını ifade eder.
-	- KDV: Satış iade faturasının KDV oranının karşılık geldiği tutarı ifade eder.
-	- Genel Toplam: Satış iade faturasının tüm kalemlerin KDV dahil tutarının toplamını belirtir.
+- SaÄŸ Ã¼st kÃ¶ÅŸede faturaya ait toplam fiyat kÄ±sÄ±mlarÄ±nÄ± iÃ§erir;
+	- Toplam: SatÄ±ÅŸ iade faturasÄ±nÄ±n KDV hariÃ§ toplam tutarÄ±nÄ± iÃ§erir.
+	- Ä°skonto SonrasÄ±: SatÄ±ÅŸ iade faturasÄ±nÄ±n KDV dahil fiyatÄ±ndan uygulanan iskonto tutarÄ±nÄ± ifade eder.
+	- KDV: SatÄ±ÅŸ iade faturasÄ±nÄ±n KDV oranÄ±nÄ±n karÅŸÄ±lÄ±k geldiÄŸi tutarÄ± ifade eder.
+	- Genel Toplam: SatÄ±ÅŸ iade faturasÄ±nÄ±n tÃ¼m kalemlerin KDV dahil tutarÄ±nÄ±n toplamÄ±nÄ± belirtir.
 
-### Kalem Ekleme Ek Özellikler
+### Kalem Ekleme Ek Ã–zellikler
 
-- Yeni Stok Kalemi Ekle: Stok kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
-- Yeni Gelirgider Kalemi Ekle: Gelir gider kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
-- Yeni Demirbaş Kalemi Ekle: Demirbaş kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
-- İrsalİyeden Kalem Ekle: İrsaliyeden kalemleri seçerek buraya aktarım yapabiliriz.
+- Yeni Stok Kalemi Ekle: Stok kalemi eklemek iÃ§in burayÄ± seÃ§erek ekleme saÄŸlayabilirsiniz.
+- Yeni Gelirgider Kalemi Ekle: Gelir gider kalemi eklemek iÃ§in burayÄ± seÃ§erek ekleme saÄŸlayabilirsiniz.
+- Yeni DemirbaÅŸ Kalemi Ekle: DemirbaÅŸ kalemi eklemek iÃ§in burayÄ± seÃ§erek ekleme saÄŸlayabilirsiniz.
+- Ä°rsalÄ°yeden Kalem Ekle: Ä°rsaliyeden kalemleri seÃ§erek buraya aktarÄ±m yapabiliriz.
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+Ä°ÅŸleme ait Ã¶zel notlar belirtebiliriz. 
+Ã–nemli bir detay var ise bu detaylarÄ± burada belirtebiliriz.
+Notlar kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+YapacaÄŸÄ±mÄ±z iÅŸlem iÃ§in elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yÃ¼kleyebiliriz.
+Buraya iÅŸlem gerÃ§ekleÅŸirken ki gÃ¶rselleri yÃ¼kleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek iÃ§in tÄ±klayalÄ±m ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Daha Ã¶nce yÃ¼klediklerimden seÃ§ -> belgeyi seÃ§elim -> Ä°liÅŸkilendir ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- YÃ¼klenecek belge veya resimleri seÃ§in -> belgeyi ya da belgeleri seÃ§elim -> YÃ¼kle ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
-Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+Belge kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Belge](../TemelOzellikler/Belgeler.md)
 
-## Kayıt Bilgileri
+## KayÄ±t Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+KartÄ±n hangi kullanÄ±cÄ± tarafÄ±ndan ve hangi tarihlerde oluÅŸturulduÄŸu ve deÄŸiÅŸtirildiÄŸi bilgisini iÃ§erir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kart iÅŸ akÄ±ÅŸ sÃ¼reÃ§lerine dahil edildiÄŸinde hangi kullanÄ±cÄ± tarafÄ±ndan hangi tarihte onaylandÄ±ÄŸÄ± bilgilerini iÃ§erir. 
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+- DoldurulmasÄ± gereken alanlar girildikten sonra saÄŸ alt kÃ¶ÅŸede bulunan Kaydet butonuna tÄ±klayarak MÃ¼ÅŸteri/SatÄ±cÄ± kartÄ± aÃ§ma iÅŸlemimizi tamamlayabilirsiniz.
+- KayÄ±tlÄ± bir kartÄ± silmek iÃ§in sol altta bulunan sil butonuna tÄ±klayarak silebilirsiniz.
 
-## Yazdır
+## YazdÄ±r
 
-- Sayfanın sağ üstünde bulunan yazıcı sembolü ile faturanın çıktısı alınabilir. 
+- SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan yazÄ±cÄ± sembolÃ¼ ile faturanÄ±n Ã§Ä±ktÄ±sÄ± alÄ±nabilir. 
 
-## Ek İşlemler
+## Ek Ä°ÅŸlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Faturayı kopyalamak için kullanılır.
-- Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
-- Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
+ SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan alt altta Ã¼Ã§ Ã§izgi ÅŸeklinde olan dÃ¼ÄŸme ile ek iÅŸlemlere ulaÅŸÄ±lÄ±r.
+- Yevmiye FiÅŸ: Yevmiye fiÅŸi, iÅŸletmelerde gerÃ§ekleÅŸen her tÃ¼rlÃ¼ mali iÅŸlemin tarih, miktar ve aÃ§Ä±klama bilgileri ile birlikte kaydedildiÄŸi muhasebe belgesidir.
+- Kopyala: FaturayÄ± kopyalamak iÃ§in kullanÄ±lÄ±r.
+- TÃ¼m Kalemlerde DeÄŸiÅŸtir: Buradan depo, proje, sÃ¶zleÅŸme, vergi muafiyeti, vergileri yenile, iskonto oranÄ±, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tÃ¼m kalemlerde deÄŸiÅŸtirebiliriz.
+- DÃ¶viz TÃ¼rÃ¼ DeÄŸiÅŸtir: DÃ¶viz tÃ¼rÃ¼ deÄŸiÅŸikliÄŸi yapabiliriz.
 - Depo Terminaline Aktar: 
-- Görev Oluştur: İade faturası için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
-- İrsaliyelerini Gör: İade faturasını oluşturduğumuz faturanın irsaliyesini görmek için hızlı erişim sağlar.
+- GÃ¶rev OluÅŸtur: Ä°ade faturasÄ± iÃ§in gÃ¶rev oluÅŸturup, kiÅŸi atayabiliriz, aÃ§Ä±klama, tarih bitiÅŸ, hatÄ±rlatma sÃ¼resi, yÃ¶netici, kullanÄ±cÄ±, tamamlanma tipi, tekrar ÅŸekli bilgilerini ekleyerek gÃ¶rev tanÄ±mlama iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- GÃ¶rev BaÄŸla: AÃ§Ä±lan listede ki gÃ¶revlerden gÃ¶revi baÄŸlayacaÄŸÄ±mÄ±z, birleÅŸtireceÄŸimiz gÃ¶revi seÃ§elim, kaydet diyerek gÃ¶revi baÄŸlayabiliriz.
+- Ä°rsaliyelerini GÃ¶r: Ä°ade faturasÄ±nÄ± oluÅŸturduÄŸumuz faturanÄ±n irsaliyesini gÃ¶rmek iÃ§in hÄ±zlÄ± eriÅŸim saÄŸlar.
 

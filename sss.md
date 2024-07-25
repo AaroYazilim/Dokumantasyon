@@ -126,14 +126,20 @@ Müşteri/Satıcı -> Müşteri/Satıcı Hareketleri Listesi -> Carimizi seçere
 
 Soru: Mikro ihracatta KDV nasıl sıfırlanır ?
 
-Cevap: KDV sıfırlama yapmıyoruz, muafiyet girmemiz gerekiyor. Vergi muafiyetlerinde 301 seçmemiz gerekmektedir.
+Cevap: Mikro ihracat, küçük ölçekli ihracat işlemlerini ifade eder ve genellikle e-ticaret yoluyla yapılan ihracatlar için kullanılır. 
+Mikro ihracat, belirli bir parasal limitin altında kalan ve daha basit gümrük prosedürleri gerektiren ihracat işlemleridir. 
+Türkiye'de mikro ihracat işlemleri, Elektronik Ticaret Gümrük Beyannamesi (ETGB) ile gerçekleştirilir ve gümrük müşavirine ihtiyaç duyulmadan hızlı bir şekilde yapılabilir.
+KDV sıfırlama yapmıyoruz, muafiyet girmemiz gerekiyor. Vergi muafiyetlerinde 301 seçmemiz gerekmektedir.
 Vergi muafiyetini nasıl yapılır;
 Faturamızı oluşturduktan sonra kalemlerimizin yanında ki büyüteçe tıklayalım -> Vergiler - Muafiyet Ekle -> KDV Muafiyet -> 11/1-a Mal İhracatı  (301) seçelim.
 Muafiyet tanımlamamız tamamlanmıştır, kontrol edelim.
 e-Arşiv, e-Faturayı gönder diyelim, Fatura Tipi ISTISNA olması gerekmektedir.
 
-## İhraç Faturaları Soruları
+Soru: İhracat Faturasını nasıl kesebilirim ? Nelere dikkat etmemiz gerekmektedir ?
 
+Cevap: 
+
+## İhraç Faturaları Soruları
 
 Soru: İhraç kayıtlı e-arşiv fatura nasıl kesilir?
 
@@ -193,6 +199,59 @@ Cevap: Herhangi bir kartımızın sadece bir hareket için vergi oranını ilgil
 KDV bölümünde yer alan rakamı ihtiyacımız olan vergi oranını yazıp kaydederek vergi oranını sadece bu hareket için değiştirmiş oluruz.
 Kalemin yanında ki büyüteçe tıklayalım -> Vergiler -> KDV oranını girelim -> Kaydet şeklinde KDV oranını değişikliği gerçekleşir.
 
+Soru: KDV'den muaf fatura neden ve hangi durumlarda kesilir ?
+
+Cevap: KDV'den muaf fatura, genellikle belirli şartlar altında veya belirli türdeki işlemler için kesilen bir faturadır. 
+İşte KDV'den muaf fatura kesilme nedenleri ve durumları:
+Özel Kanunlar: Bazı özel sektörler veya faaliyetler KDV'den muaf olabilir. 
+Örneğin, sağlık, eğitim ve sosyal hizmetler gibi belirli sektörlerdeki işlemler KDV'den muaf olabilir.
+Yurt Dışına Yapılan Satışlar da KDV uygulanmaz. Türkiye'den yurt dışına yapılan mal ve hizmet satışları KDV'den muaf tutulur. İhracatçı firmalar, KDV'yi müşteriden tahsil etmezler.
+Yatırım Teşvikleri: Bazı yatırım teşvikleri ve devlet destekleri kapsamında KDV muafiyeti sağlanabilir.
+Özel Sektör Destekleri: Kamu sektörüne yapılan belirli hizmetler veya mal alımları da KDV'den muaf olabilir.
+Diplomatik ve Konsolosluk Satışları: Diplomatik misyonlar ve konsolosluklar için yapılan satışlar KDV'den muaf olabilir.
+
+**KDV'den muaf fatura kesilmesi gerektiğinde, ilgili mevzuat ve düzenlemelere dikkat edilmelidir.**
+**Muafiyet durumunu ve uygulama şekillerini netleştirmek için mali müşavir veya vergi uzmanına danışmak en doğrusu olacaktır.**
+
+Soru: Fatura tipleri ve bu tiplerin özellikleri nelerdir ? Hangi tipteki faturalar iptal edibilir ? Hangi tip faturalarda iade faturası kesmek gerekir ? 
+
+Cevap: e-Faturalar Temel ve ticari fatura olarak iki tip e-Fatura türü vardır.
+Ticari faturaların onaylanma süresi 7 gündür, 7 gün içerisinde onaylanmaz ya da reddedilmezse otomatik onaylanır.
+Ticari faturalarda 7 gün içerisinde onay ya da red edilebilir.
+Temel faturalar kesildiğinde fatura kesilmiş olur, onay ya da red seçeneği yoktur 7 gün sonrasında iade faturası kesilebilir. 7 gün içerisinde faturayı oluşturan taraf iptal edilebilir.
+Bize fatura kesecek işletme;
+e-fatura bizde e-fatura isek bize e-fatura olarak keser ve sistemimize düşer bizim bu faturayı onaylamamız ya da red etmemiz gerekmektedir.
+Karşı taraf e-Arşiv biz e-Fatura isek bize e-Arşiv olarak keser.
+Karşı taraf e-Fatura biz e-Arşiv isek bize e-Arşiv olarak keser.
+
+e-Arşiv faturaları bizim sistemimize düşmez, e-Arşiv kesen firma faturayı iletmek durumdadır. 
+Fatura bize ulaştığında bilgilerimizi kontrol ederek alış faturamızı girmemiz gerekmektedir.
+Adımıza düzenlenen e-Arşiv faturaları gelir vergi dairesi başkanlığı GIB üzerinden bilgilerimizle giriş yaparak adımıza düzenlenen faturaları seçerek teyit edebiliriz.
+E-Arşiv Portalı giriş -> İnteraktif Vergi Dairesi -> Adıma düzenlenen belgeler -> Tarih seçerek adımıza düzenlenen faturaları görebiliriz.
+	(Görüntüleme tarihleri max 7 gün aralığında seçilecebilir, haftalık bakılabilir.)
+
+Soru: İade faturası nasıl kesilir ?
+
+Cevap: Satış iade faturası kesmek için;
+	Satış&Pazarlama -> Satış İade Faturası -> Cari Seçelim -> Kalem ekleyelim - Ürünlerin gönderilmesi için satış iade irsaliyesi oluşturmuş isek irsaliyeden kalem ekle diyerek irsaliyemizi seçerek irsaliye kalemlerimizin faturamıza aktarabiliriz.
+	Bir diğer alternatif yol ise; 
+		Satış&Pazarlama -> Satış İade İrsaliyesi Listesi -> İrsaliyemizi seçelim -> Üç işlem butonundan Faturalaştır diyerek Satış İade Faturamızı oluşturabiliriz. 
+		Ürünlerin İade nedenlerini açıklama kısmında belirtilmelidir.
+	İrsaliyemiz yok ise kalem ekleyebiliriz, bu kalem stok, gelir gider ya da demirbaş olabilir.
+	Kaydet diyerek faturamızı kaydedebiliriz, e-Fatura/e-Arşiv Fatura Gönder diyelim -> Fatura Tipini **İade** olarak seçmemiz gerekmektedir.
+	e-Faturamızın önizlemesini yaparak tekrardan kontrollerimizi sağlayarak e-Fatura/e-Arşiv gönderme işlemimizi tamamlayabiliriz.
+	NOT: Kalem açıklamalarına iade nedenlerini belirtiğimiz faturalarda Kalem Açıklamalarını Gönder seçeneğini seçerek iade nedeninin görünmesini sağlayabiliriz.
+
+Satın alma iade faturası kesmek için;
+	Satın Alma -> Alış İade Faturası -> Cari Seçelim -> Kalem Ekleyelim - Ürünleri göndermek için alış iade irsaliyesi oluşturmuş isek irsaliyeden kalem ekle diyerek irsaliyemizi seçerek irsaliye kalemlerimizin faturamıza aktarabiliriz. 
+	Bir diğer alternatif yol ise; 
+		Satın Alma -> Alış İade İrsaliyesi Listesi -> İrsaliyemizi seçelim -> Üç işlem butonundan Faturalaştır diyerek Alış İade Faturamızı oluşturabiliriz. 
+		Ürünlerin İade nedenlerini açıklama kısmında belirtilmelidir.
+	İrsaliyemiz yok ise kalem ekleyebiliriz, bu kalem stok, gelir gider ya da demirbaş olabilir.
+	Kaydet diyerek faturamızı kaydedebiliriz, e-Fatura/e-Arşiv Fatura Gönder diyelim -> Fatura Tipini **İade** olarak seçmemiz gerekmektedir.
+	e-Faturamızın önizlemesini yaparak tekrardan kontrollerimizi sağlayarak e-Fatura/e-Arşiv gönderme işlemimizi tamamlayabiliriz.
+	NOT: Kalem açıklamalarına iade nedenlerini belirtiğimiz faturalarda Kalem Açıklamalarını Gönder seçeneğini seçerek iade nedeninin görünmesini sağlayabiliriz.
+		
 ## Diğer
 
 Soru: Geçiçi Anahtar Nasıl Oluşturulur ?
