@@ -3,36 +3,48 @@
 
 ### Tanım
 
-Kısa yollarıma ekleme özelliği, kullanıcıların sık kullandıkları işlevleri veya sayfaları kişiselleştirilmiş bir menüye ekleyerek kolayca erişmelerini sağlar. 
+**Kısayollarım**a ekle özelliği, kullanıcıların sık kullandıkları işlevleri veya sayfaları kişiselleştirilmiş bir menüye ekleyerek kolayca erişmelerini sağlar. 
 Bu özellik, kullanıcılarınızın belirli işlem veya sayfalara hızlı bir şekilde bulmalarını ve erişmelerini sağlayarak iş verimliliğini artırır.
 Bu menü, ekranın kenar çubuğunda yer almaktadır.
-Eklediğiğniz kısayolları istediğiniz sıraya göre düzenleyebilir ve yeniden sıralayabilirsiniz. 
+Eklediğiniz kısa yolları istediğiniz sıraya göre düzenleyebilir ve yeniden sıralayabilirsiniz. 
 Bu, kısayol menüsünün kişisel tercihlere ve kullanım alışkanlıklarına göre özelleştirmenizi sağlar.
 
 ### Ulaşım
 
-Ekleme yaptığınız kısa yolları görüntülemek, pasife almak, yeni kısa yollar eklemek için Modüller'in yanındaki Kısa Yollarımdan ulaşım sağlayabilirsiniz.
+Ekleme yaptığınız kısayolları görüntülemek, pasife almak ve yeni kısayollar eklemek için Modüller'in yanındaki **Kısayollarım** sekmesini kullanabilirsiniz.
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan Kısa Yollarım -> Kısayol Listesi -> Yeni Hızlı Erişim Ekle kısayollarıma ekleme ekranına ulaşım sağlayabilirsiniz.
-- Kısa yollarıma eklemek itediğiniz modülün sayfasını açınız. 
-Örneğin; Banka hesap kartı listesini kısa yollarıma eklemek istiyorsunuz bunun için;
-Modüller -> Banka -> Banka Hesap Kartı Listesi -> Üç işlem butonu -> Anasayfaya Kısayol Olarak Ekle 
-Örneğin; Satış faturasını kısa yollarıma eklemek istiyorsunuz;
-Modüller -> Musteri/Satici -> Hareket Oluştur ->Satış Faturası -> Üç işlem butonu -> Anasayfaya Kısayol Olarak Ekle 
+Aşağıdaki gibi yollarla ulaşabilirsiniz:
 
-Kısa Yollarımda ekli olan bir kart ya da hareketi kapatmak için;
-Aaro -> Kısa Yollarım -> kaldırmak istediğimiz kısa yolun yanında ki büyüteç işaretine tıklayınız ya da o satıra çift tıklayınız -> açılan pencerede ki durum kısmını pasif yaparak kısa yolumuzun görünürlüğünü kapatabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan **Kısayollarım -> Kısayol Listesi -> Yeni Hızlı Erişim Ekle** ile kısayol ekleme ekranına ulaşım sağlayabilirsiniz.
+- **Kısayollarım**a eklemek itediğiniz modülün sayfasını açınız. 
+Örneğin, Banka hesap kartı listesini **Kısayollarım**a eklemek istiyorsunuz bunun için:
+**Modüller -> Banka -> Banka Hesap Kartı Listesi -> Üç işlem butonu -> Anasayfaya Kısayol Olarak Ekle**; 
+Örneğin, Satış faturasını **Kısayollarım**a eklemek istiyorsunuz:
+**Modüller -> Musteri/Satici -> Hareket Oluştur -> Satış Faturası -> Üç işlem butonu -> Anasayfaya Kısayol Olarak Ekle** 
 
-### Kısa Yollarıma Ekleme Ekranı
+**Kısayollarım**da ekli olan bir kart ya da hareketi kapatmak için:
+**Aaro -> Kısayollarım -> kaldırmak istediğimiz kısayolun yanındaki büyüteç işaretine tıklayınız ya da o satıra çift tıklayınız -> açılan penceredeki durum kısmını pasif yaparak kısayolunuzun görünürlüğünü kapatın**.
+
+### Kısayollarıma Ekleme Ekranı
 
 **Durum:** Aktif ya da pasiflik durumunu seçebilirsiniz.
+
 **Adı:** Kısayola vermek istediğiniz adlandırmayı yazabilirsiniz.
-**GrupAdi:** Hareketler, kartlar gibi gruplandırma yapabilirsiniz. 
+
+**Grup Adı:** Hareketler, kartlar gibi gruplandırma yapabilirsiniz. 
+
 **Sıra:** 
+
 **Renk:** Kısayola istediğiniz rengi seçebilirsiniz.
+
 **Link Tipi:** Sayfa ya da rapor olarak seçim yapabilirsiniz.
+
 **Hedef Link:** 
+
 **Controller Adı:** 
+
 **Action Adı:** 
+
 **Data:** 
+
 
