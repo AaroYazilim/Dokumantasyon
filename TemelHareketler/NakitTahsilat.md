@@ -5,117 +5,117 @@ SayfaTipi: Kasa
 
 # Nakit Tahsilat
 
-**Erişim Linki :** [erp.aaro.com.tr/KasaNakitTahsilat](erp.aaro.com.tr/KasaNakitTahsilat)
+**EriÅŸim Linki :** [erp.aaro.com.tr/KasaNakitTahsilat](https://erp.aaro.com.tr/KasaNakitTahsilat)
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "nakit tahsilat" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Musteri/Satici -> Hareket Oluştur -> Kasa -> Nakit Tahsilat şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Satış & Pazarlama -> Hareket Oluştur -> Nakit Tahsilat şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Kasa -> Hareket Oluştur -> Nakit Tahsilat şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "nakit tahsilat" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Musteri/Satici -> Hareket OluÅŸtur -> Kasa -> Nakit Tahsilat ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
+- Sol menÃ¼den SatÄ±ÅŸ & Pazarlama -> Hareket OluÅŸtur -> Nakit Tahsilat ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
+- Sol menÃ¼den Kasa -> Hareket OluÅŸtur -> Nakit Tahsilat ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 
-## Tanım
+## TanÄ±m
 
-Nakit tahsilat, bir işletmenin müşterilerinden yaptığı satışlar karşılığında nakit para olarak aldığı ödemeleri ifade eder. 
-Bu tür tahsilatlar, işletmenin günlük faaliyetlerinde nakit akışını sağlamak ve işletme sermayesini yönetmek için önemlidir. 
-Nakit tahsilatlar, genellikle kasa fişleri veya makbuzlar aracılığıyla belgelendirilir ve muhasebe kayıtlarına işlenir. 
-Nakit tahsilatlar, kredi kartı ödemeleri veya banka havaleleri gibi diğer ödeme türlerinden farklı olarak, doğrudan nakit para şeklinde alınır.
+Nakit tahsilat, bir iÅŸletmenin mÃ¼ÅŸterilerinden yaptÄ±ÄŸÄ± satÄ±ÅŸlar karÅŸÄ±lÄ±ÄŸÄ±nda nakit para olarak aldÄ±ÄŸÄ± Ã¶demeleri ifade eder. 
+Bu tÃ¼r tahsilatlar, iÅŸletmenin gÃ¼nlÃ¼k faaliyetlerinde nakit akÄ±ÅŸÄ±nÄ± saÄŸlamak ve iÅŸletme sermayesini yÃ¶netmek iÃ§in Ã¶nemlidir. 
+Nakit tahsilatlar, genellikle kasa fiÅŸleri veya makbuzlar aracÄ±lÄ±ÄŸÄ±yla belgelendirilir ve muhasebe kayÄ±tlarÄ±na iÅŸlenir. 
+Nakit tahsilatlar, kredi kartÄ± Ã¶demeleri veya banka havaleleri gibi diÄŸer Ã¶deme tÃ¼rlerinden farklÄ± olarak, doÄŸrudan nakit para ÅŸeklinde alÄ±nÄ±r.
 
 ## Genel 
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
+**Åirket-Åube:** KartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](../TemelOzellikler/SirketSubeKart.md)
 
-**Tarih:** İşlemin yapıldığı tarihi belirtir.
+**Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir.
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasÄ±nÄ± ifade eder. Otomatik sÄ±radaki numara gelir. Ä°stenirse seri kullanÄ±labilir.
 **Girilmesi Zorunludur.**
 
-**Kasa:** Nakit tahsilatın hangi kasaya yapıldığını ifade eder. Nakit akışının girdiği kasayı seçelim.
+**Kasa:** Nakit tahsilatÄ±n hangi kasaya yapÄ±ldÄ±ÄŸÄ±nÄ± ifade eder. Nakit akÄ±ÅŸÄ±nÄ±n girdiÄŸi kasayÄ± seÃ§elim.
 
-**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
+**DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinsini belirtir.
 
-**Tutar:** Nakit tahsilatın işlem tutarını ifade eder. Nakit tahsilatın tutarını girelim.
+**Tutar:** Nakit tahsilatÄ±n iÅŸlem tutarÄ±nÄ± ifade eder. Nakit tahsilatÄ±n tutarÄ±nÄ± girelim.
 
-**Açıklama:** İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](../TemelOzellikler/Aciklama.md)
+**AÃ§Ä±klama:** Ä°ÅŸleme ait detaylar aÃ§Ä±klamaya eklenebilir. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
-**Cari:** Nakit Tahsilat ödemesi yapan cariyi ifade eder. Nakit tahsilat ödemesi yapan cariyi girelim.
+**Cari:** Nakit Tahsilat Ã¶demesi yapan cariyi ifade eder. Nakit tahsilat Ã¶demesi yapan cariyi girelim.
 
-**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
+**DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinsini belirtir.
 
-**Tutar:** Nakit tahsilatın işlem tutarını ifade eder. Nakit tahsilatın tutarını girelim.
+**Tutar:** Nakit tahsilatÄ±n iÅŸlem tutarÄ±nÄ± ifade eder. Nakit tahsilatÄ±n tutarÄ±nÄ± girelim.
 
-**Açıklama:** İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](../TemelOzellikler/Aciklama.md)
+**AÃ§Ä±klama:** Ä°ÅŸleme ait detaylar aÃ§Ä±klamaya eklenebilir. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
 ## Detay
 
 **Beklenen Tahsilat:** [Beklenen Tahsilat](../TemelOzellikler/BeklenenTahOd.md)
 
-**Sözleşme:** Bu karta ait sözleşme var ise buraya sözleşmeyi ekleyebiliriz.
+**SÃ¶zleÅŸme:** Bu karta ait sÃ¶zleÅŸme var ise buraya sÃ¶zleÅŸmeyi ekleyebiliriz.
 
-**Proje:** Bu karta ait proje var ise buraya sözleşmeyi ekleyebiliriz.
+**Proje:** Bu karta ait proje var ise buraya sÃ¶zleÅŸmeyi ekleyebiliriz.
 
-**Plasiyer:** Bu karta ait işlemi gerçekleştiren ya da sorumlu olan personel eklenir.
+**Plasiyer:** Bu karta ait iÅŸlemi gerÃ§ekleÅŸtiren ya da sorumlu olan personel eklenir.
 
 **Tip:** Alt hareket tipini belirtir.
 
-## Açıklamalar
+## AÃ§Ä±klamalar
 
-İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](../TemelOzellikler/Aciklama.md)
+Ä°ÅŸleme ait detaylar aÃ§Ä±klamaya eklenebilir. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
 ## Etiketler KasaHareketleri
 
-İşleme ait detaylar açıklamaya eklenebilir. [Etiket](../TemelOzellikler/Etiketler.md)
+Ä°ÅŸleme ait detaylar aÃ§Ä±klamaya eklenebilir. [Etiket](../TemelOzellikler/Etiketler.md)
 
 ## Etiketler CariHareketleri
 
-İşleme ait detaylar açıklamaya eklenebilir. [Etiket](../TemelOzellikler/Etiketler.md)
+Ä°ÅŸleme ait detaylar aÃ§Ä±klamaya eklenebilir. [Etiket](../TemelOzellikler/Etiketler.md)
 
 
 ## Belge
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+YapacaÄŸÄ±mÄ±z iÅŸlem iÃ§in elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yÃ¼kleyebiliriz.
+Buraya iÅŸlem gerÃ§ekleÅŸirken ki gÃ¶rselleri yÃ¼kleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek iÃ§in tÄ±klayalÄ±m ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Daha Ã¶nce yÃ¼klediklerimden seÃ§ -> belgeyi seÃ§elim -> Ä°liÅŸkilendir ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- YÃ¼klenecek belge veya resimleri seÃ§in -> belgeyi ya da belgeleri seÃ§elim -> YÃ¼kle ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
-Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+Belge kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Belge](../TemelOzellikler/Belgeler.md)
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+Ä°ÅŸleme ait Ã¶zel notlar belirtebiliriz. 
+Ã–nemli bir detay var ise bu detaylarÄ± burada belirtebiliriz.
+Notlar kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Notlar](../TemelOzellikler/Notlar.md)
 
-## Kayıt Bilgileri
+## KayÄ±t Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+KartÄ±n hangi kullanÄ±cÄ± tarafÄ±ndan ve hangi tarihlerde oluÅŸturulduÄŸu ve deÄŸiÅŸtirildiÄŸi bilgisini iÃ§erir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kart iÅŸ akÄ±ÅŸ sÃ¼reÃ§lerine dahil edildiÄŸinde hangi kullanÄ±cÄ± tarafÄ±ndan hangi tarihte onaylandÄ±ÄŸÄ± bilgilerini iÃ§erir. 
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+- DoldurulmasÄ± gereken alanlar girildikten sonra saÄŸ alt kÃ¶ÅŸede bulunan Kaydet butonuna tÄ±klayarak MÃ¼ÅŸteri/SatÄ±cÄ± kartÄ± aÃ§ma iÅŸlemimizi tamamlayabilirsiniz.
+- KayÄ±tlÄ± bir kartÄ± silmek iÃ§in sol altta bulunan sil butonuna tÄ±klayarak silebilirsiniz.
 
-## Yazdır
+## YazdÄ±r
 
-- Sayfanın sağ üstünde bulunan yazıcı sembolü ile sayfaya tanımlanan özel çıktı formatları ile farklı çıktılar alınabilir. 
-- Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
-- Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
-- Kullanıcıya özel nakit tahsilat formu gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
-- Çıktılar program üzerinden e-mail olarak gönderilebilir. 
+- SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan yazÄ±cÄ± sembolÃ¼ ile sayfaya tanÄ±mlanan Ã¶zel Ã§Ä±ktÄ± formatlarÄ± ile farklÄ± Ã§Ä±ktÄ±lar alÄ±nabilir. 
+- Kartta bulunan bilgilerin kullanÄ±cÄ±nÄ±n isteÄŸine baÄŸlÄ± olarak Ã¶zel tasarÄ±m ile yazdÄ±rÄ±lmasÄ±nÄ± saÄŸlar.
+- Birden Ã§ok Ã§Ä±ktÄ± tasarÄ±m yapÄ±labilir ve deÄŸiÅŸtirilebilir.
+- KullanÄ±cÄ±ya Ã¶zel nakit tahsilat formu gibi farklÄ± tasarÄ±mlar yapÄ±labilir.
+- Ã‡Ä±ktÄ± tasarÄ±mlarÄ±nÄ±n herbirine ayrÄ± ayrÄ± yetkiler verilerek sadece istenilen kullanÄ±cÄ±nÄ±n bilirli Ã§Ä±ktÄ±lara ulaÅŸmasÄ± saÄŸlanabilir.
+- Ã‡Ä±ktÄ±lar program Ã¼zerinden e-mail olarak gÃ¶nderilebilir. 
 
-## Düzenleme 
+## DÃ¼zenleme 
 
-Nakit tahsilat işlemimizde herhangi bir düzeltme yapmak için kalem işaretini seçerek açılan ekranda düzenlemeleri yapabiliriz.
+Nakit tahsilat iÅŸlemimizde herhangi bir dÃ¼zeltme yapmak iÃ§in kalem iÅŸaretini seÃ§erek aÃ§Ä±lan ekranda dÃ¼zenlemeleri yapabiliriz.
 
-## Ek İşlemler
+## Ek Ä°ÅŸlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Nakit Tahsilatı kopyalamak için kullanılır.
-- Görev Oluştur: Nakit tahsilat için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+ SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan alt altta Ã¼Ã§ Ã§izgi ÅŸeklinde olan dÃ¼ÄŸme ile ek iÅŸlemlere ulaÅŸÄ±lÄ±r.
+- Yevmiye FiÅŸ: Yevmiye fiÅŸi, iÅŸletmelerde gerÃ§ekleÅŸen her tÃ¼rlÃ¼ mali iÅŸlemin tarih, miktar ve aÃ§Ä±klama bilgileri ile birlikte kaydedildiÄŸi muhasebe belgesidir.
+- Kopyala: Nakit TahsilatÄ± kopyalamak iÃ§in kullanÄ±lÄ±r.
+- GÃ¶rev OluÅŸtur: Nakit tahsilat iÃ§in gÃ¶rev oluÅŸturup, kiÅŸi atayabiliriz, aÃ§Ä±klama, tarih bitiÅŸ, hatÄ±rlatma sÃ¼resi, yÃ¶netici, kullanÄ±cÄ±, tamamlanma tipi, tekrar ÅŸekli bilgilerini ekleyerek gÃ¶rev tanÄ±mlama iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.

@@ -5,7 +5,7 @@ SayfaTipi: Kart
 
 ## Stok Kartı
 
-**Erişim Linki :** [erp.aaro.com.tr/Stok/Kalem](erp.aaro.com.tr/Stok/Kalem)
+**Erişim Linki :** [erp.aaro.com.tr/Stok/Kalem](https://erp.aaro.com.tr/Stok/Kalem)
 
 ### Ulaşım
 

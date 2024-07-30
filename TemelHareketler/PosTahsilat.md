@@ -5,81 +5,81 @@ SayfaTipi: Banka
 
 # POS Tahsilat
 
-**Erişim Linki :** [erp.aaro.com.tr/KasaNakitTahsilat](erp.aaro.com.tr/KasaNakitTahsilat)
+**EriÅŸim Linki :** [erp.aaro.com.tr/KasaNakitTahsilat](https://erp.aaro.com.tr/KasaNakitTahsilat)
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "nakit tahsilat" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Musteri/Satici -> Hareket Oluştur -> Kasa -> Nakit Tahsilat şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Satış & Pazarlama -> Hareket Oluştur -> Nakit Tahsilat şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Kasa -> Hareket Oluştur -> Nakit Tahsilat şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "nakit tahsilat" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Musteri/Satici -> Hareket OluÅŸtur -> Kasa -> Nakit Tahsilat ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
+- Sol menÃ¼den SatÄ±ÅŸ & Pazarlama -> Hareket OluÅŸtur -> Nakit Tahsilat ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
+- Sol menÃ¼den Kasa -> Hareket OluÅŸtur -> Nakit Tahsilat ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 
-## Tanım
+## TanÄ±m
 
-POS (Point of Sale) tahsilat, bir işletmenin müşterilerinden satış noktalarında kredi kartı, banka kartı veya diğer elektronik ödeme yöntemleri aracılığıyla aldığı ödemeleri ifade eder. 
-Bu tahsilat türü, genellikle POS cihazları kullanılarak gerçekleştirilir ve işlemler anında elektronik olarak kaydedilir. 
-POS tahsilatlar, nakit ödemelere alternatif olarak hızlı, güvenli ve izlenebilir bir ödeme yöntemi sunar. 
-İşletmeler, POS tahsilatlar sayesinde müşterilere daha fazla ödeme seçeneği sunabilir ve nakit taşıma riskini azaltabilirler.
+POS (Point of Sale) tahsilat, bir iÅŸletmenin mÃ¼ÅŸterilerinden satÄ±ÅŸ noktalarÄ±nda kredi kartÄ±, banka kartÄ± veya diÄŸer elektronik Ã¶deme yÃ¶ntemleri aracÄ±lÄ±ÄŸÄ±yla aldÄ±ÄŸÄ± Ã¶demeleri ifade eder. 
+Bu tahsilat tÃ¼rÃ¼, genellikle POS cihazlarÄ± kullanÄ±larak gerÃ§ekleÅŸtirilir ve iÅŸlemler anÄ±nda elektronik olarak kaydedilir. 
+POS tahsilatlar, nakit Ã¶demelere alternatif olarak hÄ±zlÄ±, gÃ¼venli ve izlenebilir bir Ã¶deme yÃ¶ntemi sunar. 
+Ä°ÅŸletmeler, POS tahsilatlar sayesinde mÃ¼ÅŸterilere daha fazla Ã¶deme seÃ§eneÄŸi sunabilir ve nakit taÅŸÄ±ma riskini azaltabilirler.
 
 ## Genel 
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
+**Åirket-Åube:** KartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](../TemelOzellikler/SirketSubeKart.md)
 
-**Tarih:** İşlemin yapıldığı tarihi belirtir.
+**Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir.
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasÄ±nÄ± ifade eder. Otomatik sÄ±radaki numara gelir. Ä°stenirse seri kullanÄ±labilir.
 **Girilmesi Zorunludur.**
 
-**Cari:** Pos tahsilatın hangi cari tarafından yapıldığını ifade eder. 
+**Cari:** Pos tahsilatÄ±n hangi cari tarafÄ±ndan yapÄ±ldÄ±ÄŸÄ±nÄ± ifade eder. 
 
-**Banka Adı:** Bu işlemin çalıştığı bankayı ifade eder.
+**Banka AdÄ±:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± bankayÄ± ifade eder.
 
-**Tutar:** Pos tahsilatın işlem tutarını ifade eder. Pos tahsilatın tutarını girelim.
+**Tutar:** Pos tahsilatÄ±n iÅŸlem tutarÄ±nÄ± ifade eder. Pos tahsilatÄ±n tutarÄ±nÄ± girelim.
 
-**Taksit Adedi:** Pos tahsilattan yapılan çekimin yapıldı ise taksit adedini ifade eder.
+**Taksit Adedi:** Pos tahsilattan yapÄ±lan Ã§ekimin yapÄ±ldÄ± ise taksit adedini ifade eder.
 
-**Açıklama:** İşleme ait detaylar açıklamaya eklenebilir. [Açıklama](../TemelOzellikler/Aciklama.md)
+**AÃ§Ä±klama:** Ä°ÅŸleme ait detaylar aÃ§Ä±klamaya eklenebilir. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
 **Beklenen Tahsilat:** [Beklenen Tahsilat](../TemelOzellikler/BeklenenTahOd.md)
 
 **Tip:** Alt hareket tipini belirtir.
 
-**Kaydet diyerek belge ve notlar, kayıt bilgileri, yazdırma ekranına geçerek kaydetme işlemimizi tamamlayabilirsiniz.**
+**Kaydet diyerek belge ve notlar, kayÄ±t bilgileri, yazdÄ±rma ekranÄ±na geÃ§erek kaydetme iÅŸlemimizi tamamlayabilirsiniz.**
 
 ## Belge
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+YapacaÄŸÄ±mÄ±z iÅŸlem iÃ§in elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yÃ¼kleyebiliriz.
+Buraya iÅŸlem gerÃ§ekleÅŸirken ki gÃ¶rselleri yÃ¼kleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek iÃ§in tÄ±klayalÄ±m ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Daha Ã¶nce yÃ¼klediklerimden seÃ§ -> belgeyi seÃ§elim -> Ä°liÅŸkilendir ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- YÃ¼klenecek belge veya resimleri seÃ§in -> belgeyi ya da belgeleri seÃ§elim -> YÃ¼kle ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
-Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+Belge kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Belge](../TemelOzellikler/Belgeler.md)
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+Ä°ÅŸleme ait Ã¶zel notlar belirtebiliriz. 
+Ã–nemli bir detay var ise bu detaylarÄ± burada belirtebiliriz.
+Notlar kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Notlar](../TemelOzellikler/Notlar.md)
 
-## Kayıt Bilgileri
+## KayÄ±t Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+KartÄ±n hangi kullanÄ±cÄ± tarafÄ±ndan ve hangi tarihlerde oluÅŸturulduÄŸu ve deÄŸiÅŸtirildiÄŸi bilgisini iÃ§erir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kart iÅŸ akÄ±ÅŸ sÃ¼reÃ§lerine dahil edildiÄŸinde hangi kullanÄ±cÄ± tarafÄ±ndan hangi tarihte onaylandÄ±ÄŸÄ± bilgilerini iÃ§erir. 
 
-## Yazdır
+## YazdÄ±r
 
-- Sayfanın sağ üstünde bulunan yazıcı sembolü ile sayfaya tanımlanan özel çıktı formatları ile farklı çıktılar alınabilir. 
-- Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
-- Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
-- Kullanıcıya özel pos tahsilat formu gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
-- Çıktılar program üzerinden e-mail olarak gönderilebilir. 
+- SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan yazÄ±cÄ± sembolÃ¼ ile sayfaya tanÄ±mlanan Ã¶zel Ã§Ä±ktÄ± formatlarÄ± ile farklÄ± Ã§Ä±ktÄ±lar alÄ±nabilir. 
+- Kartta bulunan bilgilerin kullanÄ±cÄ±nÄ±n isteÄŸine baÄŸlÄ± olarak Ã¶zel tasarÄ±m ile yazdÄ±rÄ±lmasÄ±nÄ± saÄŸlar.
+- Birden Ã§ok Ã§Ä±ktÄ± tasarÄ±m yapÄ±labilir ve deÄŸiÅŸtirilebilir.
+- KullanÄ±cÄ±ya Ã¶zel pos tahsilat formu gibi farklÄ± tasarÄ±mlar yapÄ±labilir.
+- Ã‡Ä±ktÄ± tasarÄ±mlarÄ±nÄ±n herbirine ayrÄ± ayrÄ± yetkiler verilerek sadece istenilen kullanÄ±cÄ±nÄ±n bilirli Ã§Ä±ktÄ±lara ulaÅŸmasÄ± saÄŸlanabilir.
+- Ã‡Ä±ktÄ±lar program Ã¼zerinden e-mail olarak gÃ¶nderilebilir. 
 
-## Düzenleme 
+## DÃ¼zenleme 
 
-Pos tahsilat işlemimizde herhangi bir düzeltme yapmak için kalem işaretini seçerek açılan ekranda düzenlemeleri yapabiliriz.
+Pos tahsilat iÅŸlemimizde herhangi bir dÃ¼zeltme yapmak iÃ§in kalem iÅŸaretini seÃ§erek aÃ§Ä±lan ekranda dÃ¼zenlemeleri yapabiliriz.
 
