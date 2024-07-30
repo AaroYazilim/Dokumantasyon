@@ -21,8 +21,8 @@ Bu modül, müşteri bilgilerini saklamak, alış satış işlemlerini takip etm
 ### Kartlar
 
 - [Müşteri / Satıcı Kartı Listesi](../MusteriSatici/MusteriSaticiKartiListesi.md)
-- [Müşteri / Satıcı Kod Ağacı](../MusteriSatici/MusteriSaticiKartiListesi.md)
-- [Müşteri / Satıcı Ziyaret Listesi](../MusteriSatici/MusteriSaticiKartiListesi.md)
+- [Müşteri / Satıcı Kod Ağacı](../MusteriSatici/MusteriSaticiKodAgaci.md)
+- [Müşteri / Satıcı Ziyaret Listesi](../MusteriSatici/MusteriSaticiZiyaretListesi.md)
 
 ### Listeler
 

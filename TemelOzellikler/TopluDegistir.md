@@ -9,7 +9,7 @@ Benzer özelliklere sahip birden fazla kaydı aynı anda güncelleyebilirsiniz.
 Örneğin, belirli bir ürün grubunun fiyatını veya indirim oranını toplu olarak güncellemek için bu özelliği kullanabilirsiniz.
 Belirli bir koşulu karşılayan tüm kayıtlarınızın durumunu aynı anda değiştirmek için kullanabilirsiniz. Bir proje yöneticisi, tamamlanmış tüm proje görevlerinin durumunu "Tamamlandı" şeklinde toplu olarak değiştirebilir.
 Belirli bir işlem veya iş akışınızı aynı anda birden fazla kayda uygulamak için kullanabilirsiniz. 
-Örneğin; bir muhasebe yöneticisi, belirli bir döneme ait tüm faturaları toplu olarak onaylayabilir veya reddedebilir.
+Mesela; bir muhasebe yöneticisi, belirli bir döneme ait tüm faturaları toplu olarak onaylayabilir veya reddedebilir.
 
 ### Ulaşım 
 
@@ -41,7 +41,7 @@ Belirli bir işlem veya iş akışınızı aynı anda birden fazla kayda uygulam
 
 
 * Dekontlardaki tüm satırlarda değişiklik yapmak ve dekontu tekrar kaydetmek için seçiniz. 
-Seçilmez ise sadece hareketlerde değişiklik yapar ve dekontta ve dekontun diğer kalemlerinde işlem yapmaz.
+Eğer seçmezseniz sadece hareketlerde değişiklik yapar, dekontta ve dekontun diğer kalemlerinde işlem yapmaz.
 
-Belgenin tüm kalemlerine uygula seçenekleri bulunmaktadır.
+Belgenin tüm kalemlerine uygula seçeneği bulunmaktadır.
 
