@@ -37,7 +37,7 @@ SayfaTipi: Hareket Olustur
 ### Senet
 
 - [Senet Alındı](../TemelHareketler/SenetAlindi.md)
-- [Senet Ciro Edildi/Verildi](TemelHareketler/CekCiroEdildi_Verildi.md)
+- [Senet Ciro Edildi/Verildi](../TemelHareketler/CekCiroEdildi_Verildi.md)
 - [Senet Satıcıdan İade Alındı](../TemelHareketler/CekBankadanİadeAlindi.md)
 - [Senet Cariye Iade Edildi](../TemelHareketler/SenetCariyeİadeEdildi.md)
 - [Senet İcraya Konuldu](../TemelHareketler/SenetİcrayaKonuldu.md)
@@ -45,26 +45,26 @@ SayfaTipi: Hareket Olustur
 ### Satış ve Pazarlama
 
 - [Senet Faturası](../TemelHareketler/SenetFaturasi.md)
-- [Satış İade Faturası](TemelHareketler/SatisİadeFaturasi.md)
+- [Satış İade Faturası](../TemelHareketler/SatisIadeFaturasi.md)
 - [Satış İrsaliyesi](../TemelHareketler/Satisİrsaliyesi.md)
 - [Satış İade İrsaliyesi](../TemelHareketler/SenetİadeEdildi.md)
 
 #### Alış İşlemleri
 
 - [Alış İade İrsaliyesi](../TemelHareketler/Alisİadeİrsaliyesi.md)
-- [Alış İrsaliyesi](TemelHareketler/Alisİrsaliyesi.md)
-- [Alış İade Faturası](../TemelHareketler/AlısİadeFaturasi.md)
+- [Alış İrsaliyesi](../TemelHareketler/Alisİrsaliyesi.md)
+- [Alış İade Faturası](../TemelHareketler/AlisİadeFaturasi.md)
 - [Alış Faturası](../TemelHareketler/AlisFaturasi.md)
 
 #### Sipariş İşlemleri
 
 - [Alınan Sipariş](../TemelHareketler/AlinanSiparis.md)
-- [Verilen Sipariş](TemelHareketler/VerilenSiparis.md)
+- [Verilen Sipariş](../TemelHareketler/VerilenSiparis.md)
 - [Alınan Teklif](../TemelHareketler/AlinanTeklif.md)
 - [Verilen Teklif](../TemelHareketler/VerilenTeklif.md)
 
 ### Diğerleri
 
 - [Devir](../TemelHareketler/Devir.md)
-- [Karma Transfer Hareketi](TemelHareketler/KarmaTransferHareketi.md)
+- [Karma Transfer Hareketi](../TemelHareketler/KarmaTransferHareketi.md)
 - [Kur Farkı Hareketi](../TemelHareketler/KurFarkiHareketi.md)

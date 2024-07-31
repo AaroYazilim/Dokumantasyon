@@ -8,14 +8,15 @@ SayfaTipi: Kart
 **Erişim Linki :** [erp.aaro.com.tr/BankaHesap/Kalem](erp.aaro.com.tr/BankaHesap/Kalem)
 
 ### Ulaşım
+Aşağıdaki gibi ulaşım sağlayabilirsiniz:
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Banka hesap kartı" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Banka -> Banka Modülü -> Banka Hesap Kartı şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Banka -> Kartlar -> Banka Hesap Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "**Banka hesap kartı**" ifadesini aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden **Banka -> Banka Modülü -> Banka Hesap Kartı** şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden **Banka -> Kartlar -> Banka Hesap Listesi** üzerinden ulaşım sağlayarak yeni kart ekleyebilir ya da mevcutları düzenleyebilirsiniz.
 
 ### Tanım
 
-Banka hesap kartı, firmanızın bankalarda bulunan hesaplarınızın bilgilerini içeren karttır. 
+Banka hesap kartı, firmanızın bankalarda bulunan hesaplarındaki bilgileri içeren karttır. 
 Banka hesap kartları ile farklı bankalarda ve hesaplarda bulunan finansal durumunuzu takip edebilir, bakiyelerinizi görüntüleyebilir, özet alabilir ve yönetebilirsiniz.
 
 ### Genel
@@ -29,8 +30,8 @@ Banka hesap kartları ile farklı bankalarda ve hesaplarda bulunan finansal duru
 
 **Cari Banka Hesap:** Pos ve kredi tipli banka hesaplarının bağlı olduğu cari tipli banka hesabı seçilir.
 
-**Döviz:** Bu banka hesabının çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
-Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
+**Döviz:** Bu banka hesabının çalıştığı döviz cinsini belirtir. Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
+Banka hesabının bakiyesi, seçilen döviz cinsinden takip edilir.
 
 **Banka Şube:** Banka Hesap kartın kayıtlı olduğu banka şubesini belirtir.
 
@@ -52,12 +53,12 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 ### Muhasebe Tanımları: 
 
-Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde otomatikman belirli muhasebe hesaplarına gerekli kayıtların oluşmasını sağlayabilirsiniz.
+Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde otomatik olarak belirli muhasebe hesaplarına gerekli kayıtların oluşmasını sağlayabilirsiniz.
 [Muhasebeleşme Tanımları](../TemelOzellikler/MuhasebelesmeTanimlari.md)
 
 ### Gelişmiş
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
+**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. **Şirket-Şube** kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
 
 **Durum:** Kartın kullanabilirliğini belirtir. Pasif kartlar işlemde kullanılamaz.
 

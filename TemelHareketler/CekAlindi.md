@@ -5,7 +5,7 @@ SayfaTipi: CekSenet
 
 # Satış İade Faturası
 
-**Erişim Linki :** [erp.aaro.com.tr/CekSenetAlindi?TipID=CekAlindi](erp.aaro.com.tr/CekSenetAlindi?TipID=CekAlindi)
+**Erişim Linki :** [erp.aaro.com.tr/CekSenetAlindi?TipID=CekAlindi](https://erp.aaro.com.tr/CekSenetAlindi?TipID=CekAlindi)
 
 ### Ulaşım
 
@@ -34,7 +34,7 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 **Kur:** Para biriminin başka bir para birimi cinsinden değerini ifade eder. 
 
-**Açıklama** İşleme ait açıklamayı belirtir. Açıklama kullanım detayları için linke tıklayınız.[Açıklama](../TemelOzellikler/Aciklama.md)
+**Açıklama** İşleme ait açıklamayı belirtir. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 ## Detay
 
@@ -59,6 +59,7 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 **Bilgilerimizi doldurduktan sonra kaydet diyerek kalem ekleme ekranımıza erişim sağlamaktayız.**
 
+
 ## Notlar 
 
 İşleme ait özel notlar belirtebiliriz. 
@@ -81,12 +82,13 @@ Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler
 
 Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir.  
 
 ## Kalem Ekleme 
 
 - Çek Senet Ekle: Bu seçeneği seçerek çekimizin bilgilerini girebiliriz.
 	Açılan ekranda;	
+
 #### Genel
 
 **Seri No:** Çekin seri numarasını ifade eder.
