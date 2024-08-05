@@ -1,5 +1,9 @@
+---
+SayfaID: DemirbasHareketleri
+SayfaTipi: Hareket Olustur
+---
 
-## Demirbaş Hareketleri
+# Demirbaş Hareketleri
 
 ### Genel
 

@@ -1,3 +1,7 @@
+---
+SayfaID: GelirGiderHareketleri
+SayfaTipi: Hareket Olustur
+---
 
 ## Gelir Gider Hareketleri
 

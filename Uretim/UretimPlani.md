@@ -1,101 +1,98 @@
+---
+SayfaID: UrIsEmriPlan
+SayfaTipi: PlanDetay
+---
 
 # Üretim Planı
 
+**Erişim Linki :** [erp.aaro.com.tr/UrIsEmriPlan/PlanDetay](erp.aaro.com.tr/UrIsEmriPlan/PlanDetay)
+
+### Ulaşım
+
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Üretim Planı" aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden Üretim -> Kartlar -> İş Emri Listesi -> İş Emrini açınız -> Plan Göster şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden Üretim -> Listeler -> Üretim Planı şeklinde ulaşım sağlayabilirsiniz.
+
+### Tanım
+
+Üretim planı, bir işletmenin üretim yapacağı ürünleri, kullanılacak hammadde miktarını, üretim sürecinin zamanlamasını ve kaynak dağılımını içeren bir planlama belgesidir. 
+Bu plan, üretim sürecinin verimli bir şekilde yönetilmesini sağlar ve işletmenizin hedeflerine ulaşmasına yardımcı olur.
+
+Burada planlamalarda değişiklik yapmak için sürükleyerek kolayca değişiklik yapabiliriz.
 Üretim süreçlerinin ne zaman ve hangi sırayla gerçekleşeceğini görüntüleyebiliriz. 
 Makine ve işgücü gibi kaynakların en verimli şekilde kullanılması hedeflenir.
 Üretim planında, üretim planınızı görüntüleyerek üretim planlamalarınızı yapabilirsiniz.
 Makine doluluk oranını görüntüleyebilir, iş yükünü değerlendirerek yeni düzenlemeler yapabilirsiniz.
-Tarih, cari, iş emri, operasyon, makineye göre filtreleme yaparak istediğimiz verilere kolayca erişim sağlayabiliriz.
-Filtrelemede Sadece İş Emri Gelsin;
-**Evet** seçeneği seçili olduğunda sadece iş emirlerini görüntüleriz.
-**Hayır** seçeneği seçili olduğunda set ve süreler gözükmektedir.
 
-İş emirlerinize tıklayarak yeni üretim girişi yapabilir, üretilen setleri görüntüleyebilir, parçalayabilir, iş emrine erişebilir, makine değiştirebilir, üretime ait çıktılar alabiliriz.
+Üretim planında makinelerimizin iş yoğunluğunda değişiklik yapabiliriz.
+Yeni üretim girişi yapabilir, parçalayabilir, üretilen miktarı görüntüleyebilir, çıktı alabilir, İş emri, sipariş detaylarını görüntülüyebilir ve makine değişikliği yapabiliriz.
+Bu işlemleri nasıl gerçekleştiğimizi ve detaylarına linkten erişim sağlayabilirsiniz. [Üretim Planı Ek İşlemler](../Uretim/UretimPlaniEkIslemleri.md)
 
-## Yeni Üretim Girişi
+### Ek Özellikler 
 
-	İş emrine ait yeni üretim hareketi girişinde düzenleme yapabiliriz, hareket düzenleme yapabiliriz.
+- Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
+	
+	Tarih, cari, iş emri, operasyon, makineye göre filtreleme yaparak istediğimiz verilere kolayca erişim sağlayabiliriz.
+	Filtrelemede Sadece İş Emri Gelsin;
+	
+	**Evet** seçeneği seçili olduğunda sadece iş emirlerini görüntüleriz.
+	
+	**Hayır** seçeneği seçili olduğunda set ve süreler gözükmektedir.
+	
+	İş emirlerinize tıklayarak yeni üretim girişi yapabilir, üretilen setleri görüntüleyebilir, parçalayabilir, iş emrine erişebilir, makine değiştirebilir, üretime ait çıktılar alabiliriz.
 
-	### Genel
-	
-	**Tarih:** İşlem tarihini girelim.
-	**Makine Adı:** İşlemde kullanılan makineyi seçelim.
-	**Detay:**
-	
-	### Mamüller
-	
-	**Mamül Adı:** Mamül adına tıkladığımızda mamülün stok kartı açılacaktır. 
-		Stok detaylarını görüntüleyebiliriz birim1, stok kodu, kategori, alış, satış fiyatları, barkod ve ölçü birimlerinde değişiklik yapabiliriz.
-	**Miktar:** Mamülümüzün olması gereken miktarını girelim. 
-	**Birim:** Miktar birim cinsi, kg, adet, metrekare vb. burada yazar.
-	**Seri/Lot:** Seri lotla takip ettiğimiz ürün ise detaylarını burada görüntüleyebiliriz.
-	
-	### Hammaddeler
-	
-	**Hammadde Adı:** Hammadde adına tıkladığımızda hammaddenin stok kartı açılacaktır. 
-		Stok detaylarını görüntüleyebiliriz birim1, stok kodu, kategori, alış, satış fiyatları, barkod ve ölçü birimlerinde değişiklik yapabiliriz.
-	**Miktar:** Hammaddemizin olması gereken miktarını girelim. 
-	**Birim:** Miktar birim cinsi, kg, adet, metrekare vb. burada yazar.
-	**Reçete Miktar:** Reçete için gerekli olan miktarı burada görüntüleyebiliriz.
-	**Seri/Lot:** Seri lotla takip ettiğimiz ürün ise detaylarını burada görüntüleyebiliriz.
-	
-	### Çalışan Personel Listesi
-	
-	Üretimde çalışan personelleri seçelim. Personelin kaydı yok ise detaylı ekle diyerek ekleme yapabiliriz.
-	
-	### Üretim Süreçleri
-	
-	**Başlangıç** Operasyona başlama saatini giriniz.
-	**Bitiş** Operasyonun bitiş tarihini giriniz.
-	**Hazırlık Süre** Operasyona hazırlık süresi, makine ne kadar sürede ısındı gibi operasyona başlamadan önceki geçen süredir.
-	**Üretim Süre** Operasyonun üretim süresi, ne kadar sürede yapıldığıdır.
-	**Duraklama Süre** Makine bozulduğunda ya da makine arızaları gibi duraklama olduğunda ne kadar süre arıza verdi ise o süreyi gireceğimiz alan.
-	**Mola Süre** Personel ne kadar süre mola verdi ise o süreyi gireceğimiz alan. 
-	
-	### Duraklama Nedeni
-	
-	**Neden** Operasyon neden duraklamaya uğradığının detayını girdiğimiz alandır. Makine bozuldu, arızlandı gibi nedenleri belirttiğimiz yerdir. 
-	Kayıtlı nedenleri listeden seçebilirsiniz, yeni bir neden eklemek için detaylı ekle yaparak hızlıca ekleme yapabilirsiniz.
-	
-	### Üretim Açıklama
-	
-	Operasyona ait detayları ve özel açıklamalar burada belirtilmelidir.
-	
-	### Gelişmiş
-	
-	**Atlandı:** Üretim hareketi ekranında atlamak, üretim sürecinde belirli bir adıma geçişi ifade eder. 
-		Örneğin, bir üretim işçisi veya yönetici, ürünlerin üretim aşamalarını takip ederken, belirli bir aşamadan diğerine geçişi için kullanım sağlar.
-		Üretim aşamasının atlandığını veya tamamlandığını göstermek için kullanılır.
-	
-	**İş Emri No:** İş emri numarasına tıklayarak iş emrine erişim sağlayabilirsiniz.
-	
-## Üretilen 
 
-Burada İş emrinin ne kadarı gerçekleştirilen miktar görünür. Tıklayarak hareketlerine erişim sağlayabiliriz.
+### Toplu Plan Kaydırma
 
-## Parçala
+Üretim planlarında esneklik sağlayarak, beklenmedik durumlara hızlıca adapte olmayı mümkün kılar.
 
-İş emrimizden kalan kısımlar yetişmedi ya da iş yoğunluğu değişti gibi detyalar olduğunda parçala kısmını kullanarak iş emrini bölebilirsiniz.
+**Tarih:** İşlem yapılacak tarihi seçelim.
+**Ertelenecek Gün Sayısı:** Üretim planımızı erteleyeceğimiz gün sayısını girelim.
+	Örneğin; bugün üretim planımızda koltuk takımı rutin üretimimiz var, acil iş geldi 3 gün içerisinde teslim edilmesi gerekli. 
+	Ertelenecek gün sayısına 3 yazıyoruz acil işimiz bittikten sonra üretimimize kaldığımız yerden devam edebiliriz.
+**İş Emri:** Ertelenecek olan iş emrini seçelim.
+**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
+**Operasyon:** Ertelenecek operasyonu seçelim.
+**Makine:** Makineyi seçelim.
 
-## İş Emri Çıktısı (Y.I)
+### Toplu Makine Değiştir
 
-İş emrine kısa yoldan buradan erişim sağlayarak çıktı alabiliriz.
+Toplu Makine Değiştir işlemi, belirli üretim süreçlerinde kullanılan makinelerin toplu olarak değiştirilmesi veya güncellenmesi gereken durumlarda kullanılan bir fonksiyondur. 
+Üretim süreçlerinde esneklik ve verimlilik sağlar ve makine arızaları, bakım ihtiyaçları veya kapasite değişiklikleri gibi durumlara hızlı bir şekilde adapte olmayı mümkün kılar.
+Üretim hattındaki makinelerin değiştirilmesi gereken yerler ve bu değişikliğin üretim süreçlerine etkisi analiz edebilirsiniz. 
+Hangi makinelerin hangi üretim emirlerinde kullanıldığı ve bu değişikliğin ne tür bir etki yaratacağı belirleyebilirsiniz.
 
-## İstifleme Barkod Çıktısı Stok
+**Başlangıç Tarihi:** Makine değişikliğinin başlayacağı tarihi seçelim.
+**Operasyon:** Hangi operasyonda makine değişikliği yapılacaksa o operasyonu seçelim.
+**Kaynak Makine:** Operasyonda değişim yapacağımız makineyi seçelim.
 
-Siparişle üretimi birbirine bağlayan istifleme barkodudur.
-İş emrinde istifleme barkodu, üretim sürecinde kullanılan malzemelerin veya tamamlanmış ürünlerin izlenebilirliğini ve doğru şekilde istiflenmesini sağlamak amacıyla kullanılan bir barkod sistemidir. 
-Bu barkodlar, malzeme veya ürünlerin depolanması, taşınması ve takibi süreçlerinde büyük kolaylık sağlar.
+**Bitiş Tarihi:** Makine değişikliğinin biteceği tarihi seçelim.
+**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
+**HedefMakine:** Operasyonda değişim sonrası kullanılacak makineyi seçelim.
 
-## İş Emri
+### Geçmiş Tarihli Planı Bugüne Taşı 
 
-Üretim planındayken kolayca iş emrine erişim sağlar. 
-İş emrinde sipariş detaylarını, operasyon işlemlerini, iş emrine ait belge ve görselleri, kayıt bilgilerini görüntüleyebiliriz.
+Geçmiş Tarihli Planı Bugüne Taşı işlemi, planlanmış ancak belirli bir nedenle gerçekleştiremediğimiz üretim faaliyetlerini yeniden planlayarak bugüne alınmasıdır. 
+Bu işlem, özellikle üretim süreçlerinde gecikmelerin telafi edebilmemiz ve üretim hedeflerinin zamanında gerçekleştirebilmemiz için önemlidir.
+Geçmiş tarihteki üretim emirleri, mevcut üretim planına eklenir. 
+İşlerin ne zaman ve hangi sırayla yapılacağı belirlenir. 
+Üretim takvimi, mevcut kaynakları en verimli kullanılacak şekilde güncellenir.
 
-## Makine Değiştir
+**Şirket-Şube:** Hareketin ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
 
-Alternatif makineler gösterilir buradan değişim yapacağımız makineyi seçelim.
+### Tüm Üretimi Planla
 
-## Sipariş Açıklamaları
+Hazır olan tüm iş emirlerinin otomatik planlamasının yapılmasıdır. 
+Alternatif makinelerini değerlendirerek en uygun üretim planını hazırlar.
+İşlem yaptığımız gün itibariyle tüm üretimi, teslim tarihi ve önceliklere göre otomatik olarak planlanacaktır.
 
-Sipariş detaylarını burada görüntüleyebilir linklerinden kolayca erişim sağlayabiliriz.
+**Şirket-Şube:** Hareketin ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+**Plan Başlangıç Tarihi:** Planlamaya hangi gün başlayacaksak tarihini girelim.
+**Plan Başlangıç Vardiya:** Plana başladığımızda kaçıncı vardiyada isek o vardiyayı seçelim.
+**Alternatif Makineleri Degerlendir:** Bu seçeneği aktif ederek alternatif makineleri değerlendirerek en uygun planlamayı yapar.
+**Minimum BirGune Planlanabilecek Miktar:** Bir gün için en düşük ne kadar ürün çıkaracaksak minimum ürünün miktarını girelim.
+**Minimum Bir Gune Planlanabilecek Sure Dk:** Bir gün için en az ne kadar sürede planlama yapılmasını istiyorsak minimum süreyi girelim.
+
+Kaydet butonuna basarak planlamamızı gerçekleştirebiliriz.
+
+

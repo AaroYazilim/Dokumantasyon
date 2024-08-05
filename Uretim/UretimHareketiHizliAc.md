@@ -1,7 +1,20 @@
+---
+SayfaID: 
+SayfaTipi: 
+---
 
 # Üretim Hareketi Hızlı Aç
 
-üretim süreçlerini daha hızlı ve verimli hale getirmek amacıyla tasarlanmış bir sistemdir. 
+**Erişim Linki :**[erp.aaro.com.tr/UrAkisOperasyon/HizliAkis](erp.aaro.com.tr/UrAkisOperasyon/HizliAkis)
+
+### Ulaşım
+
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "hızlı aç" aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden Üretim -> Hareketler -> Üretim Hareketi Hızlı Aç şeklinde ulaşım sağlayabilirsiniz. 
+
+### Tanım
+
+Üretim süreçlerini daha hızlı ve verimli hale getirmek amacıyla tasarlanmış bir sistemdir. 
 Bu sistem, iş emirlerine barkod okutma yöntemiyle hızlıca erişim sağlar ve işlemleri kolaylaştırır.
 
 Her iş emri, belirli bir barkod ile ilişkilendirilir.

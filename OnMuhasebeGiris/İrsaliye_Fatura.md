@@ -9,7 +9,7 @@ Mal ya da hizmet satışı yapıldığında bir yerden bir yere taşınması ger
 
 Maliye bakanlığı klişesi veya noter tasdiki
 
-İrsaliye fatura düzenleyenin adı, ticari unvanı, iş adresi, bağlı olduğu vergi dairesi ve numarası
+İrsaliye faturasını düzenleyenin adı, ticari ünvanı, iş adresi, bağlı olduğu vergi dairesi ve numarası
 
 Malın veya hizmetin cinsi, miktarı
 
@@ -22,15 +22,15 @@ Malın nereye ve kime gönderildiği; müşterinin adı, ticari unvanı, adresi,
 
 ## Satış İrsaliyesi Nedir?
 
-İşletmenin, alıcısına sattığı ürünün ya da hizmetin nakliye edilmesinde veya kişi/işletmeye ait yerlerine taşınmasında düzenlenen belgeye denir.
+İşletmenin, alıcısına sattığı ürünün ya da hizmetin nakliye edilmesinde veya kişi/işletmeye ait yerlere taşınmasında düzenlenen belgeye denir.
 
-Satış irsaliyesinde malın konusu, birimi ve kime ait olduğu belirtilmektedir. 
+Satış irsaliyesinde malın içeriği, birimi ve kime ait olduğu belirtilmektedir. 
 
-Satış irsaliyesi en az 3 nüsha düzenlenmektedir. Seri ve sıra numarasına göre kayıt yapılmaktadır. 
+Satış irsaliyesi en az 3 nüsha olarak düzenlenmektedir. Seri ve sıra numarasına göre kayıt yapılmaktadır. 
 
-Denetimlerde seri veya sıra numarası eksik gösterilirse bu Muhasebe Suçuna girer ve işletmeye para cezası verilir.
+Denetimlerde, seri veya sıra numarası eksik gösterilirse bu Muhasebe Suçuna girer ve işletmeye para cezası verilir.
 
-Düzenlenen irsaliye geçerlilik süresi 7 gündür, bu  süre içerisinde faturalandırması gerekmektedir.
+Düzenlenen irsaliye geçerlilik süresi 7 gündür, bu  süre içerisinde faturalandırılması gerekmektedir.
 
 ## Alış İrsaliyesi Nedir?
 
@@ -44,7 +44,7 @@ Vergi mevzuatı gereği, işletmeler alış irsaliyesini muhafaza etmek zorundad
 
 ## İade İrsaliyesi
 
-### İrsaliye İade de belirtilmesi gereken detaylar;
+### İade İrsaliyesinde belirtilmesi gereken detaylar:
 
 İade edilen malın detayları: İade edilen malın adı, miktarı, birim fiyatı gibi bilgiler.
 
@@ -54,22 +54,22 @@ Vergi mevzuatı gereği, işletmeler alış irsaliyesini muhafaza etmek zorundad
 
 Satıcı ve alıcı bilgileri: Malı satan ve iade eden işletmelerin isimleri ve iletişim bilgileri.
 
-İade işlemine ilişkin diğer detaylar: Ödeme iadesi, iade nedeniyle yapılan düzeltmeler gibi ek bilgiler.
+İade işlemine ilişkin diğer detaylar: Ödeme iadesi ve iade nedeniyle yapılan düzeltmeler gibi ek bilgiler.
 
 Bu belge, iade işlemlerinin muhasebe kayıtlarında ve vergi beyannamelerinde doğru bir şekilde gösterilmesi için önemlidir.
 
-## Satış İrsaliyesi İade Nedir?
+## Satış İade İrsaliyesi Nedir?
 
-Satış irsaliyesi iade işlemi, bir işletmenin müşterisinden satın aldığı malın iadesi durumunda kullanılan bir belgedir. 
+Satış iade irsaliyesi, müşterinin satın aldığı malı iade etmesi durumunda kullanılan bir belgedir. 
 
 İade işlemi genellikle yanlışlıkla satın alınmış, hasar görmüş veya beklentileri karşılamayan bir ürünün geri verilmesiyle gerçekleşir.
 
-## Alış İrsaliyesi İadesi Nedir?
+## Alış İade İrsaliyesi Nedir?
 
-Alış irsaliyesi iadesi, bir işletmenin bir tedarikçiden mal aldığı ancak sonradan bu malın iadesini yapması durumunda kullanılan bir işlem ve belgedir. 
-Genellikle, yanlışlıkla alınmış, hasar görmüş veya beklentileri karşılamayan bir malın tedarikçiye geri iadesi gerektiğinde bu işlem gerçekleşir. 
-Alış irsaliyesi iadesi, tedarikçi ile alıcı arasındaki ticari ilişkilerin düzenli ve şeffaf bir şekilde yönetilmesini sağlar. 
-Ayrıca, mal iadesi sonucunda oluşan finansal işlemlerin doğru bir şekilde kaydedilmesi ve izlenmesi için önemlidir.
+Alış iade irsaliyesi, işletmenin bir tedarikçiden mal alıp ancak sonradan bu malın iadesini yapması durumunda kullanılan bir işlem ve belgedir. 
+Genellikle, yanlışlıkla alınmış, hasar görmüş veya beklentileri karşılamayan bir malın tedarikçiye iadesi gerektiğinde bu işlem gerçekleşir. 
+Alış iade irsaliyesi, tedarikçi ile alıcı arasındaki ticari ilişkilerin düzenli ve şeffaf bir şekilde yönetilmesini sağlar. 
+Ayrıca mal iadesi sonucunda oluşan finansal işlemlerin doğru bir şekilde kaydedilmesi ve izlenmesi için önemlidir.
 
 ## Fatura Nedir?
 
@@ -82,7 +82,7 @@ Fatura, ödemeyi tahsil etmesi için satıcı tarafından alıcıya verilen bir 
 
 Fatura belgesinde ödemeye konu olan kalemler ve ilgili kalemlerin vergi oranları yer alır. 
 
-Vergi istisnası bulunan bir fatura ise istisna durumu fatura üzerinden bildirilir.
+Vergi istisnası bulunan bir faturada ise istisna durumu fatura üzerinden bildirilir.
 
 Birden fazla vergi oranı bulunması durumunda faturada belirtilmesi zorunludur.
 
@@ -90,20 +90,20 @@ Fatura, e-fatura veya matbuu fatura olarak kesilebilir.
 
 ## Satış Faturası Nedir?
 
-İşletmenin, alıcısına (cari) sattığı ürünün ya da hizmetin detaylarını (satılan malın cinsi, miktarı, birim satış fiyatı,
+İşletmenin, alıcısına sattığı ürünün ya da hizmetin detaylarını (satılan malın cinsi, miktarı, birim satış fiyatı,
 fiyatı, toplam bedeli, KDV oranı, istisnai durumları, iskonto) belirterek ödeyeceği tutarı belgelemek için müşterilerine 
 kestiği faturalardır. Her satışın belgelenerek yasallaşması gerekir.
 
-Satış faturasında borç alacak ilişkisinde cari(ürün ya da hizmet satın alan işletme veya şahıs) borçludur, 
+Satış faturasında borç - alacak ilişkisinde cari (ürün ya da hizmet satın alan işletme veya şahıs) borçludur, 
 stok alacaklıdır. 
 
-### Satış faturasında detaylar;
+### Satış faturasında detaylar:
 
 Faturanın düzenlenme tarihi, seri ve sıra numarası
 
 Faturayı düzenleyenin adı, varsa ticaret unvanı, iş adresi, bağlı olduğu vergi dairesi ve vergi numarası
 
-Cari (Müşteri) adı, ticaret unvanı, adresi, varsa vergi dairesi vergi numarası)
+Cari (Müşteri) adı, ticaret ünvanı, adresi, varsa vergi dairesi vergi numarası
 
 Vade Tarihi (Ödeme yapılması için verilen süre ya da gereken süre)
 
@@ -115,9 +115,9 @@ Satılan malın ya da hizmetin teslim tarihi ve irsaliye numarası
 
 Alış faturası, bir işletmenin bir tedarikçiden mal veya hizmet satın aldığında tedarikçiden aldığı resmi belgedir. 
 
-Bu belge, satın alınan mal veya hizmetin detaylarını, miktarını, fiyatını ve toplam tutarını içerir. 
+Bu belge; satın alınan mal veya hizmetin detaylarını, miktarını, fiyatını ve toplam tutarını içerir. 
 
-Ayrıca, tedarikçinin adı, adresi, vergi kimlik numarası gibi bilgiler de faturada yer alır.
+Ayrıca tedarikçinin adı, adresi, vergi kimlik numarası gibi bilgiler de faturada yer alır.
 
 Alış faturası, işletmeler arasındaki ticari işlemlerin kaydedilmesi ve takibi için önemlidir. 
 
@@ -131,7 +131,7 @@ Bu nedenle, işletmeler alış faturalarını dikkatlice saklamalı ve muhasebe 
 
 ## İade Faturası
 
-### **İade faturasında bulunması gereken detaylar;**
+### **İade faturasında bulunması gereken detaylar:**
 
 İade edilen mal veya hizmetin detayları: İade edilen ürünün adı, miktarı, birim fiyatı ve toplam tutarı gibi bilgiler.
 
@@ -148,7 +148,7 @@ Satıcı ve alıcı bilgileri: Malı satan işletmenin ve iade eden müşterinin
 Satıştan iade faturası, bir işletmenin müşterisine satmış olduğu bir mal veya hizmetin sonradan 
 müşteri tarafından iade edilmesi durumunda düzenlediği resmi belgedir. 
 
-Bu belge, iade edilen mal veya hizmetin detaylarını, iade sebebini, iade tarihini ve iade işlemine ilişkin diğer bilgileri içerir.
+Bu belge; iade edilen mal veya hizmetin detaylarını, iade sebebini, iade tarihini ve iade işlemine ilişkin diğer bilgileri içerir.
 
 Satıştan iade faturası, işletmelerin muhasebe kayıtlarında ve vergi beyannamelerinde doğru bir şekilde gösterilmesi için önemlidir. 
 
@@ -156,10 +156,10 @@ Bu belge, satış ve iade işlemlerinin izlenmesi ve ticari ilişkilerin düzenl
 
 ## Alıştan İade Faturası
 
-Alıştan iade faturası, bir işletmenin tedarikçisinden satın almış olduğu bir malın veya hizmetin, sonradan 
-tedarikçiye geri iade edilmesi durumunda düzenlediği resmi bir belgedir.
+Alıştan iade faturası; bir işletmenin tedarikçisinden satın almış olduğu bir malın veya hizmetin, sonradan 
+tedarikçiye iade edilmesi durumunda düzenlenildiği resmi bir belgedir.
 
-Bu belge, mal veya hizmetin tedarikçiden alınırken düzenlenen alış faturasının iadesini gösterir.
+Bu belge, mal veya hizmetin tedarikçiden alınırken düzenlenen alış faturasının iade bilgilerini gösterir.
 
 Alıştan iade faturası, işletmelerin muhasebe kayıtlarında ve vergi beyannamelerinde doğru bir şekilde gösterilmesi için önemlidir. 
 
@@ -171,7 +171,7 @@ Bu belge, alış ve iade işlemlerinin izlenmesi ve ticari ilişkilerin düzenle
 
 Ürün veya hizmetin, belirli bir fiyat karşılığında alıcı tarafından talep edilmesi veya satın alınması anlamına gelir.
 
-Bir müşterinin bir ürünü satın almak için bir satıcıya resmi olarak verdiği emirdir. 
+Müşterinin, ürünü satın almak için satıcıya resmi olarak verdiği emirdir. 
 
 İşletmeler arasında yapılan ticari işlemlerde, siparişler genellikle belirli bir süre içinde yerine getirilmesi gereken taahhütlerdir.
 
@@ -189,26 +189,26 @@ Teslimat adresi ve tarihleri: Ürün veya hizmetin teslim edileceği adres ve be
 
 ### Alınan Sipariş → Satış Siparişi
 
-Bir müşterinin bir işletmeden mal veya hizmet satın almak istediğini belirten yazılı bir taleptir.
+Müşterinin bir işletmeden mal veya hizmet satın almak istediğini belirten yazılı bir taleptir.
 
 Satış siparişi genellikle belirli bir ürün veya hizmetin miktarını, fiyatını, teslimat tarihini ve diğer önemli detayları içerir.
 
-İşletmeler, satış-alınan siparişlerini müşterilerinden veya diğer işletmelerden alabilirler.
+İşletmeler, satılan ve alınan siparişleri müşterilerinden veya diğer işletmelerden alabilirler.
 
 ### Verilen Teklif → Satış Teklifi**
 
-Bir işletmenin potansiyel müşterilere belirli bir ürün veya hizmetin satışını yapmayı önerdiği yazılı bir taleptir. 
+İşletmenin potansiyel müşterilere belirli bir ürün veya hizmetin satışını yapmayı teklif ettiği yazılı bir taleptir. 
 
 Bu teklif genellikle müşterinin ihtiyaçlarına yönelik olarak hazırlanır ve sunulan ürün veya hizmetin özelliklerini, 
 fiyatını ve diğer önemli detayları içerir.
 
 ### Teklif**
 
-Bir işletmenin mal veya hizmetin satışını veya sunumunu içeren yazılı bir öneridir. 
+İşletmenin mal veya hizmetin satışını veya sunumunu içeren yazılı bir öneridir. 
 
 İşletmeler genellikle potansiyel müşterilere veya iş ortaklarına teklif sunarlar. 
 
-Teklif, ürün veya hizmetin detaylarını, fiyatını, teslimat koşullarını ve diğer önemli bilgileri içerir.
+Teklif; ürün veya hizmetin detaylarını, fiyatını, teslimat koşullarını ve diğer önemli bilgileri içerir.
 
 ### Teklifin içerdiği bilgiler;
 

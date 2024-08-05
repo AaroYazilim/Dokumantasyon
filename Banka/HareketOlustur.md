@@ -1,5 +1,11 @@
- 
-### Banka Hareketleri 
+---
+SayfaID: BankaHareketleri
+SayfaTipi: Hareket Olustur
+---
+
+## Banka Hareketleri 
+
+### Genel
 
 - [Havale EFT Alma](../TemelHareketler/HavaleEftAlma.md)
 - [Havale EFT Gönderme](TemelHareketler/HavaleEftGonderme.md)
@@ -8,6 +14,9 @@
 - [Banka Hesapları Arası Transfer](../TemelHareketler/BankaHesaplariArasiTransfer.md)
 - [Pos Tahsilat](../TemelHareketler/PosTahsilat.md)
 - [Çek Bankadan Tahsil Edildi](../TemelHareketler/CekBankadanTahsilEdildi.md)
+
+### Diğer İşlemler
+
 - [Bankaya Para Yatırma](../TemelHareketler/BankayaParaYatirma.md)
 - [Bankadan Para Çekme](../TemelHareketler/BankadanParaCekme.md)
 - [Pos Hesaptan Hesaba Geçiş](../TemelHareketler/PosHesaptanHesabaGecis.md)

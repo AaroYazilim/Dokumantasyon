@@ -1,5 +1,11 @@
+---
+SayfaID: StokListe
+SayfaTipi: KartListe
+---
 
 # Stok Kartı Listesi
+
+**Erişim Linki :** [erp.aaro.com.tr/Stok/Liste](erp.aaro.com.tr/Stok/Liste)
 
 ### Ulaşım
 
@@ -21,7 +27,6 @@
 ### Ek İşlem Butonu
 
 - Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
-- [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
-- [Listeyi Excele Aktar](../TemelOzellikler/ListeyiExceleAktar.md)
-
+	- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+	- [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
+	- [Listeyi Excele Aktar](../TemelOzellikler/ListeyiExceleAktar.md)

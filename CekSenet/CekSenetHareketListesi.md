@@ -1,5 +1,11 @@
+---
+SayfaID: CekSenetHareketleri
+SayfaTipi: HareketListe
+---
 
 # Çek/Senet Hareket Listesi
+
+**Erişim Linki :** [erp.aaro.com.tr/CekSenetHareketleri/Liste](erp.aaro.com.tr/CekSenetHareketleri/Liste)
 
 ### Ulaşım 
 

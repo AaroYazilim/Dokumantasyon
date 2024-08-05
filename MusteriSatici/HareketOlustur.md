@@ -1,3 +1,7 @@
+---
+SayfaID: CariHareketleri
+SayfaTipi: Hareket Olustur
+---
 
 ## Müşteri/Satıcı Hareketleri
 

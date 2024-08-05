@@ -1,4 +1,8 @@
- 
+---
+SayfaID: KasaHareketleri
+SayfaTipi: Hareket Olustur
+---
+
 ### Kasa Hareketleri 
 
 - [Nakit Tahsilat](../TemelHareketler/NakitTahsilat.md)
@@ -6,6 +10,8 @@
 - [Kasadan Gider Hareketi](../TemelHareketler/KasadanGiderHareketi.md)
 - [Kasa Gelir Hareketi](../TemelHareketler/KasaGelirHareketi.md)
 - [Kasa Hesapları Arası Transfer](../TemelHareketler/KasaHesaplariArasiTransfer.md)
+
+### Diğer İşlemler
 
 - [Çek Kasadan Tahsil Edildi](../TemelHareketler/CekKasadanTahsilEdildi.md)
 - [Çek Kasadan Ödendi](../TemelHareketler/CekKasadanOdendi.md)

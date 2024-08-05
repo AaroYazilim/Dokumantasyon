@@ -1,7 +1,7 @@
 
 # Sayım 
 
-Sayım bir nesnenin veya bir şeyin miktarını belirlemek için yapılan bir işlem veya bu işlemin sonucunu ifade eden bir terimdir.
+Sayım bir nesnenin veya bir şeyin miktarını belirlemek için yapılan bir işlem veya bu işlemin sonucunu ifade eden terimdir.
 
 **Stok Sayımı:** Ticari bir işletmede, belirli bir zamanda mevcut olan stok miktarının fiziksel olarak sayılması ve kaydedilmesi işlemidir. 
 
