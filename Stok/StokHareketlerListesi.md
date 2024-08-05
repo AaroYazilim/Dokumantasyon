@@ -43,10 +43,10 @@
 
 ## İrsaliye 
 
-- [Satış İrsaliyesi](../TemelHareketler/Satisİrsaliyesi.md)
-- [Alış İrsaliyesi](../TemelHareketler/Alisİrsaliyesi.md)
+- [Satış İrsaliyesi](../TemelHareketler/SatisIrsaliyesi.md)
+- [Alış İrsaliyesi](../TemelHareketler/AlisIrsaliyesi.md)
 - [Satış İade İrsaliyesi](../TemelHareketler/Satısİadeİrsaliyesi.md)
-- [Alış İade İrsaliyesi](../TemelHareketler/Alisİadeİrsaliyesi.md)
+- [Alış İade İrsaliyesi](../TemelHareketler/AlisIadeIrsaliyesi.md)
 
 ## Sipariş 
 

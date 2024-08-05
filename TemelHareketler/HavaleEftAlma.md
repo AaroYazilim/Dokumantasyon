@@ -33,11 +33,11 @@ banka hesabımıza gelen havale/EFT bilgilerini buradan işleyerek banka hesabı
 
 **Beklenen Tahsilat:** [Beklenen Tahsilat](../TemelOzellikler/BeklenenTahOd.md)
 
-**Sözleşme:** Bu karta ait sözleşme var ise buraya sözleşmeyi ekleyebiliriz.
+**Sözleşme:** Bu karta ait sözleşme var ise buraya sözleşmeyi ekleyebiliriz [Sözleşme](../TemelHareketler/Sozlesme.md).
 
-**Proje:** Bu karta ait proje var ise buraya sözleşmeyi ekleyebiliriz.
+**Proje:** Bu karta ait proje var ise buraya projeyi ekleyebiliriz [Proje](../TemelHareketler/Proje.md).
 
-**Plasiyer:** Bu karta ait işlemi gerçekleştiren ya da sorumlu olan personel eklenir.
+**Plasiyer:** Bu karta ait işlemi gerçekleştiren ya da sorumlu olan personel eklenir [Plasiyer](../TemelHareketler/Plasiyer.md).
 
 **Alt Tip:** Alt hareket tipini belirtir.
 
