@@ -17,14 +17,14 @@ SayfaTipi: Hareket Olustur
 
 - [Satış Faturası](../TemelHareketler/SatisFaturasi.md)
 - [Alış Faturası](TemelHareketler/AlisFaturasi.md)
-- [Satış İade Faturası](../TemelHareketler/SatisİadeFaturasi.md)
+- [Satış İade Faturası](../TemelHareketler/SatisIadeFaturasi.md)
 - [Alış İade Faturası](../TemelHareketler/AlisİadeFaturasi.md)
 
 ### İrsaliye
 
-- [Satış İrsaliyesi](../TemelHareketler/Satisİrsaliyesi.md)
-- [Alış İrsaliyesi](TemelHareketler/Alisİrsaliyesi.md)
-- [Satış İade İrsaliyesi](../TemelHareketler/SatisİadeFaturasi.md)
+- [Satış İrsaliyesi](../TemelHareketler/SatisIrsaliyesi.md)
+- [Alış İrsaliyesi](TemelHareketler/AlisIrsaliyesi.md)
+- [Satış İade İrsaliyesi](../TemelHareketler/SatisIadeFaturasi.md)
 - [Alış İade İrsaliyesi](../TemelHareketler/AlisİadeFaturasi.md)
 
 ### Sipariş
