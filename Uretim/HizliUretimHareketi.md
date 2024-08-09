@@ -68,6 +68,10 @@ Burada işlemler aynı fakat buradan hammadde ve mamul girişi ekleyebilirsiniz.
 
 **Depo** Hangi depodan temin edildiğini çıkış yapılacak olan depoyu seçiniz.
 
+**Fire** Yarı mamüllerimizin, mamüllerimizin üretiminde oluşan fire nedenlerini ifade eder.
+
+**Seri/lot** 
+
 ## Çalışan Personel Listesi
 
 Bu operasyonda çalışan personelleri seçelim. 
