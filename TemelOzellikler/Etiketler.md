@@ -3,10 +3,10 @@
 
 ### Tanım
 
-Genellikle bir işletmenin veya kurumun fatura işlemlerini yönetmek için kullanılan bağımsız tanımları ifade eder. 
+Genellikle bir işletmenin veya kurumun fatura işlemlerini yönetmek için kullanılan daha spesifik tanımları ifade eder. 
 Bu etiketler, fatura işlemlerine ait açıklamalar için kullanılabilir.
 Etiketler genellikle belirli bir konu, ürün, müşteri, proje veya durumu temsil eder. 
-Bu etiketler, ilgili işlemleri veya kayıtları daha belirgin hale getirerek işletme içinde kolayca tanımlanabilir ve yönetilebilir hale getirir.
+Bu etiketler, ilgili işlemleri veya kayıtları özelleştirerek işletme içinde kolayca tanımlanabilir ve yönetilebilir hale getirir.
 
 Bu parametreye özel tanımlar, ek özellikler eklenebilmektedir.
 
@@ -22,5 +22,5 @@ Bu da işletme içinde iletişimi artırır ve karar verme süreçlerini kolayla
 
 ### Ek Özellikler 
 
-**Anasayfaya Kısayol Olarak Ekle** Etiketler listesine hızlı erişim sağlamak istediğinizde kısayol olarak ekleyebilirsiniz. [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md) 
-**Grid Sütunları Ayarla** Sutunları istediğiniz gibi özelleştirebilirsiniz. [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunlariniAyarlari.md)
+**Anasayfaya Kısayol Olarak Ekle** vasıtasıyla Etiketler listesine hızlı erişim sağlamak istediğinizde kısayol olarak ekleyebilirsiniz. [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md) 
+**Grid Sütunları Ayarla** Sütunları istediğiniz gibi özelleştirebilirsiniz. [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunlariniAyarlari.md)

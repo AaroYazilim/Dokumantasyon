@@ -5,7 +5,7 @@ SayfaTipi: Banka
 
 # POS Tahsilat
 
-**Erişim Linki :** [erp.aaro.com.tr/KasaNakitTahsilat](erp.aaro.com.tr/KasaNakitTahsilat)
+**Erişim Linki :** [erp.aaro.com.tr/KasaNakitTahsilat](https://erp.aaro.com.tr/KasaNakitTahsilat)
 
 ## Ulaşım
 

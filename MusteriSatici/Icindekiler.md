@@ -5,15 +5,15 @@ SayfaTipi: Modul
 
 # Müşteri / Satıcı Modülü
 
-**Erişim Linki :** [erp.aaro.com.tr/CariModulu](erp.aaro.com.tr/CariModulu)
+**Erişim Linki :** [erp.aaro.com.tr/CariModulu](https://erp.aaro.com.tr/CariModulu)
 
 Müşteri / Satıcı Modülü, işletmenizin müşteri ilişkilerini yönetmek, satış ve alış süreçlerini izlemek için kullanabilirsiniz. 
 Bu modül, müşteri bilgilerini saklamak, alış satış işlemlerini takip etmek ve müşteri memnuniyetini artırmak için tasarlanmıştır.
 
-- Müşterilerinizle ilgili temel bilgilerin saklanmasını sağlar. Bu, müşteri adı, iletişim bilgileri, adres bilgileri gibi bilgileri içerir.
+- Müşterilerinizle ilgili temel bilgilerin saklanmasını sağlar. Bu; müşteri adı, iletişim bilgileri, adres bilgileri gibi bilgiler içerir.
 - Müşterilerden gelen siparişleri kaydedebilir ve izleyebilirsiniz. Müşteri siparişlerinizi almak, onaylamak ve işleme koymak için kullanılır.
-- Müşterilere gönderilen faturaların oluşturulmasını ve yönetilmesini sağlar. Satış işlemlerinizin faturalandırılması ve müşteriye gönderilmesi için kullanılır.
-- Müşterinizle etkileşimlerinizi izlemek ve yönetmek için kullanılır. Müşteri ile yapılan telefon görüşmeleri, e-posta alışverişleri ve toplantılar gibi etkileşimleri kaydetmek için kullanılır.
+- Müşterilerinize gönderilecek faturaların oluşturulmasını ve yönetilmesini sağlar. Satış işlemlerinizin faturalandırılması ve müşteriye gönderilmesi için kullanılır.
+- Müşterilerinizle etkileşimlerinizi izlemek ve yönetmek için kullanılır. Müşteri ile yapılan telefon görüşmeleri, e-posta alışverişleri ve toplantılar gibi etkileşimleri kaydetmek için kullanılır.
 - Alış ve Satış verileriyle ilgili detaylı raporlar ve analizler sunar. Bu, işletmenizin alış ve satış performansını değerlendirmesine ve stratejik kararlar almasına yardımcı olur.
 
 ## Bu modülde yer alan işlemler;
@@ -21,8 +21,8 @@ Bu modül, müşteri bilgilerini saklamak, alış satış işlemlerini takip etm
 ### Kartlar
 
 - [Müşteri / Satıcı Kartı Listesi](../MusteriSatici/MusteriSaticiKartiListesi.md)
-- [Müşteri / Satıcı Kod Ağacı](../MusteriSatici/MusteriSaticiKartiListesi.md)
-- [Müşteri / Satıcı Ziyaret Listesi](../MusteriSatici/MusteriSaticiKartiListesi.md)
+- [Müşteri / Satıcı Kod Ağacı](../MusteriSatici/MusteriSaticiKodAgaci.md)
+- [Müşteri / Satıcı Ziyaret Listesi](../MusteriSatici/MusteriSaticiZiyaretListesi.md)
 
 ### Listeler
 

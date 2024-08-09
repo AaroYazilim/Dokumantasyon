@@ -5,23 +5,24 @@ SayfaTipi: HareketListe
 
 # Banka Hareket Listesi
 
-**Erişim Linki :** [erp.aaro.com.tr/BankaHareketleri/Liste](erp.aaro.com.tr/BankaHareketleri/Liste)
+**Erişim Linki :** [erp.aaro.com.tr/BankaHareketleri/Liste](https://erp.aaro.com.tr/BankaHareketleri/Liste)
 
 ### Ulaşım 
+Aşağıdaki gibi yollarla ulaşım sağlayabilirsiniz:
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Banka hareket listesi" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Banka -> Banka Modülü -> Banka Hareketleri Listesi şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Banka -> Listeler -> Banka Hareketleri Listesi üzerinden ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "**Banka hareket listesi**" ifadesini aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden **Banka -> Banka Modülü -> Banka Hareketleri Listesi** şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden **Banka -> Listeler -> Banka Hareketleri Listesi** üzerinden ulaşım sağlayabilirsiniz.
 
 ### Tanım 
 
 - Banka hesaplarının hareketlerini bu sayfadan görüntüleyebilirsiniz.
-- Banka hesaplarının güncel ve belirli bir tarihte ki bakiyelerini görüntüleyebilirsiniz.
+- Banka hesaplarının güncel ve belirli bir tarihteki bakiyelerini görüntüleyebilirsiniz.
 
 ### Ek Özellikler 
 
 - Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
-- Sayfada ki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
+- Sayfadaki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) ile sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
 
 ### Ek İşlem Butonu
 

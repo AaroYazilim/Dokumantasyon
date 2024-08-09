@@ -5,7 +5,7 @@ SayfaTipi: Kasa
 
 # Nakit Tahsilat
 
-**Erişim Linki :** [erp.aaro.com.tr/KasaNakitTahsilat](erp.aaro.com.tr/KasaNakitTahsilat)
+**Erişim Linki :** [erp.aaro.com.tr/KasaNakitTahsilat](https://erp.aaro.com.tr/KasaNakitTahsilat)
 
 ## Ulaşım
 
@@ -27,8 +27,7 @@ Nakit tahsilatlar, kredi kartı ödemeleri veya banka havaleleri gibi diğer öd
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir.
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
-**Girilmesi Zorunludur.**
+**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir. **Girilmesi Zorunludur.**
 
 **Kasa:** Nakit tahsilatın hangi kasaya yapıldığını ifade eder. Nakit akışının girdiği kasayı seçelim.
 
@@ -76,7 +75,8 @@ Nakit tahsilatlar, kredi kartı ödemeleri veya banka havaleleri gibi diğer öd
 Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
 Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek için tıklayalım;
+
 
 - Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 - Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
@@ -109,7 +109,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
-## Düzenleme 
+## Düzenleme  
 
 Nakit tahsilat işlemimizde herhangi bir düzeltme yapmak için kalem işaretini seçerek açılan ekranda düzenlemeleri yapabiliriz.
 

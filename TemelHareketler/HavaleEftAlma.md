@@ -5,7 +5,7 @@ SayfaTipi:
 
 # Havale EFT Alma
 
-**Erişim Linki :** [erp.aaro.com.tr/BankaTahsilat](erp.aaro.com.tr/BankaTahsilat)
+**Erişim Linki :** [erp.aaro.com.tr/BankaTahsilat](https://erp.aaro.com.tr/BankaTahsilat)
 
 ## Ulaşım
 
