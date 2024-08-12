@@ -33,7 +33,7 @@ Aşağıdaki gibi yollarla ulaşabilirsiniz:
 
 **Grup Adı:** Hareketler, kartlar gibi gruplandırma yapabilirsiniz. 
 
-**Sıra:** 
+**Sıra:** Oluşturacağınız butonun görüntülenme sırası belirlenir. 
 
 **Renk:** Kısayola istediğiniz rengi seçebilirsiniz.
 

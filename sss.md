@@ -303,12 +303,11 @@ Tutarı girelim -> Depomuzu GelirGider Depomuzu seçelim -> Ekleyeceğimiz detay
 
 
 
-Soru: Tek bir hareket için KDV oranı nasıl değiştirilir?
-**Soru:** Tek bir hareket için kdv oranı nasıl değiştirilir?
-
-**Cevap:** Herhangi bir kartımızın sadece bir hareket için vergi oranını ilgili harekette kartımızı ekledikten sonra görüntüleyerek
-KDV bölümünde yer alan rakamı ihtiyacımız olan vergi oranını yazıp kaydederek vergi oranını sadece bu hareket için değiştirmiş oluruz.
-Kalemin yanında ki büyüteçe tıklayalım -> Vergiler -> KDV oranını girelim -> Kaydet şeklinde KDV oranını değişikliği gerçekleşir.
+---Soru: Tek bir hareket için KDV oranı nasıl değiştirilir?
+---
+---Cevap: Herhangi bir kartımızın sadece bir hareket için vergi oranını ilgili harekette kartımızı ekledikten sonra görüntüleyerek
+---KDV bölümünde yer alan rakamı ihtiyacımız olan vergi oranını yazıp kaydederek vergi oranını sadece bu hareket için değiştirmiş oluruz.
+---Kalemin yanında ki büyüteçe tıklayalım -> Vergiler -> KDV oranını girelim -> Kaydet şeklinde KDV oranını değişikliği gerçekleşir.
 
 **Soru:** KDV'den muaf fatura neden ve hangi durumlarda kesilir?
 
@@ -457,7 +456,26 @@ Rapor -> Stok -> Toplam -> Stok Hareketleri Miktar Toplamları (StokAdına göre
 
 Soru: Üretim operasyona göre planlama raporunu nasıl alabilirim ?
 
-Cevap: 
+Cevap: Rapor -> Üretim -> Planlama -> Operasyon Bazında Planlama (Makine,Mamül) şeklinde raporlarına erişim sağlayabiliriz. 
+
+Soru: Depoya göre malzeme mevcudu raporlarına nasıl alabilirim ?
+
+Cevap: Rapor -> Stok -> Toplam -> Malzeme Mevcudu -> Depo kısmında rapor almak istediğimiz depoyu seçelim -> Raporla diyerek, raporumuza ulaşım sağlayabiliriz.
+
+Soru: Bir cari ile ekstre karşılaştırmak istiyorum, ekstresine nasıl ulaşabilirim ?
+
+Cevap: Rapor -> Müşteri/Satıcı -> Müşteri-Satıcı Ekstre -> Tarih Aralığı seçelim -> Carimizi seçelim -> Raporla diyerek, raporumuza ulaşım sağlayabiliriz.
+Bir diğer yöntem ise;
+Müşteri/Satıcı -> Müşteri/Satıcı Kartlar Listesi -> Carimizi açalım -> Kısayollar -> Ekstre Dökümü şeklinde ulaşım sağlayabiliriz. 
+
+Soru: Banka hesap kartımın ekstresini detaylı olarak almak istiyorum nasıl alabilirim ?
+
+Cevap: Rapor -> Banka -> Hareket -> Banka Ekstre Detaylı -> Tarih aralığı seçebiliriz -> BankaHesabını seçelim -> Raporla diyerek, raporumuza ulaşım sağlayabiliriz.
+
+Soru: Kasa hareketlerimi detaylı görmek istiyorum nasıl bakabilirim ?
+
+Cevap: Rapor -> Kasa -> Hareket -> Kasa Detaylı Ekstre -> Tarih Aralığımızı seçelim -> Kasamızı seçelim -> Raporla diyerek raporumuza ulaşım sağlayabiliriz.
+
 
 ## POS Tahsilat Soruları 
 
@@ -555,13 +573,16 @@ Cevap: Evet, toplu yükleme yapabiliriz. Ayarlar -> Modül Sayfası -> Dışarı
 Excel dosyamızı hazırlayalım zorunlu alanlar Cari Kodu - Cari Adı - Cari Tipi - Vergi Dairesi Adı - Vergi No -> Sistemde Var Olan Cari Kayıtlarını Güncelle bu seçeneği kaldıralım -> 
 Dosya seç -> Dosyamızı seçelim -> Şablonu Yükle stok kartı toplu yükleme işlemimiz gerçekleşti.
 
+Soru: Excele aktarılan kayıt sınırını nasıl düzeltebilirim ?
+
+Cevap: Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: DisariExcelAktarMaxSatirSayisi (Genel) -> Değer: rakam değerleri değiştirilerek kaydet seçeneği ile işlem tamamlanır.
 
 
 ## Gelir Gider Soruları 
 
-Soru: Muhtelif gideri nasıl göstereceğim ?
+Soru: Gelir Gider kalemleriyle aylık rapor almak istiyorum nasıl alabilirim ?
 
-Cevap: 
+
 
 ## Çıktı Tasarım Soruları 
 
@@ -577,3 +598,9 @@ Tasarla diyerek tasarım düzenleme alanımız açılacak -> Buradan istediğimi
 ***
 
 
+## Demirbaş Soruları 
+
+Soru: Demirbaş kiralık araç nasıl tanımlarım ?
+
+Cevap: Gelir Gider -> Hareket Oluştur -> Alış Faturası -> Gelir Gider Hizmet depomuzu seçelim -> Taşıt Giderleri -> Hangi Demirbaş ekle -> 
+Gerekli alanları doldurduktan sonra Kaydet diyelim. Yevmiye Fişini açarak gelir giderimize uygun olacak şekilde değişikliklerimizi yapalım.
