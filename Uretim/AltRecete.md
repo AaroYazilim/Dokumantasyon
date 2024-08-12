@@ -9,6 +9,14 @@ Bu reçeteler, üretim sürecinin her aşamasında ihtiyaç duyulan kaynakların
 Alt reçeteler karmaşık reçetelerin sadeleştirerek daha anlaşılır hale getirerek ana reçeteye iş emri verilerek tüm alt reçetelerine de iş emri oluşturulur. 
 İş emri verildiğinde, o reçeteye ait alt reçetelere de otomatik olarak iş emri atanır ve bu sayede stoklar alt reçetelerle birlikte güncellenir.
 
+Alt reçete kullanımı, özellikle yarı mamulün birden fazla nihai ürünün üretiminde kullanılacağı durumlarda tercih edilir. 
+Örneğin, bir malzemeden 10 farklı renk veya özellikte ürün üreteceğiniz bir senaryoda, bu ürünlerin tümünde aynı yarı mamul kullanılıyorsa, 
+her seferinde bu yarı mamulü tekrar girmek yerine bir alt reçete tanımlayabilirsiniz.
+Alt reçeteyi tanımladıktan sonra, bu reçeteyi diğer tüm reçetelerle ilişkilendirirsiniz. 
+Örneğin, 10 farklı renk üretmek istediğinizde, alt reçeteden toplam 1000 adet yarı mamul üretimi için iş emri verirsiniz ve 
+bu alt reçeteyi tüm ana reçetelere bağlayarak süreci kolaylaştırabilirsiniz. 
+Bu sayede, her bir reçete için ayrı ayrı yarı mamul girmek yerine, tek bir alt reçete üzerinden tüm üretimi yönetebilirsiniz.
+
 ### Alt Reçete Nasıl Yapılır ?
 
 Alt reçete oluşturmak istediğimiz reçeteyi açalım; 
@@ -65,5 +73,12 @@ Alt reçetimizi görmek için;
 Yarı mamülümüzün hammadde olarak gözüktüğü hammaddeye tıklayalım -> Hammadde Düzelt -> Gelişmiş kısmında Alt Reçete kısmından reçete adımızın yanında üç noktaya tıklayalım -> 
 Kartı aç dediğimizde Alt reçetemizi yeni sekmede görüntüleyebiliriz.
 
+### Ana Reçeteye Alt Reçete Bağlama 
 
+Ana reçetemizde hammadde olarak görünen yarı mamülümüzün için, ana reçetede ki hammaddeye tıklayalım -> Hammadde düzelt diyelim -> 
+Gelişmiş kısmında Alt Reçete -> Alt reçetemizi seçelim -> Kaydet diyelim bu şekilde ana retemize alt reçetemizi tanımlayabiliriz.
 
+Ana reçetenizde hammadde olarak görünen yarı mamulü alt reçete ile ilişkilendirmek için şu adımları izleyebilirsiniz; 
+Ana reçetede ki hammaddeye tıklayalım -> Hammadde düzelt diyelim -> Gelişmiş kısmında Alt Reçete -> Alt reçetemizi seçelim -> Kaydet
+Bu adımları takip ederek, ana reçetenizdeki yarı mamulü, tanımlı bir alt reçete ile ilişkilendirip kullanabilirsiniz. 
+Bu sayede, üretim süreçlerinizde hem daha düzenli bir yapı oluşturmuş olur hem de süreçlerinizi kolaylaştırırsınız.

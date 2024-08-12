@@ -24,10 +24,10 @@ parametresini evet yaparak gönderilen faturalarda stok kodunun görüntülenmes
 muhasebeleştirmesi onayını ve kilidini kaldır dedikten sonra fatura içeriğine gidilip yanlış kalemler doğru kalemlerle eşleştirilip 
 yanlış kalemin hareketinin kalmaması sağlanır böylelikle yanlış stok kartını listemizden kaldırmış oluruz.
 
-**Soru:** Fiyat listesi düzenleme şablonları ve bu şablonların tekrar yüklenmesi nasıl yapılır?
+Soru: Fiyat listesi düzenleme şablonları ve bu şablonların tekrar yüklenmesi nasıl yapılır?
 
-**Cevap:** **Rapor -> Stok -> Fiyat -> Fiyat Listesi Aktarım/Düzeltme Şablonu** kısmına gidelim ve sistemde yer alan fiyat listelerini indirip düzenleyelim,
-**Ayarlar -> Modül Sayfası -> Dışarıdan Aktarma -> Stok -> Fiyat Listesi Aktarma** şeklinde tekrardan yükleyebiliriz.
+Cevap: Rapor -> Stok -> Fiyat -> Fiyat Listesi Aktarım/Düzeltme Şablonu kısmına gidelim ve sistemde yer alan fiyat listelerini indirip düzenleyelim,
+Ayarlar -> Modül Sayfası -> Dışarıdan Aktarma -> Stok -> Fiyat Listesi Aktarma** şeklinde tekrardan yükleyebiliriz.
 
 Soru: Stok sayımı nasıl yapılır ?
 
@@ -47,9 +47,9 @@ Yeni Stok Kalemi Ekle -> Borç-Alacak seçelim -> Stok kartını seçelim -> İl
 
 ## Üretim Soruları 
 
-**Soru:** Üretimde harcanan ürün depodan nasıl düşecek?
+Soru: Üretimde harcanan ürün depodan nasıl düşecek?
 
-**Cevap:** Reçeteler işlem yapıldıkça hammadde, yarı mamül ve mamüller üretilip üretim hareketi girildikçe sistemden otomatik olarak düşmektedir.
+Cevap: Reçeteler işlem yapıldıkça hammadde, yarı mamül ve mamüller üretilip üretim hareketi girildikçe sistemden otomatik olarak düşmektedir.
 
 
 
@@ -171,6 +171,20 @@ Fatura Tipi İstisna olmalıdır. e-Arşiv - e-Fatura Önizle yaparak kontroller
 
 
 ## İhraç Faturaları Soruları
+
+Soru: GTIP nedir ? Naıl kullanım sağlarım ?
+
+Cevap: GTIP (Gümrük Tarife İstatistik Pozisyonu) Kodu, Türkiye'de malların ithalat ve ihracat işlemlerinde kullanılan, ürünlerin gümrük tarife cetvelinde sınıflandırılmasını sağlayan bir koddur. 
+Bu kod, bir ürünün ticaretine ilişkin vergi oranlarını, ithalat veya ihracat kısıtlamalarını ve diğer gümrük mevzuatlarını belirler.
+Ürünün GTIP kodu belirlenirken, öncelikle ürünün ne olduğu, hangi malzeme ya da hammadde içerdiği ve nasıl bir işlevi olduğu doğru bir şekilde tanımlanmalıdır.
+Ürünün GTIP kodunu belirlemek için Gümrük ve Ticaret Bakanlığı'nın yayınladığı gümrük tarife cetvelleri kullanılabilir. Bu cetvellerde yer alan sınıflandırmalara göre ürünün kodu bulunur.
+Bu kod sayesinde, ürünün gümrükte hangi tarife dilimine girdiği ve ne kadar vergi uygulanacağı belirlenir.
+GTIP kodunun doğru bir şekilde belirlenmesi ve kullanılması, ticaretin sorunsuz yürümesi ve olası gümrük sorunlarının önlenmesi açısından oldukça önemlidir.
+
+GTIP tanımlamasını yapalım;
+Stok -> Stok Kartı Listesi -> Yeni Stok Kartı Ekle -> Gerekli alanları dolduralım -> 
+Gelişmiş kısmında GTIP alana stok kartına ait GTIP kodumuzu girmemiz gerekmektedir -> Kaydet diyerek GTIP kodu tanımlı stok kartımızı tanımlayalım.
+
 
 **Soru:** İhraç kayıtlı e-arşiv fatura nasıl kesilir?
 
@@ -367,28 +381,26 @@ Erişim anahtarı sayesinde yapılması gereken işlemler için sizin adına des
 
 ## Yetki Soruları
 
-**Soru:** Herhangi bir çıktı tasarımında rapor yetkisi nasıl açılır?
+Soru: Herhangi bir çıktı tasarımında rapor yetkisi nasıl açılır?
 
-**Cevap:** Bu işlemi herhangi bir çıktı tasarımından gerçekleştirebiliriz,
+Cevap: Bu işlemi herhangi bir çıktı tasarımından gerçekleştirebiliriz,
 Çıktımıza gelelim; Ayarlar -> Çıktı Listesi -> çıktımızın kategorisinden tasarımızı açalım, açılan ekranda rapor yetkileri kısmında Yeni Rapor Yetkileri Ekle,
 kullanıcıyı ya da kullanıcı grubu seçelim okuma yetkisini açalım.
 
-Soru: Belirli bir tarihten önce yapılan bir işlemde değişiklik yapma yetkiniz yoktur uyarısı nasıl çözülür?
-**Soru:** Belirli bir tarihten önce  yapılan bir işlemde değişiklik yapma yetkiniz yoktur uyarısı nasıl çözülür?
+Soru: Belirli bir tarihten önce yapılan bir işlemde değişiklik yapma yetkiniz yoktur uyarısı nasıl çözülür? 
 
-**Cevap:** Ayarlar -> Modül sayfası -> Kullanıcı listesi bölümünden ilgili kullanıcı açılarak Cari ve Muhasebe alanında Bugünden Önce(gün), 
+Cevap: Ayarlar -> Modül sayfası -> Kullanıcı listesi bölümünden ilgili kullanıcı açılarak Cari ve Muhasebe alanında Bugünden Önce(gün), 
 bugünden sonra(gün) bölümlerinde karşılarındaki rakam değerleri değiştirilerek kaydet seçeneği ile işlem tamamlanır. 
 (sistemi yenile veya çıkış yapıp giriş yaparak tekrar dene)
 
-**Soru:** Kdv den muaf fatura yetkisi nasıl açılır?
+Soru: Kdv den muaf fatura yetkisi nasıl açılır?
 
 Cevap: Ayarlar -> Modül sayfası -> Yetki alt listesi bölümünden Yeni Yetki Alt Ekle diyerek çıkan ekranda AltProgramID kısmına "Genel – DekontFatura_KDVdenMuafYapabilir" 
-**Cevap:** Ayarlar -> Modül sayfası -> Yetki alt listesi bölümünden Yeni Yetk Alt Ekle diyerek çıkan ekranda AltProgramID kısmına "Genel – DekontFatura_KDVdenMuafYapabilir" 
 yetkisi seçilerek okuma,ekleme,silme, düzenleme aktif edilerek kaydedilir.
 
-**Soru:** KDV oranı değiştirme yetkisi nasıl açılır?
+Soru: KDV oranı değiştirme yetkisi nasıl açılır?
 
-**Cevap:**Ayarlar modül sayfası yetki alt listesi bölümünden Yeni Yetk Alt Ekle diyerek çıkan ekranda AltProgramID kısmına "DekontFatura_KDVOranDegistirebilir " 
+Cevap:Ayarlar modül sayfası yetki alt listesi bölümünden Yeni Yetk Alt Ekle diyerek çıkan ekranda AltProgramID kısmına "DekontFatura_KDVOranDegistirebilir " 
 yetkisi seçilerek okuma,ekleme,silme, düzenleme aktif edilerek kaydedilir.
 
 Soru: Cari kartı açarken vergi numarasını 11111111111 girmek istiyorum sistem izin vermiyor nasıl düzeltebiliriz ?
@@ -397,6 +409,12 @@ Cevap: Mükerrer cari yetkilerini açmamız gerekmektedir. Mükerrer kendini tek
 Ayarlar -> Yetki Alt Listesi -> Yeni Yetki Alt Ekle -> Kullanıcıyı seçelim -> Genel - Cari_MukerrerVergiNoKaydedebilir -> 
 Okuma - Ekleme - Silme - Düzeltme seçeneklerinden kullanıcı için uygun olan seçenekleri seçelim. -> Kaydet diyelim yetkimiz aktif oldu.
 Aaro'dan çıkış yapıp tekrar giriş yapalım. 
+
+Soru: Kullanıcı kayıt yapma tarih aralığı yetkilendirmesi nasıl yapılır ?
+
+Cevap: Ayarlar -> Modül sayfası -> Kullanıcı listesi bölümünden ilgili kullanıcı açılarak Cari ve Muhasebe alanında Bugünden Önce(gün), 
+bugünden sonra(gün) bölümlerinde karşılarındaki rakam değerleri değiştirilerek kaydet seçeneği ile işlem tamamlanır. 
+(sistemi yenile veya çıkış yapıp giriş yaparak tekrar dene)
 
 ## Personel Soruları
 
@@ -422,17 +440,30 @@ seçip ilgili diğer hesabı ise borç olarak seçiyoruz ve karma transfer harek
 Firmalarımız bu olayda hareketlerini göremiyor. Hareketlerin detayını görebilmesi için filtreleme bölümünde yer alan başlangıç tarihi kısıtını 
 istedikleri bir tarihi girerek hareketlere ulaşabilirler.
 
-## MRP Raporu 
+## Rapor Soruları  
 
-**Soru:** Sipariş ve iş emirleri üzerinden malzeme ihtiyaç ve stok durum raporu(MRP) nasıl alınır?
+Soru: Sipariş ve iş emirleri üzerinden malzeme ihtiyaç ve stok durum raporu(MRP) nasıl alınır?
 
-**Cevap:** Rapor -> Stok -> Toplam -> MalzemeMevcudu (DepoMinMaxMiktar Kontrolü) -> İlgili sipariş ve ya iş emri seçerek raporlayabiliriz.
+Cevap: Rapor -> Stok -> Toplam -> MalzemeMevcudu (DepoMinMaxMiktar Kontrolü) -> İlgili sipariş ve ya iş emri seçerek raporlayabiliriz.
+
+Soru: Cari bakiye raporunu nasıl alabilirim ?
+
+Cevap: Rapor -> Müşteri/Satıcı -> Bakiye -> Müşteri-Satıcı Bakiye buradan erişim sağlayabiliriz detaylı bakiye raporları için cari bazlı min, max tutarlar için seçenekleri seçerek erişim sağlayabiliriz.
+
+Soru: Stok satış raporunu nasıl alabilirim ?
+
+Cevap: Stok adına göre detaylı rapor almak istiyorsak;
+Rapor -> Stok -> Toplam -> Stok Hareketleri Miktar Toplamları (StokAdına göre Gruplu) -> Tarih, depo, tutar filtrelemeleri ile rapor alabiliriz. 
+
+Soru: Üretim operasyona göre planlama raporunu nasıl alabilirim ?
+
+Cevap: 
 
 ## POS Tahsilat Soruları 
 
-**Soru:** PayTR, iyzico, MokaPos vs. gibi aracı bir entegratör firmayla çalışıyoruz. Yapılan tahsilatları ve faturaları sisteme nasıl işlemeliyiz? Komisyon faturalarını, ve kalan fatura tutarını nasıl takip ederiz?  Kalan alacağımızı nasıl takip ederiz?
+Soru: PayTR, iyzico, MokaPos vs. gibi aracı bir entegratör firmayla çalışıyoruz. Yapılan tahsilatları ve faturaları sisteme nasıl işlemeliyiz? Komisyon faturalarını, ve kalan fatura tutarını nasıl takip ederiz?  Kalan alacağımızı nasıl takip ederiz?
 
-**Cevap:** İki yöntem ile takip edebiliriz;
+Cevap: İki yöntem ile takip edebiliriz;
 
 1. Yöntem: Aracı firma ile olan borç alacak takibini basit bir şekilde takip etmek için kullanılabilir.
 
@@ -524,8 +555,25 @@ Cevap: Evet, toplu yükleme yapabiliriz. Ayarlar -> Modül Sayfası -> Dışarı
 Excel dosyamızı hazırlayalım zorunlu alanlar Cari Kodu - Cari Adı - Cari Tipi - Vergi Dairesi Adı - Vergi No -> Sistemde Var Olan Cari Kayıtlarını Güncelle bu seçeneği kaldıralım -> 
 Dosya seç -> Dosyamızı seçelim -> Şablonu Yükle stok kartı toplu yükleme işlemimiz gerçekleşti.
 
+
+
 ## Gelir Gider Soruları 
 
 Soru: Muhtelif gideri nasıl göstereceğim ?
 
 Cevap: 
+
+## Çıktı Tasarım Soruları 
+
+Soru: Çıktı tasarımı nasıl yapılır ?
+
+Cevap: Ayarlar -> Çıktı Listesi -> Çıktı Tasarımı yapacağımız tipi seçelim Örn; Verilen Teklif -> Sistemde var olan tasarımlarımızı buradan görüntüleyebiliriz -> 
+Düzenlemek istediğimiz tasarımı seçelim -> Düzenle -> Üç İşlem Butonu -> Çıktı Dosyasını İndir (Var olan dosyanın üzerinde çalışma yaptığımızda o dosyanın üzerine
+kaydeder yeni bir çalışma yapacağımız da çıktı dosyanı indirip tekrar yükleyerek üzerinde çalışmamız daha uygun olur.)
+Dosyamızı indirdikten sonra; 
+Yeni Çıktı Ekle -> Kod girelim -> Şirket-Şube seçelim -> Ön Tanımlı Çıktı Verilen Teklif olarak seçelim -> Tasarımımıza yeni bir isim verelim -> 
+Kaydet dediğimizde çıktı tasarımımızın bilgileri gelecek -> Yeni Rapor Yetkileri Ekle (Tasarımıza müdahale de bulunacak ya da düzenleme yapacak kişilere yetki açabiliriz.)
+Tasarla diyerek tasarım düzenleme alanımız açılacak -> Buradan istediğimiz tasarımı yapabiliriz.
+***
+
+
