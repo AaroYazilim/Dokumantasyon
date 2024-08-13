@@ -1,5 +1,5 @@
 
-# Bankadan Gider Hareketi
+# Bankadan Gelir Hareketi
 
 Banka hesabına giren parayı veya geliri ifade eder. 
 Bu terim, bir işletmenin veya bireyin banka hesabına yapılan herhangi bir finansal işlemi içerir ve genellikle gelir veya para girişi anlamına gelir.

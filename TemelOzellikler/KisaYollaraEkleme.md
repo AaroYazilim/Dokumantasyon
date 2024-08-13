@@ -39,12 +39,12 @@ Aşağıdaki gibi yollarla ulaşabilirsiniz:
 
 **Link Tipi:** Sayfa ya da rapor olarak seçim yapabilirsiniz.
 
-**Hedef Link:** 
+**Hedef Link** 
 
-**Controller Adı:** 
+**Controller Adı** 
 
-**Action Adı:** 
+**Action Adı** 
 
-**Data:** 
+**Data** 
 
 

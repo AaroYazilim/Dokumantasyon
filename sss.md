@@ -52,7 +52,6 @@ Soru: Üretimde harcanan ürün depodan nasıl düşecek?
 Cevap: Reçeteler işlem yapıldıkça hammadde, yarı mamül ve mamüller üretilip üretim hareketi girildikçe sistemden otomatik olarak düşmektedir.
 
 
-
 ## Satış&Pazarlama Soruları
 
 **Soru:** Siparişin açık kalemi ne kadar ve ne kadar sevkedildiğini nasıl görebilirim ?

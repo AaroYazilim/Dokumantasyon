@@ -3,27 +3,30 @@ SayfaID: CekSenetAlindi?TipID=CekAlindi
 SayfaTipi: CekSenet
 ---
 
-# Satış İade Faturası
+# Çek Alındı 
 
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetAlindi?TipID=CekAlindi](https://erp.aaro.com.tr/CekSenetAlindi?TipID=CekAlindi)
 
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "çek alındı" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Musteri/Satici -> Hareket Oluştur -> Çek -> Çek Alındı şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Satış & Pazarlama -> Hareket Oluştur -> Çek Oluştur üzerinden ulaşım sağlayabilirsiniz. 
+- Sol menüden ÇekSenet -> Hareket Oluştur -> Çek -> Çek Alındı şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden Satış & Pazarlama -> Hareket Oluştur -> Çek Alındı üzerinden ulaşım sağlayabilirsiniz. 
+- Sol menüden Müşteri/Satıcı -> Hareket Oluştur -> Çek -> Çek Alındı şeklinde ulaşım sağlayabilirsiniz. 
 
 ### Tanım 
 
-Çek, bir kişinin, belirli bir tutarı başka bir kişiye (lehtar) veya çeki taşıyana ödemesi için bankaya yazılı talimat verdiği bir ödeme aracıdır. 
-Çek üzerinde keşideci (çeki yazan kişi), lehtar, ödeme yapılacak tutar, ödeme tarihi ve banka bilgileri bulunur. 
+Çek Alındı Kaydı, bir çekin firma veya kişi tarafından teslim alındığını ve muhasebe kayıtlarına işlendiğini ifade eder. 
+Bu işlem, çekin fiziksel olarak alındığını ve gerekli finansal kayıtların oluşturulduğunu gösterir. 
+Çek alındı kaydı, çekin alınma tarihini, tutarını, çek sahibini ve diğer ilgili bilgileri içerir. 
+Bu kayıt, çekin ileride tahsil edilmesi veya diğer finansal işlemler için takip edilmesini sağlar.
 Çek, belirli bir tarihte veya çeki getirildiğinde ödenebilir.
 
 ## Genel
 
 **Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
 
-**Tarih:** Çekin yazıldığı tarihi belirtir. 
+**Tarih:** İşlemin yapıldığı tarihi belirtir. 
 
 **Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
 
@@ -37,9 +40,6 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 **Açıklama** İşleme ait açıklamayı belirtir. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 ## Detay
-
-**Beklenen Tahsilatlar ve Ödemeler** Bir işletmenin, belirli bir zaman dilimi içinde müşterilerinden almayı beklediği ödemelerdir. 
-	Bu, genellikle satışlardan kaynaklanan alacakları ve diğer gelir kalemlerini içerir. Beklenen Tahsilatlar ve Ödemeler kullanım detayları için linke tıklayınız. [Beklenen Tahsilatlar ve Ödemeler](../TemelOzellikler/BeklenenTahOd.md)
 
 **Sözleşme:** Bu hareketin hangi sözleşmeye ait olduğunu gösterir. Sözleşme kullanım detayları için linke tıklayınız.[Sözleşme](../TemelOzellikler/Sozlesme.md)
 
@@ -119,6 +119,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Kopyala: Çeki kopyalamak için kullanılır.
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
+- Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
 - Görev Oluştur: İade faturası için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
 - Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
 
@@ -126,12 +127,4 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 - Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
-
-## Yazdır
-
-- Sayfanın sağ üstünde bulunan yazıcı sembolü ile faturanın çıktısı alınabilir. 
-
-## Düzenleme 
-
-Nakit tahsilat işlemimizde herhangi bir düzeltme yapmak için kalem işaretini seçerek açılan ekranda düzenlemeleri yapabiliriz.
 

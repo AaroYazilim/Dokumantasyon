@@ -45,5 +45,5 @@ Bu sayede, işletmenin stok yönetim süreçleri daha etkili ve verimli bir şek
 - Kodlar kısmında Listeden Seç yapabilirsiniz.
 - Kodlar kısmında -> Listeden Seç -> Yeni Kod Ekle şeklinde yeni etiket ekleyebilirsiniz.
 
-### Ek Özellikler 
+
 
