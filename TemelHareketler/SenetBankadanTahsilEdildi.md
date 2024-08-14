@@ -1,24 +1,23 @@
 ---
 SayfaID: CekSenetHareketleri
-SayfaTipi: CekBankayaTahsilataVerildi
+SayfaTipi: SenetBankadanTahsilEdildi
 ---
 
-# Çek Bankaya Tahsilata Verildi
+# Senet Bankadan Tahsil Edildi
 
-**Eriþim Linki :** [erp.aaro.com.tr/CekSenetBankayaTahsilataVerildi?TipID=CekBankayaTahsilataVerildi&](erp.aaro.com.tr/CekSenetBankayaTahsilataVerildi?TipID=CekBankayaTahsilataVerildi&)
+**Eriþim Linki :** [erp.aaro.com.tr/CekSenetBankadanTahsilEdildi?TipID=SenetBankadanTahsilEdildi](erp.aaro.com.tr/CekSenetBankadanTahsilEdildi?TipID=SenetBankadanTahsilEdildi)
 
 ### Ulaþým
 
-- Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "Çek" aratarak ulaþým saðlayabilirsiniz.
-- Sol menüden ÇekSenet -> Hareket Oluþtur -> Çek Bankaya Tahsile Verildi üzerinden ulaþým saðlayabilirsiniz. 
-- Sol menüden Banka -> Hareket Oluþtur -> Çek Bankaya Tahsile Verildi üzerinden ulaþým saðlayabilirsiniz. 
+- Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "Senet" aratarak ulaþým saðlayabilirsiniz.
+- Sol menüden ÇekSenet -> Hareket Oluþtur -> Senet Bankadan Tahsil Edildi üzerinden ulaþým saðlayabilirsiniz. 
+- Sol menüden Banka -> Hareket Oluþtur -> Senet Bankadan Tahsil Edildi üzerinden ulaþým saðlayabilirsiniz. 
 
 ### Taným 
 
-Çek Bankaya Tahsile Verildi iþlemi, bir çekin tahsil edilmek üzere bankaya teslim edilmesi sürecini ifade eder. 
-Bu iþlem, çek sahibinin bankaya çeki sunmasý ve bankanýn çeki tahsil etmesi için gerekli süreci baþlatmasý anlamýna gelir.
-Tahsile verilen çek, bankanýn ilgili prosedürlerinden geçerek, çekin karþýlýðý olan tutarýn hesaplara aktarýlmasýný hedefler. 
-Çekin tahsili tamamlanana kadar, iþlem bankanýn takibinde kalýr ve ardýndan çek tutarý hesaplara geçer.
+Senet bankadan tahsil edildi, bir senedin bankadan alýndýðýný ve ödemesinin tamamlandýðýný belirtir. 
+Bu durumda, senet bankaya verilmiþ ve bankanýn senedi ödeyerek ilgili tutarý alacaklýya aktardýðý anlamýna gelir. 
+Bu iþlem, senedin vadesinin dolmuþ ve ödemesinin yapýlmýþ olduðunu gösterir.
 
 ### Genel 
 
@@ -30,10 +29,13 @@ Tahsile verilen çek, bankanýn ilgili prosedürlerinden geçerek, çekin karþýlýðý o
 
 - **Banka Hesap:** Ýþlemin yapýldýðý banka hesap kartýný ifade eder. **Girilmesi Zorunludur.**
 
-- **Döviz:** Bu iþlemin çalýþtýðý döviz cinisini belirtir.
+- **Döviz:** Bu senetin çalýþtýðý döviz cinsini belirtir.Türk lirasý haricinde baþka bir döviz seçildiðinde sadece o döviz cinsinden hareket iþlenmesine izin verir. 
+Banka hesabýnýn bakiyesi seçilen döviz cinsinden takip edilir.
 
-- **Kur:** Belirtilen dövizin, iþlem yapýlan para birimi karþýsýndaki deðerini ifade eder. 
+- **Kur:** Belirtilen senetin, iþlem yapýlan para birimi karþýsýndaki deðerini ifade eder. 
 Kur, dövizin güncel piyasa deðerini yansýtýr ve bu oran üzerinden iþlemler gerçekleþtirilir.
+
+- **Açýklama:** Ýþleme ait açýklamayý belirtir.
 
 ### Detay
 
@@ -52,9 +54,9 @@ Bu, iþlemin farklý bir iþlem hareket türü içinde yer aldýðýný gösterir.
 
 - **Etiketler:** Bu kartý gruplamak ve ileride gruplu rapor alabilmek için kullanýlýr. [Etiketler](../TemelOzellikler/Etiketler.md)
 
-### Çek Kalemi Ekleme 
+### Kalem Ekleme 
 
-- **Çek Senet Ekle:** Bankadan tahsil edilecek çeki seçelim.
+- **Çek Senet Ekle:** Bankadan tahsil edilecek seneti seçelim.
 
 ## Notlar 
 
@@ -93,8 +95,7 @@ Kart iþ akýþ süreçlerine dahil edildiðinde hangi kullanýcý tarafýndan hangi tari
 
  Sayfanýn sað üstünde bulunan alt altta üç çizgi þeklinde olan düðme ile ek iþlemlere ulaþýlýr.
 - Yevmiye Fiþ: Yevmiye fiþi, iþletmelerde gerçekleþen her türlü mali iþlemin tarih, miktar ve açýklama bilgileri ile birlikte kaydedildiði muhasebe belgesidir.
-- Kopyala: Çeki kopyalamak için kullanýlýr.
-- Kur Güncelle: Döviz kurunda deðiþiklik yapmak için kullanýlýr.
+- Kopyala: Seneti kopyalamak için kullanýlýr.
 - Tüm Kalemlerde Deðiþtir: Buradan depo, proje, sözleþme, vergi muafiyeti, vergileri yenile, iskonto oraný, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde deðiþtirebiliriz.
 - Döviz Türü Deðiþtir: Döviz türü deðiþikliði yapabiliriz.
 - Grid Sütunlarý Ayarla: Burada kartýn detaylarýnýn gözükmesinde deðiþiklikler yapabilirsiniz.

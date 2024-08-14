@@ -1,23 +1,23 @@
 ---
-SayfaID: CekSenetAlindi
-SayfaTipi: SenetAlindi
+SayfaID: CekSenetCiroEdildi
+SayfaTipi: SenetCiroEdildi
 ---
 
-# Senet Alýndý 
+# Çek Ciro Edildi/Verildi
 
-**Eriþim Linki :** [erp.aaro.com.tr/CekSenetAlindi?TipID=SenetAlindi](https://erp.aaro.com.tr/CekSenetAlindi?TipID=SenetAlindi)
+**Eriþim Linki :** [erp.aaro.com.tr/CekSenetCiroEdildi?TipID=SenetCiroEdildi](https://erp.aaro.com.tr/CekSenetCiroEdildi?TipID=SenetCiroEdildi)
 
 ### Ulaþým
 
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "senet" aratarak ulaþým saðlayabilirsiniz.
-- Sol menüden ÇekSenet -> Hareket Oluþtur -> Senet -> Senet Alýndý þeklinde ulaþým saðlayabilirsiniz. 
-- Sol menüden Müþteri/Satýcý -> Hareket Oluþtur -> Senet -> Senet Alýndý þeklinde ulaþým saðlayabilirsiniz. 
+- Sol menüden ÇekSenet -> Hareket Oluþtur -> Senet Ciro Edildi/Verildi þeklinde ulaþým saðlayabilirsiniz. 
+- Sol menüden Müþteri/Satýcý -> Hareket Oluþtur -> Senet -> Senet Ciro Edildi/Verildi þeklinde ulaþým saðlayabilirsiniz. 
 
 ### Taným 
 
-Senet ciro edilerek verildi, bir senedin alacaklý tarafýndan baþka bir kiþiye ödeme veya teminat amacýyla devredildiðini ifade eder. 
-Ciro iþlemi, senedin arkasýna yapýlan imza ile gerçekleþtirilir ve senet, yeni sahibine verilerek borç veya alacak devri saðlanýr. 
-Bu iþlem, ticari iþlemlerde veya borçlarýn ödenmesinde yaygýn olarak kullanýlýr.
+Senet ciro edilerek verildi, bir senedin, ödeme veya borç devri amacýyla baþka bir kiþiye veya kuruluþa devredildiðini belirtir. 
+Ciro iþlemi, senedin arka yüzüne yapýlan bir imza ile gerçekleþtirilir ve senet, yeni alacaklýya verilmiþ olur. 
+Bu iþlem, genellikle borçlarýn ödenmesi veya ticari iþlemlerin tamamlanmasý amacýyla yapýlýr.
 
 ## Genel
 
@@ -27,9 +27,9 @@ Bu iþlem, ticari iþlemlerde veya borçlarýn ödenmesinde yaygýn olarak kullanýlýr.
 
 **Belge No:** Belge numarasýný ifade eder. Otomatik sýradaki numara gelir. Ýstenirse seri kullanýlabilir.
 
-**Cari:** Ýþlemin yapýldýðýný cari kartýný ifade eder. 
+**Cari:** Ýþlemin yapýldýðýný cariyi ifade eder. 
 
-**Döviz:** Bu çekin çalýþtýðý döviz cinsini belirtir.Türk lirasý haricinde baþka bir döviz seçildiðinde sadece o döviz cinsinden hareket iþlenmesine izin verir. 
+**Döviz:** Bu senetin çalýþtýðý döviz cinsini belirtir.Türk lirasý haricinde baþka bir döviz seçildiðinde sadece o döviz cinsinden hareket iþlenmesine izin verir. 
 Banka hesabýnýn bakiyesi seçilen döviz cinsinden takip edilir.
 
 **Kur:** Para biriminin baþka bir para birimi cinsinden deðerini ifade eder. 
@@ -59,6 +59,13 @@ Banka hesabýnýn bakiyesi seçilen döviz cinsinden takip edilir.
 
 **Bilgilerimizi doldurduktan sonra kaydet diyerek kalem ekleme ekranýmýza eriþim saðlamaktayýz.**
 
+### Çek Senet Ekle
+
+- **Çek Senet Ekle:** Ciro iþlemini gerçekleþtireceðimiz seneti ekleyelim.
+
+### Ciro Ekle 
+
+- **Ciro Ekle:** Ciro iþlemini gerçekleþtireceðimiz seneti seçelim. 
 
 ## Notlar 
 
@@ -84,47 +91,21 @@ Kartýn hangi kullanýcý tarafýndan ve hangi tarihlerde oluþturulduðu ve deðiþtiri
 
 Kart iþ akýþ süreçlerine dahil edildiðinde hangi kullanýcý tarafýndan hangi tarihte onaylandýðý bilgilerini içerir.  
 
-## Kalem Ekleme 
-
-- Çek Senet Ekle: Bu seçeneði seçerek çekimizin bilgilerini girebiliriz.
-	Açýlan ekranda;	
-
-#### Genel
-
-**Seri No:** Senetin seri numarasýný ifade eder.
-
-**Vade:** Senetin geçerlilik süresini ifade eder.
-
-**Tutar:** Senetin tutarýný ifade eder.
-
-**Cari:** Senetin hangi cari tarafýndan verildiðini ifade eder.
-
-**Banka Þube:** Senetin bankasýný ifade eder.
-
-**Ýl:** Senetin bankasýnýn hangi ile aif olduðunu ifade eder.
-
-**Açýklama** Ýþleme ait açýklamayý belirtir. Açýklama kullaným detaylarý için linke týklayýnýz.[Açýklama](../TemelOzellikler/Aciklama.md)
-
-**Çek-Senet Asýl Bilgileri (Ýlk düzenleyen)**
-	Çek-Senet'in ilk düzenleyeni iþlediðiniz cariden farklý ise asýl bilgilerini doldurunuz.
-
-	**Asýl Adý:** Senetin hangi cariye ait olduðunu ifade eder.
-
-	**Vergi No:**Senetin ait olduðu carinin vergi numarasýný ifade eder.
 
 ## Ek Ýþlemler
 
  Sayfanýn sað üstünde bulunan alt altta üç çizgi þeklinde olan düðme ile ek iþlemlere ulaþýlýr.
 - Yevmiye Fiþ: Yevmiye fiþi, iþletmelerde gerçekleþen her türlü mali iþlemin tarih, miktar ve açýklama bilgileri ile birlikte kaydedildiði muhasebe belgesidir.
-- Kopyala: Seneti kopyalamak için kullanýlýr.
 - Tüm Kalemlerde Deðiþtir: Buradan depo, proje, sözleþme, vergi muafiyeti, vergileri yenile, iskonto oraný, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde deðiþtirebiliriz.
 - Döviz Türü Deðiþtir: Döviz türü deðiþikliði yapabiliriz.
 - Grid Sütunlarý Ayarla: Burada kartýn detaylarýnýn gözükmesinde deðiþiklikler yapabilirsiniz.
 - Görev Oluþtur: Ýade faturasý için görev oluþturup, kiþi atayabiliriz, açýklama, tarih bitiþ, hatýrlatma süresi, yönetici, kullanýcý, tamamlanma tipi, tekrar þekli bilgilerini ekleyerek görev tanýmlama iþlemimizi gerçekleþtirebiliriz.
 - Görev Baðla: Açýlan listede ki görevlerden görevi baðlayacaðýmýz, birleþtireceðimiz görevi seçelim, kaydet diyerek görevi baðlayabiliriz.
+- Çek-Senet Kopyala: Seneti kopyalamak için kullanýlýr.
 
 ## Kaydetme ve Silme
 
 - Doldurulmasý gereken alanlar girildikten sonra sað alt köþede bulunan Kaydet butonuna týklayarak Müþteri/Satýcý kartý açma iþlemimizi tamamlayabilirsiniz.
 - Kayýtlý bir kartý silmek için sol altta bulunan sil butonuna týklayarak silebilirsiniz.
+
 

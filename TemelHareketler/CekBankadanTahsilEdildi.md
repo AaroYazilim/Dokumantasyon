@@ -95,7 +95,7 @@ Kart iþ akýþ süreçlerine dahil edildiðinde hangi kullanýcý tarafýndan hangi tari
 
  Sayfanýn sað üstünde bulunan alt altta üç çizgi þeklinde olan düðme ile ek iþlemlere ulaþýlýr.
 - Yevmiye Fiþ: Yevmiye fiþi, iþletmelerde gerçekleþen her türlü mali iþlemin tarih, miktar ve açýklama bilgileri ile birlikte kaydedildiði muhasebe belgesidir.
-- Kopyala: Alýnan sipariþi kopyalamak için kullanýlýr.
+- Kopyala: Çeki kopyalamak için kullanýlýr.
 - Tüm Kalemlerde Deðiþtir: Buradan depo, proje, sözleþme, vergi muafiyeti, vergileri yenile, iskonto oraný, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde deðiþtirebiliriz.
 - Döviz Türü Deðiþtir: Döviz türü deðiþikliði yapabiliriz.
 - Grid Sütunlarý Ayarla: Burada kartýn detaylarýnýn gözükmesinde deðiþiklikler yapabilirsiniz.

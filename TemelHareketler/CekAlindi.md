@@ -1,6 +1,6 @@
 ---
-SayfaID: CekSenetAlindi?TipID=CekAlindi
-SayfaTipi: CekSenet
+SayfaID: CekSenetAlindi
+SayfaTipi: CekAlindi
 ---
 
 # Çek Alındı 

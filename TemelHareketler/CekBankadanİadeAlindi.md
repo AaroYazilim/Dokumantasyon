@@ -10,7 +10,8 @@ SayfaTipi: CekBankadanIadeAlindi
 ### Ulaþým
 
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "Çek" aratarak ulaþým saðlayabilirsiniz.
-- Sol menüden ÇekSenet -> Hareket Oluþtur -> Çek/Senet Kartý Listesi üzerinden ulaþým saðlayabilirsiniz. 
+- Sol menüden ÇekSenet -> Hareket Oluþtur -> Çek Bankadan Ýade Alýndý üzerinden ulaþým saðlayabilirsiniz. 
+- Sol menüden Banka -> Hareket Oluþtur -> Çek Bankadan Ýade Alýndý üzerinden ulaþým saðlayabilirsiniz. 
 
 ### Taným 
 
@@ -82,7 +83,7 @@ Kart iþ akýþ süreçlerine dahil edildiðinde hangi kullanýcý tarafýndan hangi tari
 
  Sayfanýn sað üstünde bulunan alt altta üç çizgi þeklinde olan düðme ile ek iþlemlere ulaþýlýr.
 - Yevmiye Fiþ: Yevmiye fiþi, iþletmelerde gerçekleþen her türlü mali iþlemin tarih, miktar ve açýklama bilgileri ile birlikte kaydedildiði muhasebe belgesidir.
-- Kopyala: Alýnan sipariþi kopyalamak için kullanýlýr.
+- Kopyala: Çeki kopyalamak için kullanýlýr.
 - Kur Güncelle: Döviz kurunda deðiþiklik yapmak için kullanýlýr.
 - Tüm Kalemlerde Deðiþtir: Buradan depo, proje, sözleþme, vergi muafiyeti, vergileri yenile, iskonto oraný, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde deðiþtirebiliriz.
 - Döviz Türü Deðiþtir: Döviz türü deðiþikliði yapabiliriz.

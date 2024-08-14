@@ -28,7 +28,7 @@ Muhasebe kayýtlarýnda, ciro edilen çekin verildiði kiþi veya kurum belirtilir ve
 
 **Belge No:** Belge numarasýný ifade eder. Otomatik sýradaki numara gelir. Ýstenirse seri kullanýlabilir.
 
-**Kasa:** Ýþlemin yapýldýðýný kasayý ifade eder. 
+**Cari:** Ýþlemin yapýldýðýný cariyi ifade eder. 
 
 **Döviz:** Bu çekin çalýþtýðý döviz cinsini belirtir.Türk lirasý haricinde baþka bir döviz seçildiðinde sadece o döviz cinsinden hareket iþlenmesine izin verir. 
 Banka hesabýnýn bakiyesi seçilen döviz cinsinden takip edilir.

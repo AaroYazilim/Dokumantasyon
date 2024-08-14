@@ -1,23 +1,22 @@
 ---
-SayfaID: CekSenetAlindi
-SayfaTipi: SenetAlindi
+SayfaID: CekSenetMusteriyeIadeAlindi
+SayfaTipi: SenetCariyeIadeEdildi
 ---
 
-# Senet Alýndý 
+# Senet Müþteriye Ýade Edildi
 
-**Eriþim Linki :** [erp.aaro.com.tr/CekSenetAlindi?TipID=SenetAlindi](https://erp.aaro.com.tr/CekSenetAlindi?TipID=SenetAlindi)
+**Eriþim Linki :** [erp.aaro.com.tr/CekSenetCariyeIadeEdildi?TipID=SenetCariyeIadeEdildi](https://erp.aaro.com.tr/CekSenetCariyeIadeEdildi?TipID=SenetCariyeIadeEdildi)
 
 ### Ulaþým
 
 - Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "senet" aratarak ulaþým saðlayabilirsiniz.
-- Sol menüden ÇekSenet -> Hareket Oluþtur -> Senet -> Senet Alýndý þeklinde ulaþým saðlayabilirsiniz. 
-- Sol menüden Müþteri/Satýcý -> Hareket Oluþtur -> Senet -> Senet Alýndý þeklinde ulaþým saðlayabilirsiniz. 
+- Sol menüden ÇekSenet -> Hareket Oluþtur -> Senet Müþteriye Ýade Edildi þeklinde ulaþým saðlayabilirsiniz. 
+- Sol menüden Müþteri/Satýcý -> Hareket Oluþtur -> Senet -> Senet Cariye Ýade Edildi þeklinde ulaþým saðlayabilirsiniz. 
 
 ### Taným 
 
-Senet ciro edilerek verildi, bir senedin alacaklý tarafýndan baþka bir kiþiye ödeme veya teminat amacýyla devredildiðini ifade eder. 
-Ciro iþlemi, senedin arkasýna yapýlan imza ile gerçekleþtirilir ve senet, yeni sahibine verilerek borç veya alacak devri saðlanýr. 
-Bu iþlem, ticari iþlemlerde veya borçlarýn ödenmesinde yaygýn olarak kullanýlýr.
+Senet müþteriye iade edildi, bir müþteriden alýnan senedin belirli bir iþlem sonucunda geri müþteriye verilmesi anlamýna gelir. 
+Bu, genellikle senedin tahsil edilememesi, iþlem iptali veya baþka bir sebeple senedin geri verilmesi durumunda gerçekleþir.
 
 ## Genel
 
@@ -29,7 +28,7 @@ Bu iþlem, ticari iþlemlerde veya borçlarýn ödenmesinde yaygýn olarak kullanýlýr.
 
 **Cari:** Ýþlemin yapýldýðýný cari kartýný ifade eder. 
 
-**Döviz:** Bu çekin çalýþtýðý döviz cinsini belirtir.Türk lirasý haricinde baþka bir döviz seçildiðinde sadece o döviz cinsinden hareket iþlenmesine izin verir. 
+**Döviz:** Bu senetin çalýþtýðý döviz cinsini belirtir.Türk lirasý haricinde baþka bir döviz seçildiðinde sadece o döviz cinsinden hareket iþlenmesine izin verir. 
 Banka hesabýnýn bakiyesi seçilen döviz cinsinden takip edilir.
 
 **Kur:** Para biriminin baþka bir para birimi cinsinden deðerini ifade eder. 
@@ -37,9 +36,6 @@ Banka hesabýnýn bakiyesi seçilen döviz cinsinden takip edilir.
 **Açýklama** Ýþleme ait açýklamayý belirtir. Açýklama kullaným detaylarý için linke týklayýnýz. [Açýklama](../TemelOzellikler/Aciklama.md)
 
 ## Detay
-
-**Beklenen Tahsilatlar ve Ödemeler** Bir iþletmenin, belirli bir zaman dilimi içinde müþterilerinden almayý beklediði ödemelerdir. 
-	Bu, genellikle satýþlardan kaynaklanan alacaklarý ve diðer gelir kalemlerini içerir. Beklenen Tahsilatlar ve Ödemeler kullaným detaylarý için linke týklayýnýz. [Beklenen Tahsilatlar ve Ödemeler](../TemelOzellikler/BeklenenTahOd.md)
 
 **Sözleþme:** Bu hareketin hangi sözleþmeye ait olduðunu gösterir. Sözleþme kullaným detaylarý için linke týklayýnýz.[Sözleþme](../TemelOzellikler/Sozlesme.md)
 
@@ -59,6 +55,9 @@ Banka hesabýnýn bakiyesi seçilen döviz cinsinden takip edilir.
 
 **Bilgilerimizi doldurduktan sonra kaydet diyerek kalem ekleme ekranýmýza eriþim saðlamaktayýz.**
 
+### Senet Kalemi Ekleme 
+
+- **Çek Senet Ekle:** Müþteriye iade edilen seneti seçelim.
 
 ## Notlar 
 
@@ -84,33 +83,6 @@ Kartýn hangi kullanýcý tarafýndan ve hangi tarihlerde oluþturulduðu ve deðiþtiri
 
 Kart iþ akýþ süreçlerine dahil edildiðinde hangi kullanýcý tarafýndan hangi tarihte onaylandýðý bilgilerini içerir.  
 
-## Kalem Ekleme 
-
-- Çek Senet Ekle: Bu seçeneði seçerek çekimizin bilgilerini girebiliriz.
-	Açýlan ekranda;	
-
-#### Genel
-
-**Seri No:** Senetin seri numarasýný ifade eder.
-
-**Vade:** Senetin geçerlilik süresini ifade eder.
-
-**Tutar:** Senetin tutarýný ifade eder.
-
-**Cari:** Senetin hangi cari tarafýndan verildiðini ifade eder.
-
-**Banka Þube:** Senetin bankasýný ifade eder.
-
-**Ýl:** Senetin bankasýnýn hangi ile aif olduðunu ifade eder.
-
-**Açýklama** Ýþleme ait açýklamayý belirtir. Açýklama kullaným detaylarý için linke týklayýnýz.[Açýklama](../TemelOzellikler/Aciklama.md)
-
-**Çek-Senet Asýl Bilgileri (Ýlk düzenleyen)**
-	Çek-Senet'in ilk düzenleyeni iþlediðiniz cariden farklý ise asýl bilgilerini doldurunuz.
-
-	**Asýl Adý:** Senetin hangi cariye ait olduðunu ifade eder.
-
-	**Vergi No:**Senetin ait olduðu carinin vergi numarasýný ifade eder.
 
 ## Ek Ýþlemler
 
@@ -127,4 +99,5 @@ Kart iþ akýþ süreçlerine dahil edildiðinde hangi kullanýcý tarafýndan hangi tari
 
 - Doldurulmasý gereken alanlar girildikten sonra sað alt köþede bulunan Kaydet butonuna týklayarak Müþteri/Satýcý kartý açma iþlemimizi tamamlayabilirsiniz.
 - Kayýtlý bir kartý silmek için sol altta bulunan sil butonuna týklayarak silebilirsiniz.
+
 
