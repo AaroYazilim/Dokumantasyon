@@ -1,21 +1,22 @@
 ---
-SayfaID: CekSenetCaridenIadeAlindi
-SayfaTipi: SenetSaticidanIadeAlindi
+SayfaID: CekSenetKarsiliksizPortfoyde
+SayfaTipi: SenetKarsiliksizPortfoyde
 ---
 
-# Senet Satýcýdan Ýade Alýndý 
+# Senet Portföyde Karþýlýksýz Çýktý 
 
-**Eriþim Linki :** [erp.aaro.com.tr/CekSenetCaridenIadeAlindi?TipID=SenetCaridenIadeAlindi](https://erp.aaro.com.tr/CekSenetCaridenIadeAlindi?TipID=SenetCaridenIadeAlindi)
+**Eriþim Linki :** [erp.aaro.com.tr/CekSenetKarsiliksizPortfoyde?TipID=SenetKarsiliksizPortfoyde](https://erp.aaro.com.tr/CekSenetKarsiliksizPortfoyde?TipID=SenetKarsiliksizPortfoyde)
 
 ### Ulaþým
 
-- Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "senet" aratarak ulaþým saðlayabilirsiniz.
-- Sol menüden ÇekSenet -> Hareket Oluþtur -> Senet -> Senet Satýcýdan Ýade Alýndý þeklinde ulaþým saðlayabilirsiniz. 
+- Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "senet karþýlýksýz" aratarak ulaþým saðlayabilirsiniz.
+- Sol menüden ÇekSenet -> Hareket Oluþtur -> Çek -> Senet Portföyde Karþýlýksýz Çýktý þeklinde ulaþým saðlayabilirsiniz. 
 
 ### Taným 
 
-Senet satýcýdan iade alýndý, daha önce bir satýcýya verilen senedin geri alýndýðýný belirtir. 
-Bu iþlem, senedin iptali, anlaþmazlýk ya da baþka bir nedenle satýcý tarafýndan iade edilmesi durumunda gerçekleþir.
+Senet portföyde karþýlýksýz çýktý, portföyde bulunan bir senedin vadesi geldiðinde ödenmemesi durumunu ifade eder. 
+Bu, senedin düzenleyicisinin ödeme yapmadýðý ve senedin tahsil edilemediði anlamýna gelir. 
+Sonuç olarak, senet karþýlýksýz olarak kabul edilir ve alacaklýya ödeme yapýlmaz.
 
 ## Genel
 
@@ -25,18 +26,12 @@ Bu iþlem, senedin iptali, anlaþmazlýk ya da baþka bir nedenle satýcý tarafýndan 
 
 **Belge No:** Belge numarasýný ifade eder. Otomatik sýradaki numara gelir. Ýstenirse seri kullanýlabilir.
 
-**Cari:** Ýþlemin yapýldýðýný cari kartýný ifade eder. 
-
 **Döviz:** Bu senetin çalýþtýðý döviz cinsini belirtir.Türk lirasý haricinde baþka bir döviz seçildiðinde sadece o döviz cinsinden hareket iþlenmesine izin verir. 
 Banka hesabýnýn bakiyesi seçilen döviz cinsinden takip edilir.
 
 **Kur:** Para biriminin baþka bir para birimi cinsinden deðerini ifade eder. 
 
-**Açýklama** Ýþleme ait açýklamayý belirtir. Açýklama kullaným detaylarý için linke týklayýnýz. [Açýklama](../TemelOzellikler/Aciklama.md)
-
 ## Detay
-
-**Sözleþme:** Bu hareketin hangi sözleþmeye ait olduðunu gösterir. Sözleþme kullaným detaylarý için linke týklayýnýz.[Sözleþme](../TemelOzellikler/Sozlesme.md)
 
 **Proje:** Bu hareketin hangi projeye ait olduðunu belirtir. Kalemlerde deðiþtirilebilir. Proje kullaným detaylarý için linke týklayýnýz.[Proje](../TemelOzellikler/Proje.md)
 
@@ -56,7 +51,7 @@ Banka hesabýnýn bakiyesi seçilen döviz cinsinden takip edilir.
 
 ### Kalem Ekleme 
 
-- **Çek Senet Ekle:** Cariden iade alýnan seneti seçelim.
+- **Çek Senet Ekle:** Karþýlýksýz çýkan seneti seçelim.
 
 ## Notlar 
 
@@ -88,6 +83,7 @@ Kart iþ akýþ süreçlerine dahil edildiðinde hangi kullanýcý tarafýndan hangi tari
  Sayfanýn sað üstünde bulunan alt altta üç çizgi þeklinde olan düðme ile ek iþlemlere ulaþýlýr.
 - Yevmiye Fiþ: Yevmiye fiþi, iþletmelerde gerçekleþen her türlü mali iþlemin tarih, miktar ve açýklama bilgileri ile birlikte kaydedildiði muhasebe belgesidir.
 - Kopyala: Seneti kopyalamak için kullanýlýr.
+- Kur Güncelle: Döviz kurunda deðiþiklik yapmak için kullanýlýr.
 - Tüm Kalemlerde Deðiþtir: Buradan depo, proje, sözleþme, vergi muafiyeti, vergileri yenile, iskonto oraný, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde deðiþtirebiliriz.
 - Döviz Türü Deðiþtir: Döviz türü deðiþikliði yapabiliriz.
 - Grid Sütunlarý Ayarla: Burada kartýn detaylarýnýn gözükmesinde deðiþiklikler yapabilirsiniz.

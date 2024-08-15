@@ -51,7 +51,7 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 ### Açıklamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. İade nedeni burada belirtilebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")	
+- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")	
 
 ### Etiketler
 

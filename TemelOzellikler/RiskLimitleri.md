@@ -61,14 +61,3 @@ Carilerimizde Risk Limitlerimizi aktif edilmiştir.
 Rapor -> Müşteri/Satıcı -> Diğer -> Cari Risk Listesi
 	Özel filtrelemeler yaparak risk limitleri raporlarına ulaşabiliriz. 
 	Cari bazında veya tutarlara göre analiz raporlarına erişim sağlayarak detaylı inceleme yapabiliriz.
-
-
-Rapor -> Personel -> Risk Limiti Listesi 
-
-
-
-Rapor -> Sipariş/Teklif -> Kalan Sipariş Miktarları ve Risk Limitleri 
-
-
-
-

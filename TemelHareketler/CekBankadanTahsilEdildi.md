@@ -35,7 +35,7 @@ Bankadan tahsil edilen çek, muhasebe kayýtlarýna alýnarak ilgili hesaplara iþlen
 - **Kur:** Belirtilen dövizin, iþlem yapýlan para birimi karþýsýndaki deðerini ifade eder. 
 Kur, dövizin güncel piyasa deðerini yansýtýr ve bu oran üzerinden iþlemler gerçekleþtirilir.
 
-- **Açýklama:** Ýþleme ait açýklamayý belirtir.
+- **Açýklama:** Ýþleme ait açýklamayý belirtir. [Açýklama](../TemelOzellikler/Aciklama.md)
 
 ### Detay
 
