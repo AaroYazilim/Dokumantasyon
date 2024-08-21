@@ -49,7 +49,7 @@ Siparişlerin işlenmesi ve teslimatı, işletmenin müşteri ilişkilerini yön
 **Vade:** Ürün veya hizmetin ödemesinin yapılması gereken süreyi belirtir. 
 Vade, sipariş için geçerli olan ödemelerin yapılması gereken süreyi tanımlar. 
 
-**Açıklama:** İşlemle ilgili detayları ve özel notları belirtir. İş emrinde, siparişe özel bilgileri veya işlemi gerçekleştirecek kişi için önemli detayları burada ekleyebilirsiniz.
+**Açıklama:** İşlemle ilgili detayları ve özel notları belirtir. Siparişe özel bilgileri veya işlemi gerçekleştirecek kişi için önemli detayları burada ekleyebilirsiniz.
 
 **KDV Dahil:** Kalemlerde birim fiyat ve tutarın 'KDV Dahil' olduğunu belirtir.
 
@@ -82,7 +82,7 @@ Vade, sipariş için geçerli olan ödemelerin yapılması gereken süreyi tanı
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak işlemimizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
 
 	## İş Emri Ver 
