@@ -7,8 +7,6 @@ Bu ödemeler, belirli tarihlerde veya vade süresinde gerçekleştirilmesi planl
 Tahsilatların gerçekleşip gerçekleşmediğini kontrol eder ve gerekli hatırlatmaları yapılmasına olanak tanır.
 Ödemelerin zamanında alınıp alınmadığını takip ederek finansal durumu izleyebilirsiniz.
 
-
-
 ### Beklenen Ödeme ve Tahsilat (Yeni) Tanımlama
 
 #### Ödeme / Tahsilat Bilgileri

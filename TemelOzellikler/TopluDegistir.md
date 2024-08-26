@@ -21,27 +21,29 @@ Mesela; bir muhasebe yöneticisi, belirli bir döneme ait tüm faturaları toplu
 
 * Buradan değiştirilecek hareket satırlarını seçmeniz gerekmektedir.
 
-**Hareketler:** 
+**Hareketler:** Değiştirilecek hareket satırlarını seçiniz.
 
-**Depo:** 
+Değiştirmek istediğiniz bilginin değerini girip değiştirmek isteiğinizi belirten kutuyu işaretleyiniz.
 
-**Proje:** 
+**Depo:** Depo değişikliği yapılacak ise yeni depoyu ifade eder.
 
-**Sözleşme:** 
+**Proje:** Proje değişikliği yapılacak ise yeni projeyi ifade eder.
 
-**Vergi Muafiyeti:**
+**Sözleşme:** Sözleşme değişikliği yapılacak ise yeni sözleşmeyi ifade eder.
 
-* Değiştirmek istediğiniz bilginin değerini girip değiştirmek istediğinizi belirten kutuyu işaretleyiniz.
+**Vergi Muafiyeti:** Vergi muafiyeti değişikliği yapılacak ise yeni vergi muafiyetini ifade eder.
 
-**Ref. İthalat İhracat:**
+**Ref. İthalat İhracat:** Ref. İthalat İhracat değişikliği yapılacak ise yeni Ref. İthalat İhracat ifade eder.
 
-**Plasiyer:**
+**Plasiyer:** Plasiyer değişikliği yapılacak ise yeni Plasiyer ifade eder.
 
-**Ref. Teslim Tarihi:**
+**Ref. Teslim Tarihi:** Ref. Teslim Tarihi değişikliği yapılacak ise yeni Ref. Teslim Tarihi ifade eder.
 
 
-* Dekontlardaki tüm satırlarda değişiklik yapmak ve dekontu tekrar kaydetmek için seçiniz. 
+Dekontlardaki tüm satırlarda değişiklik yapmak ve dekontu tekrar kaydetmek için seçiniz. 
 Eğer seçmezseniz sadece hareketlerde değişiklik yapar, dekontta ve dekontun diğer kalemlerinde işlem yapmaz.
 
 Belgenin tüm kalemlerine uygula seçeneği bulunmaktadır.
 
+
+#### Kaydet diyerek işlemimizi tamamlayabiliriz.

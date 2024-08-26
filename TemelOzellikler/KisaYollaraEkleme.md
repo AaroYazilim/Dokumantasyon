@@ -1,7 +1,7 @@
 
-## Kısa Yollara Ekleme
+# Kısa Yollara Ekleme
 
-### Tanım
+## Tanım
 
 **Kısayollarım**a ekle özelliği, kullanıcıların sık kullandıkları işlevleri veya sayfaları kişiselleştirilmiş bir menüye ekleyerek kolayca erişmelerini sağlar. 
 Bu özellik, kullanıcılarınızın belirli işlem veya sayfalara hızlı bir şekilde bulmalarını ve erişmelerini sağlayarak iş verimliliğini artırır.
@@ -9,7 +9,7 @@ Bu menü, ekranın kenar çubuğunda yer almaktadır.
 Eklediğiniz kısa yolları istediğiniz sıraya göre düzenleyebilir ve yeniden sıralayabilirsiniz. 
 Bu, kısayol menüsünün kişisel tercihlere ve kullanım alışkanlıklarına göre özelleştirmenizi sağlar.
 
-### Ulaşım
+## Ulaşım
 
 Ekleme yaptığınız kısayolları görüntülemek, pasife almak ve yeni kısayollar eklemek için Modüller'in yanındaki **Kısayollarım** sekmesini kullanabilirsiniz.
 
@@ -25,7 +25,7 @@ Aşağıdaki gibi yollarla ulaşabilirsiniz:
 **Kısayollarım**da ekli olan bir kart ya da hareketi kapatmak için:
 **Aaro -> Kısayollarım -> kaldırmak istediğimiz kısayolun yanındaki büyüteç işaretine tıklayınız ya da o satıra çift tıklayınız -> açılan penceredeki durum kısmını pasif yaparak kısayolunuzun görünürlüğünü kapatın**.
 
-### Kısayollarıma Ekleme Ekranı
+## Kısayollarıma Ekleme Ekranı
 
 **Durum:** Aktif ya da pasiflik durumunu seçebilirsiniz.
 
@@ -39,12 +39,6 @@ Aşağıdaki gibi yollarla ulaşabilirsiniz:
 
 **Link Tipi:** Sayfa ya da rapor olarak seçim yapabilirsiniz.
 
-**Hedef Link** 
 
-**Controller Adı** 
-
-**Action Adı** 
-
-**Data** 
 
 
