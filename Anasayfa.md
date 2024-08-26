@@ -1,39 +1,39 @@
----
+ï»¿---
 SayfaID: Anasayfa
 SayfaTipi: Anasayfa
 ---
 
 # Anasayfa 
 
-**Erişim Linki :** [erp.aaro.com.tr](erp.aaro.com.tr)
+**EriÅŸim Linki :** [erp.aaro.com.tr](erp.aaro.com.tr)
 
-AARO açıldığında, Anasayfa'da özelleştirilmiş göstergeleriniz sizi karşılar. İşletmeniz için en önemli performans göstergelerini seçip öne çıkarabilirsiniz. 
-Detaylı verilere hızlıca erişmek için göstergelere tıklamanız yeterlidir. Gösterge detaylarına [buradan](../Gostergeler.md) ulaşabilirsiniz.
+AARO aÃ§Ä±ldÄ±ÄŸÄ±nda, Anasayfa'da Ã¶zelleÅŸtirilmiÅŸ gÃ¶stergeleriniz sizi karÅŸÄ±lar. Ä°ÅŸletmeniz iÃ§in en Ã¶nemli performans gÃ¶stergelerini seÃ§ip Ã¶ne Ã§Ä±karabilirsiniz. 
+DetaylÄ± verilere hÄ±zlÄ±ca eriÅŸmek iÃ§in gÃ¶stergelere tÄ±klamanÄ±z yeterlidir. GÃ¶sterge detaylarÄ±na [buradan](../Gostergeler.md) ulaÅŸabilirsiniz.
 
 
-## Ana Menü Çubuğu
+## Ana MenÃ¼ Ã‡ubuÄŸu
 
-Ana menü çubuğu, ekranın sağ üst köşesinde üç çizgi şeklinde bulunan butonla temsil edilir. Bu butona tıklayarak tüm menülere erişim sağlayabilirsiniz. 
+Ana menÃ¼ Ã§ubuÄŸu, ekranÄ±n saÄŸ Ã¼st kÃ¶ÅŸesinde Ã¼Ã§ Ã§izgi ÅŸeklinde bulunan butonla temsil edilir. Bu butona tÄ±klayarak tÃ¼m menÃ¼lere eriÅŸim saÄŸlayabilirsiniz. 
 
-Ana menüdeki butonlar şunlardır:
+Ana menÃ¼deki butonlar ÅŸunlardÄ±r:
 
-- **Ev Butonu:** Bu butona tıkladığınızda, Anamenüdeki modül sayfalarınız ve kısayollar tam ekran görünür. Sağ alt köşedeki butona tekrar tıkladığınızda eski haline geri döner.
+- **Ev Butonu:** Bu butona tÄ±kladÄ±ÄŸÄ±nÄ±zda, AnamenÃ¼deki modÃ¼l sayfalarÄ±nÄ±z ve kÄ±sayollar tam ekran gÃ¶rÃ¼nÃ¼r. SaÄŸ alt kÃ¶ÅŸedeki butona tekrar tÄ±kladÄ±ÄŸÄ±nÄ±zda eski haline geri dÃ¶ner.
   
-- **AARO Logosu:** AARO logosuna tıklayarak Anasayfaya yönlendirilebilirsiniz.
+- **AARO Logosu:** AARO logosuna tÄ±klayarak Anasayfaya yÃ¶nlendirilebilirsiniz.
 
-- **Telefon Butonu:** Telefon simgesine tıklayarak ana menüyü genişletebilir veya daraltabilirsiniz.
+- **Telefon Butonu:** Telefon simgesine tÄ±klayarak ana menÃ¼yÃ¼ geniÅŸletebilir veya daraltabilirsiniz.
 
-- **Masaüstü Butonu:** Masaüstü butonuna tıkladığınızda, göstergelerinizi düzenleme alanına yönlendirilirsiniz. Buradan göstergelerinizi özelleştirebilirsiniz.
+- **MasaÃ¼stÃ¼ Butonu:** MasaÃ¼stÃ¼ butonuna tÄ±kladÄ±ÄŸÄ±nÄ±zda, gÃ¶stergelerinizi dÃ¼zenleme alanÄ±na yÃ¶nlendirilirsiniz. Buradan gÃ¶stergelerinizi Ã¶zelleÅŸtirebilirsiniz.
 
-**Kullanıcı Bölümü:** Ana menüde, AARO logosunun hemen altında kullanıcı bilgileri yer alır. Bu bölümde, kullanıcı adı, soyadı ve işlem yapmakta olduğu şirket-şube bilgileri gösterilir.
+**KullanÄ±cÄ± BÃ¶lÃ¼mÃ¼:** Ana menÃ¼de, AARO logosunun hemen altÄ±nda kullanÄ±cÄ± bilgileri yer alÄ±r. Bu bÃ¶lÃ¼mde, kullanÄ±cÄ± adÄ±, soyadÄ± ve iÅŸlem yapmakta olduÄŸu ÅŸirket-ÅŸube bilgileri gÃ¶sterilir.
 
-**Görevler:** AARO'da yapmanız gereken görevleri gösteren sayfadır. Buradan görevlerinizi görüntüleyebilirsiniz.
+**GÃ¶revler:** AARO'da yapmanÄ±z gereken gÃ¶revleri gÃ¶steren sayfadÄ±r. Buradan gÃ¶revlerinizi gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
 
-**Onayda Bekleyenler:** Onayımıza sunulan hareketleri içeren sayfadır. Burada biz onay veya red kararını vermekteyiz.
+**Onayda Bekleyenler:** OnayÄ±mÄ±za sunulan hareketleri iÃ§eren sayfadÄ±r. Burada biz onay veya red kararÄ±nÄ± vermekteyiz.
 
-**Son İşlemler:** AARO'da yaptığınız son işlemleri buradan görüntüleyebiliriz. 
+**Son Ä°ÅŸlemler:** AARO'da yaptÄ±ÄŸÄ±nÄ±z son iÅŸlemleri buradan gÃ¶rÃ¼ntÃ¼leyebiliriz. 
 
-**Çıkış** AARO hesabınızdan çıkış yapmak için bu butonu kullanabilirsiniz.
+**Ã‡Ä±kÄ±ÅŸ** AARO hesabÄ±nÄ±zdan Ã§Ä±kÄ±ÅŸ yapmak iÃ§in bu butonu kullanabilirsiniz.
 
 
 
