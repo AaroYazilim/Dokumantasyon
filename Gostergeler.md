@@ -11,7 +11,7 @@ SayfaTipi: Anasayfa
 
 Göstergeler, ERP sisteminizin anasayfasında işletmenizin performansını hızlı ve kolay bir şekilde gözlemlemenizi sağlar. 
 Göstergeler, canlı ve anlık olarak güncellenir. Bu da işletmenizin mevcut durumunu gerçek zamanlı olarak izlemenizi sağlar. 
-Bu göstergelerle kısa yollarımı ekleyerek hızlı erişimi sağlar, toplam verileri görmemizi sağlar; kasa, banka, stok, çek/senet, müşteri/satıcı genel toplamı gösterir.
+Bu göstergelerle kısa yollarımı ekleyerek hızlı erişimi ve toplam verileri görmemizi sağlar; kasa, banka, stok, çek/senet, müşteri/satıcı genel toplamı gösterir.
 Stok seviyeleri, satış hedefleri, mali durum ve daha fazlası hakkında bilgi sahibi olabilirsiniz.
 Göstergeler alanını, en çok kullandığınız ve görmek istediğiniz detaylarla özelleştirebilirsiniz. 
 Bu sayede işletmenizin performansını izlerken ihtiyaçlarınıza en uygun bilgilere anında erişim sağlayabilirsiniz.
@@ -21,21 +21,21 @@ Böylece, bir göstergenin üzerine tıkladığınızda ilgili detaylı raporlar
 
 ## Göstergeleri Düzenleme
 
-Aaro açılış ekranında sağ en alt köşede monitör ikonuna tıklayarak erişim sağlayabilirsiniz.
-Eklemek istediğimiz alanları Anasayfama Ekle diyerek ekleyebiliriz.
-Sıralamalarını düzenleyebiliriz, sürekli bırak mantığıyla sıralayabiliriz, sırasını değiştir dediğimizde sıralama numarası vererek düzenleme yapabiliriz.
+Aaro açılış ekranında sağ en alt köşedeki monitör ikonuna tıklayarak erişim sağlayabilirsiniz.
+Eklemek istediğimiz alanları Ana sayfama Ekle diyerek ekleyebiliriz.
+Sıralamalarını düzenleyebiliriz, sürükle bırak mantığıyla sıralayabiliriz, sırasını değiştir dediğimizde sıralama numarası vererek düzenleme yapabiliriz.
 
-**Önizle:** Anasayfamıza eklediğimiz gösterge panelinin nasıl görüneceğini görüntüleriz.
+**Önizle:** Ana sayfamıza eklediğimiz gösterge panelinin nasıl görüneceğini görüntüleriz.
 
 **Sırasını Değiştir:** Sıralama numarası vererek düzenleme yapılabilir.
 
-**Anasayfama Ekle:** Anasayfamıza göstergeyi eklemek için kullanılır.
+**Ana Sayfama Ekle:** Ana sayfamıza göstergeyi eklemek için kullanılır.
 
-**Anasayfamdan Kaldır:** Anasayfamızda ekli olan göstergelerimizi kaldırmak için kullanılır.
+**Ana Sayfamdan Kaldır:** Ana sayfamızda ekli olan göstergelerimizi kaldırmak için kullanılır.
 
 ## Gösterge Panelleri
 
-**Seçilen Göstergeler:** Anasayfamızda aktif olan göstergeler görüntüleyebilir düzenleyebiliriz.
+**Seçilen Göstergeler:** Ana sayfamızda aktif olan göstergeleri görüntüleyebilir ve düzenleyebiliriz.
 
 #### Genel Göstergeler
 
@@ -48,10 +48,10 @@ Hareket kalemine tıklayarak detaylarına hızlıca erişim sağlayabilirsiniz.
 - **Genel Toplamlar:** Stok harektlerinizdeki toplam tutarı, Kasalarınızdaki ve Bankalarınızdaki toplam bakiyelerinizi, Çek/Senet ve Cari bakiyelerinizi ve Genel Toplam bakiyenizi TL cinsinden gösterir.
 Stok hareketlerinizdeki toplam tutarı göstererek, ürünlerin değerini anında takip edebilirsiniz. Bu, envanter yönetiminde size büyük bir avantaj sağlar. 
 Kasalarınızdaki ve bankalarınızdaki toplam bakiyeleri TL cinsinden sunarak, nakit durumunuzu sürekli olarak gözlemlemenizi mümkün kılar. 
-Çek ve senetlerinizin cari hesap bakiyelerinizi de güncel olarak izleyebilirsiniz.
+Çek ve senetlerinizin cari hesap bakiyelerini de güncel olarak izleyebilirsiniz.
 Son olarak, tüm bu bilgilerin özetini veren Genel Toplam bakiyesi, işletmenizin finansal durumunu tek bir bakışta anlamanızı sağlar ve karar almanızı kolaylaştırır.
 
-- **Kısa Yollarım:** Programa eklediğiniz kısa yolları gösterir istediğiniz sayfaya hızlı bir şekilde erişebilirsiniz.
+- **Kısayollarım:** Programa eklediğiniz kısayolları gösterir istediğiniz sayfaya hızlı bir şekilde erişebilirsiniz.
 Programa eklediğiniz kısayolları göstererek, en sık kullandığınız sayfalara ve işlevlere hızla erişmenizi sağlar. 
 Bu kısayollar, iş akışınızı optimize etmek ve zamandan tasarruf etmek için tasarlanmıştır. 
 İhtiyaç duyduğunuz bilgi veya araçlara tek bir tıklamayla ulaşabilir, bu sayede program içinde gezinirken harcadığınız süreyi minimuma indirebilirsiniz. 
@@ -60,7 +60,7 @@ Ayrıca, bu kısayolları kendi iş ihtiyaçlarınıza göre özelleştirerek, i
 
 #### Finans Göstergeleri
 
-- **Finansal Gecmiş ve Güncel Durum:** Kasalarınızdaki ve Bankalarınızdaki TL cinsinden toplam bakiyenizi, gelecekteki POS alacaklarınızı, Çek/Senet ve Cari bakiyelerinizi, kısacası finansal durumunuzu gösterir.
+- **Finansal Geçmiş ve Güncel Durum:** Kasalarınızdaki ve Bankalarınızdaki TL cinsinden toplam bakiyenizi, gelecekteki POS alacaklarınızı, Çek/Senet ve Cari bakiyelerinizi, kısacası finansal durumunuzu gösterir.
 İşletmenizin mevcut nakit durumunu sürekli olarak takip etmenizi sağlar. Yönetimini güçlendirmeye yardımcı olur ve gerektiğinde finansal stratejilerinizi hızla uyarlamanıza olanak tanır. 
 Çek ve senetlerinizin mevcut durumunu gösterir, bu sayede ödeme planlarınızı etkin bir şekilde yönetebilirsiniz. 
 Açık hesap bakiyelerinizin toplam tutarlarını görüntüleyebilirsiniz. 
@@ -71,12 +71,16 @@ Kısacası, bu özellikler finansal durumunuzu kapsamlı bir şekilde değerlend
 
 - **Satış Pazarlama Toplamları:** Belli dönemlere ait Satış Faturası ve İrsaliyeleri, Alınan Sipariş ve Verilen Teklifler, Satış İade Faturası ve İrsaliyelerine ait toplam tutarı gösterir. 
 Bu, işletmenizin belirli bir dönemdeki satış performansını ve finansal durumunu kapsamlı bir şekilde değerlendirmeyi sağlar.
+
 Satış Faturaları ve İrsaliyeleri: Belirli bir dönem için düzenlenmiş satış faturaları ve irsaliyelerinin toplam değerini gösterir, 
 böylece satışlarınızın ne kadarını kayda aldığınızı ve bu süreçlerin finansal etkisini net bir şekilde görebilirsiniz.
+
 Alınan Siparişler: Müşterilerinizden alınan siparişlerin toplam tutarını içerir, bu da size siparişlerinizi ve beklentilerinizi takip etme konusunda yardımcı olur.
+
 Verilen Teklifler: Müşterilere sunulan tekliflerin toplam değerini gösterir, böylece tekliflerin potansiyel satışlara etkisini ve başarı oranını değerlendirebilirsiniz.
+
 Satış İade Faturaları ve İrsaliyeleri: Müşteriler tarafından yapılan iadelerin toplam tutarını gösterir, bu da satış sonrası iadelerle ilgili mali durumu ve stok hareketlerini izlemenizi sağlar.
-Bu veriler, finansal raporlar ve analizler için önemli bir temel oluşturur ve işletmenizin performansını ve mali sağlığını etkili bir şekilde izleyebilmenize olanak tanır.
+Bu veriler, finansal raporlar ve analizler için önemli bir temel oluşturur ve işletmenizin performansı ve mali sağlığını etkili bir şekilde izleyebilmenize olanak tanır.
 
 Bugün, bu hafta, bu ay ve bu yıl gibi seçenekleri seçerek, kaç adet fatura kesildiğini, kaç sipariş oluşturulduğunu, kaç iade faturası kesildiğini ve bu işlemlerin toplam tutarlarını görüntüleyebilirsiniz.
 
@@ -96,11 +100,15 @@ Kalemlere tıklayarak hızlı bir şekilde hareket detaylarına erişim sağlar�
 Bu gösterge, işletmenizin belirli bir dönemdeki tedarik işlemlerini ve finansal akışını kapsamlı bir şekilde takip etmenizi sağlar.
 Bu veriler, finansal raporlar hazırlamanız, bütçeleme yapmanız ve tedarik süreçlerinizi etkin bir şekilde yönetmeniz için önemli bilgiler sağlar. 
 Böylece, işletmenizin mali durumunu detaylı bir şekilde değerlendirerek daha bilinçli kararlar alabilirsiniz.
+
 Alış Faturaları ve İrsaliyeleri: Belirli bir dönemde gerçekleştirilen alış faturalarının ve irsaliyelerinin toplam değerini gösterir. 
 Bu, tedarik ettiğiniz malzeme veya ürünlerin maliyetlerini ve bu işlemlerin finansal etkilerini görmenizi sağlar.
+
 Verilen Siparişler: İşletmeniz tarafından verilen siparişlerin toplam tutarını içerir.
 Bu, siparişlerinizi ve satın alma işlemlerinizin mali boyutunu takip etmenize yardımcı olur.
+
 Alınan Teklifler: Tedarikçilerden alınan tekliflerin toplam değerini gösterir. Bu, maliyet analizi ve bütçeleme süreçlerinde kullanabileceğiniz bilgileri sunar.
+
 Alış İade Faturaları ve İrsaliyeleri: Tedarikçilere geri gönderilen ürünler için düzenlenmiş alış iade faturalarının ve irsaliyelerinin toplam tutarını gösterir. 
 Bu, geri iadelerin mali etkilerini ve stok hareketlerini takip etmenize yardımcı olur.
 
@@ -109,7 +117,7 @@ Bugün, Dün ve bugün, Son 1 ay, Son 3 ay seçeneklerini seçebiliriz.
 Artı ikonuna tıklayarak yeni Satış Alma Hareketi oluşturabiliriz.
 Kalemlere tıklayarak hızlı bir şekilde hareket detaylarına erişim sağlarız.
 
-- **Satin Alma Verilen Siparişler:** Belli dönemlere ait Verilen Siparişleri gösterir.
+- **Satın Alma Verilen Siparişler:** Belli dönemlere ait Verilen Siparişleri gösterir.
 Bugün, Dün ve bugün, Son 1 ay, Son 3 ay seçeneklerini seçebiliriz.
 Artı ikonuna tıklayarak Verilen Sipariş Hareketi oluşturabiliriz.
 Kalemlere tıklayarak hızlı bir şekilde hareket detaylarına erişim sağlarız.
@@ -118,22 +126,34 @@ Kalemlere tıklayarak hızlı bir şekilde hareket detaylarına erişim sağlar�
 
 - **Çek Toplamları:** Belli dönemlere ait Çek Toplamlarını ve adetlerini gösterir.
 Çek toplamları ve adetleri, işletmenizin mali yönetimi ve nakit akışını izlemek için önemli veriler sağlar.
+
 A. Çek Portföyde: Portföyde olan Çeklerin toplam tutarını ve kaç adet olduğunu gösterir.
+
 A. Çek Tahsilde: Tahsildeki çekler, müşterilerden alınmış ancak banka tarafından henüz işleme alınmamış veya nakde çevrilmemiş çeklerin toplam tutarını ve kaç adet olduğunu gösterir.
+
 A. Çek Ciro Edildi: Ciro edilen çekler, işletmenin başkasına devrettiği veya başka bir hesap için kullanılmak üzere transfer ettiği çeklerin toplam tutarını ve kaç adet olduğunu gösterir.
+
 A. Çek Vadesi Yaklaşan: Vadesi yaklaşan çekler, ödenmesi gereken ve yakında tahsil edilmesi beklenen çeklerin toplam tutarını ve kaç adet olduğunu gösterir.
+
 V. Çek Ciro Edildi: İşletmenizin başkasına devrettiği veya başka bir hesap için kullanmak üzere transfer ettiği çeklerin toplam tutarunı ve kaç adet olduğunu gösterir.
+
 V. Çek Vadesi Yaklaşan: İşletmenizin ödeme taahhüdünde bulunduğu ve yakında ödemesi gereken çeklerin toplam tutarı ve kaç adet olduğunu gösterir. 
 
 Toplam tutarlara tıklayarak detaylarına erişim sağlayabilirsiniz.
 
 - **Senet Toplamları:** Belli dönemlere ait Senet Toplamlarını ve adetlerini gösterir.
 Senetler, genellikle belirli bir süre sonunda ödenecek olan yazılı ödeme taahhütleridir ve bu gösterge, işletmenizin mali durumunu değerlendirmek ve nakit akışını planlamak için önemlidir. 
+
 Alınan Senet Portföyde: Portföyde olan Senetlerin toplam tutarını ve kaç adet olduğunu gösterir.
+
 Alınan Senet Tahsilde: İşletmenizin henüz nakde çevrilmemiş veya bankaya yatırılmamış senetlerin toplamını ve kaç adet olduğunu gösterir.
+
 Alınan Senet Ciro Edildi: İşletmenizin sahip olduğu senetleri üçüncü taraflara ödeme aracı olarak kullandığı durumları ifade eder. Ciro edilen senetlerin toplam tutarını ve kaç adet oluğunu gösterir.
+
 Alınan Senet Vadesi Yaklaşan: İşletmenizin almış olduğu ve vadesi yaklaşan senetlerin toplam tutarını ve kaç adet olduğunu gösterir. 
+
 Verilen Senet Ciro Edildi: İşletmenizin borçlarını ödemek veya ticari işlemlerini gerçekleştirmek amacıyla ciro ederek başka bir kişi ya da kuruma devrettiği senetlerin toplam tutarını ve kaç adet olduğunu gösterir.
+
 Verilen Senet Vadesi Yaklaşan: İşletmenizin borçlarını ödemek için verdiği ve vadesi yaklaşan senetlerin toplam tutarını, kaç adet olduğunu gösterir.
 
 Toplam tutarlara tıklayarak detaylarına erişim sağlayabilirsiniz.
@@ -152,11 +172,17 @@ Toplam tutarlara tıklayarak detaylarına erişim sağlayabilirsiniz.
 #### Stok Göstergeleri
 
 - **Stok Toplamları:** Stok durumlarını ve toplamlarını gösterir. Envanter yönetimi ve mali planlama açısından büyük bir öneme sahiptir. 
+
 Alış Liste Fiyatı Olmayan S: Alış liste fiyatları olmayan stokların özet listesine hızlı erişim sağlar.
-Satış Liste Fiyatı Olmayan: Satış liste fiyatları olmayan stokların özet listesine hızlı erişim sağlar. 
+
+Satış Liste Fiyatı Olmayan: Satış liste fiyatları olmayan stokların özet listesine hızlı erişim sağlar.
+
 Eksiye Düşen Stoklar: Eksiye düşen stokların özet listesine hızlı erişim sağlar.
+
 Son 2 Dönemdir Hareket: 
+
 Stok Mevcudu Dönem Başı: 
+
 Stok Mevcudu Bugün: Anlık stok durumu verilerine erişim sağladığımız yerdir.
 
 #### Kasa Göstergeleri
@@ -164,11 +190,17 @@ Stok Mevcudu Bugün: Anlık stok durumu verilerine erişim sağladığımız yer
 - **Kasa Toplamları:** Farklı döviz cinslerine göre kasalarınızda toplam ne kadar para olduğunu gösterir.
 Bu gösterge, işletmenizin kasalarındaki toplam paranın farklı döviz cinslerine göre nasıl dağıldığını ayrıntılı bir şekilde sunar. 
 Döviz yönetimi, finansal planlama ve uluslararası işlemler açısından büyük bir öneme sahiptir. 
+
 TRY Kasa Toplam: Türk lirası kasa toplam tutarını gösterir.
+
 USD Kasa Toplam: Dolar kasa toplam tutarını gösterir.
+
 EUR Kasa Toplam: Euro kasa toplam tutarını gösterir.
+
 GBP Kasa Toplam: İngiliz sterlini kasa toplam tutarını gösterir.
+
 RUB Kasa Toplam: Rus Rublesi kasa toplam tutarını gösterir.
+
 Kasa Toplam: Türk lirası cinsinden toplam kasa tutarını gösterir.
 
 #### Banka Göstergeleri
@@ -176,11 +208,17 @@ Kasa Toplam: Türk lirası cinsinden toplam kasa tutarını gösterir.
 - **Banka Göstergeleri:** Farklı döviz cinslerine göre bankalarınızda toplam ne kadar para olduğunu gösterir.
 Çeşitli uluslararası para birimlerini içerir ve bu gösterge, her bir döviz cinsinden bankalarınızdaki mevcut bakiyeleri özetler. 
 Bu bilgi, döviz yönetimi, uluslararası finansal planlama ve risk yönetimi açısından büyük bir öneme sahiptir. 
+
 TRY Banka Toplam: Türk lirası banka hesap toplam tutarını gösterir.
+
 USD Banka Toplam: Dolar banka hesap toplam tutarını gösterir.
+
 EUR Banka Toplam: Euro banka hesap toplam tutarını gösterir.
+
 Kredi Banka Toplam: Kredi banka hesap kartının toplam tutarını gösterir.
+
 Pos Banka Toplam: Pos banka hesap kartının toplam tutarını gösterir.
+
 Banka Toplam: Banka hesaplarının toplam tutarını gösterir.
 
 #### Müşteri-Satıcı Göstergeleri
@@ -190,19 +228,28 @@ Bu gösterge, işletmenizin müşteriler ve satıcılarla olan finansal ilişkil
 Müşteri borç-alacak toplamları, satıcı borç-alacak toplamları ve tüm cari tiplerinin toplam borç-alacak toplamları, işletmenizin finansal durumunu kapsamlı bir şekilde anlamanıza yardımcı olur. 
 
 Müşteri Borçlar Toplam: Müşteri borçları, işletmenizin müşterilere yaptığı ödemeler, iade veya diğer finansal yükümlülükler sonucunda oluşan borçlardır.
+
 Müşteri Alacaklar Toplam: Müşteri alacakları, müşterilere yapılan satışlar veya sağlanan hizmetler karşılığında henüz tahsil edilmemiş olan tutarlardır.
+
 Satıcı Borçlar Toplam: Satıcı borçları, işletmenizin tedarikçilere veya satıcılara olan finansal yükümlülüklerini ifade eder. 
+
 Satıcı Alacaklar Toplam: Satıcı alacakları, satıcılardan almanız gereken ve henüz tahsil edilmemiş olan tutarlardır. 
+
 Cari Borçlar Toplam: Cari borçlar, işletmenizin müşterilere, satıcılara veya diğer cari hesaplara olan borçların toplamını ifade eder. 
+
 Cari Alacaklar Toplam: Cari alacaklar, müşterilerden veya diğer cari hesaplardan tahsil edilmesi gereken ve henüz alınmamış olan tutarların toplamını ifade eder. 
 
 #### Vergi Göstergeleri
 
-- **Vergi Toplamları:** Belirli dönemlere ait toplam KDV ve Tevkifat bakiyelerinizi gösterir. KDV ve tevkifat, işletmenizin vergi yükümlülüklerini ve vergi tahsilatını yönetmenizi sağlar.
+- **Vergi Toplamları:** Belirli dönemlere ait toplam KDV ve tevkifat bakiyelerinizi gösterir. KDV ve tevkifat, işletmenizin vergi yükümlülüklerini ve vergi tahsilatını yönetmenizi sağlar.
 Bu ay, geçen ay, bu dönem, bu yıl seçeneklerine göre toplam verilere ulaşabiliriz.
+
 Hesaplanan Tevkifat: Seçtiğimiz dönemlerde hesaplanan tevkifat tutarlarının toplamını gösterir. 
+
 Hesaplanan KDV: Seçtiğimiz dönemlerde hesaplanan KDV tutarlarının toplamını gösterir.
-Alinan Mal-Hizmet Tevkifat: Seçtiğimiz dönemlerde Alınan Mal-Hizmetlerin tevkifat tutarlarının toplamını gösterir.
-Alinan Mal-Hizmet KDV: Seçtiğimiz dönemlerde Alınan Mal-Hizmetlerin KDV tutarlarının toplamını gösterir.
+
+Alınan Mal-Hizmet Tevkifat: Seçtiğimiz dönemlerde Alınan Mal-Hizmetlerin tevkifat tutarlarının toplamını gösterir.
+
+Alınan Mal-Hizmet KDV: Seçtiğimiz dönemlerde Alınan Mal-Hizmetlerin KDV tutarlarının toplamını gösterir.
 Tevkifat Ödemesi: Seçtiğimiz dönemlerde yapılan Tevkifat Ödemesinin tutarlarının toplamını gösterir.
 KDV Ödemesi: Seçtiğimiz dönemlerde yapılan KDV Ödemesinin tutarlarının toplamını gösterir.
