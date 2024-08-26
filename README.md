@@ -7,7 +7,7 @@
 
 ## Programda Bulunan Temel Modüller
 
-Aaro'da tüm modüller birbirleriyle entegre olarak çalışmaktadır. Modüllerin içerisinden diğer modüllere rahat bir şekilde ulaşım sağlayabilirsiniz. Modül ayrımı kavramsal olarak anlamayı kolaylaştırmak içindir. Örneğin Kasa Modülünde yapacağınız bir nakit tahsilat otomatik olarak Müşteri / Satıcı modülüne de işlenmektedir.
+Aaro'da tüm modüller birbirleriyle entegre olarak çalışmaktadır. Modüllerin içerisinden diğer modüllere rahat bir şekilde ulaşım sağlayabilirsiniz. Modül ayrımı kavramsal olarak anlamayı kolaylaştırmak içindir. Örneğin Kasa Modülünde yapacağınız bir nakit tahsilat otomatik olarak Müşteri / Satıcı modülüne de işlenmektedir..
 
 Aşağıda bulunan modül linklerini inceleyerek modüller hakkında detaylı bilgiye sahip olabilirsiniz.
 
