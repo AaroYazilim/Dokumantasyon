@@ -17,7 +17,7 @@ Ana menü çubuğu, ekranın sağ üst köşesinde üç çizgi şeklinde bulunan
 
 Ana menüdeki butonlar şunlardır:
 
-- **Ev Butonu:** Bu butona tıkladığınızda, Anamenüdeki modül sayfalarınız ve kısayollar tam ekran görünür. Sağ alt köşedeki butona tekrar tıkladığınızda eski haline geri döner.
+- **Ev Butonu:** Bu butona tıkladığınızda, Ana menüdeki modül sayfalarınız ve kısayollar tam ekran görünür. Sağ alt köşedeki butona tekrar tıkladığınızda eski haline geri döner.
   
 - **AARO Logosu:** AARO logosuna tıklayarak Anasayfaya yönlendirilebilirsiniz.
 
@@ -33,7 +33,7 @@ Ana menüdeki butonlar şunlardır:
 
 **Son İşlemler:** AARO'da yaptığınız son işlemleri buradan görüntüleyebiliriz. 
 
-**Çıkış** AARO hesabınızdan çıkış yapmak için bu butonu kullanabilirsiniz.
+**Çıkış:** AARO hesabınızdan çıkış yapmak için bu butonu kullanabilirsiniz.
 
 
 
