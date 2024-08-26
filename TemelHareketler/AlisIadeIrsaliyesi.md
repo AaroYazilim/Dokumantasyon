@@ -7,6 +7,7 @@ SayfaTipi: IadeIrsaliye
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaAlisIadeIrsaliyesi](erp.aaro.com.tr/FaturaAlisIadeIrsaliyesi)
 
+
 # Alış İade İrsaliyesi
 
 ## Ulaşım 
@@ -39,8 +40,10 @@ Ayrıca, iade işlemlerinin düzenli ve şeffaf bir şekilde gerçekleştirilmes
 
 ### Ek İşlem Butonu 
 
+
 Bu işlemi sıkça kullanıyorsanız, anasayfanıza kısayol ekleyerek hızlı erişim sağlayabilirsiniz. 
 Kısayol eklemek, işleminizi daha hızlı ve pratik bir şekilde gerçekleştirmenize yardımcı olur.
+
 [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 
 ### Genel 
@@ -65,6 +68,7 @@ Kısayol eklemek, işleminizi daha hızlı ve pratik bir şekilde gerçekleştir
 
 ### Detay
 
+
 - **Beklenen Tahsilat ve Ödemeler:** Bir işletmenin, belirli bir zaman dilimi içinde müşterilerinden almayı beklediği ödemelerdir. 
 	Bu, genellikle satışlardan kaynaklanan alacakları ve diğer gelir kalemlerini içerir. Beklenen Tahsilatlar ve Ödemeler kullanım detayları için linke tıklayınız. [Beklenen Tahsilatlar ve Ödemeler](../TemelOzellikler/BeklenenTahOd.md)
 
@@ -79,6 +83,7 @@ Kısayol eklemek, işleminizi daha hızlı ve pratik bir şekilde gerçekleştir
 - **Cari Adres:** Carinin adresini belirtir. Farklı adrese gönderilecekse seçilmelidir. Kalemlerde değiştirilebilir.
 
 - **Ref. İthalat İhracat:** Bu hareket bir ithalat yada ihracat ise seçilmelidir. Hangi ithalata veya ihracata ait olduğunu belirtir. Kalemlerde Değiştirilebilir.- **Teslim Tarihi:** Bu siparişin teslim edildiği tarihi belirtir.
+
 - **Teslim Tarihi:** Bu siparişin teslim edildiği tarihi belirtir.
 
 ### Açıklamalar
@@ -86,6 +91,7 @@ Kısayol eklemek, işleminizi daha hızlı ve pratik bir şekilde gerçekleştir
 - **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 ### Etiketler
+
 
 - **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
 
@@ -177,3 +183,4 @@ Alış iade irsaliyemizde ekleme yapmak ya da herhangi bir düzeltme yapmak içi
 - Görev Oluştur: İrsaliye için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
 - Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
+

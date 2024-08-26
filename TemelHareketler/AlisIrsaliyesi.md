@@ -7,6 +7,7 @@ SayfaTipi: Irsaliye
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaAlisIrsaliyesi](erp.aaro.com.tr/FaturaAlisIrsaliyesi)
 
+
 # Alış İrsaliyesi
 
 ## Ulaşım 
@@ -39,8 +40,10 @@ Ayrıca, alış irsaliyesi, tedarikçi ile yapılan anlaşmalarda anlaşmazlıkl
 
 ### Ek İşlem Butonu 
 
+
 Bu işlemi sıkça kullanıyorsanız, anasayfanıza kısayol ekleyerek hızlı erişim sağlayabilirsiniz. 
 Kısayol eklemek, işleminizi daha hızlı ve pratik bir şekilde gerçekleştirmenize yardımcı olur.
+
 [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 
 ### Genel 
@@ -180,3 +183,4 @@ Alış irsaliyemizde ekleme yapmak ya da herhangi bir düzeltme yapmak için kal
 - Görev Oluştur: İrsaliye için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
 - Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
+

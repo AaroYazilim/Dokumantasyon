@@ -37,8 +37,10 @@ Ayrıca, işletmeler arasında yapılan ticari ilişkilerde güveni artırır ve
 
 ### Ek İşlem Butonu 
 
+
 Bu işlemi sıkça kullanıyorsanız, anasayfanıza kısayol ekleyerek hızlı erişim sağlayabilirsiniz. 
 Kısayol eklemek, işleminizi daha hızlı ve pratik bir şekilde gerçekleştirmenize yardımcı olur.
+
 [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 
 ### Genel 
@@ -77,6 +79,7 @@ Kısayol eklemek, işleminizi daha hızlı ve pratik bir şekilde gerçekleştir
 - **Cari Adres:** Carinin adresini belirtir. Farklı adrese gönderilecekse seçilmelidir. Kalemlerde değiştirilebilir.
 
 - **Ref. İthalat İhracat:** Bu hareket bir ithalat yada ihracat ise seçilmelidir. Hangi ithlata veya ihracata ait olduğunu belirtir. Kalemlerde Değiştirilebilir.- **Teslim Tarihi:** Bu siparişin teslim edildiği tarihi belirtir.
+
 
 ### Açıklamalar
 
@@ -175,3 +178,4 @@ Alış iade faturamızda ekleme yapmak ya da herhangi bir düzeltme yapmak için
 - Görev Oluştur: İade faturası için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
 - Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
+

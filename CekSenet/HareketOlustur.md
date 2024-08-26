@@ -16,9 +16,9 @@ SayfaTipi: Hareket Olustur
 
 ### Diğer İşlemler
 
-- [Çek Satıcıdan İade Alındı](../TemelHareketler/CekSaticidanİadeAlindi.md)
-- [Çek Müşteriye İade Edildi](../TemelHareketler/CekMüsteriyeİadeEdildi.md)
-- [Çek Bankadan İade Alındı](../TemelHareketler/CekBankadanİadeAlindi.md)
+- [Çek Satıcıdan İade Alındı](../TemelHareketler/CekSaticidanIadeAlindi.md)
+- [Çek Müşteriye İade Edildi](../TemelHareketler/CekMusteriyeIadeEdildi.md)
+- [Çek Bankadan İade Alındı](../TemelHareketler/CekBankadanIadeAlindi.md)
 - [Çek Kasadan Tahsil Edildi](../TemelHareketler/CekKasadanTahsiledildi.md)
 - [Devir](../TemelHareketler/Devir.md)
 - [Çek İcraya Konuldu](../TemelHareketler/CekIcrayaKonuldu.md)
@@ -34,9 +34,11 @@ SayfaTipi: Hareket Olustur
 
 ### Diğer İşlemler
 
+
 - [Senet Portföyde Karşılıksız Çıktı](../TemelHareketler/SenetPortfoydeKarsiliksizCikti.md)
-- [Senet Bankadan İade Alındı](../TemelHareketler/SenetBankadanİadeAlindi.md)
+- [Senet Bankadan İade Alındı](../TemelHareketler/SenetBankadanIadeAlindi.md)
 - [Senet Kasadan Tahsil Edildi](../TemelHareketler/SenetKasadanTahsiledildi.md)
-- [Senet Satıcıdan İade Alındı](../TemelHareketler/SenetSaticidanİadeAlindi.md)
+- [Senet Satıcıdan İade Alındı](../TemelHareketler/SenetSaticidanIadeAlindi.md)
 - [Senet Müşteriye İade Edildi](../TemelHareketler/SenetCariyeIadeEdildi.md)
 - [Senet İcraya Konuldu](../TemelHareketler/SenetIcrayaKonuldu.md)
+
