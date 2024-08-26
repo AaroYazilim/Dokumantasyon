@@ -1,6 +1,6 @@
 ---
 SayfaID: BankaTahsilat
-SayfaTipi: 
+SayfaTipi: Banka
 ---
 
 # Havale EFT Alma
@@ -96,6 +96,14 @@ Sağ üst köşede yaptığımız işlemlerin toplam, genel toplam tutarlarını
 
 - Yeni Cari Kalemi Ekle: Buradan havale/EFT aldığımız başka bir cariyi ekleyebiliriz.
 
+- Havale/EFT Alma işleminde cari çalışır. Sistem otomatik cari olarak getirir.
+- Kart Adı: Havale/EFT Alma işlemimizin hangi cari kartında çalıştığını belirtir.
+- Tutar: Havale/EFT Alma işlemimizde banka hesabımıza gelen tutarı belirtir. 
+- Cari Banka: Havale/EFT Alma işlemini gerçekleştiren carinin banka hesap kartının çalıştığı bankayı ifade eder.
+- Açıklama: Kaleme ait açıklamayı belirtir.
+- Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
+- Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
+
 ## Kaydetme ve Silme
 
 - Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
@@ -118,7 +126,7 @@ Havale/EFT işlemimizde herhangi bir düzeltme yapmak için kalem işaretini se�
 
  Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Verilen teklifi kopyalamak için kullanılır.
+- Kopyala: Havale/EFT Alma işlemimizi kopyalamak için kullanılır.
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Görev Oluştur: İşlem için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.

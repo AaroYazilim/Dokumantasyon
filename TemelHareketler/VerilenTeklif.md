@@ -32,7 +32,8 @@ Bu tanım, teklifin kapsamını, teslim edilecek ürün veya hizmetlerin detayla
 
 **Depo:** Bu işlemin kullanıldığı depoyu belirtir.
 
-**Vade:** İşlemin yapıldığı vadeyi belirtir.
+**Vade:** Ürün veya hizmetin ödemesinin yapılması gereken süreyi belirtir. 
+Vade, teklifin kabul edilmesinden itibaren geçerli olan ve ödemelerin yapılması gereken süreyi tanımlar. 
 
 **Açıklama:** İşleme ait açıklamayı belirtir.
 
@@ -40,7 +41,8 @@ Bu tanım, teklifin kapsamını, teslim edilecek ürün veya hizmetlerin detayla
 
 ### Detay
 
-- **Beklenen Tahsilat ve Ödemeler:**
+- **Beklenen Tahsilat ve Ödemeler:** Bir işletmenin, belirli bir zaman dilimi içinde müşterilerinden almayı beklediği ödemelerdir. 
+	Bu, genellikle satışlardan kaynaklanan alacakları ve diğer gelir kalemlerini içerir. Beklenen Tahsilatlar ve Ödemeler kullanım detayları için linke tıklayınız. [Beklenen Tahsilatlar ve Ödemeler](../TemelOzellikler/BeklenenTahOd.md)
 
 - **Alt Tip:** Alt hareket tipini belirtir.
 
@@ -54,7 +56,7 @@ Bu tanım, teklifin kapsamını, teslim edilecek ürün veya hizmetlerin detayla
 
 - **Ref. İthalat İhracat:** Bu hareket bir ithalat yada ihracat ise seçilmelidir. Hangi ithalata veya ihracata ait olduğunu belirtir. Kalemlerde Değiştirilebilir.
 
-- **Teslim Tarihi:** Verilen teklifin teslim edildiği tarihi belirtir.
+- **Teslim Tarihi:** Teklif onaylandığında teslim edileceği tarihi belirtir.
 
 ### Açıklamalar
 
@@ -67,7 +69,7 @@ Bu tanım, teklifin kapsamını, teslim edilecek ürün veya hizmetlerin detayla
 ## Doldurmamız gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
 
 - Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
-- Verilen teklifte müşterinin talebi olan stok, gelir gider, demirbaş olabilir. En başta ki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
+- Verilen teklifte firmamızın talebi olan stok, gelir gider, demirbaş olabilir. En başta ki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
 - Kart Adı: Stok, demirbaş ya da gelir gider satışını gerçekleştireceğimiz kartı belirtir.
 - Miktar: Teklifte belirtilmesi istenilen stoğun miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
@@ -81,9 +83,8 @@ Bu tanım, teklifin kapsamını, teslim edilecek ürün veya hizmetlerin detayla
 - Açıklama: Kaleme ait açıklamayı belirtir.
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 - Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
-- Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 
-- Teklifte 1 kalem belirtilecekse kaydet diyerek bir sonraki aşamaya geçebiliriz.
+- Teklifte bir kalem belirtilecekse kaydet diyerek bir sonraki aşamaya geçebiliriz.
 - Başka kalemlerde mevcut ise yukarıda aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
 - Sağ üst köşede faturaya ait toplam fiyat kısımlarını içerir;
@@ -150,9 +151,7 @@ Verilen teklifimizde ekleme yapmak ya da herhangi bir düzeltme yapmak için kal
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Görev Oluştur: Teklif için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
 - Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
-- Kapat: Siparişimizi açmak ya da kapatmak için kullanılır.
-- Paylaş: Alınan siparişin hangi şirket veya şubelerde gözükeceğini buradan seçebiliriz.
-- Nakit Tahsilat: Sipariş için nakit tahsilata hızlı erişimdir. Buradan kasamızı, nakit tahsilat tutarını girerek, eklemek istediğimiz bilgileri ekleyerek, siparişe ait nakit tahlisat tanımlayabiliriz.
-- Kredi Pos Tahsilat: Sipariş için pos tahsilata hızlı erişimdir. Buradan pos tahsilat işlemlerini gösterebiliriz, çekim yaptığım pos tahsilatın bankasını seçelim, tutarını girelim, taksit adedini girelim, eklemek istediğimiz bilgileri ekleyerek, siparişe ait pos tahlisat tanımlayabiliriz. 
+- Kapat: Teklifimizi açmak ya da kapatmak için kullanılır.
+- Paylaş: Verilen teklifin hangi şirket veya şubelerde gözükeceğini buradan seçebiliriz.
 - Siparişleştir: Karşı taraf teklifimizi onayladığında buradan siparişleştir yaparak, siparişimizi oluşturabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.

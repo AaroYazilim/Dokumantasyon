@@ -1,5 +1,5 @@
 
-### Açıklama
+# Açıklama
 
 İşleme ait açıklamayı belirtir.
 Buraya işleme veya kayda ait özel açıklamalar; detaylarını ve niteliklerini açıklamak için kullanılan bir alan veya metin kutusudur. 

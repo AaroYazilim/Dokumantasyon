@@ -1,5 +1,11 @@
+---
+SayfaID: ParametrelerSirketSube/Liste
+SayfaTipi: Parametre
+---
 
-## Parametreler 
+# Parametreler 
+
+**Erişim Linki :** [erp.aaro.com.tr/ParametrelerSirketSube/Liste](erp.aaro.com.tr/ParametrelerSirketSube/Liste)
 
 ### Tanım
 
@@ -25,10 +31,6 @@ Bazı parametrelerin kritik iş süreçlerini etkileyebilir bu nedenle sadece ye
 
 **Şirket-Şube** buradan işlem yapılacak şirket ya da şubeyi seçiniz. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
 **Parametre** buradan kayıtlı hesaptan parametreleri seçebilirsini yeni kayı için açılan listenin en altından "+Detaylı Ekle:" ya da "Hızlı Ekle:" seçerek ekleme işlemi yapabilirsiniz.
-**Değer**
-**Tanım**
+**Değer** Parametre için geçerli olacak değeri girelim.
 
-#### Ek Özellikler
 
-- Parametre listesi -> Tasarım_Kodlar yanındaki büyüteçe tıklayarak açılan sekmede değer kısmını Hayır olarak seçerek kodları kapatabilirsiniz.
-- Şablon 

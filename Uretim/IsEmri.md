@@ -1,5 +1,19 @@
+---
+SayfaID: UrIsEmri
+SayfaTipi: UrIsEmri/Liste
+---
 
 # İş Emri
+
+**Erişim Linki :** [erp.aaro.com.tr/UrFireNeden/Liste](erp.aaro.com.tr/UrFireNeden/Liste)
+
+## Ulaşım 
+
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "İş emri" aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden Üretim -> Listeler -> İş Emri Listesi şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden Üretim -> Listeler -> İş Emri Listesi -> Yeni İş Emri şeklinde yeni iş emri oluşturabilirsiniz. 
+
+## Tanım
 
 Üretimin önemli kısımlarındandır reçetelerin oluşumdan sonra iş emirleri oluşmaktadır.
 İş Emri bir işin yapılması için çalışanlara veya birimlere verilen talimatlardır. 
@@ -20,12 +34,6 @@ Her bir görevin sorumluluğu ve beklentiler net bir şekilde tanımlanmalıdır
 İş emri, işin ilerlemesini izlemek ve raporlamak için kullanılır. 
 İşin ne zaman başladığını, hangi aşamalarda olduğunu ve ne zaman tamamlandığını takip etmek için iş emri üzerinde güncel veriler tutulmalıdır.
 İş emri, yetkilendirilmiş kişiler tarafından onaylanmalıdır. Onay süreci, iş emrinin doğruluğunu ve uygunluğunu sağlamak için önemlidir.
-
-## Ulaşım 
-
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "İş emri" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Listeler -> İş Emri Listesi şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Üretim -> Listeler -> İş Emri Listesi -> Yeni İş Emri şeklinde yeni iş emri oluşturabilirsiniz. 
 
 [Yeni İş Emri](../Uretim/YeniIsEmri.md) tıklayarak Yeni iş emri ekleme detaylarına ulaşabiliriz.
 

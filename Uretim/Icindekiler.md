@@ -36,6 +36,7 @@ SayfaTipi: Modul
 - [Makine Listesi](../Uretim/MakineListesi.md)
 - [Operasyon Listesi](../Uretim/OperasyonListesi.md)
 - [Üretim Terminali Makine Eşleştirme](../Uretim/UretimTerminalMakineEslestirme.md)
+- [Fire Nedeni Listesi](../Uretim/FireNedeni.md)
 
 ### Listeler 
 

@@ -1,3 +1,7 @@
+---
+SayfaID: FaturaSatisFaturasi
+SayfaTipi: Fatura
+---
 
 # İhraç Kayıtlı Fatura
 
@@ -96,6 +100,33 @@ Kalemimizin hemen yanında büyüteç işaretine tıklayalım,
 Muafiyet eklememiz gerekmektedir, **Vergiler** kısmında KDV oranının altında **Muafiyet Ekle** linki yer almaktadır tıkladığımızda KDV Muafiyet seçeneği açılacaktır. 
 	3065 s. KDV Kanununun 11/1-c md. Kapsamındaki İhraç Kayıtlı Satış (701) muafiyetini seçelim.
 
+## Doldurmamız gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
+
+- Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
+- Satış faturamızda satış yapacağımız işlem stok, gelir gider, demirbaş olabilir. En başta ki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
+- Kart Adı: Stok, demirbaş ya da gelir gider satışını gerçekleştireceğimiz kartı belirtir.
+- Miktar: Satış yapacağımız stoğun miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
+- Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
+	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
+- İskonto: Satışını yaptığımız işlemlerin iskonto oranını belirtir. Uyguladığımız iskonto var ise buraya oranı girebiliriz.
+- Net Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler hariç, sadece temel maliyetini ifade eden fiyatı belirtir. 
+	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
+- Tutar: Bir mal veya hizmetin toplam mali değerini ifade eden miktarı belirtir. 
+- KDV oran: KDV oranını ifade eder.
+- Depo: Bu kalemin kullandığı depoyu belirtir.
+- Açıklama: Kaleme ait açıklamayı belirtir.
+- Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
+- Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
+- Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
+
+- Satış faturasında bir kalem belirtilecekse kaydet diyerek bir sonraki aşamaya geçebiliriz.
+- Başka kalemlerde mevcut ise yukarıda aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
+
+- Sağ üst köşede faturaya ait toplam fiyat kısımlarını içerir;
+	- Toplam: Satış faturasının KDV hariç toplam tutarını içerir.
+	- İskonto Sonrası: Satış faturasının KDV dahil fiyatından uygulanan iskonto tutarını ifade eder.
+	- KDV: Satış faturasının KDV oranının karşılık geldiği tutarı ifade eder.
+	- Genel Toplam: Satış faturasının tüm kalemlerin KDV dahil tutarının toplamını belirtir.
 
 ### Fatura Önizleme ve Gönderme
 

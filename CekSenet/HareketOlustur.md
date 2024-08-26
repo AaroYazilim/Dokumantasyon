@@ -27,16 +27,18 @@ SayfaTipi: Hareket Olustur
 ### Senetler
 
 - [Senet Alındı](../TemelHareketler/SenetAlindi.md)
-- [Senet Ciro Edildi/Verildi](TemelHareketler/CekCiroEdildi_Verildi.md)
-- [Senet Bankaya Tahsile Verildi](../TemelHareketler/CekBankayaTahsileVerildi.md)
-- [Senet Bankadan Tahsil Edildi](../TemelHareketler/CekBankadanTahsilEdildi.md)
+- [Senet Ciro Edildi/Verildi](TemelHareketler/SenetCiroEdildi_Verildi.md)
+- [Senet Bankaya Tahsile Verildi](../TemelHareketler/SenetBankayaTahsileVerildi.md)
+- [Senet Bankadan Tahsil Edildi](../TemelHareketler/SenetBankadanTahsilEdildi.md)
 - [Senet Kasadan Ödendi](../TemelHareketler/SenetKasadanOdendi.md)
 
 ### Diğer İşlemler
 
-- [Senet Portföyde Karşılıksız Çıktı](../TemelHareketler/CekPortfoydeKarsiliksizCikti.md)
-- [Senet Bankadan İade Alındı](../TemelHareketler/CekBankadanIadeAlindi.md)
-- [Senet Kasadan Tahsil Edildi](../TemelHareketler/CekKasadanTahsiledildi.md)
-- [Senet Satıcıdan İade Alındı](../TemelHareketler/CekSaticidanIadeAlindi.md)
-- [Senet Müşteriye İade Edildi](../TemelHareketler/CekMusteriyeIadeEdildi.md)
-- [Senet İcraya Konuldu](../TemelHareketler/CekIcrayaKonuldu.md)
+
+- [Senet Portföyde Karşılıksız Çıktı](../TemelHareketler/SenetPortfoydeKarsiliksizCikti.md)
+- [Senet Bankadan İade Alındı](../TemelHareketler/SenetBankadanIadeAlindi.md)
+- [Senet Kasadan Tahsil Edildi](../TemelHareketler/SenetKasadanTahsiledildi.md)
+- [Senet Satıcıdan İade Alındı](../TemelHareketler/SenetSaticidanIadeAlindi.md)
+- [Senet Müşteriye İade Edildi](../TemelHareketler/SenetCariyeIadeEdildi.md)
+- [Senet İcraya Konuldu](../TemelHareketler/SenetIcrayaKonuldu.md)
+

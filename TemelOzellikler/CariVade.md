@@ -19,3 +19,6 @@ Aynı şekilde "90 gün vadeli alacak" ifadesi, müşterinin fatura tarihinden i
 
 Bu terim; işletmenin nakit akışını yönetmek, ödeme sürelerini planlamak ve finansal ilişkileri düzenlemek için önemlidir. 
 Cari vadeler; işletmenin alacaklarını zamanında tahsil etmesini ve ödemelerini geciktirmeden yapmasını sağlar, bu da likidite yönetimini güçlendirir ve finansal istikrarı artırır.
+
+
+

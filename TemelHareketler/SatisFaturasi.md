@@ -46,7 +46,7 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 **Beklenen Tahsilatlar ve Ödemeler** Bir işletmenin, belirli bir zaman dilimi içinde müşterilerinden almayı beklediği ödemelerdir. 
 	Bu, genellikle satışlardan kaynaklanan alacakları ve diğer gelir kalemlerini içerir. Beklenen Tahsilatlar ve Ödemeler kullanım detayları için linke tıklayınız. [Beklenen Tahsilatlar ve Ödemeler](../TemelOzellikler/BeklenenTahOd.md)
 
-**Cari Detay:**
+**Cari Detay:** 
 
 **Alt Tip:** Alt hareket tipini belirtir.
 
