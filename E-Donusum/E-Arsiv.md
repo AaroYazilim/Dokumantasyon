@@ -17,4 +17,4 @@ GİB’den e-Arşiv izni alan mükellefler, elektronik ortamda oluşturdukları 
 - 7 iş günü otomatik ters kayıt ve onay bildirimi gibi akıllı algoritma hizmetleri sunulmaktadır.
 - E-Arşiv sisteminden sadece e-Fatura sistemine kayıtlı olan kullanıcılar faydalanabilir.
 - Fatura gönderimi yapan firmalar zaman, iş gücü,dağıtım ve arşivlemede tasarruf sağlamaktadırlar. 
-- Vergi mükellefi olmayanların, E-Arşiv faturası oluşturmaları, alıcıya elektronik veya kağıt ortamda iletmeleri, oluşturulan faturaların ikinci nüshasını elektronik ortamda saklanlamalıdır.
+- Vergi mükellefi olmayanların, E-Arşiv faturası oluşturmaları, alıcıya elektronik veya kağıt ortamda iletmeleri, oluşturulan faturaların ikinci nüshasını elektronik ortamda saklamaları gerekmektedir.
