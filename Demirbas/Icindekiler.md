@@ -48,7 +48,7 @@ Bu modül sayesinde, demirbaşların satın alınmasından bakımına kadar olan
 ### Parametreler
 
 - Demirbaş Parametreleri
-	- Demirbas_EksiBakiyeKontrolu (Demirbaş): Demirbaş bakiyelerinin için eksiye düşemeyeceğini tanımlar.
+	- Demirbas_EksiBakiyeKontrolu (Demirbaş): Demirbaş bakiyelerinin eksiye düşemeyeceğini tanımlar.
 	- eFatura_GelenEFaturaOtomatikGelirGiderDemirbasID (E-Fatura): Gelen e-faturalarda zorunlu demirbaş olan kalemlerde geçici olarak kaydedilecek olan demirbaş kartını tanımlar.
 
 - Tasarım Parametreleri
