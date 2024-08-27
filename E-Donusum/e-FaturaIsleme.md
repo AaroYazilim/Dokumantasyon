@@ -12,22 +12,22 @@ Açılan liste ekranında fatura satırlarında tik veya çarpı işareti yer al
 Tik işareti var ise bu faturanın onaylanmış olduğunu gösterir.
 Çarpı işareti var ise bu faturanın işlem yapılması gerektiğini işlenmesi ya da iptal edilmesi gerektiğini belirtir.
 
-## Fatura Redddetme Seçenekleri
+## Fatura Reddetme Seçenekleri
 
 **Sadece Aaro'da Reddet** Bu seçeneği seçtiğimizde oluşturulan faturayı onaylar fakat sistemde gözükmez. 
 **e-Fatura Reddet** Bu seçeneği seçtiğimizde e-Faturayı reddetmiş oluruz.
 
-## İşleme yapmak için eşleştirme seçeneklerimiz mevcutttur.
+## İşlem yapmak için eşleştirme seçeneklerimiz mevcutttur.
 
 ### e-Fatura İçin;
 
-**Alış Faturası OLarak İşle (Başlık + Tüm Satırlar Stok)** Bu seçenek seçildiğinde stok alış faturası olarak işleyecektir.
-**Alış Faturası OLarak İşle (Başlık + Tüm Satırlar GelirGider)** Bu seçenek seçildiğinde gelir gider alış faturası olarak işleyecektir.
+**Alış Faturası Olarak İşle (Başlık + Tüm Satırlar Stok)** Bu seçenek seçildiğinde stok alış faturası olarak işleyecektir.
+**Alış Faturası Olarak İşle (Başlık + Tüm Satırlar GelirGider)** Bu seçenek seçildiğinde gelir gider alış faturası olarak işleyecektir.
 **Alış Faturası Olarak İşle (Sadece Başlık)** Bu seçenek seçildiğinde başlık alış faturası olarak işlenecektir.
 
-**Alış Faturası Olarak İşle (Manuel)** Bu seçenek seçildiğinde alış faturasını manuel değişiklik yapabilirsiniz.
+**Alış Faturası Olarak İşle (Manuel)** Bu seçenek seçildiğinde alış faturasında manuel değişiklik yapabilirsiniz.
 
-**Alış Faturası Olarak İşle (Kasadan Gelir Hareketi OLarak İşle)** 
+**Alış Faturası Olarak İşle (Kasadan Gelir Hareketi Olarak İşle)** 
 Bu seçenek seçildiğinde alış faturasını kasa ile eşleştirerek gelir gider hareketini otomatik gerçekleştirir.
 
 **Bankadan Gider Hareketi Olarak İşle**
@@ -42,8 +42,10 @@ Yevmiye fişi ile eşleştirme yaparak verileri otomatik getirir.
 
 ### e-İrsaliye İçin;
 
-**Alış İrsaliyesi OLarak İşle (Başlık + Tüm Satırlar Stok)** Bu seçenek seçildiğinde stok alış irsaliyesi olarak işleyecektir.
+**Alış İrsaliyesi Olarak İşle (Başlık + Tüm Satırlar Stok)** Bu seçenek seçildiğinde stok alış irsaliyesi olarak işleyecektir.
+
 **Alış İrsaliyesi OLarak İşle (Başlık + Tüm Satırlar GelirGider)** Bu seçenek seçildiğinde gelir gider alış irsaliyesi olarak işleyecektir.
+
 **Alış İrsaliyesi Olarak İşle (Sadece Başlık)** Bu seçenek seçildiğinde başlık alış irsaliyesi olarak işlenecektir.
 
 **Alış İrsaliyesi Olarak İşle (Manuel)** Bu seçenek seçildiğinde alış irsaliyesini manuel değişiklik yapabilirsiniz.
