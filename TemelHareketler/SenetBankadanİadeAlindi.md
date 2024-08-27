@@ -3,92 +3,92 @@ SayfaID: CekSenetBankadanIadeAlindi
 SayfaTipi: SenetBankadanIadeAlindi
 ---
 
-# Senet Bankadan İade Alındı
+# Senet Bankadan Ä°ade AlÄ±ndÄ±
 
-**Erişim Linki :** [erp.aaro.com.tr/CekSenetBankadanIadeAlindi?TipID=SenetBankadanIadeAlindi](erp.aaro.com.tr/CekSenetBankadanIadeAlindi?TipID=SenetBankadanIadeAlindi)
+**EriÅŸim Linki :** [erp.aaro.com.tr/CekSenetBankadanIadeAlindi?TipID=SenetBankadanIadeAlindi](erp.aaro.com.tr/CekSenetBankadanIadeAlindi?TipID=SenetBankadanIadeAlindi)
 
-### Ulaşım
+### UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Senet" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden ÇekSenet -> Hareket Oluştur -> Senet Bankadan İade Alındı üzerinden ulaşım sağlayabilirsiniz. 
-- Sol menüden Banka -> Hareket Oluştur -> Senet Bankadan İade Alındı üzerinden ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "Senet" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Ã‡ekSenet -> Hareket OluÅŸtur -> Senet Bankadan Ä°ade AlÄ±ndÄ± Ã¼zerinden ulaÅŸÄ±m saÄŸlayabilirsiniz. 
+- Sol menÃ¼den Banka -> Hareket OluÅŸtur -> Senet Bankadan Ä°ade AlÄ±ndÄ± Ã¼zerinden ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 
-### Tanım 
+### TanÄ±m 
 
-Senet Bankadan İade Alındı işlemi, bankaya tahsil edilmek üzere verilen bir senedin, çeşitli nedenlerle geri iade edilmesi sürecini ifade eder. 
-Bu durum genellikle senedin karşılıksız çıkması, hesapta yeterli bakiye olmaması veya bankanın teknik nedenlerle senedi işleyememesi gibi sebeplerle gerçekleşir.
+Senet Bankadan Ä°ade AlÄ±ndÄ± iÅŸlemi, bankaya tahsil edilmek Ã¼zere verilen bir senedin, Ã§eÅŸitli nedenlerle geri iade edilmesi sÃ¼recini ifade eder. 
+Bu durum genellikle senedin karÅŸÄ±lÄ±ksÄ±z Ã§Ä±kmasÄ±, hesapta yeterli bakiye olmamasÄ± veya bankanÄ±n teknik nedenlerle senedi iÅŸleyememesi gibi sebeplerle gerÃ§ekleÅŸir.
 
 ### Genel 
 
-- **Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+- **Åirket-Åube:** Bu kartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. [Åirket-Åube](../TemelOzellikler/SirketSubeHareket.md)
 
-- **Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
+- **Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir. **Girilmesi Zorunludur.**
  
-- **Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+- **Belge No:** Belge NumarasÄ±nÄ± ifade eder. Otomatik sÄ±radaki numara gelir. Ä°stenirse seri kullanÄ±labilir.
 
-- **Banka Hesap:** İşlemin yapıldığı banka hesap kartını ifade eder. **Girilmesi Zorunludur.**
+- **Banka Hesap:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± banka hesap kartÄ±nÄ± ifade eder. **Girilmesi Zorunludur.**
 
-- **Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+- **DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinisini belirtir.
 
-- **Kur:** Belirtilen dövizin, işlem yapılan para birimi karşısındaki değerini ifade eder. 
-Kur, dövizin güncel piyasa değerini yansıtır ve bu oran üzerinden işlemler gerçekleştirilir.
+- **Kur:** Belirtilen dÃ¶vizin, iÅŸlem yapÄ±lan para birimi karÅŸÄ±sÄ±ndaki deÄŸerini ifade eder. 
+Kur, dÃ¶vizin gÃ¼ncel piyasa deÄŸerini yansÄ±tÄ±r ve bu oran Ã¼zerinden iÅŸlemler gerÃ§ekleÅŸtirilir.
 
 ### Detay
 
-- **Proje: Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir.
+- **Proje: Bu hareketin hangi projeye ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir.
 
-- **Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir.
+- **Plasiyer:** Bu hareketin hangi plasiyere ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir.
 
-- **Alt Tip:** Alt hareket tipini belirtir. İşlemin belirli bir işlem altında sınıflandırılmasını sağlayan alt hareket tipini belirtir. 
-Bu, işlemin farklı bir işlem hareket türü içinde yer aldığını gösterir.
+- **Alt Tip:** Alt hareket tipini belirtir. Ä°ÅŸlemin belirli bir iÅŸlem altÄ±nda sÄ±nÄ±flandÄ±rÄ±lmasÄ±nÄ± saÄŸlayan alt hareket tipini belirtir. 
+Bu, iÅŸlemin farklÄ± bir iÅŸlem hareket tÃ¼rÃ¼ iÃ§inde yer aldÄ±ÄŸÄ±nÄ± gÃ¶sterir.
 
-### Açıklamalar
+### AÃ§Ä±klamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md)
+- **AÃ§Ä±klamalar:** Ek aÃ§Ä±klamalarÄ± belirtir. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
+- **Etiketler:** Bu kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lÄ±r. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 ### Senet Kalemi Ekleme 
 
-- **Çek Senet Ekle:** Bankaya iade edilecek seneti seçelim.
+- **Ã‡ek Senet Ekle:** Bankaya iade edilecek seneti seÃ§elim.
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+Ä°ÅŸleme ait Ã¶zel notlar belirtebiliriz. 
+Ã–nemli bir detay var ise bu detaylarÄ± burada belirtebiliriz.
+Notlar kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+YapacaÄŸÄ±mÄ±z iÅŸlem iÃ§in elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yÃ¼kleyebiliriz.
+Buraya iÅŸlem gerÃ§ekleÅŸirken ki gÃ¶rselleri yÃ¼kleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek iÃ§in tÄ±klayalÄ±m ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Daha Ã¶nce yÃ¼klediklerimden seÃ§ -> belgeyi seÃ§elim -> Ä°liÅŸkilendir ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- YÃ¼klenecek belge veya resimleri seÃ§in -> belgeyi ya da belgeleri seÃ§elim -> YÃ¼kle ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
-Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+Belge kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Belge](../TemelOzellikler/Belgeler.md)
 
-## Kayıt Bilgileri
+## KayÄ±t Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+KartÄ±n hangi kullanÄ±cÄ± tarafÄ±ndan ve hangi tarihlerde oluÅŸturulduÄŸu ve deÄŸiÅŸtirildiÄŸi bilgisini iÃ§erir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kart iÅŸ akÄ±ÅŸ sÃ¼reÃ§lerine dahil edildiÄŸinde hangi kullanÄ±cÄ± tarafÄ±ndan hangi tarihte onaylandÄ±ÄŸÄ± bilgilerini iÃ§erir. 
 
-## Ek İşlemler
+## Ek Ä°ÅŸlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Seneti kopyalamak için kullanılır.
-- Kur Güncelle: Döviz kurunda değişiklik yapmak için kullanılır.
-- Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
-- Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
-- Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
-- Görev Oluştur: Sipariş için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
+ SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan alt altta Ã¼Ã§ Ã§izgi ÅŸeklinde olan dÃ¼ÄŸme ile ek iÅŸlemlere ulaÅŸÄ±lÄ±r.
+- Yevmiye FiÅŸ: Yevmiye fiÅŸi, iÅŸletmelerde gerÃ§ekleÅŸen her tÃ¼rlÃ¼ mali iÅŸlemin tarih, miktar ve aÃ§Ä±klama bilgileri ile birlikte kaydedildiÄŸi muhasebe belgesidir.
+- Kopyala: Seneti kopyalamak iÃ§in kullanÄ±lÄ±r.
+- Kur GÃ¼ncelle: DÃ¶viz kurunda deÄŸiÅŸiklik yapmak iÃ§in kullanÄ±lÄ±r.
+- TÃ¼m Kalemlerde DeÄŸiÅŸtir: Buradan depo, proje, sÃ¶zleÅŸme, vergi muafiyeti, vergileri yenile, iskonto oranÄ±, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tÃ¼m kalemlerde deÄŸiÅŸtirebiliriz.
+- DÃ¶viz TÃ¼rÃ¼ DeÄŸiÅŸtir: DÃ¶viz tÃ¼rÃ¼ deÄŸiÅŸikliÄŸi yapabiliriz.
+- Grid SÃ¼tunlarÄ± Ayarla: Burada kartÄ±n detaylarÄ±nÄ±n gÃ¶zÃ¼kmesinde deÄŸiÅŸiklikler yapabilirsiniz.
+- GÃ¶rev OluÅŸtur: SipariÅŸ iÃ§in gÃ¶rev oluÅŸturup, kiÅŸi atayabiliriz, aÃ§Ä±klama, tarih bitiÅŸ, hatÄ±rlatma sÃ¼resi, yÃ¶netici, kullanÄ±cÄ±, tamamlanma tipi, tekrar ÅŸekli bilgilerini ekleyerek gÃ¶rev tanÄ±mlama iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- GÃ¶rev BaÄŸla: AÃ§Ä±lan listede ki gÃ¶revlerden gÃ¶revi baÄŸlayacaÄŸÄ±mÄ±z, birleÅŸtireceÄŸimiz gÃ¶revi seÃ§elim, kaydet diyerek gÃ¶revi baÄŸlayabiliriz.
 
 
 

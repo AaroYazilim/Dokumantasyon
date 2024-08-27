@@ -36,7 +36,7 @@ Bu işlemleri nasıl gerçekleştiğimizi ve detaylarına linkten erişim sağla
 	Filtrelemede Sadece İş Emri Gelsin;
 	
 	**Evet** seçeneği seçili olduğunda sadece iş emirlerini görüntüleriz.
-	
+
 	**Hayır** seçeneği seçili olduğunda set ve süreler gözükmektedir.
 	
 	İş emirlerinize tıklayarak yeni üretim girişi yapabilir, üretilen setleri görüntüleyebilir, parçalayabilir, iş emrine erişebilir, makine değiştirebilir, üretime ait çıktılar alabiliriz.
@@ -47,12 +47,17 @@ Bu işlemleri nasıl gerçekleştiğimizi ve detaylarına linkten erişim sağla
 Üretim planlarında esneklik sağlayarak, beklenmedik durumlara hızlıca adapte olmayı mümkün kılar.
 
 **Tarih:** İşlem yapılacak tarihi seçelim.
+
 **Ertelenecek Gün Sayısı:** Üretim planımızı erteleyeceğimiz gün sayısını girelim.
 	Örneğin; bugün üretim planımızda koltuk takımı rutin üretimimiz var, acil iş geldi 3 gün içerisinde teslim edilmesi gerekli. 
 	Ertelenecek gün sayısına 3 yazıyoruz acil işimiz bittikten sonra üretimimize kaldığımız yerden devam edebiliriz.
+
 **İş Emri:** Ertelenecek olan iş emrini seçelim.
+
 **Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
+
 **Operasyon:** Ertelenecek operasyonu seçelim.
+
 **Makine:** Makineyi seçelim.
 
 ### Toplu Makine Değiştir
@@ -63,11 +68,15 @@ Toplu Makine Değiştir işlemi, belirli üretim süreçlerinde kullanılan maki
 Hangi makinelerin hangi üretim emirlerinde kullanıldığı ve bu değişikliğin ne tür bir etki yaratacağı belirleyebilirsiniz.
 
 **Başlangıç Tarihi:** Makine değişikliğinin başlayacağı tarihi seçelim.
+
 **Operasyon:** Hangi operasyonda makine değişikliği yapılacaksa o operasyonu seçelim.
+
 **Kaynak Makine:** Operasyonda değişim yapacağımız makineyi seçelim.
 
 **Bitiş Tarihi:** Makine değişikliğinin biteceği tarihi seçelim.
+
 **Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
+
 **HedefMakine:** Operasyonda değişim sonrası kullanılacak makineyi seçelim.
 
 ### Geçmiş Tarihli Planı Bugüne Taşı 
@@ -87,10 +96,15 @@ Alternatif makinelerini değerlendirerek en uygun üretim planını hazırlar.
 İşlem yaptığımız gün itibariyle tüm üretimi, teslim tarihi ve önceliklere göre otomatik olarak planlanacaktır.
 
 **Şirket-Şube:** Hareketin ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+
 **Plan Başlangıç Tarihi:** Planlamaya hangi gün başlayacaksak tarihini girelim.
+
 **Plan Başlangıç Vardiya:** Plana başladığımızda kaçıncı vardiyada isek o vardiyayı seçelim.
+
 **Alternatif Makineleri Degerlendir:** Bu seçeneği aktif ederek alternatif makineleri değerlendirerek en uygun planlamayı yapar.
+
 **Minimum BirGune Planlanabilecek Miktar:** Bir gün için en düşük ne kadar ürün çıkaracaksak minimum ürünün miktarını girelim.
+
 **Minimum Bir Gune Planlanabilecek Sure Dk:** Bir gün için en az ne kadar sürede planlama yapılmasını istiyorsak minimum süreyi girelim.
 
 Kaydet butonuna basarak planlamamızı gerçekleştirebiliriz.

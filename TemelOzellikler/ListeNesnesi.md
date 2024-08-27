@@ -1,23 +1,23 @@
 
 # Liste Nesnesi
 
-Liste nesnesi, belirli liste türdeki verileri organize bir şekilde saklayan ve bu verilerin toplu olarak görüntülenmesini, yönetilmesini veya işlenmesini sağlayan bir yapı veya araçtır. 
-Liste nesnesi, genellikle aynı türden verilerin bir araya getirilmesiyle oluşturulur ve bu verilerin sıralanması, filtrelenmesi, aranması gibi işlemleri kolaylaştırır. 
-Liste nesneleri, kullanıcının belirli kriterlere göre verileri incelemesine, güncellemesine ve yönetmesine olanak tanıyan temel bir yapı taşıdır. 
-Örneğin, bir müşteri listesi, ürün listesi veya sipariş listesi gibi verilerin bir arada tutulduğu ve yönetildiği bir sistem olarak kullanılabilir. 
-Liste nesneleri, iş süreçlerinde verilerin düzenli ve erişilebilir olmasını sağlar, böylece kullanıcılar verimliliği artırarak işlerini daha kolay ve etkili bir şekilde yürütebilir.
+Liste nesnesi, belirli liste tÃ¼rdeki verileri organize bir ÅŸekilde saklayan ve bu verilerin toplu olarak gÃ¶rÃ¼ntÃ¼lenmesini, yÃ¶netilmesini veya iÅŸlenmesini saÄŸlayan bir yapÄ± veya araÃ§tÄ±r. 
+Liste nesnesi, genellikle aynÄ± tÃ¼rden verilerin bir araya getirilmesiyle oluÅŸturulur ve bu verilerin sÄ±ralanmasÄ±, filtrelenmesi, aranmasÄ± gibi iÅŸlemleri kolaylaÅŸtÄ±rÄ±r. 
+Liste nesneleri, kullanÄ±cÄ±nÄ±n belirli kriterlere gÃ¶re verileri incelemesine, gÃ¼ncellemesine ve yÃ¶netmesine olanak tanÄ±yan temel bir yapÄ± taÅŸÄ±dÄ±r. 
+Ã–rneÄŸin, bir mÃ¼ÅŸteri listesi, Ã¼rÃ¼n listesi veya sipariÅŸ listesi gibi verilerin bir arada tutulduÄŸu ve yÃ¶netildiÄŸi bir sistem olarak kullanÄ±labilir. 
+Liste nesneleri, iÅŸ sÃ¼reÃ§lerinde verilerin dÃ¼zenli ve eriÅŸilebilir olmasÄ±nÄ± saÄŸlar, bÃ¶ylece kullanÄ±cÄ±lar verimliliÄŸi artÄ±rarak iÅŸlerini daha kolay ve etkili bir ÅŸekilde yÃ¼rÃ¼tebilir.
 
-Örneğin; stok sayımı yaparken verileri toplu olarak seçme ve işleme imkanı sunarak süreci önemli ölçüde hızlandırır ve kolaylaştırır. 
-Stok sayımı sırasında, tek tek her bir ürünü manuel olarak seçmek yerine, liste nesnesi sayesinde belirli bir kategori,
-ürün grubu veya diğer kriterlere göre filtreleme yapabilir ve toplu seçim gerçekleştirebilirsiniz. Bu toplu seçim özelliği, 
-büyük miktarda veri ile çalışırken zaman tasarrufu sağlar ve hatalarını minimize eder.
-Bir depo sayımı sırasında belirli bir ürün grubundaki tüm ürünleri hızlıca seçip sayım yapmak isteyebilirsiniz. 
-Liste nesnesi bu ürünleri sizin belirlediğiniz kriterlere göre otomatik olarak filtreler ve toplu halde seçmenize olanak tanır. 
-Ardından, seçilen stokların sayım işlemi tek bir adımda gerçekleştirilebilir. 
-Bu, özellikle geniş ürün yelpazesine sahip işletmelerde stok sayım süreçlerini daha verimli hale getirir.
+Ã–rneÄŸin; stok sayÄ±mÄ± yaparken verileri toplu olarak seÃ§me ve iÅŸleme imkanÄ± sunarak sÃ¼reci Ã¶nemli Ã¶lÃ§Ã¼de hÄ±zlandÄ±rÄ±r ve kolaylaÅŸtÄ±rÄ±r. 
+Stok sayÄ±mÄ± sÄ±rasÄ±nda, tek tek her bir Ã¼rÃ¼nÃ¼ manuel olarak seÃ§mek yerine, liste nesnesi sayesinde belirli bir kategori,
+Ã¼rÃ¼n grubu veya diÄŸer kriterlere gÃ¶re filtreleme yapabilir ve toplu seÃ§im gerÃ§ekleÅŸtirebilirsiniz. Bu toplu seÃ§im Ã¶zelliÄŸi, 
+bÃ¼yÃ¼k miktarda veri ile Ã§alÄ±ÅŸÄ±rken zaman tasarrufu saÄŸlar ve hatalarÄ±nÄ± minimize eder.
+Bir depo sayÄ±mÄ± sÄ±rasÄ±nda belirli bir Ã¼rÃ¼n grubundaki tÃ¼m Ã¼rÃ¼nleri hÄ±zlÄ±ca seÃ§ip sayÄ±m yapmak isteyebilirsiniz. 
+Liste nesnesi bu Ã¼rÃ¼nleri sizin belirlediÄŸiniz kriterlere gÃ¶re otomatik olarak filtreler ve toplu halde seÃ§menize olanak tanÄ±r. 
+ArdÄ±ndan, seÃ§ilen stoklarÄ±n sayÄ±m iÅŸlemi tek bir adÄ±mda gerÃ§ekleÅŸtirilebilir. 
+Bu, Ã¶zellikle geniÅŸ Ã¼rÃ¼n yelpazesine sahip iÅŸletmelerde stok sayÄ±m sÃ¼reÃ§lerini daha verimli hale getirir.
 
-Ayrıca, liste nesneleri, stok sayımı sırasında elde edilen verilerin kolayca kaydedilmesine ve raporlanmasına da yardımcı olur.
-Böylece, stok durumu hakkında daha net bir anlayış elde edebilir ve stok yönetiminde daha doğru kararlar alabilirsiniz. 
-Liste nesneleri, stok sayım süreçlerini optimize ederken, aynı zamanda iş akışınızı düzenli ve kontrollü bir şekilde yönetmenizi sağlar.
+AyrÄ±ca, liste nesneleri, stok sayÄ±mÄ± sÄ±rasÄ±nda elde edilen verilerin kolayca kaydedilmesine ve raporlanmasÄ±na da yardÄ±mcÄ± olur.
+BÃ¶ylece, stok durumu hakkÄ±nda daha net bir anlayÄ±ÅŸ elde edebilir ve stok yÃ¶netiminde daha doÄŸru kararlar alabilirsiniz. 
+Liste nesneleri, stok sayÄ±m sÃ¼reÃ§lerini optimize ederken, aynÄ± zamanda iÅŸ akÄ±ÅŸÄ±nÄ±zÄ± dÃ¼zenli ve kontrollÃ¼ bir ÅŸekilde yÃ¶netmenizi saÄŸlar.
 
-Liste nesnelerinde birden fazla seçim yapmak için ctrl + mouse sağ tık ile kolayca seçebilirsiniz.
+Liste nesnelerinde birden fazla seÃ§im yapmak iÃ§in ctrl + mouse saÄŸ tÄ±k ile kolayca seÃ§ebilirsiniz.

@@ -1,14 +1,14 @@
 
 ## Listeyi Excele Aktar
 
-Listeyi Excele Aktar özelliği, verilerinizi kolayca Excel formatında dışa aktarmanızı sağlar. 
-Bu özellik sayesinde, kayıtlı listelerinizi hızlıca Excel dosyasına dönüştürebilir ve üzerinde çalışmak, analiz yapmak ya da arşivlemek için kullanabilirsiniz. 
-Verilerinizi Excel'e aktarmak, iş süreçlerinizi daha verimli hale getirir ve verilerinizi daha detaylı inceleme imkanı sunar. 
-Tek bir tıklama ile verilerinizi Excel'e taşıyarak, zamandan tasarruf edin ve işlerinizi daha esnek bir şekilde yönetin.
+Listeyi Excele Aktar Ã¶zelliÄŸi, verilerinizi kolayca Excel formatÄ±nda dÄ±ÅŸa aktarmanÄ±zÄ± saÄŸlar. 
+Bu Ã¶zellik sayesinde, kayÄ±tlÄ± listelerinizi hÄ±zlÄ±ca Excel dosyasÄ±na dÃ¶nÃ¼ÅŸtÃ¼rebilir ve Ã¼zerinde Ã§alÄ±ÅŸmak, analiz yapmak ya da arÅŸivlemek iÃ§in kullanabilirsiniz. 
+Verilerinizi Excel'e aktarmak, iÅŸ sÃ¼reÃ§lerinizi daha verimli hale getirir ve verilerinizi daha detaylÄ± inceleme imkanÄ± sunar. 
+Tek bir tÄ±klama ile verilerinizi Excel'e taÅŸÄ±yarak, zamandan tasarruf edin ve iÅŸlerinizi daha esnek bir ÅŸekilde yÃ¶netin.
 
-İndirmek istediğimiz listeyi açalım, üç işlem butonuna tıklayarak, Listeyi Excele Aktar diyerek excel aktarımımızı yapmış oluruz.
+Ä°ndirmek istediÄŸimiz listeyi aÃ§alÄ±m, Ã¼Ã§ iÅŸlem butonuna tÄ±klayarak, Listeyi Excele Aktar diyerek excel aktarÄ±mÄ±mÄ±zÄ± yapmÄ±ÅŸ oluruz.
 
-Listeyi Excele Aktar gelmiyorsa yetkileriniz açık değildir.
+Listeyi Excele Aktar gelmiyorsa yetkileriniz aÃ§Ä±k deÄŸildir.
 
 
 

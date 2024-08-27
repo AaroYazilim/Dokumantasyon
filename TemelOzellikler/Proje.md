@@ -1,22 +1,22 @@
 
 # Proje 
 
-Proje; belirli bir amacı gerçekleştirmek için planlanmış, başlangıç ve bitiş tarihleri ile sınırlandırılmış, bir dizi faaliyet ve görevi kapsayan geçici bir girişimdir. 
-Projeler, belirli bir hedefe ulaşmak, bir ürün, hizmet veya sonuç üretmek amacıyla organize edilir. 
-Her proje, kendine özgü bir kapsam, zaman çizelgesi, kaynak kullanımı ve bütçeye sahiptir. 
-Proje yönetimi ise bu süreçleri planlama, yürütme, izleme ve kontrol etme disiplinidir. 
+Proje; belirli bir amacÄ± gerÃ§ekleÅŸtirmek iÃ§in planlanmÄ±ÅŸ, baÅŸlangÄ±Ã§ ve bitiÅŸ tarihleri ile sÄ±nÄ±rlandÄ±rÄ±lmÄ±ÅŸ, bir dizi faaliyet ve gÃ¶revi kapsayan geÃ§ici bir giriÅŸimdir. 
+Projeler, belirli bir hedefe ulaÅŸmak, bir Ã¼rÃ¼n, hizmet veya sonuÃ§ Ã¼retmek amacÄ±yla organize edilir. 
+Her proje, kendine Ã¶zgÃ¼ bir kapsam, zaman Ã§izelgesi, kaynak kullanÄ±mÄ± ve bÃ¼tÃ§eye sahiptir. 
+Proje yÃ¶netimi ise bu sÃ¼reÃ§leri planlama, yÃ¼rÃ¼tme, izleme ve kontrol etme disiplinidir. 
 
-Satış faturaları, siparişler ve diğer işlemlerde, stokların bağlı olduğu projeleri belirlemek, proje yönetiminde büyük bir avantaj sağlar. 
-Her bir stok kaleminin hangi projeye ait olduğunu tanımlayarak, o proje kapsamında kullanılan tüm stokların izlenmesini ve yönetilmesini kolaylaştırabilirsiniz. 
-Örneğin, bir satış faturasında veya siparişte yer alan ürünlerin projelerle ilişkilendirilmesi, bu ürünlerin hangi proje için temin edildiğini,
-hangi projede kullanıldığını ve o projeye ait toplam maliyetleri detaylı bir şekilde görmenizi sağlar.
+SatÄ±ÅŸ faturalarÄ±, sipariÅŸler ve diÄŸer iÅŸlemlerde, stoklarÄ±n baÄŸlÄ± olduÄŸu projeleri belirlemek, proje yÃ¶netiminde bÃ¼yÃ¼k bir avantaj saÄŸlar. 
+Her bir stok kaleminin hangi projeye ait olduÄŸunu tanÄ±mlayarak, o proje kapsamÄ±nda kullanÄ±lan tÃ¼m stoklarÄ±n izlenmesini ve yÃ¶netilmesini kolaylaÅŸtÄ±rabilirsiniz. 
+Ã–rneÄŸin, bir satÄ±ÅŸ faturasÄ±nda veya sipariÅŸte yer alan Ã¼rÃ¼nlerin projelerle iliÅŸkilendirilmesi, bu Ã¼rÃ¼nlerin hangi proje iÃ§in temin edildiÄŸini,
+hangi projede kullanÄ±ldÄ±ÄŸÄ±nÄ± ve o projeye ait toplam maliyetleri detaylÄ± bir ÅŸekilde gÃ¶rmenizi saÄŸlar.
 
-Bu sistem sayesinde, proje bazlı maliyet analizleri yapmak, kaynakların verimli kullanılmasını sağlamak ve 
-projelerin bütçe dahilinde ilerleyip ilerlemediğini izlemek çok daha kolay hale gelir.
-Ayrıca, proje ilerleyişi sırasında hangi stokların ne zaman ve ne miktarda kullanıldığını takip ederek, 
-stok yönetimini optimize edebilir ve gelecekteki projeler için daha doğru tahminlerde bulunabilirsiniz.
+Bu sistem sayesinde, proje bazlÄ± maliyet analizleri yapmak, kaynaklarÄ±n verimli kullanÄ±lmasÄ±nÄ± saÄŸlamak ve 
+projelerin bÃ¼tÃ§e dahilinde ilerleyip ilerlemediÄŸini izlemek Ã§ok daha kolay hale gelir.
+AyrÄ±ca, proje ilerleyiÅŸi sÄ±rasÄ±nda hangi stoklarÄ±n ne zaman ve ne miktarda kullanÄ±ldÄ±ÄŸÄ±nÄ± takip ederek, 
+stok yÃ¶netimini optimize edebilir ve gelecekteki projeler iÃ§in daha doÄŸru tahminlerde bulunabilirsiniz.
 
-Proje ile entegre edilmiş stok takibi, sadece stokların doğru projelere atanmasını sağlamakla kalmaz, aynı zamanda her projenin ayrıntılı bir dökümünü sunarak,
-proje yöneticilerinin daha bilinçli kararlar almasına yardımcı olur. 
-Bu entegre sistem, proje süreçlerinin şeffaflığını artırır, raporlama süreçlerini basitleştirir ve iş akışını daha düzenli hale getirir.
+Proje ile entegre edilmiÅŸ stok takibi, sadece stoklarÄ±n doÄŸru projelere atanmasÄ±nÄ± saÄŸlamakla kalmaz, aynÄ± zamanda her projenin ayrÄ±ntÄ±lÄ± bir dÃ¶kÃ¼mÃ¼nÃ¼ sunarak,
+proje yÃ¶neticilerinin daha bilinÃ§li kararlar almasÄ±na yardÄ±mcÄ± olur. 
+Bu entegre sistem, proje sÃ¼reÃ§lerinin ÅŸeffaflÄ±ÄŸÄ±nÄ± artÄ±rÄ±r, raporlama sÃ¼reÃ§lerini basitleÅŸtirir ve iÅŸ akÄ±ÅŸÄ±nÄ± daha dÃ¼zenli hale getirir.
 

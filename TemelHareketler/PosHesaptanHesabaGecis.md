@@ -1,111 +1,111 @@
 ---
-SayfaID: PosHesaptanHesabaGeçiş
+SayfaID: PosHesaptanHesabaGeÃ§iÅŸ
 SayfaTipi: Banka
 ---
 
-# Satış Faturası
+# SatÄ±ÅŸ FaturasÄ±
 
-**Erişim Linki :** [erp.aaro.com.tr/KrediPosBankadanTahsilat](https://erp.aaro.com.tr/KrediPosBankadanTahsilat)
+**EriÅŸim Linki :** [erp.aaro.com.tr/KrediPosBankadanTahsilat](https://erp.aaro.com.tr/KrediPosBankadanTahsilat)
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "pos hesap" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Banka -> Hareket Oluştur -> Diğer İşlemler -> POS Hesaptan Hesaba Geçiş şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "pos hesap" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Banka -> Hareket OluÅŸtur -> DiÄŸer Ä°ÅŸlemler -> POS Hesaptan Hesaba GeÃ§iÅŸ ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 
-## Tanım 
+## TanÄ±m 
 
-POS (Point of Sale) hesaptan hesaba geçiş işlemi, POS cihazları aracılığıyla yapılan satışlardan elde edilen tutarın, 
-geçici olarak POS hesabında tutulduktan sonra işletmenin ana banka hesabına aktarılmasını ifade eder. 
-Bu işlem, POS cihazları ile yapılan işlemlerin düzgün bir şekilde muhasebeleştirilmesini ve finansal tabloların doğru bir şekilde güncellenmesini sağlar.
+POS (Point of Sale) hesaptan hesaba geÃ§iÅŸ iÅŸlemi, POS cihazlarÄ± aracÄ±lÄ±ÄŸÄ±yla yapÄ±lan satÄ±ÅŸlardan elde edilen tutarÄ±n, 
+geÃ§ici olarak POS hesabÄ±nda tutulduktan sonra iÅŸletmenin ana banka hesabÄ±na aktarÄ±lmasÄ±nÄ± ifade eder. 
+Bu iÅŸlem, POS cihazlarÄ± ile yapÄ±lan iÅŸlemlerin dÃ¼zgÃ¼n bir ÅŸekilde muhasebeleÅŸtirilmesini ve finansal tablolarÄ±n doÄŸru bir ÅŸekilde gÃ¼ncellenmesini saÄŸlar.
 
-POS cihazı üzerinden gerçekleştirilen satış işlemleri, müşterilerin kredi kartı veya banka kartı ile ödeme yapmaları sonucunda POS hesabına yansır. 
-Bu tutar, genellikle bankanın geçici bir POS hesabında toplanır.
+POS cihazÄ± Ã¼zerinden gerÃ§ekleÅŸtirilen satÄ±ÅŸ iÅŸlemleri, mÃ¼ÅŸterilerin kredi kartÄ± veya banka kartÄ± ile Ã¶deme yapmalarÄ± sonucunda POS hesabÄ±na yansÄ±r. 
+Bu tutar, genellikle bankanÄ±n geÃ§ici bir POS hesabÄ±nda toplanÄ±r.
 
-Belirli bir süre sonunda (genellikle günlük, haftalık veya banka anlaşmalarına göre), POS hesabında biriken tutar, işletmenin ana banka hesabına transfer edilir. 
-Bu işlem, bankanın belirlediği süre sonunda otomatik olarak gerçekleşir veya işletme tarafından manuel olarak da yapılabilir.
+Belirli bir sÃ¼re sonunda (genellikle gÃ¼nlÃ¼k, haftalÄ±k veya banka anlaÅŸmalarÄ±na gÃ¶re), POS hesabÄ±nda biriken tutar, iÅŸletmenin ana banka hesabÄ±na transfer edilir. 
+Bu iÅŸlem, bankanÄ±n belirlediÄŸi sÃ¼re sonunda otomatik olarak gerÃ§ekleÅŸir veya iÅŸletme tarafÄ±ndan manuel olarak da yapÄ±labilir.
 
-POS hesabından ana hesaba yapılan bu geçiş, muhasebe kayıtlarına "POS hesabından ana hesaba transfer" olarak kaydedilir. 
-Bu işlem, POS hesabındaki tutarın azaltılması (borç) ve ana hesaba eklenmesi (alacak) şeklinde muhasebe kayıtlarına yansıtılır.
+POS hesabÄ±ndan ana hesaba yapÄ±lan bu geÃ§iÅŸ, muhasebe kayÄ±tlarÄ±na "POS hesabÄ±ndan ana hesaba transfer" olarak kaydedilir. 
+Bu iÅŸlem, POS hesabÄ±ndaki tutarÄ±n azaltÄ±lmasÄ± (borÃ§) ve ana hesaba eklenmesi (alacak) ÅŸeklinde muhasebe kayÄ±tlarÄ±na yansÄ±tÄ±lÄ±r.
 
-Bu işlem, POS hesabındaki hareketlerin doğru bir şekilde takip edilmesini ve tüm satışların zamanında ana hesaba aktarılmasını sağlar. 
-Ayrıca, bankalardan gelen hesap ekstreleri ile POS geçiş işlemlerinin uyumlu olup olmadığını kontrol etmek önemlidir.
+Bu iÅŸlem, POS hesabÄ±ndaki hareketlerin doÄŸru bir ÅŸekilde takip edilmesini ve tÃ¼m satÄ±ÅŸlarÄ±n zamanÄ±nda ana hesaba aktarÄ±lmasÄ±nÄ± saÄŸlar. 
+AyrÄ±ca, bankalardan gelen hesap ekstreleri ile POS geÃ§iÅŸ iÅŸlemlerinin uyumlu olup olmadÄ±ÄŸÄ±nÄ± kontrol etmek Ã¶nemlidir.
 
-Örnek:
-Bir işletme, POS cihazı ile 1.000 TL'lik satış yapar ve bu tutar POS hesabına aktarılır. 
-Gün sonunda bu 1.000 TL, POS hesabından işletmenin ana banka hesabına transfer edilir. Bu işlem, muhasebe kayıtlarında şu şekilde görünür:
+Ã–rnek:
+Bir iÅŸletme, POS cihazÄ± ile 1.000 TL'lik satÄ±ÅŸ yapar ve bu tutar POS hesabÄ±na aktarÄ±lÄ±r. 
+GÃ¼n sonunda bu 1.000 TL, POS hesabÄ±ndan iÅŸletmenin ana banka hesabÄ±na transfer edilir. Bu iÅŸlem, muhasebe kayÄ±tlarÄ±nda ÅŸu ÅŸekilde gÃ¶rÃ¼nÃ¼r:
 
-POS Hesabı: 1.000 TL borç (azaltma)
-Ana Banka Hesabı: 1.000 TL alacak (artış)
-Bu şekilde, POS hesaptan hesaba geçiş işlemi, işletmenizin POS cihazı üzerinden yapılan satışların düzgün bir şekilde ana hesaba aktarılmasını ve finansal kayıtlarınızın doğru ve güncel tutulmasını sağlar.
+POS HesabÄ±: 1.000 TL borÃ§ (azaltma)
+Ana Banka HesabÄ±: 1.000 TL alacak (artÄ±ÅŸ)
+Bu ÅŸekilde, POS hesaptan hesaba geÃ§iÅŸ iÅŸlemi, iÅŸletmenizin POS cihazÄ± Ã¼zerinden yapÄ±lan satÄ±ÅŸlarÄ±n dÃ¼zgÃ¼n bir ÅŸekilde ana hesaba aktarÄ±lmasÄ±nÄ± ve finansal kayÄ±tlarÄ±nÄ±zÄ±n doÄŸru ve gÃ¼ncel tutulmasÄ±nÄ± saÄŸlar.
 
 ## Genel
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
+**Åirket-Åube:** KartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](../TemelOzellikler/SirketSubeKart.md)
 
-**Tarih:** İşlemin yapıldığı tarihi belirtir. 
+**Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir. 
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasÄ±nÄ± ifade eder. Otomatik sÄ±radaki numara gelir. Ä°stenirse seri kullanÄ±labilir.
 
-**Banka Hesap:** İşlemin yapılacağı banka hesabı ifade eder. 
+**Banka Hesap:** Ä°ÅŸlemin yapÄ±lacaÄŸÄ± banka hesabÄ± ifade eder. 
 
-**Döviz:** Bu banka hesabının çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
-Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
+**DÃ¶viz:** Bu banka hesabÄ±nÄ±n Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinsini belirtir.TÃ¼rk lirasÄ± haricinde baÅŸka bir dÃ¶viz seÃ§ildiÄŸinde sadece o dÃ¶viz cinsinden hareket iÅŸlenmesine izin verir. 
+Banka hesabÄ±nÄ±n bakiyesi seÃ§ilen dÃ¶viz cinsinden takip edilir.
 
-**Kur:** Belirtilen dövizin, işlem yapılan para birimi karşısındaki değerini ifade eder. 
-Kur, dövizin güncel piyasa değerini yansıtır ve bu oran üzerinden işlemler gerçekleştirilir.
+**Kur:** Belirtilen dÃ¶vizin, iÅŸlem yapÄ±lan para birimi karÅŸÄ±sÄ±ndaki deÄŸerini ifade eder. 
+Kur, dÃ¶vizin gÃ¼ncel piyasa deÄŸerini yansÄ±tÄ±r ve bu oran Ã¼zerinden iÅŸlemler gerÃ§ekleÅŸtirilir.
 
-**Açıklama:** İşleme ait açıklamayı belirtir. [Açıklama](../TemelOzellikler/Aciklama.md)
+**AÃ§Ä±klama:** Ä°ÅŸleme ait aÃ§Ä±klamayÄ± belirtir. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
 ## Detay 
 
-**Proje:** Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir. Proje kullanım detayları için linke tıklayınız.[Proje](../TemelOzellikler/Proje.md)
+**Proje:** Bu hareketin hangi projeye ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir. Proje kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[Proje](../TemelOzellikler/Proje.md)
 
-**Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir. Plasiyer kullanım detayları için linke tıklayınız.[Plasiyer](../TemelOzellikler/Plasiyer.md)
+**Plasiyer:** Bu hareketin hangi plasiyere ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir. Plasiyer kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[Plasiyer](../TemelOzellikler/Plasiyer.md)
 
 **Alt Tip:** Alt hareket tipini belirtir.
 
-### Açıklamalar
+### AÃ§Ä±klamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")	
+- **AÃ§Ä±klamalar:** Ek aÃ§Ä±klamalarÄ± belirtir. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")	
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lÄ±r. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
-## Doldurmamız gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
+## DoldurmamÄ±z gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aÅŸamamÄ±za geÃ§ebiliriz.
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+Ä°ÅŸleme ait Ã¶zel notlar belirtebiliriz. 
+Ã–nemli bir detay var ise bu detaylarÄ± burada belirtebiliriz.
+Notlar kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+YapacaÄŸÄ±mÄ±z iÅŸlem iÃ§in elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yÃ¼kleyebiliriz.
+Buraya iÅŸlem gerÃ§ekleÅŸirken ki gÃ¶rselleri yÃ¼kleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek iÃ§in tÄ±klayalÄ±m ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Daha Ã¶nce yÃ¼klediklerimden seÃ§ -> belgeyi seÃ§elim -> Ä°liÅŸkilendir ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- YÃ¼klenecek belge veya resimleri seÃ§in -> belgeyi ya da belgeleri seÃ§elim -> YÃ¼kle ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
-Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+Belge kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Belge](../TemelOzellikler/Belgeler.md)
 
-## Kayıt Bilgileri
+## KayÄ±t Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+KartÄ±n hangi kullanÄ±cÄ± tarafÄ±ndan ve hangi tarihlerde oluÅŸturulduÄŸu ve deÄŸiÅŸtirildiÄŸi bilgisini iÃ§erir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kart iÅŸ akÄ±ÅŸ sÃ¼reÃ§lerine dahil edildiÄŸinde hangi kullanÄ±cÄ± tarafÄ±ndan hangi tarihte onaylandÄ±ÄŸÄ± bilgilerini iÃ§erir. 
 
 
-## Ek İşlemler
+## Ek Ä°ÅŸlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Faturayı kopyalamak için kullanılır.
-- Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
-- Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
-- Görev Oluştur: Satış Faturası için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
-- Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz. 
+ SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan alt altta Ã¼Ã§ Ã§izgi ÅŸeklinde olan dÃ¼ÄŸme ile ek iÅŸlemlere ulaÅŸÄ±lÄ±r.
+- Yevmiye FiÅŸ: Yevmiye fiÅŸi, iÅŸletmelerde gerÃ§ekleÅŸen her tÃ¼rlÃ¼ mali iÅŸlemin tarih, miktar ve aÃ§Ä±klama bilgileri ile birlikte kaydedildiÄŸi muhasebe belgesidir.
+- Kopyala: FaturayÄ± kopyalamak iÃ§in kullanÄ±lÄ±r.
+- TÃ¼m Kalemlerde DeÄŸiÅŸtir: Buradan depo, proje, sÃ¶zleÅŸme, vergi muafiyeti, vergileri yenile, iskonto oranÄ±, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tÃ¼m kalemlerde deÄŸiÅŸtirebiliriz.
+- DÃ¶viz TÃ¼rÃ¼ DeÄŸiÅŸtir: DÃ¶viz tÃ¼rÃ¼ deÄŸiÅŸikliÄŸi yapabiliriz.
+- GÃ¶rev OluÅŸtur: SatÄ±ÅŸ FaturasÄ± iÃ§in gÃ¶rev oluÅŸturup, kiÅŸi atayabiliriz, aÃ§Ä±klama, tarih bitiÅŸ, hatÄ±rlatma sÃ¼resi, yÃ¶netici, kullanÄ±cÄ±, tamamlanma tipi, tekrar ÅŸekli bilgilerini ekleyerek gÃ¶rev tanÄ±mlama iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- GÃ¶rev BaÄŸla: AÃ§Ä±lan listede ki gÃ¶revlerden gÃ¶revi baÄŸlayacaÄŸÄ±mÄ±z, birleÅŸtireceÄŸimiz gÃ¶revi seÃ§elim, kaydet diyerek gÃ¶revi baÄŸlayabiliriz.
+- Grid SÃ¼tunlarÄ± Ayarla: Burada kartÄ±n detaylarÄ±nÄ±n gÃ¶zÃ¼kmesinde deÄŸiÅŸiklikler yapabilirsiniz. 

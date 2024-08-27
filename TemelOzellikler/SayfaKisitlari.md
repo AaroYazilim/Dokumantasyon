@@ -1,12 +1,12 @@
 
-# Sayfa Kısıtları(Filtreleme)
+# Sayfa KÄ±sÄ±tlarÄ±(Filtreleme)
 
-Sayfa kısıtları filtreleme özelliği, belirli kriterlere göre verileri daraltarak daha spesifik bilgilere hızlıca ulaşmanızı sağlar. 
-Bu özellik sayesinde, büyük veri setlerinde aradığınız bilgilere kolayca erişebilir ve gereksiz verileri ekrandan çıkararak işinizi daha verimli hale getirebilirsiniz. 
-Örneğin, belirli bir tarih aralığındaki işlemleri, belirli bir müşteri veya ürünle ilgili verileri görüntülemek istiyorsanız, sayfa kısıtları filtreleme özelliğini kullanarak bu verileri hızlıca filtreleyebilirsiniz.
+Sayfa kÄ±sÄ±tlarÄ± filtreleme Ã¶zelliÄŸi, belirli kriterlere gÃ¶re verileri daraltarak daha spesifik bilgilere hÄ±zlÄ±ca ulaÅŸmanÄ±zÄ± saÄŸlar. 
+Bu Ã¶zellik sayesinde, bÃ¼yÃ¼k veri setlerinde aradÄ±ÄŸÄ±nÄ±z bilgilere kolayca eriÅŸebilir ve gereksiz verileri ekrandan Ã§Ä±kararak iÅŸinizi daha verimli hale getirebilirsiniz. 
+Ã–rneÄŸin, belirli bir tarih aralÄ±ÄŸÄ±ndaki iÅŸlemleri, belirli bir mÃ¼ÅŸteri veya Ã¼rÃ¼nle ilgili verileri gÃ¶rÃ¼ntÃ¼lemek istiyorsanÄ±z, sayfa kÄ±sÄ±tlarÄ± filtreleme Ã¶zelliÄŸini kullanarak bu verileri hÄ±zlÄ±ca filtreleyebilirsiniz.
 
-Ayrıca, bu özellik, karmaşık raporlar veya listeler üzerinde çalışırken zamandan tasarruf etmenize ve daha doğru analizler yapmanıza olanak tanır. 
-Filtreleme işlemleri, verilerinizi özelleştirmenizi ve sadece ihtiyaç duyduğunuz bilgileri görmenizi sağlayarak iş süreçlerinizi optimize eder. 
-Bu, özellikle yoğun veri akışının olduğu durumlarda, hızlı ve etkili kararlar almanıza yardımcı olur.
+AyrÄ±ca, bu Ã¶zellik, karmaÅŸÄ±k raporlar veya listeler Ã¼zerinde Ã§alÄ±ÅŸÄ±rken zamandan tasarruf etmenize ve daha doÄŸru analizler yapmanÄ±za olanak tanÄ±r. 
+Filtreleme iÅŸlemleri, verilerinizi Ã¶zelleÅŸtirmenizi ve sadece ihtiyaÃ§ duyduÄŸunuz bilgileri gÃ¶rmenizi saÄŸlayarak iÅŸ sÃ¼reÃ§lerinizi optimize eder. 
+Bu, Ã¶zellikle yoÄŸun veri akÄ±ÅŸÄ±nÄ±n olduÄŸu durumlarda, hÄ±zlÄ± ve etkili kararlar almanÄ±za yardÄ±mcÄ± olur.
 
 

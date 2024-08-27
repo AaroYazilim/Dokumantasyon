@@ -5,156 +5,156 @@ SayfaTipi: Siparis
 
 # Verilen Teklif
 
-**Erişim Linki :** [erp.aaro.com.tr/FaturaVerilenSiparis](erp.aaro.com.tr/FaturaVerilenSiparis)
+**EriÅŸim Linki :** [erp.aaro.com.tr/FaturaVerilenSiparis](erp.aaro.com.tr/FaturaVerilenSiparis)
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'sipariş' aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Verilen Sipariş şeklinde ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Satış&Pazarlama -> Hareket Oluştur -> Verilen Sipariş şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan 'sipariÅŸ' aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol sekmede yer alan modÃ¼ller kÄ±smÄ±ndan Musteri/Satici -> Hareket OluÅŸtur -> SatÄ±ÅŸ ve Pazarlama -> Verilen SipariÅŸ ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol sekmede yer alan modÃ¼ller kÄ±smÄ±ndan SatÄ±ÅŸ&Pazarlama -> Hareket OluÅŸtur -> Verilen SipariÅŸ ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-## Tanım
+## TanÄ±m
 
-Verilen sipariş, bir işletmenin ihtiyaç duyduğu mal veya hizmetleri tedarik etmek amacıyla satıcılara yaptığı resmi satın alma talebini ifade eder. 
-Bu işlem, satın alma sürecinde kullanılan temel bir adımdır ve genellikle siparişin detaylarını, miktarını, fiyatını ve teslimat koşullarını içerir.
-Verilen siparişte siparişin kim tarafından onaylandığı ve sipariş numarası gibi izleme bilgileri de bulunur.
+Verilen sipariÅŸ, bir iÅŸletmenin ihtiyaÃ§ duyduÄŸu mal veya hizmetleri tedarik etmek amacÄ±yla satÄ±cÄ±lara yaptÄ±ÄŸÄ± resmi satÄ±n alma talebini ifade eder. 
+Bu iÅŸlem, satÄ±n alma sÃ¼recinde kullanÄ±lan temel bir adÄ±mdÄ±r ve genellikle sipariÅŸin detaylarÄ±nÄ±, miktarÄ±nÄ±, fiyatÄ±nÄ± ve teslimat koÅŸullarÄ±nÄ± iÃ§erir.
+Verilen sipariÅŸte sipariÅŸin kim tarafÄ±ndan onaylandÄ±ÄŸÄ± ve sipariÅŸ numarasÄ± gibi izleme bilgileri de bulunur.
 
 ### Genel 
 
-**Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+**Åirket-Åube:** Bu kartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. [Åirket-Åube](../TemelOzellikler/SirketSubeHareket.md)
 
-**Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
+**Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir. **Girilmesi Zorunludur.**
 
-**Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge NumarasÄ±nÄ± ifade eder. Otomatik sÄ±radaki numara gelir. Ä°stenirse seri kullanÄ±labilir.
 
-**Satıcı:** Satın alma yapıldığı cari kartını ifade eder. **Girilmesi Zorunludur.**
+**SatÄ±cÄ±:** SatÄ±n alma yapÄ±ldÄ±ÄŸÄ± cari kartÄ±nÄ± ifade eder. **Girilmesi Zorunludur.**
 
-**Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+**DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinisini belirtir.
 
-**Depo:** Bu işlemin kullanıldığı depoyu belirtir.
+**Depo:** Bu iÅŸlemin kullanÄ±ldÄ±ÄŸÄ± depoyu belirtir.
 
-**Vade:** İşlemin yapıldığı vadeyi belirtir.
+**Vade:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± vadeyi belirtir.
 
-**Açıklama:** İşleme ait açıklamayı belirtir.
+**AÃ§Ä±klama:** Ä°ÅŸleme ait aÃ§Ä±klamayÄ± belirtir.
 
-**KDV Dahil:** Kalemlerde birim fiyat ve tutarın 'KDV Dahil' olduğunu belirtir.
+**KDV Dahil:** Kalemlerde birim fiyat ve tutarÄ±n 'KDV Dahil' olduÄŸunu belirtir.
 
 ### Detay
 
-- **Beklenen Tahsilat ve Ödemeler:** Bir işletmenin, belirli bir zaman dilimi içinde müşterilerinden almayı beklediği ödemelerdir. 
-	Bu, genellikle satışlardan kaynaklanan alacakları ve diğer gelir kalemlerini içerir. Beklenen Tahsilatlar ve Ödemeler kullanım detayları için linke tıklayınız. [Beklenen Tahsilatlar ve Ödemeler](../TemelOzellikler/BeklenenTahOd.md)
+- **Beklenen Tahsilat ve Ã–demeler:** Bir iÅŸletmenin, belirli bir zaman dilimi iÃ§inde mÃ¼ÅŸterilerinden almayÄ± beklediÄŸi Ã¶demelerdir. 
+	Bu, genellikle satÄ±ÅŸlardan kaynaklanan alacaklarÄ± ve diÄŸer gelir kalemlerini iÃ§erir. Beklenen Tahsilatlar ve Ã–demeler kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Beklenen Tahsilatlar ve Ã–demeler](../TemelOzellikler/BeklenenTahOd.md)
 
 - **Alt Tip:** Alt hareket tipini belirtir.
 
-- **Sözleşme:** Bu hareketin hangi sözleşmeye ait olduğunu gösterir.
+- **SÃ¶zleÅŸme:** Bu hareketin hangi sÃ¶zleÅŸmeye ait olduÄŸunu gÃ¶sterir.
 
-- **Proje: Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir.
+- **Proje: Bu hareketin hangi projeye ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir.
 
-- **Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir.
+- **Plasiyer:** Bu hareketin hangi plasiyere ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir.
 
-- **Cari Adres:** Carinin adresini belirtir. Farklı adrese gönderilecekse seçilmelidir. Kalemlerde değiştirilebilir.
+- **Cari Adres:** Carinin adresini belirtir. FarklÄ± adrese gÃ¶nderilecekse seÃ§ilmelidir. Kalemlerde deÄŸiÅŸtirilebilir.
 
-- **Ref. İthalat İhracat:** Bu hareket bir ithalat yada ihracat ise seçilmelidir. Hangi ithalata veya ihracata ait olduğunu belirtir. Kalemlerde Değiştirilebilir.
+- **Ref. Ä°thalat Ä°hracat:** Bu hareket bir ithalat yada ihracat ise seÃ§ilmelidir. Hangi ithalata veya ihracata ait olduÄŸunu belirtir. Kalemlerde DeÄŸiÅŸtirilebilir.
 
-- **Teslim Tarihi:** Verilen siparişin teslim edildiği tarihi belirtir.
+- **Teslim Tarihi:** Verilen sipariÅŸin teslim edildiÄŸi tarihi belirtir.
 
-### Açıklamalar
+### AÃ§Ä±klamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md)
+- **AÃ§Ä±klamalar:** Ek aÃ§Ä±klamalarÄ± belirtir. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
+- **Etiketler:** Bu kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lÄ±r. [Etiketler](../TemelOzellikler/Etiketler.md)
 
-## Doldurmamız gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
+## DoldurmamÄ±z gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aÅŸamamÄ±za geÃ§ebiliriz.
 
-- Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
-- Verilen siparişimiz stok, gelir gider, demirbaş olabilir. En başta ki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
-- Kart Adı: Stok, demirbaş ya da gelir gider satışını gerçekleştireceğimiz kartı belirtir.
-- Miktar: Teklifte belirtilmesi istenilen stoğun miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
-- Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
-	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
-- İskonto: Teklifimizde girdiğimiz kalem için iskonto oranını belirtir. Uyguladığımız iskonto var ise buraya oranı girebiliriz.
-- Net Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler hariç, sadece temel maliyetini ifade eden fiyatı belirtir. 
-	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
-- Tutar: Bir mal veya hizmetin toplam mali değerini ifade eden miktarı belirtir. 
-- KDV oran: KDV oranını ifade eder.
-- Depo: Bu kalemin kullandığı depoyu belirtir.
-- Açıklama: Kaleme ait açıklamayı belirtir.
-- Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
-- Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
+- AÃ§Ä±lan ekranda kalem(kart) ekleme alanÄ±mÄ±z aÃ§Ä±lacaktÄ±r. 
+- Verilen sipariÅŸimiz stok, gelir gider, demirbaÅŸ olabilir. En baÅŸta ki kutucuktan seÃ§im yapÄ±labilir, sistem otomatik stok olarak getirir.
+- Kart AdÄ±: Stok, demirbaÅŸ ya da gelir gider satÄ±ÅŸÄ±nÄ± gerÃ§ekleÅŸtireceÄŸimiz kartÄ± belirtir.
+- Miktar: Teklifte belirtilmesi istenilen stoÄŸun miktarÄ±nÄ± belirtir, bu alanÄ±n doldurdurulmasÄ± gerekmektedir.
+- BrÃ¼t Fiyat: Bir Ã¼rÃ¼n veya hizmetin vergiler ve ek Ã¼cretler dahil toplam satÄ±ÅŸ fiyatÄ±nÄ± belirtir. 
+	Buraya tÄ±klayarak yeni fiyat eklenebilir, son 3 ay iÃ§in alÄ±ÅŸ ve satÄ±ÅŸ ortalama fiyatlarÄ±nÄ± gÃ¶sterir.
+- Ä°skonto: Teklifimizde girdiÄŸimiz kalem iÃ§in iskonto oranÄ±nÄ± belirtir. UyguladÄ±ÄŸÄ±mÄ±z iskonto var ise buraya oranÄ± girebiliriz.
+- Net Fiyat: Bir Ã¼rÃ¼n veya hizmetin vergiler ve ek Ã¼cretler hariÃ§, sadece temel maliyetini ifade eden fiyatÄ± belirtir. 
+	Buraya tÄ±klayarak yeni fiyat eklenebilir, son 3 ay iÃ§in alÄ±ÅŸ ve satÄ±ÅŸ ortalama fiyatlarÄ±nÄ± gÃ¶sterir.
+- Tutar: Bir mal veya hizmetin toplam mali deÄŸerini ifade eden miktarÄ± belirtir. 
+- KDV oran: KDV oranÄ±nÄ± ifade eder.
+- Depo: Bu kalemin kullandÄ±ÄŸÄ± depoyu belirtir.
+- AÃ§Ä±klama: Kaleme ait aÃ§Ä±klamayÄ± belirtir.
+- Proje: Bu kalemin hangi projeye ait olduÄŸunu belirtir.
+- SÃ¶zleÅŸme: Bu kalemin hangi sÃ¶zleÅŸmeye ait olduÄŸunu gÃ¶sterir.
 
-- Siparişte bir kalem belirtilecekse kaydet diyerek bir sonraki aşamaya geçebiliriz.
-- Başka kalemlerde mevcut ise yukarıda ki aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
+- SipariÅŸte bir kalem belirtilecekse kaydet diyerek bir sonraki aÅŸamaya geÃ§ebiliriz.
+- BaÅŸka kalemlerde mevcut ise yukarÄ±da ki aÅŸamalarÄ± tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
-- Sağ üst köşede faturaya ait toplam fiyat kısımlarını içerir;
-	- Toplam: Siparişin KDV hariç toplam tutarını içerir.
-	- İskonto Sonrası: Siparişin KDV dahil fiyatından uygulanan iskonto tutarını ifade eder.
-	- KDV: Siparişin KDV oranının karşılık geldiği tutarı ifade eder.
-	- Genel Toplam: Siparişin tüm kalemlerin KDV dahil tutarının toplamını belirtir.
+- SaÄŸ Ã¼st kÃ¶ÅŸede faturaya ait toplam fiyat kÄ±sÄ±mlarÄ±nÄ± iÃ§erir;
+	- Toplam: SipariÅŸin KDV hariÃ§ toplam tutarÄ±nÄ± iÃ§erir.
+	- Ä°skonto SonrasÄ±: SipariÅŸin KDV dahil fiyatÄ±ndan uygulanan iskonto tutarÄ±nÄ± ifade eder.
+	- KDV: SipariÅŸin KDV oranÄ±nÄ±n karÅŸÄ±lÄ±k geldiÄŸi tutarÄ± ifade eder.
+	- Genel Toplam: SipariÅŸin tÃ¼m kalemlerin KDV dahil tutarÄ±nÄ±n toplamÄ±nÄ± belirtir.
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+YapacaÄŸÄ±mÄ±z iÅŸlem iÃ§in elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yÃ¼kleyebiliriz.
+Buraya iÅŸlem gerÃ§ekleÅŸirken ki gÃ¶rselleri yÃ¼kleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek iÃ§in tÄ±klayalÄ±m ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Daha Ã¶nce yÃ¼klediklerimden seÃ§ -> belgeyi seÃ§elim -> Ä°liÅŸkilendir ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- YÃ¼klenecek belge veya resimleri seÃ§in -> belgeyi ya da belgeleri seÃ§elim -> YÃ¼kle ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
-Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+Belge kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Belge](../TemelOzellikler/Belgeler.md)
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+Ä°ÅŸleme ait Ã¶zel notlar belirtebiliriz. 
+Ã–nemli bir detay var ise bu detaylarÄ± burada belirtebiliriz.
+Notlar kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Notlar](../TemelOzellikler/Notlar.md)
 
-## Kayıt Bilgileri
+## KayÄ±t Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+KartÄ±n hangi kullanÄ±cÄ± tarafÄ±ndan ve hangi tarihlerde oluÅŸturulduÄŸu ve deÄŸiÅŸtirildiÄŸi bilgisini iÃ§erir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kart iÅŸ akÄ±ÅŸ sÃ¼reÃ§lerine dahil edildiÄŸinde hangi kullanÄ±cÄ± tarafÄ±ndan hangi tarihte onaylandÄ±ÄŸÄ± bilgilerini iÃ§erir. 
 
 ## Kalem Ekleme
 
-- Yeni Stok Kalemi Ekle: Vereceğimiz siparişin stok kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
-- Yeni Gelirgider Kalemi Ekle: Vereceğimiz siparişin gelir gider kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
-- Yeni Demirbaş Kalemi Ekle: Vereceğimiz siparişin demirbaş kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
-- Tekliften Kalem Ekle: Siparişimizde, verdiğimiz tekliflerden kalem eklemek için kullanılır.
-- Talepten Kalem Ekle: Siparişimizde, satın alma talebinde bulunan taleplerden kalem eklemek için kullanılır.
+- Yeni Stok Kalemi Ekle: VereceÄŸimiz sipariÅŸin stok kalemi eklemek iÃ§in burayÄ± seÃ§erek ekleme saÄŸlayabilirsiniz.
+- Yeni Gelirgider Kalemi Ekle: VereceÄŸimiz sipariÅŸin gelir gider kalemi eklemek iÃ§in burayÄ± seÃ§erek ekleme saÄŸlayabilirsiniz.
+- Yeni DemirbaÅŸ Kalemi Ekle: VereceÄŸimiz sipariÅŸin demirbaÅŸ kalemi eklemek iÃ§in burayÄ± seÃ§erek ekleme saÄŸlayabilirsiniz.
+- Tekliften Kalem Ekle: SipariÅŸimizde, verdiÄŸimiz tekliflerden kalem eklemek iÃ§in kullanÄ±lÄ±r.
+- Talepten Kalem Ekle: SipariÅŸimizde, satÄ±n alma talebinde bulunan taleplerden kalem eklemek iÃ§in kullanÄ±lÄ±r.
 
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Verilen sipariş işlemimizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+- DoldurulmasÄ± gereken alanlar girildikten sonra saÄŸ alt kÃ¶ÅŸede bulunan Kaydet butonuna tÄ±klayarak Verilen sipariÅŸ iÅŸlemimizi tamamlayabilirsiniz.
+- KayÄ±tlÄ± bir kartÄ± silmek iÃ§in sol altta bulunan sil butonuna tÄ±klayarak silebilirsiniz.
 
-## Yazdır
+## YazdÄ±r
 
-- Sayfanın sağ üstünde bulunan yazıcı sembolü ile sayfaya tanımlanan özel çıktı formatları ile farklı çıktılar alınabilir. 
-- Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
-- Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
-- Kullanıcıya özel teklif formu gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
-- Çıktılar program üzerinden e-mail olarak gönderilebilir. 
+- SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan yazÄ±cÄ± sembolÃ¼ ile sayfaya tanÄ±mlanan Ã¶zel Ã§Ä±ktÄ± formatlarÄ± ile farklÄ± Ã§Ä±ktÄ±lar alÄ±nabilir. 
+- Kartta bulunan bilgilerin kullanÄ±cÄ±nÄ±n isteÄŸine baÄŸlÄ± olarak Ã¶zel tasarÄ±m ile yazdÄ±rÄ±lmasÄ±nÄ± saÄŸlar.
+- Birden Ã§ok Ã§Ä±ktÄ± tasarÄ±m yapÄ±labilir ve deÄŸiÅŸtirilebilir.
+- KullanÄ±cÄ±ya Ã¶zel teklif formu gibi farklÄ± tasarÄ±mlar yapÄ±labilir.
+- Ã‡Ä±ktÄ± tasarÄ±mlarÄ±nÄ±n herbirine ayrÄ± ayrÄ± yetkiler verilerek sadece istenilen kullanÄ±cÄ±nÄ±n belirli Ã§Ä±ktÄ±lara ulaÅŸmasÄ± saÄŸlanabilir.
+- Ã‡Ä±ktÄ±lar program Ã¼zerinden e-mail olarak gÃ¶nderilebilir. 
 
-## Düzenleme 
+## DÃ¼zenleme 
 
-Verilen siparişimize ekleme yapmak ya da herhangi bir düzeltme yapmak için kalem işaretini seçerek açılan ekranda düzenlemeleri yapabiliriz.
+Verilen sipariÅŸimize ekleme yapmak ya da herhangi bir dÃ¼zeltme yapmak iÃ§in kalem iÅŸaretini seÃ§erek aÃ§Ä±lan ekranda dÃ¼zenlemeleri yapabiliriz.
 
-## Ek İşlemler
+## Ek Ä°ÅŸlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Verilen siparişi kopyalamak için kullanılır.
-- Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
-- Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
-- Görev Oluştur: Sipariş için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
-- Kapat: Siparişimizi açmak ya da kapatmak için kullanılır.
-- Paylaş: Alınan siparişin hangi şirket veya şubelerde gözükeceğini buradan seçebiliriz.
-- İrsaliyeleştir: Siparişimiz tamamalandıktan sonra buradan irsaliyeleştir yaparak, siparişimizi irsaliyeleştirebiliriz.
-- Faturalaştır: Siparişimiz tamamalandıktan sonra buradan faturalaştır yaparak, siparişimizi faturalaştırabiliriz.
-- Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
+ SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan alt altta Ã¼Ã§ Ã§izgi ÅŸeklinde olan dÃ¼ÄŸme ile ek iÅŸlemlere ulaÅŸÄ±lÄ±r.
+- Yevmiye FiÅŸ: Yevmiye fiÅŸi, iÅŸletmelerde gerÃ§ekleÅŸen her tÃ¼rlÃ¼ mali iÅŸlemin tarih, miktar ve aÃ§Ä±klama bilgileri ile birlikte kaydedildiÄŸi muhasebe belgesidir.
+- Kopyala: Verilen sipariÅŸi kopyalamak iÃ§in kullanÄ±lÄ±r.
+- TÃ¼m Kalemlerde DeÄŸiÅŸtir: Buradan depo, proje, sÃ¶zleÅŸme, vergi muafiyeti, vergileri yenile, iskonto oranÄ±, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tÃ¼m kalemlerde deÄŸiÅŸtirebiliriz.
+- DÃ¶viz TÃ¼rÃ¼ DeÄŸiÅŸtir: DÃ¶viz tÃ¼rÃ¼ deÄŸiÅŸikliÄŸi yapabiliriz.
+- GÃ¶rev OluÅŸtur: SipariÅŸ iÃ§in gÃ¶rev oluÅŸturup, kiÅŸi atayabiliriz, aÃ§Ä±klama, tarih bitiÅŸ, hatÄ±rlatma sÃ¼resi, yÃ¶netici, kullanÄ±cÄ±, tamamlanma tipi, tekrar ÅŸekli bilgilerini ekleyerek gÃ¶rev tanÄ±mlama iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- GÃ¶rev BaÄŸla: AÃ§Ä±lan listede ki gÃ¶revlerden gÃ¶revi baÄŸlayacaÄŸÄ±mÄ±z, birleÅŸtireceÄŸimiz gÃ¶revi seÃ§elim, kaydet diyerek gÃ¶revi baÄŸlayabiliriz.
+- Kapat: SipariÅŸimizi aÃ§mak ya da kapatmak iÃ§in kullanÄ±lÄ±r.
+- PaylaÅŸ: AlÄ±nan sipariÅŸin hangi ÅŸirket veya ÅŸubelerde gÃ¶zÃ¼keceÄŸini buradan seÃ§ebiliriz.
+- Ä°rsaliyeleÅŸtir: SipariÅŸimiz tamamalandÄ±ktan sonra buradan irsaliyeleÅŸtir yaparak, sipariÅŸimizi irsaliyeleÅŸtirebiliriz.
+- FaturalaÅŸtÄ±r: SipariÅŸimiz tamamalandÄ±ktan sonra buradan faturalaÅŸtÄ±r yaparak, sipariÅŸimizi faturalaÅŸtÄ±rabiliriz.
+- Grid SÃ¼tunlarÄ± Ayarla: Burada kartÄ±n detaylarÄ±nÄ±n gÃ¶zÃ¼kmesinde deÄŸiÅŸiklikler yapabilirsiniz.
