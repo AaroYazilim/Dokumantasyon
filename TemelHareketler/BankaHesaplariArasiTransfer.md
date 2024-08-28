@@ -3,110 +3,110 @@ SayfaID: BankaVirman
 SayfaTipi: BankaHareketleri
 ---
 
-# Banka Hesapları Arası Transfer
+# Banka HesaplarÄ± ArasÄ± Transfer
 
-**Erişim Linki :** [erp.aaro.com.tr/BankaVirman](erp.aaro.com.tr/BankaVirman)
+**EriÅŸim Linki :** [erp.aaro.com.tr/BankaVirman](erp.aaro.com.tr/BankaVirman)
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'banka transfer' aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Banka -> Hareket Oluştur -> Banka Hesapları Arası Transfer şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan 'banka transfer' aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol sekmede yer alan modÃ¼ller kÄ±smÄ±ndan Banka -> Hareket OluÅŸtur -> Banka HesaplarÄ± ArasÄ± Transfer ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-## Tanım
+## TanÄ±m
 
-Banka hesapları arası transfer hareketi, işletme bünyesindeki bir banka hesabından, aynı işletmeye ait başka bir banka hesabına para transfer edilmesi sürecidir. 
-Bu işlem, bankalar arası veya aynı bankadaki farklı hesaplar arasında yapılabilir.
-İlk adım, paranın çıkış yapacağı ve giriş yapacağı banka hesaplarının belirlenmesidir. Hangi hesaptan ne kadar para çıkacağı ve hangi hesaba aktarılacağı net olarak tanımlanır.
-Transfer işlemi, banka tarafından gerçekleştirilir. Para, belirlenen hesaptan çıkar ve diğer hesaba giriş olarak kaydedilir.
-Transfer işlemi, işletmenin muhasebe kayıtlarına yansıtılır. İşlemle ilgili belgeler (dekont, işlem makbuzu vb.) muhasebe kayıtlarına eklenir.
-Transfer işlemi, bir banka hesabındaki fazla fonları diğer bir hesapta değerlendirmek veya belirli ödemeleri yapmak için kullanılabilir.
-Banka hesapları arası transfer hareketleri, işletmenin nakit akışını düzenlemek, fonları optimize etmek ve finansal yönetimi sağlamak için kritik bir işlemdir. 
-Bu süreç, doğru ve zamanında yapılmalı, ilgili muhasebe kayıtları titizlikle tutulmalıdır.
+Banka hesaplarÄ± arasÄ± transfer hareketi, iÅŸletme bÃ¼nyesindeki bir banka hesabÄ±ndan, aynÄ± iÅŸletmeye ait baÅŸka bir banka hesabÄ±na para transfer edilmesi sÃ¼recidir. 
+Bu iÅŸlem, bankalar arasÄ± veya aynÄ± bankadaki farklÄ± hesaplar arasÄ±nda yapÄ±labilir.
+Ä°lk adÄ±m, paranÄ±n Ã§Ä±kÄ±ÅŸ yapacaÄŸÄ± ve giriÅŸ yapacaÄŸÄ± banka hesaplarÄ±nÄ±n belirlenmesidir. Hangi hesaptan ne kadar para Ã§Ä±kacaÄŸÄ± ve hangi hesaba aktarÄ±lacaÄŸÄ± net olarak tanÄ±mlanÄ±r.
+Transfer iÅŸlemi, banka tarafÄ±ndan gerÃ§ekleÅŸtirilir. Para, belirlenen hesaptan Ã§Ä±kar ve diÄŸer hesaba giriÅŸ olarak kaydedilir.
+Transfer iÅŸlemi, iÅŸletmenin muhasebe kayÄ±tlarÄ±na yansÄ±tÄ±lÄ±r. Ä°ÅŸlemle ilgili belgeler (dekont, iÅŸlem makbuzu vb.) muhasebe kayÄ±tlarÄ±na eklenir.
+Transfer iÅŸlemi, bir banka hesabÄ±ndaki fazla fonlarÄ± diÄŸer bir hesapta deÄŸerlendirmek veya belirli Ã¶demeleri yapmak iÃ§in kullanÄ±labilir.
+Banka hesaplarÄ± arasÄ± transfer hareketleri, iÅŸletmenin nakit akÄ±ÅŸÄ±nÄ± dÃ¼zenlemek, fonlarÄ± optimize etmek ve finansal yÃ¶netimi saÄŸlamak iÃ§in kritik bir iÅŸlemdir. 
+Bu sÃ¼reÃ§, doÄŸru ve zamanÄ±nda yapÄ±lmalÄ±, ilgili muhasebe kayÄ±tlarÄ± titizlikle tutulmalÄ±dÄ±r.
 
 ### Genel 
 
-**Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+**Åirket-Åube:** Bu kartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. [Åirket-Åube](../TemelOzellikler/SirketSubeHareket.md)
 
-**Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
+**Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir. **Girilmesi Zorunludur.**
 
-**Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge NumarasÄ±nÄ± ifade eder. Otomatik sÄ±radaki numara gelir. Ä°stenirse seri kullanÄ±labilir.
 
-	## Banka Alacak için;
+## Banka Alacak iÃ§in;
 
-	- **Banka Alacak:** Nakit çıkışının yapılacağı banka hesabını belirtir.
+**Banka Alacak:** Nakit Ã§Ä±kÄ±ÅŸÄ±nÄ±n yapÄ±lacaÄŸÄ± banka hesabÄ±nÄ± belirtir.
 
-	- **Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+**DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinisini belirtir.
 	
-	- **Tutar:** Transfer edilecek nakit miktarını belirtir.
+**Tutar:** Transfer edilecek nakit miktarÄ±nÄ± belirtir.
 
-	- **Açıklama:** Banka alacak için ek detaylar burada belirtilebilir. 
+**AÃ§Ä±klama:** Banka alacak iÃ§in ek detaylar burada belirtilebilir. 
 
-	## Banka Borç için;
+## Banka BorÃ§ iÃ§in;
 
-	- **Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+**Åirket-Åube:** Bu kartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. [Åirket-Åube](../TemelOzellikler/SirketSubeHareket.md)
 
-	- **Banka Borç:** Nakit girişinin yapılacağı banka hesabını belirtir.
+**Banka BorÃ§:** Nakit giriÅŸinin yapÄ±lacaÄŸÄ± banka hesabÄ±nÄ± belirtir.
 
-	- **Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
-	
-	- **Tutar:** Transfer edilecek nakit miktarını belirtir.
+**DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinisini belirtir.
 
-	- **Açıklama:** Banka borç için ek detaylar burada belirtilebilir. 
+**Tutar:** Transfer edilecek nakit miktarÄ±nÄ± belirtir.
+
+**AÃ§Ä±klama:** Banka borÃ§ iÃ§in ek detaylar burada belirtilebilir. 
 
 ### Detay
 
-**Proje:** Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir. Proje kullanım detayları için linke tıklayınız.[Proje](../TemelOzellikler/Proje.md)
+**Proje:** Bu hareketin hangi projeye ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir. Proje kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[Proje](../TemelOzellikler/Proje.md)
 
-**Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir. Plasiyer kullanım detayları için linke tıklayınız.[Plasiyer](../TemelOzellikler/Plasiyer.md)
+**Plasiyer:** Bu hareketin hangi plasiyere ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir. Plasiyer kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[Plasiyer](../TemelOzellikler/Plasiyer.md)
 
 **Tip:** Alt hareket tipini belirtir.
 
-### Açıklamalar
+### AÃ§Ä±klamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md)
+- **AÃ§Ä±klamalar:** Ek aÃ§Ä±klamalarÄ± belirtir. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
 ### Etiketler BankaHareketleri
 	Banka Alacak
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
+- **Etiketler:** Bu kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lÄ±r. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 ### Etiketler BankaHareketleri
-	Banka Borç
+	Banka BorÃ§
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
+- **Etiketler:** Bu kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lÄ±r. [Etiketler](../TemelOzellikler/Etiketler.md)
 
--> Kaydet butonuna tıklayarak belge ve notlar ekleme sayfasına ulaşabilirsiniz. 
-Bu sayfada, ilgili işlemle ilgili belgeleri yükleyebilir ve açıklayıcı notlar ekleyebilirsiniz.
+-> Kaydet butonuna tÄ±klayarak belge ve notlar ekleme sayfasÄ±na ulaÅŸabilirsiniz. 
+Bu sayfada, ilgili iÅŸlemle ilgili belgeleri yÃ¼kleyebilir ve aÃ§Ä±klayÄ±cÄ± notlar ekleyebilirsiniz.
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+Ä°ÅŸleme ait Ã¶zel notlar belirtebiliriz. 
+Ã–nemli bir detay var ise bu detaylarÄ± burada belirtebiliriz.
+Notlar kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+YapacaÄŸÄ±mÄ±z iÅŸlem iÃ§in elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yÃ¼kleyebiliriz.
+Buraya iÅŸlem gerÃ§ekleÅŸirken ki gÃ¶rselleri yÃ¼kleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek iÃ§in tÄ±klayalÄ±m ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Daha Ã¶nce yÃ¼klediklerimden seÃ§ -> belgeyi seÃ§elim -> Ä°liÅŸkilendir ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- YÃ¼klenecek belge veya resimleri seÃ§in -> belgeyi ya da belgeleri seÃ§elim -> YÃ¼kle ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
-Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+Belge kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Belge](../TemelOzellikler/Belgeler.md)
 
-## Kayıt Bilgileri
+## KayÄ±t Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+KartÄ±n hangi kullanÄ±cÄ± tarafÄ±ndan ve hangi tarihlerde oluÅŸturulduÄŸu ve deÄŸiÅŸtirildiÄŸi bilgisini iÃ§erir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kart iÅŸ akÄ±ÅŸ sÃ¼reÃ§lerine dahil edildiÄŸinde hangi kullanÄ±cÄ± tarafÄ±ndan hangi tarihte onaylandÄ±ÄŸÄ± bilgilerini iÃ§erir. 
 
-## Ek İşlemler
+## Ek Ä°ÅŸlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Banka hareketini işlemini kopyalamak için kullanılır.
-- Görev Oluştur: Banka hareketi için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+ SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan alt altta Ã¼Ã§ Ã§izgi ÅŸeklinde olan dÃ¼ÄŸme ile ek iÅŸlemlere ulaÅŸÄ±lÄ±r.
+- Yevmiye FiÅŸ: Yevmiye fiÅŸi, iÅŸletmelerde gerÃ§ekleÅŸen her tÃ¼rlÃ¼ mali iÅŸlemin tarih, miktar ve aÃ§Ä±klama bilgileri ile birlikte kaydedildiÄŸi muhasebe belgesidir.
+- Kopyala: Banka hareketini iÅŸlemini kopyalamak iÃ§in kullanÄ±lÄ±r.
+- GÃ¶rev OluÅŸtur: Banka hareketi iÃ§in gÃ¶rev oluÅŸturup, kiÅŸi atayabiliriz, aÃ§Ä±klama, tarih bitiÅŸ, hatÄ±rlatma sÃ¼resi, yÃ¶netici, kullanÄ±cÄ±, tamamlanma tipi, tekrar ÅŸekli bilgilerini ekleyerek gÃ¶rev tanÄ±mlama iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
 

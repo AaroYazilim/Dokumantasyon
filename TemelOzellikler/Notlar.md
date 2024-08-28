@@ -1,13 +1,13 @@
 
 # Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
+Ä°ÅŸleme ait Ã¶zel notlar belirtebiliriz. 
+Ã–nemli bir detay var ise bu detaylarÄ± burada belirtebiliriz.
 
-Notlar özelliği, her işlem kaydına özel notlar eklemenize olanak tanır. 
-Bu sayede, belirli bir işlem veya müşteriyle ilgili önemli bilgileri hızlıca kaydedebilir ve daha sonra kolayca erişebilirsiniz. 
-Notlar, iş süreçlerinizde hatırlanması gereken ayrıntıları unutmamanızı sağlar ve ekibinizle iletişimi güçlendirir. 
-Eklediğiniz notlar, ilgili kayıtlarla birlikte saklanır ve gerektiğinde güncellenebilir, bu da size esnek bir bilgi yönetimi sunar. 
-Notlar ile tüm önemli detayları organize ederek, iş akışınızı daha verimli hale getirebilirsiniz.
+Notlar Ã¶zelliÄŸi, her iÅŸlem kaydÄ±na Ã¶zel notlar eklemenize olanak tanÄ±r. 
+Bu sayede, belirli bir iÅŸlem veya mÃ¼ÅŸteriyle ilgili Ã¶nemli bilgileri hÄ±zlÄ±ca kaydedebilir ve daha sonra kolayca eriÅŸebilirsiniz. 
+Notlar, iÅŸ sÃ¼reÃ§lerinizde hatÄ±rlanmasÄ± gereken ayrÄ±ntÄ±larÄ± unutmamanÄ±zÄ± saÄŸlar ve ekibinizle iletiÅŸimi gÃ¼Ã§lendirir. 
+EklediÄŸiniz notlar, ilgili kayÄ±tlarla birlikte saklanÄ±r ve gerektiÄŸinde gÃ¼ncellenebilir, bu da size esnek bir bilgi yÃ¶netimi sunar. 
+Notlar ile tÃ¼m Ã¶nemli detaylarÄ± organize ederek, iÅŸ akÄ±ÅŸÄ±nÄ±zÄ± daha verimli hale getirebilirsiniz.
 
-Notlar, kaydı yapılan işlemler için işlem detaylarını belirterek, işlemi gerçekleştirecek kişiler arasında etkili bir iletişim aracı olarak kullanılabilir.
+Notlar, kaydÄ± yapÄ±lan iÅŸlemler iÃ§in iÅŸlem detaylarÄ±nÄ± belirterek, iÅŸlemi gerÃ§ekleÅŸtirecek kiÅŸiler arasÄ±nda etkili bir iletiÅŸim aracÄ± olarak kullanÄ±labilir.

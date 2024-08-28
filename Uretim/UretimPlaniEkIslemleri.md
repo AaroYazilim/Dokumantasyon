@@ -54,7 +54,9 @@ SayfaTipi: PlanDetay
 **Üretim Süre** Operasyonun üretim süresi, ne kadar sürede yapıldığıdır.
 
 **Duraklama Süre** Makine bozulduğunda ya da makine arızaları gibi duraklamalar olduğunda ne kadar süre arıza verdi ise o süreyi gireceğimiz alandır.
+
 **Mola Süre** Personel ne kadar süre mola verdi ise o süreyi gireceğimiz alandır. 
+
 
 ### Duraklama Nedeni
 
@@ -81,15 +83,45 @@ Burada İş emrinin ne kadarı gerçekleştirilen miktar görünür. Tıklayarak
 
 İş emrimizden kalan kısımlar yetişmedi ya da iş yoğunluğu değişti gibi detaylar olduğunda parçala kısmını kullanarak iş emrini bölebilirsiniz.
 
-## İş Emri Çıktısı (Y.I)
+## İş Emri Operasyon Çıktısı (Y.I)
 
-İş emrine kısa yoldan buradan erişim sağlayarak çıktı alabiliriz.
+Operasyonların iş emri çıktıları buradan alınarak ilgili kişilere iletilebilir. Bu sayede, her adımın takibi kolayca yapılabilir ve işlemlerin doğru kişilere ulaşması sağlanır.
+
+İş emri operasyon çıktıları sisteme tanımlayalım;
+
+İlk olarak iş emri operasyon alanımızdan çıktı tasarım ID numaramızı öğrenmemiz gerekmektedir.
+Üretim -> Listeler -> Üretim Planı -> Herhangi bir operasyonun üzerine tıklayalım -> Y.I. -> En üst arama çubuğunda ki linkte IsEmriPlanID= ... Burada yazan 5 haneli numara bizim tasarım ID'mizdir.
+
+ID'mizi öğrendikten bir sonra ki işlemimiz parametrelerden iş emri operasyon çıktısına tasarım ID tanımlamamız gerekmektedir.
+Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: Uretim_IsEmriPlanCiktisi (Üretim Planı) -> Değer=TasarımID -> Kaydet diyerek eşleştirmemizi tamamlayalım.
+
+Tasarımlarımızda düzenleme yapmak istediğimizde;
+Ayarlar -> Çıktı Listesi -> İş Emri -> İlgili tasarımı seçelim -> Tasarla diyerek düzenleme yapabiliriz.
+
+Bir günün tüm operasyon çıktılarının tamamını almak istersek;
+
+Tarihe tıklayalım -> Y.I. tıkladığımızda o güne ait bütün operasyonların iş emri çıktılarına erişim sağlarız.
 
 ## İstifleme Barkod Çıktısı Stok (Y.Br)
 
 Siparişle üretimi birbirine bağlayan istifleme barkodudur.
 İş emrinde istifleme barkodu, üretim sürecinde kullanılan malzemelerin veya tamamlanmış ürünlerin izlenebilirliğini ve doğru şekilde istiflenmesini sağlamak amacıyla kullanılan bir barkod sistemidir. 
 Bu barkodlar, malzeme veya ürünlerin depolanması, taşınması ve takibi süreçlerinde büyük kolaylık sağlar.
+
+İstifleme Barkod çıktıları sisteme tanımlayalım;
+
+İlk olarak iş emri operasyon alanımızdan çıktı tasarım ID numaramızı öğrenmemiz gerekmektedir.
+Üretim -> Listeler -> Üretim Planı -> Herhangi bir operasyonun üzerine tıklayalım -> Y.Br. -> En üst arama çubuğunda ki linkte IsEmriPlanID= ... Burada yazan 5 haneli numara bizim tasarım ID'mizdir.
+
+ID'mizi öğrendikten bir sonra ki işlemimiz parametrelerden iş emri operasyon çıktısına tasarım ID tanımlamamız gerekmektedir.
+Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: Uretim_IsEmriPlanCiktisi (Üretim Planı) -> Değer=TasarımID -> Kaydet diyerek eşleştirmemizi tamamlayalım.
+
+Tasarımlarımızda düzenleme yapmak istediğimizde;
+Ayarlar -> Çıktı Listesi -> İş Emri -> İlgili tasarımı seçelim -> Tasarla diyerek düzenleme yapabiliriz.
+
+Bir günün tüm operasyon çıktılarının tamamını almak istersek;
+
+Tarihe tıklayalım -> Y.Br. tıkladığımızda o güne ait bütün operasyonların iş emri çıktılarına erişim sağlarız.
 
 ## İş Emri
 

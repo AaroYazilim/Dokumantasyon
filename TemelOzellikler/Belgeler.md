@@ -1,24 +1,24 @@
 
 # Belgeler
 
-Herhangi bir harekete veya karta işlem ile ilgili JPEG, PNG veya PDF formatlarında belgeler ekleyebilirsiniz. 
-Bu, işlem yapacak kişilerin detaylı bilgiye veya görsellere erişmesini sağlar. 
-Ayrıca, işlem gerçekleşirken çekilen görselleri yükleyebilir ve siparişlerde sözleşmeleri ekleyebilirsiniz. 
-Personellerin özlük dosyalarını ekleyerek verilerin kaybolmasını önler ve ihtiyaç durumunda hızlı erişim sağlar.
-Örneğin bir stok kartınız ile ilişkili resim veya diğer uzantılardaki belgelerinizi ekleyebilir ve görüntüleyebilirsiniz.
+Herhangi bir harekete veya karta iÅŸlem ile ilgili JPEG, PNG veya PDF formatlarÄ±nda belgeler ekleyebilirsiniz. 
+Bu, iÅŸlem yapacak kiÅŸilerin detaylÄ± bilgiye veya gÃ¶rsellere eriÅŸmesini saÄŸlar. 
+AyrÄ±ca, iÅŸlem gerÃ§ekleÅŸirken Ã§ekilen gÃ¶rselleri yÃ¼kleyebilir ve sipariÅŸlerde sÃ¶zleÅŸmeleri ekleyebilirsiniz. 
+Personellerin Ã¶zlÃ¼k dosyalarÄ±nÄ± ekleyerek verilerin kaybolmasÄ±nÄ± Ã¶nler ve ihtiyaÃ§ durumunda hÄ±zlÄ± eriÅŸim saÄŸlar.
+Ã–rneÄŸin bir stok kartÄ±nÄ±z ile iliÅŸkili resim veya diÄŸer uzantÄ±lardaki belgelerinizi ekleyebilir ve gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
 
-Belge eklemek için tıklayalım:
+Belge eklemek iÃ§in tÄ±klayalÄ±m:
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Daha Ã¶nce yÃ¼klediklerimden seÃ§ -> belgeyi seÃ§elim -> Ä°liÅŸkilendir ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- YÃ¼klenecek belge veya resimleri seÃ§in -> belgeyi ya da belgeleri seÃ§elim -> YÃ¼kle ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
 Kaydettikten sonra;
 
-**İndir** Belgeyi cihazınıza indirmek için kullanılır. İndir işartein basarak dosyayı indirebilirsiniz.
+**Ä°ndir** Belgeyi cihazÄ±nÄ±za indirmek iÃ§in kullanÄ±lÄ±r. Ä°ndir iÅŸartein basarak dosyayÄ± indirebilirsiniz.
 
-**Belge Kartını Aç** Seçili olan belgeye ait bilgilerin güncellenmesini sağlar. Düzenle işaretine basarak değişiklik yapabilirsiniz.
+**Belge KartÄ±nÄ± AÃ§** SeÃ§ili olan belgeye ait bilgilerin gÃ¼ncellenmesini saÄŸlar. DÃ¼zenle iÅŸaretine basarak deÄŸiÅŸiklik yapabilirsiniz.
 
-**Tam Ekran** Görsele tıklayarak tam ekran görüntüleyebiliriz.
+**Tam Ekran** GÃ¶rsele tÄ±klayarak tam ekran gÃ¶rÃ¼ntÃ¼leyebiliriz.
 
-**Yeni Belge Ekle** Yeni belge bir belge sayfası eklemenizi sağlamaktadır. Görseli yana kaydırıp belge eklemek için tıklayınız.
+**Yeni Belge Ekle** Yeni belge bir belge sayfasÄ± eklemenizi saÄŸlamaktadÄ±r. GÃ¶rseli yana kaydÄ±rÄ±p belge eklemek iÃ§in tÄ±klayÄ±nÄ±z.
 
