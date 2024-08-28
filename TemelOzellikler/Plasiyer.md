@@ -1,16 +1,16 @@
 
 # Plasiyer
 
-Plasiyer; bir işletmenin ürün veya hizmetlerini müşterilere tanıtan, siparişleri toplayan ve müşteri ilişkilerini yöneten bir temsilcidir. 
-Plasiyer, genellikle saha satışında görev alır ve müşterilerin ihtiyaçlarını belirleyerek onlara uygun ürünleri sunar. 
-Ayrıca, müşteri taleplerini merkez ofise ileterek siparişlerin doğru ve zamanında işlenmesini sağlar. 
-Plasiyerler, satış hedeflerini gerçekleştirmek ve müşteri memnuniyetini artırmak için stratejik bir rol oynar.
+Plasiyer; bir iÅŸletmenin Ã¼rÃ¼n veya hizmetlerini mÃ¼ÅŸterilere tanÄ±tan, sipariÅŸleri toplayan ve mÃ¼ÅŸteri iliÅŸkilerini yÃ¶neten bir temsilcidir. 
+Plasiyer, genellikle saha satÄ±ÅŸÄ±nda gÃ¶rev alÄ±r ve mÃ¼ÅŸterilerin ihtiyaÃ§larÄ±nÄ± belirleyerek onlara uygun Ã¼rÃ¼nleri sunar. 
+AyrÄ±ca, mÃ¼ÅŸteri taleplerini merkez ofise ileterek sipariÅŸlerin doÄŸru ve zamanÄ±nda iÅŸlenmesini saÄŸlar. 
+Plasiyerler, satÄ±ÅŸ hedeflerini gerÃ§ekleÅŸtirmek ve mÃ¼ÅŸteri memnuniyetini artÄ±rmak iÃ§in stratejik bir rol oynar.
 
 
-Kaydı yapılan işlemlerde, plasiyer, hareketin hangi plasiyere ait olduğunu belirterek işlemin doğru bir şekilde izlenmesini sağlar. 
-Örneğin, bir faturada 5 kalem ürün olduğunu varsayalım; bu ürünlerin 2'si bir plasiyere, diğer 3'ü ise başka bir plasiyere ait olabilir. 
-Bu durumda, stok kalemlerini sisteme girerken, her bir ürünün hangi plasiyere ait olduğunu belirtmek, satış ve stok takibini daha etkin hale getirir.
+KaydÄ± yapÄ±lan iÅŸlemlerde, plasiyer, hareketin hangi plasiyere ait olduÄŸunu belirterek iÅŸlemin doÄŸru bir ÅŸekilde izlenmesini saÄŸlar. 
+Ã–rneÄŸin, bir faturada 5 kalem Ã¼rÃ¼n olduÄŸunu varsayalÄ±m; bu Ã¼rÃ¼nlerin 2'si bir plasiyere, diÄŸer 3'Ã¼ ise baÅŸka bir plasiyere ait olabilir. 
+Bu durumda, stok kalemlerini sisteme girerken, her bir Ã¼rÃ¼nÃ¼n hangi plasiyere ait olduÄŸunu belirtmek, satÄ±ÅŸ ve stok takibini daha etkin hale getirir.
 
-Plasiyer tanımlaması, her bir plasiyerin performansını izlemeye, satışların hangi plasiyer tarafından gerçekleştirildiğini görmeye ve satış komisyonlarını doğru bir şekilde hesaplamaya olanak tanır. 
-Ayrıca, bu bilgi, müşteri ilişkilerinin yönetimi açısından da önemlidir; müşterinin hangi plasiyerle etkileşimde bulunduğu kolayca tespit edilebilir. 
-Bu sayede, müşteri memnuniyeti artırılırken, satış süreçleri daha şeffaf ve organize bir şekilde yürütülür.
+Plasiyer tanÄ±mlamasÄ±, her bir plasiyerin performansÄ±nÄ± izlemeye, satÄ±ÅŸlarÄ±n hangi plasiyer tarafÄ±ndan gerÃ§ekleÅŸtirildiÄŸini gÃ¶rmeye ve satÄ±ÅŸ komisyonlarÄ±nÄ± doÄŸru bir ÅŸekilde hesaplamaya olanak tanÄ±r. 
+AyrÄ±ca, bu bilgi, mÃ¼ÅŸteri iliÅŸkilerinin yÃ¶netimi aÃ§Ä±sÄ±ndan da Ã¶nemlidir; mÃ¼ÅŸterinin hangi plasiyerle etkileÅŸimde bulunduÄŸu kolayca tespit edilebilir. 
+Bu sayede, mÃ¼ÅŸteri memnuniyeti artÄ±rÄ±lÄ±rken, satÄ±ÅŸ sÃ¼reÃ§leri daha ÅŸeffaf ve organize bir ÅŸekilde yÃ¼rÃ¼tÃ¼lÃ¼r.

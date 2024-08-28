@@ -1,90 +1,90 @@
 ---
 SayfaID: Sozlesme/Liste
-SayfaTipi: Lıste
+SayfaTipi: LÄ±ste
 ---
 
-# Yetkiler
+# SÃ¶zleÅŸme
 
-**Erişim Linki :** [erp.aaro.com.tr/Sozlesme/Liste](erp.aaro.com.tr/Sozlesme/Liste)
+**EriÅŸim Linki :** [erp.aaro.com.tr/Sozlesme/Liste](erp.aaro.com.tr/Sozlesme/Liste)
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "sözleşme" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Satın Alma -> Kartlar -> Sözleşme Listesi(Alış) şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden Satış&Pazarlama -> Kartlar -> Sözleşme Listesi(Satış) şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "sÃ¶zleÅŸme" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den SatÄ±n Alma -> Kartlar -> SÃ¶zleÅŸme Listesi(AlÄ±ÅŸ) ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den SatÄ±ÅŸ&Pazarlama -> Kartlar -> SÃ¶zleÅŸme Listesi(SatÄ±ÅŸ) ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-## Tanım
+## TanÄ±m
 
-Sözleşme, iki veya daha fazla taraf arasında belirli bir konuda karşılıklı hak ve yükümlülüklerin belirlendiği yazılı veya sözlü bir anlaşmadır. 
-Sözleşmeler, tarafların birbiriyle yaptığı anlaşmaların detaylarını ve şartlarını netleştirir, bu sayede her iki tarafın da haklarını korur ve yerine getirilmesi gereken taahhütleri belirler. 
-Sözleşmeler genellikle ticari işlemler, hizmet alım-satımları, kiralamalar, iş anlaşmaları ve benzeri durumlar için kullanılır.
+SÃ¶zleÅŸme, iki veya daha fazla taraf arasÄ±nda belirli bir konuda karÅŸÄ±lÄ±klÄ± hak ve yÃ¼kÃ¼mlÃ¼lÃ¼klerin belirlendiÄŸi yazÄ±lÄ± veya sÃ¶zlÃ¼ bir anlaÅŸmadÄ±r. 
+SÃ¶zleÅŸmeler, taraflarÄ±n birbiriyle yaptÄ±ÄŸÄ± anlaÅŸmalarÄ±n detaylarÄ±nÄ± ve ÅŸartlarÄ±nÄ± netleÅŸtirir, bu sayede her iki tarafÄ±n da haklarÄ±nÄ± korur ve yerine getirilmesi gereken taahhÃ¼tleri belirler. 
+SÃ¶zleÅŸmeler genellikle ticari iÅŸlemler, hizmet alÄ±m-satÄ±mlarÄ±, kiralamalar, iÅŸ anlaÅŸmalarÄ± ve benzeri durumlar iÃ§in kullanÄ±lÄ±r.
 
-Bir sözleşme, genellikle tarafların kimlikleri, anlaşmanın konusu, tarafların yükümlülükleri, ödeme şartları, süresi, fesih koşulları ve anlaşmazlık durumunda uygulanacak çözümleri içerir. 
-Sözleşmenin geçerliliği için, tarafların anlaşma iradesine sahip olması, sözleşmenin konusu ile ilgili yasalara uygun olması ve tarafların sözleşmeyi imzalaması gerekmektedir. 
-Sözleşmeler, hukuki bağlayıcılığı olan belgeler olup, tarafların anlaşmanın şartlarına uymalarını garanti altına alır.
+Bir sÃ¶zleÅŸme, genellikle taraflarÄ±n kimlikleri, anlaÅŸmanÄ±n konusu, taraflarÄ±n yÃ¼kÃ¼mlÃ¼lÃ¼kleri, Ã¶deme ÅŸartlarÄ±, sÃ¼resi, fesih koÅŸullarÄ± ve anlaÅŸmazlÄ±k durumunda uygulanacak Ã§Ã¶zÃ¼mleri iÃ§erir. 
+SÃ¶zleÅŸmenin geÃ§erliliÄŸi iÃ§in, taraflarÄ±n anlaÅŸma iradesine sahip olmasÄ±, sÃ¶zleÅŸmenin konusu ile ilgili yasalara uygun olmasÄ± ve taraflarÄ±n sÃ¶zleÅŸmeyi imzalamasÄ± gerekmektedir. 
+SÃ¶zleÅŸmeler, hukuki baÄŸlayÄ±cÄ±lÄ±ÄŸÄ± olan belgeler olup, taraflarÄ±n anlaÅŸmanÄ±n ÅŸartlarÄ±na uymalarÄ±nÄ± garanti altÄ±na alÄ±r.
 
-Cariler ile aranızdaki sözleşmelerinizi sisteme tanımlayabilir, hareketlerde sözleşme seçerek takibini sağlayabilirsiniz.
+Cariler ile aranÄ±zdaki sÃ¶zleÅŸmelerinizi sisteme tanÄ±mlayabilir, hareketlerde sÃ¶zleÅŸme seÃ§erek takibini saÄŸlayabilirsiniz.
 
-## Yeni Sözleşme Ekleme 
+## Yeni SÃ¶zleÅŸme Ekleme 
 
-Müşteri ve satıcılarınız ile aranızdaki sözleşmelerinizi sisteme yükleyip takibini sağlayabilirsiniz.
+MÃ¼ÅŸteri ve satÄ±cÄ±larÄ±nÄ±z ile aranÄ±zdaki sÃ¶zleÅŸmelerinizi sisteme yÃ¼kleyip takibini saÄŸlayabilirsiniz.
 
 ### Genel
 
-**Sözleşme Adı:** Sözleşmenin adını ifade eder.
+**SÃ¶zleÅŸme AdÄ±:** SÃ¶zleÅŸmenin adÄ±nÄ± ifade eder.
 
-**Sözleşme Kodu:** Sözleşmenin kodunu ifade eder.
+**SÃ¶zleÅŸme Kodu:** SÃ¶zleÅŸmenin kodunu ifade eder.
 
-**Tip:** Sözleşmenin alış veya satış mı olduğunu ifade eder.
+**Tip:** SÃ¶zleÅŸmenin alÄ±ÅŸ veya satÄ±ÅŸ mÄ± olduÄŸunu ifade eder.
 
-**Tarih:** Sözleşmenin tarihini ifade eder.
+**Tarih:** SÃ¶zleÅŸmenin tarihini ifade eder.
 
-**Bitiş Tarihi:** Sözleşmenin bitiş tarihini ifade eder.
+**BitiÅŸ Tarihi:** SÃ¶zleÅŸmenin bitiÅŸ tarihini ifade eder.
 
-**Döviz Adı:** Sözleşmenin döviz türünü ifade eder.
+**DÃ¶viz AdÄ±:** SÃ¶zleÅŸmenin dÃ¶viz tÃ¼rÃ¼nÃ¼ ifade eder.
 
-**Tutar:** Sözleşmenin tutarını ifade eder.
+**Tutar:** SÃ¶zleÅŸmenin tutarÄ±nÄ± ifade eder.
 
 ### Cari-Proje-Plasiyer
 
-**Cari:** Sözleşmenin yapıldığı cariyi ifade eder.
+**Cari:** SÃ¶zleÅŸmenin yapÄ±ldÄ±ÄŸÄ± cariyi ifade eder.
 
-**Proje:** Sözleşmenin bağlı olduğu projeyi ifade eder. Proje detaylarına linkten erişebilirsiniz. [Proje](../TemelOzellikler/Proje.md)
+**Proje:** SÃ¶zleÅŸmenin baÄŸlÄ± olduÄŸu projeyi ifade eder. Proje detaylarÄ±na linkten eriÅŸebilirsiniz. [Proje](../TemelOzellikler/Proje.md)
 
-**Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir. Plasiyer detaylarına linkten erişebilirsiniz. [Plasiyer](../TemelOzellikler/Plasiyer.md)
+**Plasiyer:** Bu hareketin hangi plasiyere ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir. Plasiyer detaylarÄ±na linkten eriÅŸebilirsiniz. [Plasiyer](../TemelOzellikler/Plasiyer.md)
 
 ### Tutar Grafik
 
-Sözleşmede yer alan tutar grafiği, sözleşmeye ait mali tutarların zaman içindeki dağılımını ve ödeme planlarını görsel olarak sunar. 
-Bu grafik, ödemelerin ne zaman ve ne kadar yapılacağını net bir şekilde takip etmenizi sağlar, böylece sözleşme sürecindeki mali akışı kolayca yönetebilirsiniz.
+SÃ¶zleÅŸmede yer alan tutar grafiÄŸi, sÃ¶zleÅŸmeye ait mali tutarlarÄ±n zaman iÃ§indeki daÄŸÄ±lÄ±mÄ±nÄ± ve Ã¶deme planlarÄ±nÄ± gÃ¶rsel olarak sunar. 
+Bu grafik, Ã¶demelerin ne zaman ve ne kadar yapÄ±lacaÄŸÄ±nÄ± net bir ÅŸekilde takip etmenizi saÄŸlar, bÃ¶ylece sÃ¶zleÅŸme sÃ¼recindeki mali akÄ±ÅŸÄ± kolayca yÃ¶netebilirsiniz.
 
 ### Fiyat Listeleri
 
-Cari ile yapılan sözleşmede için geçerli olan fiyat listesini ifade eder.
+Cari ile yapÄ±lan sÃ¶zleÅŸmede iÃ§in geÃ§erli olan fiyat listesini ifade eder.
 
-### Girişler
+### GiriÅŸler
 
-Sözleşmenin ait olduğu cari ile yapılan sipariş, satış vb işlemlerden stok girişlerini ifade eder.
-CariHareketlerinde Fatura ve İrsaliyeler ile eşleştirme toplamı etkilemez. Fatura ve İrsaliyelerin StokHareketleri ile eşleştirilmesi gerekmektedir.
+SÃ¶zleÅŸmenin ait olduÄŸu cari ile yapÄ±lan sipariÅŸ, satÄ±ÅŸ vb iÅŸlemlerden stok giriÅŸlerini ifade eder.
+CariHareketlerinde Fatura ve Ä°rsaliyeler ile eÅŸleÅŸtirme toplamÄ± etkilemez. Fatura ve Ä°rsaliyelerin StokHareketleri ile eÅŸleÅŸtirilmesi gerekmektedir.
 
-### Çıkışlar
+### Ã‡Ä±kÄ±ÅŸlar
 
-Sözleşmenin ait olduğu cari ile yapılan sipariş, satış vb işlemlerden stok çıkışlarını ifade eder.
-CariHareketlerinde Fatura ve İrsaliyeler ile eşleştirme toplamı etkilemez. Fatura ve İrsaliyelerin StokHareketleri ile eşleştirilmesi gerekmektedir.
+SÃ¶zleÅŸmenin ait olduÄŸu cari ile yapÄ±lan sipariÅŸ, satÄ±ÅŸ vb iÅŸlemlerden stok Ã§Ä±kÄ±ÅŸlarÄ±nÄ± ifade eder.
+CariHareketlerinde Fatura ve Ä°rsaliyeler ile eÅŸleÅŸtirme toplamÄ± etkilemez. Fatura ve Ä°rsaliyelerin StokHareketleri ile eÅŸleÅŸtirilmesi gerekmektedir.
 
-### Sipariş Hareketleri
+### SipariÅŸ Hareketleri
 
-Sözleşmenin bağlı olduğu carinin sipariş hareketlerini ifade eder.
+SÃ¶zleÅŸmenin baÄŸlÄ± olduÄŸu carinin sipariÅŸ hareketlerini ifade eder.
 
-### Beklenen Tahsilat ve Ödemeler
+### Beklenen Tahsilat ve Ã–demeler
 
-Bir işletmenin, belirli bir zaman dilimi içinde müşterilerinden almayı beklediği ödemelerdir. 
-	Bu, genellikle satışlardan kaynaklanan alacakları ve diğer gelir kalemlerini içerir. Beklenen Tahsilatlar ve Ödemeler kullanım detayları için linke tıklayınız. [Beklenen Tahsilatlar ve Ödemeler](../TemelOzellikler/BeklenenTahOd.md)
+Bir iÅŸletmenin, belirli bir zaman dilimi iÃ§inde mÃ¼ÅŸterilerinden almayÄ± beklediÄŸi Ã¶demelerdir. 
+	Bu, genellikle satÄ±ÅŸlardan kaynaklanan alacaklarÄ± ve diÄŸer gelir kalemlerini iÃ§erir. Beklenen Tahsilatlar ve Ã–demeler kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Beklenen Tahsilatlar ve Ã–demeler](../TemelOzellikler/BeklenenTahOd.md)
 
-### Gelişmiş 
+### GeliÅŸmiÅŸ 
 
-**Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+**Åirket-Åube:** Bu kartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. [Åirket-Åube](../TemelOzellikler/SirketSubeHareket.md)
 
-**Durum:** Sözleşmenin aktif ya da pasif durumunu ifade eder.
+**Durum:** SÃ¶zleÅŸmenin aktif ya da pasif durumunu ifade eder.
 
 

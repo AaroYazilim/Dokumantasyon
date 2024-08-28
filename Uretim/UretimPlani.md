@@ -36,7 +36,7 @@ Bu işlemleri nasıl gerçekleştiğimizin detaylarına linkten erişim sağlaya
 	Filtrelemede Sadece İş Emri Gelsin;
 	
 	**Evet** seçeneği seçili olduğunda sadece iş emirlerini görüntüleriz.
-	
+
 	**Hayır** seçeneği seçili olduğunda set ve süreler gözükmektedir.
 	
 	İş emirlerinize tıklayarak yeni üretim girişi yapabilir, üretilen setleri görüntüleyebilir, parçalayabilir, iş emrine erişebilir, makine değiştirebilir, üretime ait çıktılar alabiliriz.
@@ -50,7 +50,8 @@ Bu işlemleri nasıl gerçekleştiğimizin detaylarına linkten erişim sağlaya
 
 **Ertelenecek Gün Sayısı:** Üretim planımızı erteleyeceğimiz gün sayısını girelim.
 	Örneğin; bugün üretim planımızda koltuk takımı rutin üretimimiz var, acil iş geldi 3 gün içerisinde teslim edilmesi gerekli. 
-	Ertelenecek gün sayısına 3 yazıp acil işimiz bittikten sonra üretimimize kaldığımız yerden devam edebiliriz.
+	Ertelenecek gün sayısına 3 yazıyoruz acil işimiz bittikten sonra üretimimize kaldığımız yerden devam edebiliriz.
+
 
 **İş Emri:** Ertelenecek olan iş emrini seçelim.
 

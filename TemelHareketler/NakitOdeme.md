@@ -3,110 +3,110 @@ SayfaID: KasaNakitOdeme
 SayfaTipi: KasaHareketleri
 ---
 
-# Nakit Ödeme
+# Nakit Ã–deme
 
-**Erişim Linki :** [erp.aaro.com.tr/KasaNakitOdeme](erp.aaro.com.tr/KasaNakitOdeme)
+**EriÅŸim Linki :** [erp.aaro.com.tr/KasaNakitOdeme](erp.aaro.com.tr/KasaNakitOdeme)
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'kasa' aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Kasa -> Hareket Oluştur -> Nakit Ödeme şeklinde ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Müşteri/Satıcı -> Hareket Oluştur -> Kasa -> Nakit Ödeme şeklinde ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Satın Alma -> Hareket Oluştur -> Nakit Ödeme İşleme şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan 'kasa' aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol sekmede yer alan modÃ¼ller kÄ±smÄ±ndan Kasa -> Hareket OluÅŸtur -> Nakit Ã–deme ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol sekmede yer alan modÃ¼ller kÄ±smÄ±ndan MÃ¼ÅŸteri/SatÄ±cÄ± -> Hareket OluÅŸtur -> Kasa -> Nakit Ã–deme ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol sekmede yer alan modÃ¼ller kÄ±smÄ±ndan SatÄ±n Alma -> Hareket OluÅŸtur -> Nakit Ã–deme Ä°ÅŸleme ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-## Tanım
+## TanÄ±m
 
-Nakit ödeme, bir işlem veya borcun karşılığında doğrudan fiziksel para ile yapılan ödemedir. 
-Nakit ödemede, ödeme işlemi esnasında nakit paranın (kağıt para veya madeni para) kullanılması sağlanır ve ödeme, hemen gerçekleştirilir.
-Nakit ödeme işlemi, muhasebe kayıtlarına geçirilir ve kasada bir işlem olarak kaydedilir.
-Nakit ödeme, şirketimiz bünyesindeki kasalardan bir işlem veya borç karşılığında yapılan ödemelerdir. 
-Bu tür ödemelerde, belirli bir işlem için gerekli olan tutar, şirketin kasa hesabından nakit olarak çıkarılır ve ödemeye ilişkin gerekli kayıtlar tutulur.
+Nakit Ã¶deme, bir iÅŸlem veya borcun karÅŸÄ±lÄ±ÄŸÄ±nda doÄŸrudan fiziksel para ile yapÄ±lan Ã¶demedir. 
+Nakit Ã¶demede, Ã¶deme iÅŸlemi esnasÄ±nda nakit paranÄ±n (kaÄŸÄ±t para veya madeni para) kullanÄ±lmasÄ± saÄŸlanÄ±r ve Ã¶deme, hemen gerÃ§ekleÅŸtirilir.
+Nakit Ã¶deme iÅŸlemi, muhasebe kayÄ±tlarÄ±na geÃ§irilir ve kasada bir iÅŸlem olarak kaydedilir.
+Nakit Ã¶deme, ÅŸirketimiz bÃ¼nyesindeki kasalardan bir iÅŸlem veya borÃ§ karÅŸÄ±lÄ±ÄŸÄ±nda yapÄ±lan Ã¶demelerdir. 
+Bu tÃ¼r Ã¶demelerde, belirli bir iÅŸlem iÃ§in gerekli olan tutar, ÅŸirketin kasa hesabÄ±ndan nakit olarak Ã§Ä±karÄ±lÄ±r ve Ã¶demeye iliÅŸkin gerekli kayÄ±tlar tutulur.
 
 ### Genel 
 
-**Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+**Åirket-Åube:** Bu kartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. [Åirket-Åube](../TemelOzellikler/SirketSubeHareket.md)
 
-**Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
+**Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir. **Girilmesi Zorunludur.**
 
-**Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge NumarasÄ±nÄ± ifade eder. Otomatik sÄ±radaki numara gelir. Ä°stenirse seri kullanÄ±labilir.
 
-	## Kasa için;
+	## Kasa iÃ§in;
 
-	- **Kasa:** Nakit ödemenin yapıldığı kasayı ifade eder.
+	- **Kasa:** Nakit Ã¶demenin yapÄ±ldÄ±ÄŸÄ± kasayÄ± ifade eder.
 
-	- **Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+	- **DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinisini belirtir.
 
-	- **Tutar:** Yapılan ödemenin veya işlemin tutarını ifade eder. İlgili kasadan yapılan nakit çıkışının miktarını gösterir.
+	- **Tutar:** YapÄ±lan Ã¶demenin veya iÅŸlemin tutarÄ±nÄ± ifade eder. Ä°lgili kasadan yapÄ±lan nakit Ã§Ä±kÄ±ÅŸÄ±nÄ±n miktarÄ±nÄ± gÃ¶sterir.
 
-	- **Açıklama:** Kasa işlemi için ek detaylar burada belirtilebilir. 
+	- **AÃ§Ä±klama:** Kasa iÅŸlemi iÃ§in ek detaylar burada belirtilebilir. 
 
-	## Cari için;
+	## Cari iÃ§in;
 
-	- **Cari:** Nakit ödemenin yapıldığı cariyi ifade eder.
+	- **Cari:** Nakit Ã¶demenin yapÄ±ldÄ±ÄŸÄ± cariyi ifade eder.
 
-	- **Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+	- **DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinisini belirtir.
 
-	- **Tutar:** Yapılan ödemenin veya işlemin tutarını ifade eder. İlgili kasadan yapılan nakit çıkışının miktarını gösterir.
+	- **Tutar:** YapÄ±lan Ã¶demenin veya iÅŸlemin tutarÄ±nÄ± ifade eder. Ä°lgili kasadan yapÄ±lan nakit Ã§Ä±kÄ±ÅŸÄ±nÄ±n miktarÄ±nÄ± gÃ¶sterir.
 
-	- **Açıklama:** Nakit ödeme işlemi için ek detaylar burada belirtilebilir. 
+	- **AÃ§Ä±klama:** Nakit Ã¶deme iÅŸlemi iÃ§in ek detaylar burada belirtilebilir. 
 
 ### Detay
 
-**Beklenen Tahsilatlar ve Ödemeler** Bir işletmenin, belirli bir zaman dilimi içinde müşterilerinden almayı beklediği ödemelerdir. 
-	Bu, genellikle satışlardan kaynaklanan alacakları ve diğer gelir kalemlerini içerir. Beklenen Tahsilatlar ve Ödemeler kullanım detayları için linke tıklayınız. [Beklenen Tahsilatlar ve Ödemeler](../TemelOzellikler/BeklenenTahOd.md)
+**Beklenen Tahsilatlar ve Ã–demeler** Bir iÅŸletmenin, belirli bir zaman dilimi iÃ§inde mÃ¼ÅŸterilerinden almayÄ± beklediÄŸi Ã¶demelerdir. 
+	Bu, genellikle satÄ±ÅŸlardan kaynaklanan alacaklarÄ± ve diÄŸer gelir kalemlerini iÃ§erir. Beklenen Tahsilatlar ve Ã–demeler kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Beklenen Tahsilatlar ve Ã–demeler](../TemelOzellikler/BeklenenTahOd.md)
 
-**Sözleşme:** Bu hareketin hangi sözleşmeye ait olduğunu gösterir. Sözleşme kullanım detayları için linke tıklayınız.[Sözleşme](../TemelOzellikler/Sozlesme.md)
+**SÃ¶zleÅŸme:** Bu hareketin hangi sÃ¶zleÅŸmeye ait olduÄŸunu gÃ¶sterir. SÃ¶zleÅŸme kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[SÃ¶zleÅŸme](../TemelOzellikler/Sozlesme.md)
 
-**Proje:** Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir. Proje kullanım detayları için linke tıklayınız.[Proje](../TemelOzellikler/Proje.md)
+**Proje:** Bu hareketin hangi projeye ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir. Proje kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[Proje](../TemelOzellikler/Proje.md)
 
-**Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir. Plasiyer kullanım detayları için linke tıklayınız.[Plasiyer](../TemelOzellikler/Plasiyer.md)
+**Plasiyer:** Bu hareketin hangi plasiyere ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir. Plasiyer kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[Plasiyer](../TemelOzellikler/Plasiyer.md)
 
 **Tip:** Alt hareket tipini belirtir.
 
-### Açıklamalar
+### AÃ§Ä±klamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md)
+- **AÃ§Ä±klamalar:** Ek aÃ§Ä±klamalarÄ± belirtir. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
 ### Etiketler KasaHareketleri 
 
-- **Etiketler:** Kasa hareketine özel etiketler veya tanımlayıcı bilgiler eklemeye olanak tanır. 
-Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
+- **Etiketler:** Kasa hareketine Ã¶zel etiketler veya tanÄ±mlayÄ±cÄ± bilgiler eklemeye olanak tanÄ±r. 
+Bu kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lÄ±r. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 ### Etiketler CariHareketleri 
 
-- **Etiketler:** Cari hareketine özel etiketler veya tanımlayıcı bilgiler eklemeye olanak tanır. 
-Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
+- **Etiketler:** Cari hareketine Ã¶zel etiketler veya tanÄ±mlayÄ±cÄ± bilgiler eklemeye olanak tanÄ±r. 
+Bu kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lÄ±r. [Etiketler](../TemelOzellikler/Etiketler.md)
 
--> Kaydet butonuna tıklayarak belge ve notlar ekleme sayfasına ulaşabilirsiniz. 
-Bu sayfada, ilgili işlemle ilgili belgeleri yükleyebilir ve açıklayıcı notlar ekleyebilirsiniz.
+-> Kaydet butonuna tÄ±klayarak belge ve notlar ekleme sayfasÄ±na ulaÅŸabilirsiniz. 
+Bu sayfada, ilgili iÅŸlemle ilgili belgeleri yÃ¼kleyebilir ve aÃ§Ä±klayÄ±cÄ± notlar ekleyebilirsiniz.
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+Ä°ÅŸleme ait Ã¶zel notlar belirtebiliriz. 
+Ã–nemli bir detay var ise bu detaylarÄ± burada belirtebiliriz.
+Notlar kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+YapacaÄŸÄ±mÄ±z iÅŸlem iÃ§in elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yÃ¼kleyebiliriz.
+Buraya iÅŸlem gerÃ§ekleÅŸirken ki gÃ¶rselleri yÃ¼kleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek iÃ§in tÄ±klayalÄ±m ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Daha Ã¶nce yÃ¼klediklerimden seÃ§ -> belgeyi seÃ§elim -> Ä°liÅŸkilendir ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- YÃ¼klenecek belge veya resimleri seÃ§in -> belgeyi ya da belgeleri seÃ§elim -> YÃ¼kle ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
-Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+Belge kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Belge](../TemelOzellikler/Belgeler.md)
 
-## Kayıt Bilgileri
+## KayÄ±t Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+KartÄ±n hangi kullanÄ±cÄ± tarafÄ±ndan ve hangi tarihlerde oluÅŸturulduÄŸu ve deÄŸiÅŸtirildiÄŸi bilgisini iÃ§erir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kart iÅŸ akÄ±ÅŸ sÃ¼reÃ§lerine dahil edildiÄŸinde hangi kullanÄ±cÄ± tarafÄ±ndan hangi tarihte onaylandÄ±ÄŸÄ± bilgilerini iÃ§erir. 
 
-## Ek İşlemler
+## Ek Ä°ÅŸlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Nakit ödeme işlemini kopyalamak için kullanılır.
-- Görev Oluştur: Sipariş için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+ SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan alt altta Ã¼Ã§ Ã§izgi ÅŸeklinde olan dÃ¼ÄŸme ile ek iÅŸlemlere ulaÅŸÄ±lÄ±r.
+- Yevmiye FiÅŸ: Yevmiye fiÅŸi, iÅŸletmelerde gerÃ§ekleÅŸen her tÃ¼rlÃ¼ mali iÅŸlemin tarih, miktar ve aÃ§Ä±klama bilgileri ile birlikte kaydedildiÄŸi muhasebe belgesidir.
+- Kopyala: Nakit Ã¶deme iÅŸlemini kopyalamak iÃ§in kullanÄ±lÄ±r.
+- GÃ¶rev OluÅŸtur: SipariÅŸ iÃ§in gÃ¶rev oluÅŸturup, kiÅŸi atayabiliriz, aÃ§Ä±klama, tarih bitiÅŸ, hatÄ±rlatma sÃ¼resi, yÃ¶netici, kullanÄ±cÄ±, tamamlanma tipi, tekrar ÅŸekli bilgilerini ekleyerek gÃ¶rev tanÄ±mlama iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.

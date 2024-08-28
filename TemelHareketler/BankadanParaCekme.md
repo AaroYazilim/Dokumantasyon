@@ -5,102 +5,102 @@ SayfaTipi: BankaHareketleri
 
 # Bankadan Gider Hareketi
 
-**Erişim Linki :** [erp.aaro.com.tr/KasaBankadanParaCekme](erp.aaro.com.tr/KasaBankadanParaCekme)
+**EriÅŸim Linki :** [erp.aaro.com.tr/KasaBankadanParaCekme](erp.aaro.com.tr/KasaBankadanParaCekme)
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'Banka gider' aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Banka -> Hareket Oluştur -> Bankadan Para Çekme şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan 'Banka gider' aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol sekmede yer alan modÃ¼ller kÄ±smÄ±ndan Banka -> Hareket OluÅŸtur -> Bankadan Para Ã‡ekme ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-## Tanım
+## TanÄ±m
 
-Bankadan para çekme hareketi, bir işletmenin banka hesabından belirli bir tutarda nakit çekerek bu tutarı kasasına veya başka bir ödeme aracı olarak kullanması sürecini ifade eder. 
-Bu işlem, işletmenin günlük nakit ihtiyaçlarını karşılamak, çeşitli ödemeleri yapmak veya banka hesabındaki parayı başka amaçlar için kullanmak üzere yapılır.
-Banka, belirtilen tutarı işletme hesabından nakit olarak çıkarır ve bu tutar, işletmenin belirlediği kasa hesabına ya da elde edilecek şekilde işletmeye teslim edilir.
-İşlem, muhasebe kayıtlarına yansıtılır. Çekilen tutar, banka hesabında bir çıkış ve kasa hesabında bir giriş olarak kaydedilir.
-Bankadan para çekme hareketleri, işletmenin nakit akışını düzenlemek ve gerekli nakit ihtiyaçlarını karşılamak için önemli bir işlemdir.
-Bu işlem, hem banka hesaplarının hem de kasa hareketlerinin doğru ve düzenli bir şekilde yönetilmesini gerektirir.
+Bankadan para Ã§ekme hareketi, bir iÅŸletmenin banka hesabÄ±ndan belirli bir tutarda nakit Ã§ekerek bu tutarÄ± kasasÄ±na veya baÅŸka bir Ã¶deme aracÄ± olarak kullanmasÄ± sÃ¼recini ifade eder. 
+Bu iÅŸlem, iÅŸletmenin gÃ¼nlÃ¼k nakit ihtiyaÃ§larÄ±nÄ± karÅŸÄ±lamak, Ã§eÅŸitli Ã¶demeleri yapmak veya banka hesabÄ±ndaki parayÄ± baÅŸka amaÃ§lar iÃ§in kullanmak Ã¼zere yapÄ±lÄ±r.
+Banka, belirtilen tutarÄ± iÅŸletme hesabÄ±ndan nakit olarak Ã§Ä±karÄ±r ve bu tutar, iÅŸletmenin belirlediÄŸi kasa hesabÄ±na ya da elde edilecek ÅŸekilde iÅŸletmeye teslim edilir.
+Ä°ÅŸlem, muhasebe kayÄ±tlarÄ±na yansÄ±tÄ±lÄ±r. Ã‡ekilen tutar, banka hesabÄ±nda bir Ã§Ä±kÄ±ÅŸ ve kasa hesabÄ±nda bir giriÅŸ olarak kaydedilir.
+Bankadan para Ã§ekme hareketleri, iÅŸletmenin nakit akÄ±ÅŸÄ±nÄ± dÃ¼zenlemek ve gerekli nakit ihtiyaÃ§larÄ±nÄ± karÅŸÄ±lamak iÃ§in Ã¶nemli bir iÅŸlemdir.
+Bu iÅŸlem, hem banka hesaplarÄ±nÄ±n hem de kasa hareketlerinin doÄŸru ve dÃ¼zenli bir ÅŸekilde yÃ¶netilmesini gerektirir.
 
 ### Genel 
 
-**Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+**Åirket-Åube:** Bu kartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. [Åirket-Åube](../TemelOzellikler/SirketSubeHareket.md)
 
-**Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
+**Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir. **Girilmesi Zorunludur.**
 
-**Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge NumarasÄ±nÄ± ifade eder. Otomatik sÄ±radaki numara gelir. Ä°stenirse seri kullanÄ±labilir.
 
-	## Kasa için;
+	## Kasa iÃ§in;
 
-	- **Kasa** Nakit girişin yapılacağı kasa hesabını belirtir.
+	- **Kasa** Nakit giriÅŸin yapÄ±lacaÄŸÄ± kasa hesabÄ±nÄ± belirtir.
 
-	- **Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+	- **DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinisini belirtir.
 	
-	- **Tutar:** Bankadan çekilecek nakit miktarını belirtir.
+	- **Tutar:** Bankadan Ã§ekilecek nakit miktarÄ±nÄ± belirtir.
 
-	- **Açıklama:** Kasa için ek detaylar burada belirtilebilir. 
+	- **AÃ§Ä±klama:** Kasa iÃ§in ek detaylar burada belirtilebilir. 
 
-	## Banka Hesap için;
+	## Banka Hesap iÃ§in;
 
-	- **Banka Hesap:** Nakit çekiminin yapılacağı banka hesabını belirtir.
+	- **Banka Hesap:** Nakit Ã§ekiminin yapÄ±lacaÄŸÄ± banka hesabÄ±nÄ± belirtir.
 
-	- **Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+	- **DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinisini belirtir.
 	
-	- **Tutar:** Transfer edilecek nakit miktarını belirtir.
+	- **Tutar:** Transfer edilecek nakit miktarÄ±nÄ± belirtir.
 
-	- **Açıklama:** Banka Hesap için ek detaylar burada belirtilebilir. 
+	- **AÃ§Ä±klama:** Banka Hesap iÃ§in ek detaylar burada belirtilebilir. 
 
 ### Detay
 
-**Proje:** Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir. Proje kullanım detayları için linke tıklayınız.[Proje](../TemelOzellikler/Proje.md)
+**Proje:** Bu hareketin hangi projeye ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir. Proje kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[Proje](../TemelOzellikler/Proje.md)
 
-**Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir. Plasiyer kullanım detayları için linke tıklayınız.[Plasiyer](../TemelOzellikler/Plasiyer.md)
+**Plasiyer:** Bu hareketin hangi plasiyere ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir. Plasiyer kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[Plasiyer](../TemelOzellikler/Plasiyer.md)
 
 **Tip:** Alt hareket tipini belirtir.
 
-### Açıklamalar
+### AÃ§Ä±klamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md)
+- **AÃ§Ä±klamalar:** Ek aÃ§Ä±klamalarÄ± belirtir. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
 ### Etiketler KasaHareketleri
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
+- **Etiketler:** Bu kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lÄ±r. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 ### Etiketler BankaHareketleri
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
+- **Etiketler:** Bu kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lÄ±r. [Etiketler](../TemelOzellikler/Etiketler.md)
 
--> Kaydet butonuna tıklayarak belge ve notlar ekleme sayfasına ulaşabilirsiniz. 
-Bu sayfada, ilgili işlemle ilgili belgeleri yükleyebilir ve açıklayıcı notlar ekleyebilirsiniz.
+-> Kaydet butonuna tÄ±klayarak belge ve notlar ekleme sayfasÄ±na ulaÅŸabilirsiniz. 
+Bu sayfada, ilgili iÅŸlemle ilgili belgeleri yÃ¼kleyebilir ve aÃ§Ä±klayÄ±cÄ± notlar ekleyebilirsiniz.
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+Ä°ÅŸleme ait Ã¶zel notlar belirtebiliriz. 
+Ã–nemli bir detay var ise bu detaylarÄ± burada belirtebiliriz.
+Notlar kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+YapacaÄŸÄ±mÄ±z iÅŸlem iÃ§in elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yÃ¼kleyebiliriz.
+Buraya iÅŸlem gerÃ§ekleÅŸirken ki gÃ¶rselleri yÃ¼kleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek iÃ§in tÄ±klayalÄ±m ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Daha Ã¶nce yÃ¼klediklerimden seÃ§ -> belgeyi seÃ§elim -> Ä°liÅŸkilendir ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- YÃ¼klenecek belge veya resimleri seÃ§in -> belgeyi ya da belgeleri seÃ§elim -> YÃ¼kle ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
-Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+Belge kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Belge](../TemelOzellikler/Belgeler.md)
 
-## Kayıt Bilgileri
+## KayÄ±t Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+KartÄ±n hangi kullanÄ±cÄ± tarafÄ±ndan ve hangi tarihlerde oluÅŸturulduÄŸu ve deÄŸiÅŸtirildiÄŸi bilgisini iÃ§erir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kart iÅŸ akÄ±ÅŸ sÃ¼reÃ§lerine dahil edildiÄŸinde hangi kullanÄ±cÄ± tarafÄ±ndan hangi tarihte onaylandÄ±ÄŸÄ± bilgilerini iÃ§erir. 
 
-## Ek İşlemler
+## Ek Ä°ÅŸlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Kasa hareketini işlemini kopyalamak için kullanılır.
-- Görev Oluştur: Kasa hareketi için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+ SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan alt altta Ã¼Ã§ Ã§izgi ÅŸeklinde olan dÃ¼ÄŸme ile ek iÅŸlemlere ulaÅŸÄ±lÄ±r.
+- Yevmiye FiÅŸ: Yevmiye fiÅŸi, iÅŸletmelerde gerÃ§ekleÅŸen her tÃ¼rlÃ¼ mali iÅŸlemin tarih, miktar ve aÃ§Ä±klama bilgileri ile birlikte kaydedildiÄŸi muhasebe belgesidir.
+- Kopyala: Kasa hareketini iÅŸlemini kopyalamak iÃ§in kullanÄ±lÄ±r.
+- GÃ¶rev OluÅŸtur: Kasa hareketi iÃ§in gÃ¶rev oluÅŸturup, kiÅŸi atayabiliriz, aÃ§Ä±klama, tarih bitiÅŸ, hatÄ±rlatma sÃ¼resi, yÃ¶netici, kullanÄ±cÄ±, tamamlanma tipi, tekrar ÅŸekli bilgilerini ekleyerek gÃ¶rev tanÄ±mlama iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
 
