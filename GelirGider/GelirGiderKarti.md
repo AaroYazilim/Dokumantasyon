@@ -9,7 +9,7 @@ SayfaTipi: Kart
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Gelir Gider kartı" olarak aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Gelir Gider Kartı" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Gelir Gider -> Gelir Gider Modülü -> Gelir Gider Kartı şeklinde ulaşım sağlayabilirsiniz. 
 - Sol menüden Gelir Gider -> Kartlar -> Gelir/Gider Kartı Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
 
@@ -39,9 +39,9 @@ Ayrıca, gelir-gider kartları, işletmenin bütçeleme, planlama ve karar verme
 
 **Birim 3:** Bu kart için üçüncü ölçü birimidir.Kolay hesap yapmak ve raporlarda farklı cins rapor alabilmek için kullanılır.
 
-**Çevrimiçi Birim2:** Birim-1 cinsinden kaç Birim-2 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-2:Deste ise bu deger = 0,1(1/10) olur.
+**Çevrimiçi Birim2:** Birim-1 cinsinden kaç Birim-2 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-2:Deste ise bu değer = 0,1(1/10) olur.
 
-**Çevrimiçi Birim3:** Birim-1 cinsinden kaç Birim-3 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-3:Düzine ise bu deger = 0,083(1/12) olur.
+**Çevrimiçi Birim3:** Birim-1 cinsinden kaç Birim-3 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-3:Düzine ise bu değer = 0,083(1/12) olur.
 
 
 ### Vergi Oranları
@@ -50,8 +50,8 @@ Ayrıca, gelir-gider kartları, işletmenin bütçeleme, planlama ve karar verme
 
 ### Muhasebe Tanımları: 
 
-Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde otomatikman belirli muhasebe hesaplarına gerekli kayıtların oluşmasını sağlayabilirsiniz.
-Tanımları: **[Muhasebeleşme Tanımları](../TemelOzellikler/MuhasebelesmeTanimlari.md)
+Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde otomatik olarak belirli muhasebe hesaplarına gerekli kayıtların oluşmasını sağlayabilirsiniz.
+Tanımlar: **[Muhasebeleşme Tanımları](../TemelOzellikler/MuhasebelesmeTanimlari.md)**
 
 
 ### Gelişmiş
@@ -72,24 +72,24 @@ Tanımları: **[Muhasebeleşme Tanımları](../TemelOzellikler/MuhasebelesmeTani
 
 **Dekont Zorunlu:** Bu kart için yapılan hareketlerde hareketin hangi dekonta ait olduğunun raporlanabilmesi için seçilir. Her harekette istenecektir.
 
-**Masraf Merkezi zorunlu:** Hareket kaydı girilirken bu kart seçildiğinde masraf merkezi seçilmesinide zorunlu yapar.
+**Masraf Merkezi Zorunlu:** Hareket kaydı girilirken bu kart seçildiğinde masraf merkezi seçilmesini zorunlu yapar.
 
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Kısayollar
 
-Kartta bulunan kısayolları sekmesi ile gelir/gidere ait ilgili raporlara ve öncelikli sayfalara kolayca ulaşabilirsiniz.
+Kartta bulunan kısayollar sekmesi ile gelir/gidere ait ilgili raporlara ve öncelikli sayfalara kolayca ulaşabilirsiniz.
 
 - Liste
-    - **Hareketleri** linki ile gelir gider kartına ait tüm hareketle bilgisine ulaşabilirsiniz. Belirli bir tarihteki bakiyesini görüntüleyebilir, ilgili hareketin detaylarına ulaşabilirsiniz. Detaylı bilgi için [Müşteri / Satıcı Hareketleri](../MusteriSatici/MusteriSaticiHareketleriListesi.md)
+    - **Hareketleri** linki ile gelir gider kartına ait tüm hareketlerin bilgisine ulaşabilirsiniz. Belirli bir tarihteki bakiyeyi görüntüleyebilir, ilgili hareketin detaylarına ulaşabilirsiniz. Detaylı bilgi için [Müşteri / Satıcı Hareketleri](../MusteriSatici/MusteriSaticiHareketleriListesi.md)
 
 ## Kayıt Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu/değiştirildiği bilgisini içerir.
 
 Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
 
@@ -99,26 +99,26 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
 - Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel ekstre, dövizli ekstre gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+ Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+- [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - Görev Oluştur
 - Görev Bağla
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlardaki belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> belgeyi seç -> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seç -> belgeyi ya da belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
