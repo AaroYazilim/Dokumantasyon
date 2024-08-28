@@ -8,7 +8,7 @@ SayfaTipi: Modul
 **Erişim Linki :** [erp.aaro.com.tr/CariModulu](https://erp.aaro.com.tr/CariModulu)
 
 Müşteri / Satıcı Modülü, işletmenizin müşteri ilişkilerini yönetmek, satış ve alış süreçlerini izlemek için kullanabilirsiniz. 
-Bu modül, müşteri bilgilerini saklamak, alış satış işlemlerini takip etmek ve müşteri memnuniyetini artırmak için tasarlanmıştır.
+Bu modül, müşteri bilgilerini saklamak, alış ve satış işlemlerini takip etmek ve müşteri memnuniyetini artırmak için tasarlanmıştır.
 
 - Müşterilerinizle ilgili temel bilgilerin saklanmasını sağlar. Bu; müşteri adı, iletişim bilgileri, adres bilgileri gibi bilgiler içerir.
 - Müşterilerden gelen siparişleri kaydedebilir ve izleyebilirsiniz. Müşteri siparişlerinizi almak, onaylamak ve işleme koymak için kullanılır.
@@ -51,7 +51,7 @@ Bu modül, müşteri bilgilerini saklamak, alış satış işlemlerini takip etm
 
 - Toplam Raporları
     - [Alış / Satış Analizi](../MusteriSatici/MusteriSaticiKartiListesi.md)
-    - [Müşteri Satıcı Hareketleri Tutar Toplamları (Tarihe göre Gurplu)](../MusteriSatici/MusteriSaticiKartiListesi.md)
+    - [Müşteri Satıcı Hareketleri Tutar Toplamları (Tarihe göre Gruplu)](../MusteriSatici/MusteriSaticiKartiListesi.md)
 
 
 ### Parametreler
@@ -59,25 +59,25 @@ Bu modül, müşteri bilgilerini saklamak, alış satış işlemlerini takip etm
 - Cari Parametreleri
     - Genel_CariKartKoduOtomatikUzunluk (Genel): Müşteri/Satıcı Kartların kodunun otomatik kaç hane olacağını belirtir. Ön Değeri:15
     - Cari_CRMSorumulusu (Müşteri/Satıcı Kartı): CRM (Müşteri İlişkileri Yönetimi) Sorumlusu , cari ziyaret vb. kayıtlar için verilen görevlerden sorumlu yöneticidir.
-    - Cari_StandarVergiDairesi (Vergi Dairesi): Rehberden Hizli Kayıt yapabilmek için kullanılacak olan standart vergi dairesidir.Tüm hızlı cari kayıtlarınızda bu vergi dairesi kullanılacaktır.
-    - Cari_StandartMuhasebeBorc (Müşteri/Satıcı Kartı): Rehber Seçeneklerinden hizli cari kayıdı yapabilmek için standart muhasebe borç kodunuzu belirleyiniz.Tüm hızlı cari kayıtlarında bu kod kullanılacaktır.
-    - Cari_StandartMuhasebeAlacak (Müşteri/Satıcı Kartı): Rehber Seçeneklerinden hizli cari kayıdı yapabilmek için standart muhasebe alacak kodunuzu belirleyiniz.Tüm hızlı cari kayıtlarında bu kod kullanılacaktır.
-    - Cari_StandartTip (Müşteri/Satıcı Kartı): Hızlı cari kayıdı için standart olarak bir tip girmeniz gerekmektedir.Hızlı kayıt işlemlerinde bu cari tipi kullanılacaktır. || Musteri=102001 - Satici=102002 - Karaliste=102003 - Potansiyel=102004 - Personel=102005 - Kamu=102006 - Ortak=102007 ||
+    - Cari_StandarVergiDairesi (Vergi Dairesi): Rehberden Hızlı Kayıt yapabilmek için kullanılacak olan standart vergi dairesidir.Tüm hızlı cari kayıtlarınızda bu vergi dairesi kullanılacaktır.
+    - Cari_StandartMuhasebeBorc (Müşteri/Satıcı Kartı): Rehber Seçeneklerinden hizli cari kaydı yapabilmek için standart muhasebe borç kodunuzu belirleyiniz.Tüm hızlı cari kayıtlarında bu kod kullanılacaktır.
+    - Cari_StandartMuhasebeAlacak (Müşteri/Satıcı Kartı): Rehber Seçeneklerinden hızlı cari kaydı yapabilmek için standart muhasebe alacak kodunuzu belirleyiniz.Tüm hızlı cari kayıtlarında bu kod kullanılacaktır.
+    - Cari_StandartTip (Müşteri/Satıcı Kartı): Hızlı cari kaydı için standart olarak bir tip girmeniz gerekmektedir.Hızlı kayıt işlemlerinde bu cari tipi kullanılacaktır. || Musteri=102001 - Satici=102002 - Karaliste=102003 - Potansiyel=102004 - Personel=102005 - Kamu=102006 - Ortak=102007 ||
 
 - Risk Limitleri Parametreleri
     - CariRisk_Calissin (Müşteri/Satıcı Risk Limitleri): Cari Risk kontrol Sisteminin çalışıp çalışmayacağını belirler.
-    - CariRiskLimitiUyariOrani (Müşteri/Satıcı Risk Limitleri): Hareket kaydı esnasında carinin risklimitinin % x 'i dolduğundada kullanıcıyı uyarması içindir.
-    - CariRiskBakiyeliSistem (Müşteri/Satıcı Risk Limitleri): Bakiyeli kontrol yapılır. AçıkHesap, KendiSenedi, MüsteriSenedi, KendiÇeki, MüşteriÇeki olarak sıralıdır. Sırandan toplanarak işlem yapilir.Ör:Müşterisenedi kontrol edilirken Açıkhesap ve Kendisenedi mevcutları ve limitleri değerlendirilir.
-    - CariRiskBelgeBasinaRiskEsnemeOrani (Müşteri/Satıcı Risk Limitleri): Kayit işlemi yapılan belge için risk limiti hesaplaması yapılırken tanımlanan bu oran kadar fazladan risk tanımlaması varmış gibi davranır. Örn: Belge Tutarı 50 kalan risk limiti 75 olsun risk limiti 75+(50*1/100) olur
+    - CariRiskLimitiUyariOrani (Müşteri/Satıcı Risk Limitleri): Hareket kaydı esnasında carinin risk limitinin % x'i dolduğunda kullanıcıyı uyarması içindir.
+    - CariRiskBakiyeliSistem (Müşteri/Satıcı Risk Limitleri): Bakiyeli kontrol yapılır. AçıkHesap, KendiSenedi, MüsteriSenedi, KendiÇeki, MüşteriÇeki olarak sıralıdır. Sıradan toplanarak işlem yapılır.Ör:Müşteri senedi kontrol edilirken Açıkhesap ve Kendisenedi mevcutları ve limitleri değerlendirilir.
+    - CariRiskBelgeBasinaRiskEsnemeOrani (Müşteri/Satıcı Risk Limitleri): Kayıt işlemi yapılan belge için risk limiti hesaplaması yapılırken tanımlanan bu oran kadar fazladan risk tanımlaması varmış gibi davranır. Örn: Belge Tutarı 50 kalan risk limiti 75 olsun risk limiti 75+(50*1/100) olur
     
 - Tasarım Parametreleri
     - Tasarim_CariDetay (Genel): Hareketlerde ve Müşteri/Satıcı kartlarında cari detayı aktif eder.
     - Tasarim_CariKod1Baslik (Kod): Cari sayfalarında Kod 1 için istenilen label yazısını ayarlar. Örn: 'Ünvan olarak girilirse, stok sayfalarında Kod 1 başlığı yerine Ünvan başlığı gelir.'
-    - Tasarim_CariKod2Baslik (Kod): Cari sayfalarında Kod 2 için istenilen label yazısını ayarlar. Örn: 'Ünvan olarak girilirse, stok sayfalarında Kod 1 başlığı yerine Ünvan başlığı gelir.'
-    - Tasarim_CariKod3Baslik (Kod): Cari sayfalarında Kod 3 için istenilen label yazısını ayarlar. Örn: 'Ünvan olarak girilirse, stok sayfalarında Kod 1 başlığı yerine Ünvan başlığı gelir.'
-    - Tasarim_CariKod4Baslik (Kod): Cari sayfalarında Kod 4 için istenilen label yazısını ayarlar. Örn: 'Ünvan olarak girilirse, stok sayfalarında Kod 1 başlığı yerine Ünvan başlığı gelir.'
-    - Tasarim_CariKod5Baslik (Kod): Cari sayfalarında Kod 5 için istenilen label yazısını ayarlar. Örn: 'Ünvan olarak girilirse, stok sayfalarında Kod 1 başlığı yerine Ünvan başlığı gelir.'
-    - Tasarim_CariKod6Baslik (Kod): Cari sayfalarında Kod 6 için istenilen label yazısını ayarlar. Örn: 'Ünvan olarak girilirse, stok sayfalarında Kod 1 başlığı yerine Ünvan başlığı gelir.'
+    - Tasarim_CariKod2Baslik (Kod): Cari sayfalarında Kod 2 için istenilen label yazısını ayarlar. Örn: 'Ünvan olarak girilirse, stok sayfalarında Kod 12başlığı yerine Ünvan başlığı gelir.'
+    - Tasarim_CariKod3Baslik (Kod): Cari sayfalarında Kod 3 için istenilen label yazısını ayarlar. Örn: 'Ünvan olarak girilirse, stok sayfalarında Kod 3 başlığı yerine Ünvan başlığı gelir.'
+    - Tasarim_CariKod4Baslik (Kod): Cari sayfalarında Kod 4 için istenilen label yazısını ayarlar. Örn: 'Ünvan olarak girilirse, stok sayfalarında Kod 4 başlığı yerine Ünvan başlığı gelir.'
+    - Tasarim_CariKod5Baslik (Kod): Cari sayfalarında Kod 5 için istenilen label yazısını ayarlar. Örn: 'Ünvan olarak girilirse, stok sayfalarında Kod 5 başlığı yerine Ünvan başlığı gelir.'
+    - Tasarim_CariKod6Baslik (Kod): Cari sayfalarında Kod 6 için istenilen label yazısını ayarlar. Örn: 'Ünvan olarak girilirse, stok sayfalarında Kod 6 başlığı yerine Ünvan başlığı gelir.'
     - Tasarim_CariEtiket1Baslik (Etiket): Cari sayfalarında Etiket 1 için istenilen label yazısını ayarlar. Örn: 'Ünvan olarak girilirse, cari sayfalarında Etiket 2 başlığı yerine Ünvan başlığı gelir.'
     - Tasarim_CariEtiket2Baslik (Etiket): Cari sayfalarında Etiket 2 için istenilen label yazısını ayarlar. Örn: 'Ünvan olarak girilirse, cari sayfalarında Etiket 2 başlığı yerine Ünvan başlığı gelir.'
 
