@@ -11,6 +11,6 @@ Faturanızın detayları, vergi kimlik numarası (VKN) olan alıcı ve satıcı 
 **Entegratör:** GIB'ten imzalanan fatura tekrar entegratöre gönderilir.
 **Gönderme:** İmzalanan e-faturanız, gönderilecek alıcıya elektronik ortamda iletilir.
 
-**Alıcı Tarafında ki İşlemler**
+**Alıcı Tarafındaki İşlemler**
 **E-Fatura Alımı:** Alıcı, faturayı aldıktan sonra e-faturayı kaydeder ve muhasebe sistemine entegre eder. Bu, alınan hizmet veya malın ödemesini yapma sürecinin başlamasını sağlar.
 **Muhasebe Kaydı:** Alıcı, e-faturayı muhasebe sistemine kaydeder ve vergiye tabi işlemleri raporlamak için kullanılır.

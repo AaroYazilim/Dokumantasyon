@@ -7,7 +7,7 @@
 
 ## Programda Bulunan Temel Modüller
 
-Aaro'da tüm modüller birbirleriyle entegre olarak çalışmaktadır. Modüllerin içerisinden diğer modüllere rahat bir şekilde ulaşım sağlayabilirsiniz. Modül ayrımı kavramsal olarak anlamayı kolaylaştırmak içindir. Örneğin Kasa Modülünde yapacağınız bir nakit tahsilat otomatik olarak Müşteri / Satıcı modülüne de işlenmektedir.
+Aaro'da tüm modüller birbirleriyle entegre olarak çalışmaktadır. Modüllerin içerisinden diğer modüllere rahat bir şekilde ulaşım sağlayabilirsiniz. Modül ayrımı kavramsal olarak anlamayı kolaylaştırmak içindir. Örneğin, Kasa Modülünde yapacağınız bir nakit tahsilat otomatik olarak Müşteri / Satıcı modülüne de işlenmektedir.
 
 Aşağıda bulunan modül linklerini inceleyerek modüller hakkında detaylı bilgiye sahip olabilirsiniz.
 
@@ -22,7 +22,7 @@ Stok modülü, işletmenizin envanterini etkin bir şekilde yönetmenize ve stok
 
 ### [Gelir / Gider Modülü](/GelirGider/Icindekiler.md)
 
-Gelir / Gider modülü ile işletmenizin gelir ve giderleri etkin bir şekilde yönetmek, gelir ve giderlerinizi izlemek için kullanabilirsiniz.
+Gelir / Gider modülünü işletmenizin gelir ve giderleri etkin bir şekilde yönetmek, gelir ve giderlerinizi izlemek için kullanabilirsiniz.
 
 ### [Satış / Pazarlama Modülü](/SatisPazarlama/Icindekiler.md)
 
@@ -34,7 +34,7 @@ Satın Alma modülünü işletmenizin alışlarını gerçekleştirmek ve alış
 
 ### [Üretim Modülü](/Uretim/Icindekiler.md)
 
-Üretim modülünü işletmenizin üretim süreçlerini eşzamanlı olarak yönetmek ve üretim süreçlerini izlemek için kullanabilirsiniz. 
+Üretim modülünü işletmenizin üretim süreçlerini eş zamanlı olarak yönetmek ve üretim süreçlerini izlemek için kullanabilirsiniz. 
 
 ### [e-Dönüşüm Modülü](/E-Donusum/Icindekiler.md)
 
@@ -46,7 +46,7 @@ Kasa modülü sayesinde işletmenizin nakit akış sürecini ve bakiyelerini tak
 
 ### [Banka Modülü](/Banka/Icindekiler.md)
 
-Banka modülü aracılığıyla işletmenizin sahip olduğu banka hesaplarını kaydedebilir ve izleyebilirsiniz. İşletmenizin farklı bankalardaki hesaplarınızı tek bir yerden yönetmenize de olanak tanır.
+Banka modülü aracılığıyla işletmenizin sahip olduğu banka hesaplarını kaydedebilir ve izleyebilirsiniz. İşletmenizin farklı bankalardaki hesaplarını tek bir yerden yönetmenize de olanak tanır.
 
 ### [Çek / Senet Modülü](/CekSenet/Icindekiler.md)
 
@@ -90,4 +90,4 @@ Eğer herhangi bir hata bulursanız veya dokümantasyonda iyileştirmeler yapmak
 
 ## Lisans
 
-Bu dökümantasyon, [MIT Lisansı](LICENSE) altında lisanslanmıştır.
+Bu dokümantasyon, [MIT Lisansı](LICENSE) altında lisanslanmıştır.

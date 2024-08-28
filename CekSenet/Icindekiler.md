@@ -10,17 +10,17 @@ SayfaTipi: Modul
 ### Tanım 
 
 Bu modül, işletmelerin banka hesaplarını yönetmek için gereken çeşitli işlevleri sağlar. 
-Çek ve senet modülü, işletmenizin finansal süreçlerinde çek ve senetlerinizi izleyebilir, yönetebilir ve işleyebilirsiniz. 
+Çek ve senet modülü ile, işletmenizin finansal süreçlerinde çek ve senetlerinizi izleyebilir, yönetebilir ve işleyebilirsiniz. 
 Bu modül, çek ve senetlerle ilgili tüm işlemlerinizi kolaylaştırır.
 
-- İşletmenizin aldığı veya verdiği çek ve senetlerinizi kaydedebilirsiniz. Bu, çek veya senetin tutarı, numarası, tarihi, vadesi ve ilgili kişi veya kurum gibi bilgilerin saklanmasını sağlar.
-- Çek ve senetlerinizin vadesini takip edebilirsiniz ve uyarılar sağlar. Bu sayede işletmenizin, vadesi gelen çek ve senetlerini zamanında işleme koyabilir veya gerektiğinde ilgili kişilerle iletişime geçebilirsiniz.
+- İşletmenizin aldığı veya verdiği çek ve senetlerinizi kaydedebilirsiniz. Bu, çek veya senedin tutarı, numarası, tarihi, vadesi ve ilgili kişi veya kurum gibi bilgilerin saklanmasını sağlar.
+- Çek ve senetlerinizin vadesini takip edebilirsiniz ve uyarılar alabilirsiniz. Bu sayede işletmenizin, vadesi gelen çek ve senetlerini zamanında işleme koyabilir veya gerektiğinde ilgili kişilerle iletişime geçebilirsiniz.
 - Çek ve senetlerin tahsilatını veya ödemesini yönetebilirsiniz. Bu, çek veya senetin bankaya ibraz edilmesi, tahsilatının yapılması veya ödemenin gerçekleştirilmesi gibi işlemleri içerir.
 - Vadesi gelen çek ve senetler için otomatik uyarılar ve hatırlatıcılar sağlayabilirsiniz. Bu, işletmenizin zamanında harekete geçmesini sağlar ve vadeyi kaçırmadan işlemleri tamamlamanıza yardımcı olur.
-- Çek ve senet işlemlerinzile ilgili detaylı raporlar ve analizler sunar. Bu raporlar, işletmenin çek ve senetlerle ilgili durumunu değerlendirmenize ve gelecekteki işlemlerinizi planlamanıza yardımcı olur.
+- Çek ve senet işlemlerinizle ilgili detaylı raporlar ve analizler sunar. Bu raporlar, işletmenin çek ve senetlerle ilgili durumunu değerlendirmenize ve gelecekteki işlemlerinizi planlamanıza yardımcı olur.
 
 Çek ve senet modülü, işletmelerin finansal süreçlerini daha etkin bir şekilde yönetmenize yardımcı olur. 
-Bu modülden, çek ve senetlerin izleyebilir, takibi ve işlenmesini kolaylaştırırken aynı zamanda işletmenin nakit akışını etkin bir şekilde yönetmenize de olanak tanır.
+Bu modül sayesinde çek ve senetlerin izlenmesi, takibi ve işlenmesi kolaylaşırken aynı zamanda işletmenin nakit akışının etkin bir şekilde yönetilmesine de olanak tanır.
 
 ## Bu modülde yer alan işlemler;
 
@@ -61,7 +61,7 @@ Bu modülden, çek ve senetlerin izleyebilir, takibi ve işlenmesini kolaylaşt�
 
 ### Parametreler
 
-- Cek / Senet Parametleri 
+- Çek / Senet Parametreleri 
 	- CekSenet_AlinanCekMuhasebeKodu (Çek/Senet Hareketleri): Çekler için ön tanımlı borç-alacak muhasebe kodu
 	- CekSenet_VerilenCekMuhasebeKodu (Çek/Senet Hareketleri): Çekler için ön tanımlı borç-alacak muhasebe kodu
 	- CekSenet_AlinanSenetMuhasebeKodu (Çek/Senet Hareketleri): Senetler için ön tanımlı borç-alacak muhasebe kodu
@@ -83,5 +83,5 @@ Bu modülden, çek ve senetlerin izleyebilir, takibi ve işlenmesini kolaylaşt�
 	- Muhasebelesme_CekAlinanMuhKodu (Muhasebeleşme Kartları): Hesap planında hangi ana hesabın altına otomatik olarak hesap açılacağını tanımlar. Çek Alınan için ön değeri 101'dir.
 	- Muhasebelesme_CekVerilenMuhKodu (Muhasebeleşme Kartları): Hesap planında hangi ana hesabın altına otomatik olarak hesap açılacağını tanımlar. Çek Verilen için ön değeri 103'tür.
 	- Muhasebelesme_CekAlinanTakipteMuhKodu (Muhasebeleşme Kartları): Hesap planında hangi ana hesabın altına otomatik olarak hesap açılacağını tanımlar. Çek Alınan Takipte için ön değeri 101'dir
-	- Muhasebelesme_CekOtomatikYeniAc (Muhasebeleşme Kartları): Yeni Cek Kartı açılırken otomatik Yeni Muhesebeleşme Kartımı yapılsın yoksa mevcut Muhesebeleşme Kartlarından mı seçsin onu belirtir.
-	- Muhasebelesme_CekStandart (Muhasebeleşme Kartları): Yeni Cek Kartı açılırken otomatik hangi Muhesebeleşme Kartı ile eşleştirilecegini belirtir. 'OtomatikYeniAc' parametresi 'Hayır' secildi ise çalışır.
+	- Muhasebelesme_CekOtomatikYeniAc (Muhasebeleşme Kartları): Yeni Çek Kartı açılırken otomatik Yeni Muhesebeleşme Kartı mı yapılsın yoksa mevcut Muhesebeleşme Kartlarından mı seçsini belirtir.
+	- Muhasebelesme_CekStandart (Muhasebeleşme Kartları): Yeni Çek Kartı açılırken otomatik hangi Muhesebeleşme Kartı ile eşleştirileceğini belirtir. 'OtomatikYeniAc' parametresi 'Hayır' seçildi ise çalışır.

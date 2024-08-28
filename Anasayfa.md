@@ -1,13 +1,13 @@
 ﻿---
-SayfaID: Anasayfa
-SayfaTipi: Anasayfa
+SayfaID: Ana sayfa
+SayfaTipi: Ana sayfa
 ---
 
-# Anasayfa 
+# Ana Sayfa 
 
 **Erişim Linki :** [erp.aaro.com.tr](erp.aaro.com.tr)
 
-AARO açıldığında, Anasayfa'da özelleştirilmiş göstergeleriniz sizi karşılar. İşletmeniz için en önemli performans göstergelerini seçip öne çıkarabilirsiniz. 
+AARO açıldığında, Ana sayfa'da özelleştirilmiş göstergeleriniz sizi karşılar. İşletmeniz için en önemli performans göstergelerini seçip öne çıkarabilirsiniz. 
 Detaylı verilere hızlıca erişmek için göstergelere tıklamanız yeterlidir. Gösterge detaylarına [buradan](../Gostergeler.md) ulaşabilirsiniz.
 
 
@@ -17,9 +17,9 @@ Ana menü çubuğu, ekranın sağ üst köşesinde üç çizgi şeklinde bulunan
 
 Ana menüdeki butonlar şunlardır:
 
-- **Ev Butonu:** Bu butona tıkladığınızda, Anamenüdeki modül sayfalarınız ve kısayollar tam ekran görünür. Sağ alt köşedeki butona tekrar tıkladığınızda eski haline geri döner.
+- **Ev Butonu:** Bu butona tıkladığınızda, Ana menüdeki modül sayfalarınız ve kısayollar tam ekran görünür. Sağ alt köşedeki butona tekrar tıkladığınızda eski haline geri döner.
   
-- **AARO Logosu:** AARO logosuna tıklayarak Anasayfaya yönlendirilebilirsiniz.
+- **AARO Logosu:** AARO logosuna tıklayarak Ana sayfaya yönlendirilebilirsiniz.
 
 - **Telefon Butonu:** Telefon simgesine tıklayarak ana menüyü genişletebilir veya daraltabilirsiniz.
 
@@ -33,7 +33,7 @@ Ana menüdeki butonlar şunlardır:
 
 **Son İşlemler:** AARO'da yaptığınız son işlemleri buradan görüntüleyebiliriz. 
 
-**Çıkış** AARO hesabınızdan çıkış yapmak için bu butonu kullanabilirsiniz.
+**Çıkış:** AARO hesabınızdan çıkış yapmak için bu butonu kullanabilirsiniz.
 
 
 
