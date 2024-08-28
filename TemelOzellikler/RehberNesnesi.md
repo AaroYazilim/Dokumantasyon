@@ -1,27 +1,27 @@
 
 # Rehber Nesnesi 
 
-Rehber nesnesi,  Aaro içerisinde birçok sayfada karşılaşacağınız temel bir nesnedir. 
-Bu nesne seçim işlemini kolaylaştırmak için kullanılmaktadır. 
-Rehber nesnesi, 3 bölümden oluşmaktadır.
+Rehber nesnesi,  Aaro iÃ§erisinde birÃ§ok sayfada karÅŸÄ±laÅŸacaÄŸÄ±nÄ±z temel bir nesnedir. 
+Bu nesne seÃ§im iÅŸlemini kolaylaÅŸtÄ±rmak iÃ§in kullanÄ±lmaktadÄ±r. 
+Rehber nesnesi, 3 bÃ¶lÃ¼mden oluÅŸmaktadÄ±r.
 
-## Metin Bölümü
+## Metin BÃ¶lÃ¼mÃ¼
 
-Burada seçim işlemini, aradığınız kaydın adında ve kodunda geçen harflerden bir kısmını metin bölümüne yazarak filtreleme işlemi yapılır. 
-Yazmaya başladıktan sonra aşağı doğru açılan listede ilk 20 kayıt listelenmektedir. Listelenen 20 kayıt arasından seçiminizi gerçekleştirebilirsiniz.
-Aradığımız kayıt ilk 20 kayıt içerisine listelenmiyorsa daha fazla karakter girerek sonucu daraltmanız gerekmektedir. 
+Burada seÃ§im iÅŸlemini, aradÄ±ÄŸÄ±nÄ±z kaydÄ±n adÄ±nda ve kodunda geÃ§en harflerden bir kÄ±smÄ±nÄ± metin bÃ¶lÃ¼mÃ¼ne yazarak filtreleme iÅŸlemi yapÄ±lÄ±r. 
+Yazmaya baÅŸladÄ±ktan sonra aÅŸaÄŸÄ± doÄŸru aÃ§Ä±lan listede ilk 20 kayÄ±t listelenmektedir. Listelenen 20 kayÄ±t arasÄ±ndan seÃ§iminizi gerÃ§ekleÅŸtirebilirsiniz.
+AradÄ±ÄŸÄ±mÄ±z kayÄ±t ilk 20 kayÄ±t iÃ§erisine listelenmiyorsa daha fazla karakter girerek sonucu daraltmanÄ±z gerekmektedir. 
 
 ## Liste Butonu
 
-Aradığınız kaydın bulunduğu liste karşımıza çıkmaktadır. 
-Liste sayfasında aradığımız kaydı bulduğunuzda çift tıklayarak veya kaydı seçip aşağıda bulunan ‘Kapat’ butonunu tıklayarak seçim yapabilirsiniz.
-Ayrıca bazı sayfalarda çoklu kayıt seçme özelliği de bulunmaktadır. 
-Çoklu kayıt seçerken Ctrl ve Shift tuşlarını kullanarak veya farenizi kullanarak çoklu seçim yapabilmektesiniz. 
+AradÄ±ÄŸÄ±nÄ±z kaydÄ±n bulunduÄŸu liste karÅŸÄ±mÄ±za Ã§Ä±kmaktadÄ±r. 
+Liste sayfasÄ±nda aradÄ±ÄŸÄ±mÄ±z kaydÄ± bulduÄŸunuzda Ã§ift tÄ±klayarak veya kaydÄ± seÃ§ip aÅŸaÄŸÄ±da bulunan â€˜Kapatâ€™ butonunu tÄ±klayarak seÃ§im yapabilirsiniz.
+AyrÄ±ca bazÄ± sayfalarda Ã§oklu kayÄ±t seÃ§me Ã¶zelliÄŸi de bulunmaktadÄ±r. 
+Ã‡oklu kayÄ±t seÃ§erken Ctrl ve Shift tuÅŸlarÄ±nÄ± kullanarak veya farenizi kullanarak Ã§oklu seÃ§im yapabilmektesiniz. 
 
-## İşlem Butonu 
+## Ä°ÅŸlem Butonu 
 
-Seçim yaptığınız kayda ait işlemlerin listelendiği kısımdır. 
-Tüm rehberlerde, işlem listesinin en üstünde o rehbere ait kart sayfası bulunmaktadır. Yani Metin bölümü dolu ise, o kaydın kart sayfasını açar. 
-Metin bölümü boş olduğunda ise o rehbere ait yeni kart kaydı oluşturma sayfası açar.  
+SeÃ§im yaptÄ±ÄŸÄ±nÄ±z kayda ait iÅŸlemlerin listelendiÄŸi kÄ±sÄ±mdÄ±r. 
+TÃ¼m rehberlerde, iÅŸlem listesinin en Ã¼stÃ¼nde o rehbere ait kart sayfasÄ± bulunmaktadÄ±r. Yani Metin bÃ¶lÃ¼mÃ¼ dolu ise, o kaydÄ±n kart sayfasÄ±nÄ± aÃ§ar. 
+Metin bÃ¶lÃ¼mÃ¼ boÅŸ olduÄŸunda ise o rehbere ait yeni kart kaydÄ± oluÅŸturma sayfasÄ± aÃ§ar.  
 
-İsterseniz yeni bir işlem ekleyebilir isterseniz de program içerisinde ön tanımlı olarak gelen işlemlerden de seçim yaparak kayda ait işlemleri gerçekleştirebilirsiniz.
+Ä°sterseniz yeni bir iÅŸlem ekleyebilir isterseniz de program iÃ§erisinde Ã¶n tanÄ±mlÄ± olarak gelen iÅŸlemlerden de seÃ§im yaparak kayda ait iÅŸlemleri gerÃ§ekleÅŸtirebilirsiniz.

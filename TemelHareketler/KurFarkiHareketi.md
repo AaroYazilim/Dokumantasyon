@@ -3,110 +3,110 @@ SayfaID: KurFarkiHareketi
 SayfaTipi: 
 ---
 
-# Kur Farkı Hareketi
+# Kur FarkÄ± Hareketi
 
-**Erişim Linki :** [erp.aaro.com.tr/KurFarkiHareketi](erp.aaro.com.tr/KurFarkiHareketi)
+**EriÅŸim Linki :** [erp.aaro.com.tr/KurFarkiHareketi](erp.aaro.com.tr/KurFarkiHareketi)
 
-## Ulaşım
+## UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "kur farkı" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Müşteri/Satıcı -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Demirbaş -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Gelir/Gider -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Stok -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "kur farkÄ±" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den MÃ¼ÅŸteri/SatÄ±cÄ± -> Hareket OluÅŸtur -> DiÄŸerler -> Kur FarkÄ± Hareketi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
+- Sol menÃ¼den DemirbaÅŸ -> Hareket OluÅŸtur -> DiÄŸerler -> Kur FarkÄ± Hareketi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
+- Sol menÃ¼den Gelir/Gider -> Hareket OluÅŸtur -> DiÄŸerler -> Kur FarkÄ± Hareketi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
+- Sol menÃ¼den Stok -> Hareket OluÅŸtur -> DiÄŸerler -> Kur FarkÄ± Hareketi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 
-## Tanım
+## TanÄ±m
 
-Kur farkı, dövizli işlemler sırasında, işlem anında uygulanan döviz kuru ile işlem sonrası veya raporlama tarihindeki döviz kuru arasındaki farktır. 
-Bu fark, hem alacaklı hem de borçlu hesaplarda finansal değişikliklere yol açar.
-Kur farkı hesaplaması, dövizli işlemlerin kaydedilmesi ve raporlanması sırasında yapılır. 
-Örneğin, bir şirket bir malı yabancı bir tedarikçiden satın alırken 1 USD = 20 TL kuru ile işlem yapar. 
-Ancak, ödeme tarihi geldiğinde döviz kuru 1 USD = 21 TL olmuşsa, bu kur farkı, ödeme işlemiyle birlikte hesaplanır ve raporlanır.
+Kur farkÄ±, dÃ¶vizli iÅŸlemler sÄ±rasÄ±nda, iÅŸlem anÄ±nda uygulanan dÃ¶viz kuru ile iÅŸlem sonrasÄ± veya raporlama tarihindeki dÃ¶viz kuru arasÄ±ndaki farktÄ±r. 
+Bu fark, hem alacaklÄ± hem de borÃ§lu hesaplarda finansal deÄŸiÅŸikliklere yol aÃ§ar.
+Kur farkÄ± hesaplamasÄ±, dÃ¶vizli iÅŸlemlerin kaydedilmesi ve raporlanmasÄ± sÄ±rasÄ±nda yapÄ±lÄ±r. 
+Ã–rneÄŸin, bir ÅŸirket bir malÄ± yabancÄ± bir tedarikÃ§iden satÄ±n alÄ±rken 1 USD = 20 TL kuru ile iÅŸlem yapar. 
+Ancak, Ã¶deme tarihi geldiÄŸinde dÃ¶viz kuru 1 USD = 21 TL olmuÅŸsa, bu kur farkÄ±, Ã¶deme iÅŸlemiyle birlikte hesaplanÄ±r ve raporlanÄ±r.
 
-- Eğer bir dövizli alacak hesabı işlem yapıldığında belirli bir döviz kuru ile kayıt edilmişse ve kur farkı nedeniyle döviz kuru değişmişse, bu fark alacaklı hesaplarda kur farkı olarak kaydedilir.
-- Benzer şekilde, bir dövizli borç hesabı işlem yapıldığında belirli bir döviz kuru ile kayıt edilip kur farkı nedeniyle değiştiğinde, bu fark borçlu hesaplarda kur farkı olarak kaydedilir.
+- EÄŸer bir dÃ¶vizli alacak hesabÄ± iÅŸlem yapÄ±ldÄ±ÄŸÄ±nda belirli bir dÃ¶viz kuru ile kayÄ±t edilmiÅŸse ve kur farkÄ± nedeniyle dÃ¶viz kuru deÄŸiÅŸmiÅŸse, bu fark alacaklÄ± hesaplarda kur farkÄ± olarak kaydedilir.
+- Benzer ÅŸekilde, bir dÃ¶vizli borÃ§ hesabÄ± iÅŸlem yapÄ±ldÄ±ÄŸÄ±nda belirli bir dÃ¶viz kuru ile kayÄ±t edilip kur farkÄ± nedeniyle deÄŸiÅŸtiÄŸinde, bu fark borÃ§lu hesaplarda kur farkÄ± olarak kaydedilir.
 
-Diyelim ki bir şirket 1.000 EUR’yu 1 EUR = 25 TL kuru ile satın aldı ve işlemi 25.000 TL olarak kaydetti. 
-Ancak, raporlama tarihi geldiğinde EUR/TL kuru 1 EUR = 26 TL’ye yükseldi. Bu durumda:
+Diyelim ki bir ÅŸirket 1.000 EURâ€™yu 1 EUR = 25 TL kuru ile satÄ±n aldÄ± ve iÅŸlemi 25.000 TL olarak kaydetti. 
+Ancak, raporlama tarihi geldiÄŸinde EUR/TL kuru 1 EUR = 26 TLâ€™ye yÃ¼kseldi. Bu durumda:
 
-Şirketin 1.000 EUR alacağı 26.000 TL’ye yükseldi.
-Aradaki 1.000 TL’lik fark (26.000 TL - 25.000 TL) kur farkı olarak kaydedilir.
+Åirketin 1.000 EUR alacaÄŸÄ± 26.000 TLâ€™ye yÃ¼kseldi.
+Aradaki 1.000 TLâ€™lik fark (26.000 TL - 25.000 TL) kur farkÄ± olarak kaydedilir.
 
 ### Genel
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Hangi şirket-şubeden malzeme gönderimi yapılacak ise o şirketi-şubeyi seçelim.
-	Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
+**Åirket-Åube:** KartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. Hangi ÅŸirket-ÅŸubeden malzeme gÃ¶nderimi yapÄ±lacak ise o ÅŸirketi-ÅŸubeyi seÃ§elim.
+	Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](../TemelOzellikler/SirketSubeKart.md)
 
-**Tarih:** İşlemin yapıldığı tarihi belirtir.
+**Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir.
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasÄ±nÄ± ifade eder. Otomatik sÄ±radaki numara gelir. Ä°stenirse seri kullanÄ±labilir.
 **Girilmesi Zorunludur.**
 
-**Depo:** İşlemin ait olduğu depoyu ifade eder.
+**Depo:** Ä°ÅŸlemin ait olduÄŸu depoyu ifade eder.
 
-**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
+**DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinsini belirtir.
 
-**Vade:** Bu işlem için yapılması gereken süreyi ifade eder. 
+**Vade:** Bu iÅŸlem iÃ§in yapÄ±lmasÄ± gereken sÃ¼reyi ifade eder. 
 
 ### Detay
 
-**Proje:** Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir. Proje kullanım detayları için linke tıklayınız.[Proje](../TemelOzellikler/Proje.md)
+**Proje:** Bu hareketin hangi projeye ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir. Proje kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[Proje](../TemelOzellikler/Proje.md)
 
-**Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir. Plasiyer kullanım detayları için linke tıklayınız.[Plasiyer](../TemelOzellikler/Plasiyer.md)
+**Plasiyer:** Bu hareketin hangi plasiyere ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir. Plasiyer kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[Plasiyer](../TemelOzellikler/Plasiyer.md)
 
 **Tip:** Alt hareket tipini belirtir.
 
-### Açıklamalar
+### AÃ§Ä±klamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")	
+- **AÃ§Ä±klamalar:** Ek aÃ§Ä±klamalarÄ± belirtir. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")	
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lÄ±r. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+Ä°ÅŸleme ait Ã¶zel notlar belirtebiliriz. 
+Ã–nemli bir detay var ise bu detaylarÄ± burada belirtebiliriz.
+Notlar kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+YapacaÄŸÄ±mÄ±z iÅŸlem iÃ§in elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yÃ¼kleyebiliriz.
+Buraya iÅŸlem gerÃ§ekleÅŸirken ki gÃ¶rselleri yÃ¼kleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek iÃ§in tÄ±klayalÄ±m ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Daha Ã¶nce yÃ¼klediklerimden seÃ§ -> belgeyi seÃ§elim -> Ä°liÅŸkilendir ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- YÃ¼klenecek belge veya resimleri seÃ§in -> belgeyi ya da belgeleri seÃ§elim -> YÃ¼kle ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
-Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+Belge kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Belge](../TemelOzellikler/Belgeler.md)
 
-## Kayıt Bilgileri
+## KayÄ±t Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+KartÄ±n hangi kullanÄ±cÄ± tarafÄ±ndan ve hangi tarihlerde oluÅŸturulduÄŸu ve deÄŸiÅŸtirildiÄŸi bilgisini iÃ§erir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kart iÅŸ akÄ±ÅŸ sÃ¼reÃ§lerine dahil edildiÄŸinde hangi kullanÄ±cÄ± tarafÄ±ndan hangi tarihte onaylandÄ±ÄŸÄ± bilgilerini iÃ§erir. 
 
 ### Kalem Ekleme 
 
-- Yeni Stok Kalemi Ekle: Stok kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
-- Yeni Gelirgider Kalemi Ekle: Gelir gider kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
-- Yeni Demirbaş Kalemi Ekle: Demirbaş kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
-- Yeni Cari Kalemi Ekle: Cari kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
-- Yeni Kasa Kalemi Ekle: Kasa kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
-- Yeni Banka Kalemi Ekle: Banka Hesap kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
+- Yeni Stok Kalemi Ekle: Stok kalemi eklemek iÃ§in burayÄ± seÃ§erek ekleme saÄŸlayabilirsiniz.
+- Yeni Gelirgider Kalemi Ekle: Gelir gider kalemi eklemek iÃ§in burayÄ± seÃ§erek ekleme saÄŸlayabilirsiniz.
+- Yeni DemirbaÅŸ Kalemi Ekle: DemirbaÅŸ kalemi eklemek iÃ§in burayÄ± seÃ§erek ekleme saÄŸlayabilirsiniz.
+- Yeni Cari Kalemi Ekle: Cari kalemi eklemek iÃ§in burayÄ± seÃ§erek ekleme saÄŸlayabilirsiniz.
+- Yeni Kasa Kalemi Ekle: Kasa kalemi eklemek iÃ§in burayÄ± seÃ§erek ekleme saÄŸlayabilirsiniz.
+- Yeni Banka Kalemi Ekle: Banka Hesap kalemi eklemek iÃ§in burayÄ± seÃ§erek ekleme saÄŸlayabilirsiniz.
 
-## Doldurmamız gereken bilgileri doldurduktan sonra kaydet butonuna basarak kur farkı hareketi işlemimizi tamamlayabiliriz.
+## DoldurmamÄ±z gereken bilgileri doldurduktan sonra kaydet butonuna basarak kur farkÄ± hareketi iÅŸlemimizi tamamlayabiliriz.
 
-## Ek İşlemler
+## Ek Ä°ÅŸlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Faturayı kopyalamak için kullanılır.
-- Kur Güncelle:Döviz kurunda değişiklik yapmak için kullanılır.
-- Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
-- Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
-- Görev Oluştur: Satış Faturası için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
-- Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
+ SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan alt altta Ã¼Ã§ Ã§izgi ÅŸeklinde olan dÃ¼ÄŸme ile ek iÅŸlemlere ulaÅŸÄ±lÄ±r.
+- Yevmiye FiÅŸ: Yevmiye fiÅŸi, iÅŸletmelerde gerÃ§ekleÅŸen her tÃ¼rlÃ¼ mali iÅŸlemin tarih, miktar ve aÃ§Ä±klama bilgileri ile birlikte kaydedildiÄŸi muhasebe belgesidir.
+- Kopyala: FaturayÄ± kopyalamak iÃ§in kullanÄ±lÄ±r.
+- Kur GÃ¼ncelle:DÃ¶viz kurunda deÄŸiÅŸiklik yapmak iÃ§in kullanÄ±lÄ±r.
+- TÃ¼m Kalemlerde DeÄŸiÅŸtir: Buradan depo, proje, sÃ¶zleÅŸme, vergi muafiyeti, vergileri yenile, iskonto oranÄ±, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tÃ¼m kalemlerde deÄŸiÅŸtirebiliriz.
+- DÃ¶viz TÃ¼rÃ¼ DeÄŸiÅŸtir: DÃ¶viz tÃ¼rÃ¼ deÄŸiÅŸikliÄŸi yapabiliriz.
+- GÃ¶rev OluÅŸtur: SatÄ±ÅŸ FaturasÄ± iÃ§in gÃ¶rev oluÅŸturup, kiÅŸi atayabiliriz, aÃ§Ä±klama, tarih bitiÅŸ, hatÄ±rlatma sÃ¼resi, yÃ¶netici, kullanÄ±cÄ±, tamamlanma tipi, tekrar ÅŸekli bilgilerini ekleyerek gÃ¶rev tanÄ±mlama iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- GÃ¶rev BaÄŸla: AÃ§Ä±lan listede ki gÃ¶revlerden gÃ¶revi baÄŸlayacaÄŸÄ±mÄ±z, birleÅŸtireceÄŸimiz gÃ¶revi seÃ§elim, kaydet diyerek gÃ¶revi baÄŸlayabiliriz.
+- Grid SÃ¼tunlarÄ± Ayarla: Burada kartÄ±n detaylarÄ±nÄ±n gÃ¶zÃ¼kmesinde deÄŸiÅŸiklikler yapabilirsiniz.

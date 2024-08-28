@@ -5,111 +5,111 @@ SayfaTipi: KasaHareketleri
 
 # Kasadan Gelir Hareketi 
 
-**Erişim Linki :** [erp.aaro.com.tr/KasaBorcDekontu](erp.aaro.com.tr/KasaBorcDekontu)
+**EriÅŸim Linki :** [erp.aaro.com.tr/KasaBorcDekontu](erp.aaro.com.tr/KasaBorcDekontu)
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'kasa gider' aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Kasa -> Hareket Oluştur -> Kasadan Gelir Hareketi şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan 'kasa gider' aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol sekmede yer alan modÃ¼ller kÄ±smÄ±ndan Kasa -> Hareket OluÅŸtur -> Kasadan Gelir Hareketi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-## Tanım
+## TanÄ±m
 
-Kasadan gelir hareketi, bir işletmenin kasa hesabına yapılan mali girişleri temsil eder. 
-Bu, ürün satışları, hizmet bedelleri, alacak tahsilatları veya diğer gelir kaynaklarından gelen nakit akışını ifade eder.
+Kasadan gelir hareketi, bir iÅŸletmenin kasa hesabÄ±na yapÄ±lan mali giriÅŸleri temsil eder. 
+Bu, Ã¼rÃ¼n satÄ±ÅŸlarÄ±, hizmet bedelleri, alacak tahsilatlarÄ± veya diÄŸer gelir kaynaklarÄ±ndan gelen nakit akÄ±ÅŸÄ±nÄ± ifade eder.
 
 ### Genel 
 
-**Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+**Åirket-Åube:** Bu kartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. [Åirket-Åube](../TemelOzellikler/SirketSubeHareket.md)
 
-**Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
+**Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir. **Girilmesi Zorunludur.**
 
-**Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge NumarasÄ±nÄ± ifade eder. Otomatik sÄ±radaki numara gelir. Ä°stenirse seri kullanÄ±labilir.
 
-**Kasa:** Nakit ödemenin yapıldığı kasayı ifade eder.
+**Kasa:** Nakit Ã¶demenin yapÄ±ldÄ±ÄŸÄ± kasayÄ± ifade eder.
 
-**Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+**DÃ¶viz:** Bu iÅŸlemin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinisini belirtir.
 
-**Açıklama:** Kasa işlemi için ek detaylar burada belirtilebilir. 
+**AÃ§Ä±klama:** Kasa iÅŸlemi iÃ§in ek detaylar burada belirtilebilir. 
 
-**KDV Dahil:** Kalemlerde birim fiyat ve tutarın 'KDV Dahil' olduğunu belirtir.
+**KDV Dahil:** Kalemlerde birim fiyat ve tutarÄ±n 'KDV Dahil' olduÄŸunu belirtir.
 
 ### Detay
 
-**Proje:** Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir. Proje kullanım detayları için linke tıklayınız.[Proje](../TemelOzellikler/Proje.md)
+**Proje:** Bu hareketin hangi projeye ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir. Proje kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[Proje](../TemelOzellikler/Proje.md)
 
-**Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir. Plasiyer kullanım detayları için linke tıklayınız.[Plasiyer](../TemelOzellikler/Plasiyer.md)
+**Plasiyer:** Bu hareketin hangi plasiyere ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir. Plasiyer kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[Plasiyer](../TemelOzellikler/Plasiyer.md)
 
 **Tip:** Alt hareket tipini belirtir.
 
-### Açıklamalar
+### AÃ§Ä±klamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md)
+- **AÃ§Ä±klamalar:** Ek aÃ§Ä±klamalarÄ± belirtir. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
+- **Etiketler:** Bu kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lÄ±r. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+Ä°ÅŸleme ait Ã¶zel notlar belirtebiliriz. 
+Ã–nemli bir detay var ise bu detaylarÄ± burada belirtebiliriz.
+Notlar kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+YapacaÄŸÄ±mÄ±z iÅŸlem iÃ§in elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yÃ¼kleyebiliriz.
+Buraya iÅŸlem gerÃ§ekleÅŸirken ki gÃ¶rselleri yÃ¼kleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek iÃ§in tÄ±klayalÄ±m ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Daha Ã¶nce yÃ¼klediklerimden seÃ§ -> belgeyi seÃ§elim -> Ä°liÅŸkilendir ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- YÃ¼klenecek belge veya resimleri seÃ§in -> belgeyi ya da belgeleri seÃ§elim -> YÃ¼kle ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
-Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+Belge kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Belge](../TemelOzellikler/Belgeler.md)
 
-## Kayıt Bilgileri
+## KayÄ±t Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+KartÄ±n hangi kullanÄ±cÄ± tarafÄ±ndan ve hangi tarihlerde oluÅŸturulduÄŸu ve deÄŸiÅŸtirildiÄŸi bilgisini iÃ§erir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kart iÅŸ akÄ±ÅŸ sÃ¼reÃ§lerine dahil edildiÄŸinde hangi kullanÄ±cÄ± tarafÄ±ndan hangi tarihte onaylandÄ±ÄŸÄ± bilgilerini iÃ§erir. 
 
 ## Kalem Ekleme
 
-- Yeni Gelirgider Kalemi Ekle: Kasadan yapılan gelir gider kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
+- Yeni Gelirgider Kalemi Ekle: Kasadan yapÄ±lan gelir gider kalemi eklemek iÃ§in burayÄ± seÃ§erek ekleme saÄŸlayabilirsiniz.
 
-- Kart Adı: Gelir gider kartını belirtir.
-- Miktar: İşlemi gerçekleşen gelirin miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
-- Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
-	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
-- İskonto: Gelirimizin iskonto oranını belirtir. Uygulanan iskonto var ise buraya oranı girebiliriz.
-- Net Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler hariç, sadece temel maliyetini ifade eden fiyatı belirtir. 
-	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
-- Tutar: Bir mal veya hizmetin toplam mali değerini ifade eden miktarı belirtir. 
-- KDV oran: KDV oranını ifade eder.
-- Depo: Bu kalemin kullandığı depoyu belirtir.
-- Açıklama: Kaleme ait açıklamayı belirtir.
-- Demirbaş: Gelir, bir demirbaş satışı veya tahsilatı ile ilgili olup, hangi demirbaşa ait olduğunu belirtir.
-- Masraf Merkezi: Gelirin hangi birim veya departman için yapıldığını belirtir.
-- Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
-- Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
-- Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
+- Kart AdÄ±: Gelir gider kartÄ±nÄ± belirtir.
+- Miktar: Ä°ÅŸlemi gerÃ§ekleÅŸen gelirin miktarÄ±nÄ± belirtir, bu alanÄ±n doldurdurulmasÄ± gerekmektedir.
+- BrÃ¼t Fiyat: Bir Ã¼rÃ¼n veya hizmetin vergiler ve ek Ã¼cretler dahil toplam satÄ±ÅŸ fiyatÄ±nÄ± belirtir. 
+	Buraya tÄ±klayarak yeni fiyat eklenebilir, son 3 ay iÃ§in alÄ±ÅŸ ve satÄ±ÅŸ ortalama fiyatlarÄ±nÄ± gÃ¶sterir.
+- Ä°skonto: Gelirimizin iskonto oranÄ±nÄ± belirtir. Uygulanan iskonto var ise buraya oranÄ± girebiliriz.
+- Net Fiyat: Bir Ã¼rÃ¼n veya hizmetin vergiler ve ek Ã¼cretler hariÃ§, sadece temel maliyetini ifade eden fiyatÄ± belirtir. 
+	Buraya tÄ±klayarak yeni fiyat eklenebilir, son 3 ay iÃ§in alÄ±ÅŸ ve satÄ±ÅŸ ortalama fiyatlarÄ±nÄ± gÃ¶sterir.
+- Tutar: Bir mal veya hizmetin toplam mali deÄŸerini ifade eden miktarÄ± belirtir. 
+- KDV oran: KDV oranÄ±nÄ± ifade eder.
+- Depo: Bu kalemin kullandÄ±ÄŸÄ± depoyu belirtir.
+- AÃ§Ä±klama: Kaleme ait aÃ§Ä±klamayÄ± belirtir.
+- DemirbaÅŸ: Gelir, bir demirbaÅŸ satÄ±ÅŸÄ± veya tahsilatÄ± ile ilgili olup, hangi demirbaÅŸa ait olduÄŸunu belirtir.
+- Masraf Merkezi: Gelirin hangi birim veya departman iÃ§in yapÄ±ldÄ±ÄŸÄ±nÄ± belirtir.
+- Proje: Bu kalemin hangi projeye ait olduÄŸunu belirtir.
+- SÃ¶zleÅŸme: Bu kalemin hangi sÃ¶zleÅŸmeye ait olduÄŸunu gÃ¶sterir.
+- Proje: Bu kalemin hangi projeye ait olduÄŸunu belirtir.
 
-- Kasa hareketinde bir kalem belirtilecekse kaydet diyerek bir sonraki aşamaya geçebiliriz.
-- Başka kalemlerde mevcut ise yukarıda aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
+- Kasa hareketinde bir kalem belirtilecekse kaydet diyerek bir sonraki aÅŸamaya geÃ§ebiliriz.
+- BaÅŸka kalemlerde mevcut ise yukarÄ±da aÅŸamalarÄ± tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
-- Sağ üst köşede faturaya ait toplam fiyat kısımlarını içerir;
-	- Toplam: Kasa hareketinin KDV hariç toplam tutarını içerir.
-	- Genel Toplam: Kasa hareketinin tüm kalemlerin KDV dahil tutarının toplamını belirtir.
+- SaÄŸ Ã¼st kÃ¶ÅŸede faturaya ait toplam fiyat kÄ±sÄ±mlarÄ±nÄ± iÃ§erir;
+	- Toplam: Kasa hareketinin KDV hariÃ§ toplam tutarÄ±nÄ± iÃ§erir.
+	- Genel Toplam: Kasa hareketinin tÃ¼m kalemlerin KDV dahil tutarÄ±nÄ±n toplamÄ±nÄ± belirtir.
 
-## Ek İşlemler
+## Ek Ä°ÅŸlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Kasa hareketini işlemini kopyalamak için kullanılır.
-- Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
-- Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
-- Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
-- Görev Oluştur: Kasa hareketi için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
+ SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan alt altta Ã¼Ã§ Ã§izgi ÅŸeklinde olan dÃ¼ÄŸme ile ek iÅŸlemlere ulaÅŸÄ±lÄ±r.
+- Yevmiye FiÅŸ: Yevmiye fiÅŸi, iÅŸletmelerde gerÃ§ekleÅŸen her tÃ¼rlÃ¼ mali iÅŸlemin tarih, miktar ve aÃ§Ä±klama bilgileri ile birlikte kaydedildiÄŸi muhasebe belgesidir.
+- Kopyala: Kasa hareketini iÅŸlemini kopyalamak iÃ§in kullanÄ±lÄ±r.
+- TÃ¼m Kalemlerde DeÄŸiÅŸtir: Buradan depo, proje, sÃ¶zleÅŸme, vergi muafiyeti, vergileri yenile, iskonto oranÄ±, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tÃ¼m kalemlerde deÄŸiÅŸtirebiliriz.
+- DÃ¶viz TÃ¼rÃ¼ DeÄŸiÅŸtir: DÃ¶viz tÃ¼rÃ¼ deÄŸiÅŸikliÄŸi yapabiliriz.
+- Grid SÃ¼tunlarÄ± Ayarla: Burada kartÄ±n detaylarÄ±nÄ±n gÃ¶zÃ¼kmesinde deÄŸiÅŸiklikler yapabilirsiniz.
+- GÃ¶rev OluÅŸtur: Kasa hareketi iÃ§in gÃ¶rev oluÅŸturup, kiÅŸi atayabiliriz, aÃ§Ä±klama, tarih bitiÅŸ, hatÄ±rlatma sÃ¼resi, yÃ¶netici, kullanÄ±cÄ±, tamamlanma tipi, tekrar ÅŸekli bilgilerini ekleyerek gÃ¶rev tanÄ±mlama iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- GÃ¶rev BaÄŸla: AÃ§Ä±lan listede ki gÃ¶revlerden gÃ¶revi baÄŸlayacaÄŸÄ±mÄ±z, birleÅŸtireceÄŸimiz gÃ¶revi seÃ§elim, kaydet diyerek gÃ¶revi baÄŸlayabiliriz.
 
 
