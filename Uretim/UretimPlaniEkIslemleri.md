@@ -5,7 +5,7 @@ SayfaTipi: PlanDetay
 
 ## Yeni Üretim Girişi
 
-İş emrine ait yeni üretim hareketi girişinde düzenleme yapabiliriz, hareket düzenleme yapabiliriz.
+İş emrine ait yeni üretim hareketi girişinde düzenleme yapabilir, hareket düzenleme yapabiliriz.
 
 ### Genel
 
@@ -26,9 +26,9 @@ SayfaTipi: PlanDetay
 
 **Seri/Lot:** Seri lotla takip ettiğimiz ürün ise detaylarını burada görüntüleyebiliriz.
 
-### Hammaddeler
+### Ham maddeler
 
-**Hammadde Adı:** Hammadde adına tıkladığımızda hammaddenin stok kartı açılacaktır. 
+**Ham madde Adı:** Ham madde adına tıkladığımızda ham maddenin stok kartı açılacaktır. 
 	Stok detaylarını görüntüleyebiliriz birim1, stok kodu, kategori, alış, satış fiyatları, barkod ve ölçü birimlerinde değişiklik yapabiliriz.
 
 **Miktar:** Hammaddemizin olması gereken miktarını girelim. 
@@ -49,17 +49,18 @@ SayfaTipi: PlanDetay
 
 **Bitiş** Operasyonun bitiş tarihini giriniz.
 
-**Hazırlık Süre** Operasyona hazırlık süresi, makine ne kadar sürede ısındı gibi operasyona başlamadan önceki geçen süredir.
+**Hazırlık Süre** Operasyona hazırlık süresi, makine ne kadar sürede ısındı gibi operasyona başlamadan önce geçen süredir.
 
 **Üretim Süre** Operasyonun üretim süresi, ne kadar sürede yapıldığıdır.
 
-**Duraklama Süre** Makine bozulduğunda ya da makine arızaları gibi duraklama olduğunda ne kadar süre arıza verdi ise o süreyi gireceğimiz alan.
+**Duraklama Süre** Makine bozulduğunda ya da makine arızaları gibi duraklamalar olduğunda ne kadar süre arıza verdi ise o süreyi gireceğimiz alandır.
 
-**Mola Süre** Personel ne kadar süre mola verdi ise o süreyi gireceğimiz alan. 
+**Mola Süre** Personel ne kadar süre mola verdi ise o süreyi gireceğimiz alandır. 
+
 
 ### Duraklama Nedeni
 
-**Neden** Operasyon neden duraklamaya uğradığının detayını girdiğimiz alandır. Makine bozuldu, arızlandı gibi nedenleri belirttiğimiz yerdir. 
+**Neden** Operasyonun neden duraklamaya uğradığının detayını girdiğimiz alandır. Makine bozuldu, arızalandı gibi nedenleri belirttiğimiz yerdir. 
 Kayıtlı nedenleri listeden seçebilirsiniz, yeni bir neden eklemek için detaylı ekle yaparak hızlıca ekleme yapabilirsiniz.
 
 ### Üretim Açıklama
@@ -129,7 +130,7 @@ Tarihe tıklayalım -> Y.Br. tıkladığımızda o güne ait bütün operasyonla
 
 ## Makine Değiştir
 
-Alternatif makineler gösterilir buradan değişim yapacağımız makineyi seçelim.
+Alternatif makineler gösterilir, buradan değişim yapacağımız makineyi seçebiliriz.
 
 ## Sipariş Açıklamaları
 

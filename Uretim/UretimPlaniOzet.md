@@ -14,28 +14,28 @@ SayfaTipi: UretimPlaniToplam
 ### Tanım
 
 Üretim planı, belirli tarihlerde üretilecek ürünler için makinelerin iş gücü takvimini içerir. 
-Amaç, makine verimliliği artırmak, makine doluluk oranlarını dengelemek ve işleri zamanında planlanmasını sağlamaktır.
+Amaç, makine verimliliğini artırmak, makine doluluk oranlarını dengelemek ve işlerin zamanında planlanmasını sağlamaktır.
 
-Makine de ki iş yoğunluğu ifade eder. Makinenin doluluk oranını % kısmından anlayabilir, makine yükünü azaltarak işleri hızlandırabiliriz.
+Makinedeki iş yoğunluğu ifade eder. Makinenin doluluk oranını % kısmından anlayabilir, makine yükünü azaltarak işleri hızlandırabiliriz.
 Çok dolu makineler kırmızı ile gösterilmektedir.
-Doluluk oranı artmaya başlayan yüzdelik oranını geçmiş makineler biraz daha açık kırmzı ile gösterilir.
+Doluluk oranı artmaya başlayan yüzdelik oranını geçmiş makineler biraz daha açık kırmızı ile gösterilir.
 Dolmak üzere olan makineler yeşil renkle gösterilir.
-Dolulukları az olan normal seviye de olan makineler amvi renkle gösterilir.
+Dolulukları az olan normal seviyede olan makineler mavi renkle gösterilir.
 Doluluk oranları en az olan makineler ise açık mavi ile gösterilir.
 
 Bu oranları görüntüleyerek kolayca makine doluluk oranlarımızı görüntüleyebiliriz. 
-Kutulara tıklayarak makinede ki operasyonları kolayca görüntüleyebiliriz.
-Yeniden düzenlemeler, planlamalar yaparak iş yükünü hafifleterek yetişmesi gereken işlere öncelik verilebilir ya da alternatif makineleri kullanmayı tercih edebiliriz.
+Kutulara tıklayarak makinedeki operasyonları kolayca görüntüleyebiliriz.
+Yeniden düzenlemeler, planlamalar yaparak iş yükünü hafifletebilir, yetişmesi gereken işlere öncelik verebilir ya da alternatif makineleri kullanmayı tercih edebiliriz.
 
-K ile ifade edilen oranlar makine için ihtiyaç duyulan personeli ifade eder.
-S ile ifade edilen oranlar makine için 
+K ile ifade edilen oranlar makine için ihtiyaç duyulan personeli,
+S ile ifade edilen oranlar makine için gerekenleri ifade eder.
 
 ### Ek Özellikler 
 
-- Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
+- Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğimiz şekilde sınırlandırabiliriz.
 
 Makine iş görevlerine tıkladığımızda;
-- Makinenin vardiyalarını, üretim miktarlarını, sıralarını görüntüleyebiliriz.
+- Makinelerin vardiyalarını, üretim miktarlarını, sıralarını görüntüleyebiliriz.
 - İş emri numarasına tıklayarak iş emrine erişim sağlayabiliriz.
 - Reçete numarasına tıklayarak reçeteye erişim sağlayabiliriz.
 - Sipariş numarasına tıklayarak siparişe erişim sağlayabiliriz.

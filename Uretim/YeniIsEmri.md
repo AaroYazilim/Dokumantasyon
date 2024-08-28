@@ -1,22 +1,22 @@
 
 # İş Emri Ekleme
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "İş emri" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "İş emri" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Listeler -> İş Emri Listesi -> Yeni İş Emri şeklinde yeni iş emri oluşturabilirsiniz. 
 
 ### Genel
 
-**İş Emri No:** Sistemin veröiş olduğu otomatik kodu kullanım sağlayabilirsiniz ya da size özel kodunuzu kullanım sağlayabilirsiniz.
+**İş Emri No:** Sistemin vermiş olduğu otomatik kodu kullanabilir ya da size özel kodunuzu kullanabilirsiniz.
 
 **Tarih:** İşleme başlanacak tarihi seçiniz.
 
-**Teslim Tarihi:** Teslim edilmesi gerek tarihi seçiniz.
+**Teslim Tarihi:** Teslim edilmesi gereken tarihi seçiniz.
 
 **Reçete:** Yapılacak olan reçeteyi seçiniz.
 
 **İş Emri Adı:** İş emri için bir ad verebilirsiniz.
 
-**Miktar:** Ka. adet yapılacağını giriniz.
+**Miktar:** Kaç adet yapılacağını giriniz.
 
 **Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
@@ -33,7 +33,7 @@
 **Şarj Kg:**
 
 Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna basarak işleminizi kaydebilirsiniz.
-İş emriniz oluşmuştur sistem size otomatik planlama yapacaktır bu planlama üzerinden devam edebilir ya da değişiklik yapabilirsiniz.
+İş emriniz oluşmuştur, sistem size otomatik planlama yapacaktır. Bu planlama üzerinden devam edebilir ya da değişiklik yapabilirsiniz.
 
 ### Değişiklik yapmak için;
 

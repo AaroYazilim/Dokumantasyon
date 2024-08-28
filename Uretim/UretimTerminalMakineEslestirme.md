@@ -9,7 +9,7 @@ SayfaTipi: KartListe
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "terminal makine" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "terminal makine" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Kartlar -> Üretim Terminali Makine Eşleştirme Listesi şeklinde ulaşım sağlayabilirsiniz.
 
 ### Tanım
@@ -18,35 +18,35 @@ SayfaTipi: KartListe
 Çeşitli üretim aşamalarında kullanılan makinelerin yetenekleri, kapasiteleri ve işlevlerine göre optimize edilmesini sağlar.
 Burada daha önceden eşleştirdiğimiz terminal - makine eşleştirmelerimizi görüntüleyebiliriz.
 
-Terminal ile makine eşleştirmesi yapacağımız, terminal kullanıcısı tanımlı değilse [Terminal Kullanıcı Tanımlama](../Uretim/Terminal.md) linkten tanımlama işlemine erişim sağlayabiliriz.
+Terminal ile makine eşleştirmesi yapacağımız terminal kullanıcısı tanımlı değilse [Terminal Kullanıcı Tanımlama](../Uretim/Terminal.md) linkten tanımlama işlemine erişim sağlayabiliriz.
 
 ### Ek Özellikler 
 
 - Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
-- Sayfada ki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
+- Sayfadaki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) ile sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
 
 ### Genel 
 
 **Terminal Adı** Makine tanımlayacağımız üretim terminali kullanıcısını seçelim.
 
-**Makine Adı** Eşleştirme yapacağımız tanımlayacağımız makineyi seçelim.
+**Makine Adı** Eşleştirme yapacağımız makineyi seçelim.
 
 **Kaydet butonuna basarak eşleştirmemizi gerçekleştirdik.
 
-- Makine eşlettikten sonra sistemden giriş çıkış yapınız, sistem güncellemelerimizi kaydetsin.
+- Makine eşleştirdikten sonra sistemden giriş çıkış yapınız, sistem güncellemelerinizi kaydedecektir.
 
-## Kaydet butonuna basarak makine tanımalama işlemimimiz tamamlanır, belgeler ve notlar ekranına ulaşım sağlarız.
+## Kaydet butonuna basarak makine tanımlama işlemimimiz tamamlanır, belgeler ve notlar ekranına ulaşım sağlarız.
 ## Görev oluşturabilir, görev bağlayabiliriz.
 
 ### Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem gerçekleşirken kullanılan görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Daha önce yüklediklerimden seç -> belgeyi seç -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seç -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
@@ -64,13 +64,13 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemini tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+ Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+- [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
 - Görev Oluştur
 - Görev Bağla

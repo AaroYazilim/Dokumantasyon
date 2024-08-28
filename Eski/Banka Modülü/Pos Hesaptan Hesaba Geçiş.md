@@ -1,5 +1,5 @@
 ## POS HESAPTAN HESABA GEÇİŞ
-Bu bölümde pos cihazı ile yapılan çekimlerin tahsilatların banka hesabına transfer işleminin kayıt bilgileri girilmektedir.
+Bu bölümde pos cihazı ile yapılan çekimlerin ve tahsilatların banka hesabına transfer işleminin kayıt bilgileri girilmektedir.
 
 Tarih, Belge numarası, şirket-şube bilgileri seçilmektedir. Şirket-şube, kasa, döviz, tutar, açıklama bilgileri girilmektedir. Sağ bölümde banka, döviz, açıklama bilgileri doldurulmaktadır. Döviz türü TL dışındaysa kur bilgisi gelmektedir. Böylece kalem üst bilgileri kaydedilmektedir.
 

@@ -8,9 +8,9 @@ SayfaTipi: HareketListe
 **Erişim Linki :** [erp.aaro.com.tr/BankaHareketleri/Liste](https://erp.aaro.com.tr/BankaHareketleri/Liste)
 
 ### Ulaşım 
-Aşağıdaki gibi yollarla ulaşım sağlayabilirsiniz:
+Aşağıdaki yollarla ulaşım sağlayabilirsiniz:
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "**Banka hareket listesi**" ifadesini aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "**Banka Hareket Listesi**" ifadesini aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden **Banka -> Banka Modülü -> Banka Hareketleri Listesi** şeklinde ulaşım sağlayabilirsiniz. 
 - Sol menüden **Banka -> Listeler -> Banka Hareketleri Listesi** üzerinden ulaşım sağlayabilirsiniz.
 
@@ -26,8 +26,8 @@ Aşağıdaki gibi yollarla ulaşım sağlayabilirsiniz:
 
 ### Ek İşlem Butonu
 
-- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+- Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+- [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - [Toplu Değiştir](../TemelOzellikler/TopluDegistir.md)
 - [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
 - [Listeyi Excele Aktar](../TemelOzellikler/ListeyiExceleAktar.md)
