@@ -3,32 +3,32 @@
 
 Mal ya da hizmet satışı yapıldığında bir yerden bir yere taşınması gerektiği durumlarda oluşturulan belgedir.
 
-### İrsaliye de bulunması gereken detaylar;
+### İrsaliyede bulunması gereken detaylar;
 
-İrsaliye fatura ibaresi
+-İrsaliye fatura ibaresi
 
-Maliye bakanlığı klişesi veya noter tasdiki
+-Maliye Bakanlığı Klişesi veya Noter Tasdiki
 
-İrsaliye faturasını düzenleyenin adı, ticari ünvanı, iş adresi, bağlı olduğu vergi dairesi ve numarası
+-İrsaliye faturasını düzenleyenin adı, ticari ünvanı, iş adresi, bağlı olduğu vergi dairesi ve numarası
 
-Malın veya hizmetin cinsi, miktarı
+-Malın veya hizmetin cinsi, miktarı
 
-Malın nereye ve kime gönderildiği; müşterinin adı, ticari unvanı, adresi, vergi dairesi ve vergi numarası
+-Malın nereye ve kime gönderildiği; müşterinin adı, ticari unvanı, adresi, vergi dairesi ve vergi numarası
 
-İrsaliye faturasının düzenlenme tarihi ve saati
+-İrsaliye faturasının düzenlenme tarihi ve saati
 
-İrsaliye faturasını düzenleyenin imzası
+-İrsaliye faturasını düzenleyenin imzası
 
 
 ## Satış İrsaliyesi Nedir?
 
-İşletmenin, alıcısına sattığı ürünün ya da hizmetin nakliye edilmesinde veya kişi/işletmeye ait yerlere taşınmasında düzenlenen belgeye denir.
+İşletmenin, alıcısına sattığı ürünün ya da hizmetin nakliyesinde veya kişi/işletmeye ait yerlere taşınmasında düzenlenen belgeye denir.
 
 Satış irsaliyesinde malın içeriği, birimi ve kime ait olduğu belirtilmektedir. 
 
 Satış irsaliyesi en az 3 nüsha olarak düzenlenmektedir. Seri ve sıra numarasına göre kayıt yapılmaktadır. 
 
-Denetimlerde, seri veya sıra numarası eksik gösterilirse bu Muhasebe Suçuna girer ve işletmeye para cezası verilir.
+Denetimlerde, seri veya sıra numarası eksik gösterilirse bu muhasebe suçuna girer ve işletmeye para cezası verilir.
 
 Düzenlenen irsaliye geçerlilik süresi 7 gündür, bu  süre içerisinde faturalandırılması gerekmektedir.
 
@@ -46,17 +46,17 @@ Vergi mevzuatı gereği, işletmeler alış irsaliyesini muhafaza etmek zorundad
 
 ### İade İrsaliyesinde belirtilmesi gereken detaylar:
 
-İade edilen malın detayları: İade edilen malın adı, miktarı, birim fiyatı gibi bilgiler.
+-İade Edilen Malın Detayları: İade edilen malın adı, miktarı, birim fiyatı gibi bilgiler.
 
-İade sebebi: Malın neden iade edildiğine dair açıklama veya not.
+-İade Sebebi: Malın neden iade edildiğine dair açıklama veya not.
 
-İade tarihi: Malın ne zaman iade edildiği.
+-İade Tarihi: Malın ne zaman iade edildiği.
 
-Satıcı ve alıcı bilgileri: Malı satan ve iade eden işletmelerin isimleri ve iletişim bilgileri.
+-Satıcı ve Alıcı Bilgileri: Malı satan ve iade eden işletmelerin isimleri ve iletişim bilgileri.
 
-İade işlemine ilişkin diğer detaylar: Ödeme iadesi ve iade nedeniyle yapılan düzeltmeler gibi ek bilgiler.
+-İade İşlemine İlişkin Diğer Detaylar: Ödeme iadesi ve iade nedeniyle yapılan düzeltmeler gibi ek bilgiler.
 
-Bu belge, iade işlemlerinin muhasebe kayıtlarında ve vergi beyannamelerinde doğru bir şekilde gösterilmesi için önemlidir.
+-Bu belge, iade işlemlerinin muhasebe kayıtlarında ve vergi beyannamelerinde doğru bir şekilde gösterilmesi için önemlidir.
 
 ## Satış İade İrsaliyesi Nedir?
 
@@ -66,7 +66,7 @@ Satış iade irsaliyesi, müşterinin satın aldığı malı iade etmesi durumun
 
 ## Alış İade İrsaliyesi Nedir?
 
-Alış iade irsaliyesi, işletmenin bir tedarikçiden mal alıp ancak sonradan bu malın iadesini yapması durumunda kullanılan bir işlem ve belgedir. 
+Alış iade irsaliyesi, işletmenin bir tedarikçiden mal alması ancak sonradan bu malın iadesini yapması durumunda kullanılan bir işlem ve belgedir. 
 Genellikle, yanlışlıkla alınmış, hasar görmüş veya beklentileri karşılamayan bir malın tedarikçiye iadesi gerektiğinde bu işlem gerçekleşir. 
 Alış iade irsaliyesi, tedarikçi ile alıcı arasındaki ticari ilişkilerin düzenli ve şeffaf bir şekilde yönetilmesini sağlar. 
 Ayrıca mal iadesi sonucunda oluşan finansal işlemlerin doğru bir şekilde kaydedilmesi ve izlenmesi için önemlidir.
@@ -86,7 +86,7 @@ Vergi istisnası bulunan bir faturada ise istisna durumu fatura üzerinden bildi
 
 Birden fazla vergi oranı bulunması durumunda faturada belirtilmesi zorunludur.
 
-Fatura, e-fatura veya matbuu fatura olarak kesilebilir.
+Fatura, e-fatura veya matbu fatura olarak kesilebilir.
 
 ## Satış Faturası Nedir?
 
@@ -157,7 +157,7 @@ Bu belge, satış ve iade işlemlerinin izlenmesi ve ticari ilişkilerin düzenl
 ## Alıştan İade Faturası
 
 Alıştan iade faturası; bir işletmenin tedarikçisinden satın almış olduğu bir malın veya hizmetin, sonradan 
-tedarikçiye iade edilmesi durumunda düzenlenildiği resmi bir belgedir.
+tedarikçiye iade edilmesi durumunda düzenlenilen resmi bir belgedir.
 
 Bu belge, mal veya hizmetin tedarikçiden alınırken düzenlenen alış faturasının iade bilgilerini gösterir.
 
@@ -204,7 +204,7 @@ fiyatını ve diğer önemli detayları içerir.
 
 ### Teklif**
 
-İşletmenin mal veya hizmetin satışını veya sunumunu içeren yazılı bir öneridir. 
+İşletmenin mal veya hizmet satışını veya sunumunu içeren yazılı bir öneridir. 
 
 İşletmeler genellikle potansiyel müşterilere veya iş ortaklarına teklif sunarlar. 
 
