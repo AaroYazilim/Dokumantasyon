@@ -7,13 +7,11 @@ SayfaTipi: Modul
 
 **Erişim Linki :** [erp.aaro.com.tr/SatisPazarlamaModulu](erp.aaro.com.tr/SatisPazarlamaModulu)
 
-Bu kısımda; Satışın her aşamasınında tekliften satışa kadar olan bütün süreçleri bıuradan takip edebilirsiniz.
-Teklif formu, sipariş formu, irsaliye, fatura işlemlerinizi buradan gerçekleştirebilirsiniz.
-Satışımız için gerçekleşen her aşama için satış pazarlama modülünü kullanılmkatadır.
+Bu bölümde, satış sürecinin tüm aşamalarını -tekliften satışa kadar- takip edebilirsiniz. Teklif formu, sipariş formu, irsaliye ve fatura işlemlerinizi buradan yapabilirsiniz. Satış ve pazarlama modülümüz, satış sürecindeki her aşamayı yönetmek için kullanılmaktadır.
 
-- İşletmenizin satış için teklif verme, sipariş formu oluşturma siparişi irsaliyeleştirme ve faturalaştırma işlemlerini gerçekleştirebiliriz.
-- Satış aşamalarınız tüm aşamalarını izleyebilir ve kaydedebilirsiniz. İşletmenizin siparişlerinizi kontrol etmenize kolaylaştırır.
-- Siparişleriniz ile ilgili detaylı raporlar sunar. Bu rapor sipariş hareketlerinizi, siparişinizin durumunu gösterir.
+İşletmenizin teklif verme, sipariş oluşturma, siparişi irsaliyeleştirme ve faturalaştırma işlemlerini bu bölümden gerçekleştirebilirsiniz. Satış aşamalarınızı izleyebilir ve kaydedebilirsiniz. Bu, siparişlerinizi kontrol etmeyi ve yönetmeyi kolaylaştırır.
+
+Ayrıca, siparişlerinizle ilgili detaylı raporlar sunar. Bu raporlar, sipariş hareketlerinizi ve siparişlerinizin durumunu gösterir.
 
 ## Bu modülde yer alan işlemler;
 

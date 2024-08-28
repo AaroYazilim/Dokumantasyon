@@ -18,7 +18,9 @@ SayfaTipi: Liste
 - [Satış İade Faturası Hareketleri](../TemelHareketler/SatisİadeFaturasi)
 - [Satış İade İrsaliyesi Hareketleri](../TemelHareketler/Satisİadeİrsaliyesi)
 
-Listelerde son 3 aya ait teklif, sipariş, irsaliye, fatura hareketlerimize listeleri şekilde ulaşım sağlayabiliriz.
-Filtreme özelliği ile özel özelliklerde, tarihlere göre sıralama yapabiliriz.
-Yeni hareket ekleyebiliriz, toplu değiştirme özelliği ile toplu değişiklik yapabiliriz.
-Listeyi Excele aktarabiliriz, filtreleme seçeneklerimizi grid sütunlarından ayarlayabiliriz, anasayfaya kısayol olarak ekleyebiliriz.
+Listelerden son 3 aya ait teklif, sipariş, irsaliye, fatura hareketlerimize ulaşım sağlayabiliriz.
+
+Filtreme özelliği ile özel özelliklerde  tarihlere göre sıralama yapabilir; yeni hareket ekleyebilir, toplu değiştirme özelliği ile toplu değişiklik yapabiliriz.
+
+Listeyi Excele aktarabilir, filtreleme seçeneklerimizi grid sütunlarından ayarlayabilir, ana sayfaya kısayol olarak ekleyebiliriz.
+
