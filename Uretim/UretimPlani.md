@@ -108,6 +108,6 @@ Alternatif makineleri değerlendirerek en uygun üretim planını hazırlar.
 
 **Minimum Bir Gune Planlanabilecek Sure Dk:** Bir gün için en az ne kadar sürede planlama yapılmasını istiyorsak minimum süreyi girelim.
 
-Kaydet butonuna basarak planlamamızı gerçekleştirebiliriz.
+*Kaydet* butonuna basarak planlamamızı gerçekleştirebiliriz.
 
 

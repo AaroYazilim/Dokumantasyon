@@ -38,7 +38,7 @@ Bu süreç, işletmenin üretim faaliyetlerinden elde edilen nihai ürünlerin d
 
 ### Detay
 
-**Proje:** İşleme ait proje var ise kaydettiğimiz projeyi buradan seçelim.
+**Proje:** İşleme ait proje var ise *Kaydet*tiğimiz projeyi buradan seçelim.
 
 **Plasiyer:** İşlemi yapacak kullanıcı ifade eder. 
 
@@ -52,7 +52,7 @@ Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../Temel
 Filtreleme veya arama yaparak belirli kriterlere göre kayıtları bulmak için kullanılır.
 Etiketler kullanım detayları için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
-**Kaydet dediğimizde mamül ekleme ekranımız açılacaktır.**
+***Kaydet* dediğimizde mamül ekleme ekranımız açılacaktır.**
 
 ## Yeni Stok Kalemi Ekle
 
@@ -78,7 +78,7 @@ Etiketler kullanım detayları için linke tıklayınız. [Etiketler](../TemelOz
 
 ### Detay
 
-**Proje:** İşleme ait proje var ise kaydettiğimiz projeyi buradan seçelim.
+**Proje:** İşleme ait proje var ise *Kaydet*tiğimiz projeyi buradan seçelim.
 
 **Plasiyer:** Plasiyer, bir şirketin ürün veya hizmetlerini belirli bir bölgede tanıtan ve satan saha satış temsilcisidir. 
 	Müşterilerle doğrudan iletişim kurarak sipariş alır, ürünlerin tanıtımını yapar ve satış hacmini artırmaya çalışır. 
@@ -101,8 +101,8 @@ Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikl
 
 ### Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
@@ -180,9 +180,9 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 **Yeni Stok Kalemi Ekle diyerek yeni stok kalemi ekleme işlemimizi gerçekleştirebiliriz.**
 
-## Kaydetme 
+## *Kaydet*me 
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak üretim hareketi girişi işlemimizi tamamlayabiliriz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak üretim hareketi girişi işlemimizi tamamlayabiliriz.
 
 ### Yazdır
 

@@ -9,17 +9,18 @@ SayfaTipi: BankaHareketleri
 
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'banka transfer' aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Banka -> Hareket Oluştur -> Banka Hesapları Arası Transfer şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'banka transfer' şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Banka -> Hareket Oluştur -> Banka Hesapları Arası Transfer* şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
 
 Banka hesapları arası transfer hareketi, işletme bünyesindeki bir banka hesabından, aynı işletmeye ait başka bir banka hesabına para transfer edilmesi sürecidir. 
-Bu işlem, bankalar arası veya aynı bankadaki farklı hesaplar arasında yapılabilir.
+Bu işlem, bankalar arası veya aynı bankadaki farklı hesaplar arasında yapılabilir.  
 İlk adım, paranın çıkış yapacağı ve giriş yapacağı banka hesaplarının belirlenmesidir. Hangi hesaptan ne kadar para çıkacağı ve hangi hesaba aktarılacağı net olarak tanımlanır.
 Transfer işlemi, banka tarafından gerçekleştirilir. Para, belirlenen hesaptan çıkar ve diğer hesaba giriş olarak kaydedilir.
 Transfer işlemi, işletmenin muhasebe kayıtlarına yansıtılır. İşlemle ilgili belgeler (dekont, işlem makbuzu vb.) muhasebe kayıtlarına eklenir.
 Transfer işlemi, bir banka hesabındaki fazla fonları diğer bir hesapta değerlendirmek veya belirli ödemeleri yapmak için kullanılabilir.
+
 Banka hesapları arası transfer hareketleri, işletmenin nakit akışını düzenlemek, fonları optimize etmek ve finansal yönetimi sağlamak için kritik bir işlemdir. 
 Bu süreç, doğru ve zamanında yapılmalı, ilgili muhasebe kayıtları titizlikle tutulmalıdır.
 
@@ -29,13 +30,13 @@ Bu süreç, doğru ve zamanında yapılmalı, ilgili muhasebe kayıtları titizl
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
 
-**Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 ## Banka Alacak için;
 
 **Banka Alacak:** Nakit çıkışının yapılacağı banka hesabını belirtir.
 
-**Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 	
 **Tutar:** Transfer edilecek nakit miktarını belirtir.
 
@@ -47,7 +48,7 @@ Bu süreç, doğru ve zamanında yapılmalı, ilgili muhasebe kayıtları titizl
 
 **Banka Borç:** Nakit girişinin yapılacağı banka hesabını belirtir.
 
-**Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 
 **Tutar:** Transfer edilecek nakit miktarını belirtir.
 
@@ -75,7 +76,7 @@ Bu süreç, doğru ve zamanında yapılmalı, ilgili muhasebe kayıtları titizl
 
 - **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
 
--> Kaydet butonuna tıklayarak belge ve notlar ekleme sayfasına ulaşabilirsiniz. 
+-> *Kaydet* butonuna tıklayarak belge ve notlar ekleme sayfasına ulaşabilirsiniz. 
 Bu sayfada, ilgili işlemle ilgili belgeleri yükleyebilir ve açıklayıcı notlar ekleyebilirsiniz.
 
 ## Notlar 
@@ -86,13 +87,13 @@ Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikl
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> belgeyi seç -> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seç -> belgeyi ya da belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
@@ -104,9 +105,9 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Kopyala: Banka hareketini işlemini kopyalamak için kullanılır.
-- Görev Oluştur: Banka hareketi için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+- Görev Oluştur: Banka hareketi için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
 
 

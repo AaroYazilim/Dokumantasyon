@@ -37,7 +37,7 @@ SayfaTipi: Hareket
 
 ### Detay
 
-**Proje:** İşleme ait proje var ise kaydettiğimiz projeyi buradan seçelim.
+**Proje:** İşleme ait proje var ise *Kaydet*tiğimiz projeyi buradan seçelim.
 
 **Plasiyer:** Plasiyer, bir şirketin ürün veya hizmetlerini belirli bir bölgede tanıtan ve satan saha satış temsilcisidir. 
 	Müşterilerle doğrudan iletişim kurarak sipariş alır, ürünlerin tanıtımını yapar ve satış hacmini artırmaya çalışır. 
@@ -53,7 +53,7 @@ Filtreleme veya arama yaparak belirli kriterlere göre kayıtları bulmak için 
 Etiketler kullanım detayları için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 
-**Kaydet dediğimizde hammadde ekranımız açılacaktır.**
+***Kaydet* dediğimizde hammadde ekranımız açılacaktır.**
 
 ## Yeni Stok Kalemi Ekle
 
@@ -79,7 +79,7 @@ Etiketler kullanım detayları için linke tıklayınız. [Etiketler](../TemelOz
 
 ### Detay
 
-**Proje:** İşleme ait proje var ise kaydettiğimiz projeyi buradan seçelim.
+**Proje:** İşleme ait proje var ise *Kaydet*tiğimiz projeyi buradan seçelim.
 
 **Plasiyer:** Plasiyer, bir şirketin ürün veya hizmetlerini belirli bir bölgede tanıtan ve satan saha satış temsilcisidir. 
 	Müşterilerle doğrudan iletişim kurarak sipariş alır, ürünlerin tanıtımını yapar ve satış hacmini artırmaya çalışır. 

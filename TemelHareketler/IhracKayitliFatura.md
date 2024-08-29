@@ -89,7 +89,7 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 **Etiketler:** Bu işlemi gruplamak ve ileride gruplu rapor alabilmek için kullanılan hiyerarşik olmayan tanımlardır. Etiket kullanım detayları için linke tıklayınız. [Etiket](../TemelOzellikler/Etiket.md)
 
 
-Gerekli bilgilerimizi doldurduktan sonra kaydet seçeneğine basalım.
+Gerekli bilgilerimizi doldurduktan sonra *Kaydet* seçeneğine basalım.
 
 Kalem stok ekleme ekranı çıkacak karşımıza;
 
@@ -100,7 +100,7 @@ Kalemimizin hemen yanında büyüteç işaretine tıklayalım,
 Muafiyet eklememiz gerekmektedir, **Vergiler** kısmında KDV oranının altında **Muafiyet Ekle** linki yer almaktadır tıkladığımızda KDV Muafiyet seçeneği açılacaktır. 
 	3065 s. KDV Kanununun 11/1-c md. Kapsamındaki İhraç Kayıtlı Satış (701) muafiyetini seçelim.
 
-## Doldurmamız gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
+## Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
 
 - Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
 - Satış faturamızda satış yapacağımız işlem stok, gelir gider, demirbaş olabilir. En başta ki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
@@ -119,7 +119,7 @@ Muafiyet eklememiz gerekmektedir, **Vergiler** kısmında KDV oranının altınd
 - Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 
-- Satış faturasında bir kalem belirtilecekse kaydet diyerek bir sonraki aşamaya geçebiliriz.
+- Satış faturasında bir kalem belirtilecekse *Kaydet* diyerek bir sonraki aşamaya geçebiliriz.
 - Başka kalemlerde mevcut ise yukarıda aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
 - Sağ üst köşede faturaya ait toplam fiyat kısımlarını içerir;

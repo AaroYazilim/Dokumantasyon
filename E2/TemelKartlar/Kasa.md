@@ -24,4 +24,4 @@ HESAP buradaki kodlar devletin kasa için belirlemiş olduğu kasa(100) numaras�
 **Gelişmiş** 
 Şirket-Şube açılan kart işlem yapılacak birimi buradan seçebilirsiniz.
 Durum Bu kasa kartının aktif ya da pasif olma durumunu seçebiliriz.
-Kaydet diyerek işlemimizi tamamlayabiliriz.
+*Kaydet* diyerek işlemimizi tamamlayabiliriz.

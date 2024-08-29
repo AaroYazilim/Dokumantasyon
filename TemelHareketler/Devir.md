@@ -63,8 +63,8 @@ Devir işlemi, işletmenin finansal sürekliliği ve doğru muhasebe kayıtları
 
 ### Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
@@ -99,9 +99,9 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Yeni Verilen Çek Ekle (Kendimizin): Verilen çekleri devir işlemi için eklemenizi sağlar. Bu işlem, kendi verdiğiniz çeklerin yeni döneme taşınmasını ve borçlarınızın doğru şekilde takip edilmesini sağlar.
 - Yeni Verilen Senet Ekle (Kendimizin): Verilen senetleri devir işlemi için eklemenizi sağlar. Bu işlem, kendi verdiğiniz senetlerin yeni döneme aktarılmasını ve borç kayıtlarınızın güncel kalmasını sağlar.
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Verilen sipariş işlemimizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Verilen sipariş işlemimizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
 
 ## Yazdır
@@ -126,7 +126,7 @@ Verilen siparişimize ekleme yapmak ya da herhangi bir düzeltme yapmak için ka
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Görev Oluştur: Sipariş için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
+- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, *Kaydet* diyerek görevi bağlayabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
 
 

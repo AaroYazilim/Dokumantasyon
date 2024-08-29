@@ -85,9 +85,9 @@ Hazırladığımız reçetede üretmek istediğiniz mamül bilgilerini ifade ede
 
 **Şarj Kg**
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
 
 ## Ek İşlemler 

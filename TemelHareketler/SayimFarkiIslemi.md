@@ -35,7 +35,7 @@ Sayım fark işleme işlemi, bu farkların kaydedilmesi ve gerekli düzeltmeleri
 
 **Depo:** Bu işlemin kullanıldığı depoyu belirtir.
 
-**Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 
 **Vade:** İşlemin yapıldığı vadeyi belirtir.
 
@@ -63,8 +63,8 @@ Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikl
 
 ## Belge
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 

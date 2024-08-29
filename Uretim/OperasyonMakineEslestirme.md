@@ -26,9 +26,9 @@ Bu süreç genellikle üretim planlaması ve iş emri yönetimi süreçleriyle e
 **Makine** Operasyonla eşleştireceğimiz makineyi seçelim.
 **Öncelik** Operasyonun öncelik aşamasının sıralamsını giriniz.
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
 
 ## Ek İşlemler

@@ -34,7 +34,7 @@ Bu tür ödemelerde, belirli bir işlem için gerekli olan tutar, şirketin kasa
 
 	- **Kasa:** Nakit ödemenin yapıldığı kasayı ifade eder.
 
-	- **Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+	- **Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 
 	- **Tutar:** Yapılan ödemenin veya işlemin tutarını ifade eder. İlgili kasadan yapılan nakit çıkışının miktarını gösterir.
 
@@ -44,7 +44,7 @@ Bu tür ödemelerde, belirli bir işlem için gerekli olan tutar, şirketin kasa
 
 	- **Cari:** Nakit ödemenin yapıldığı cariyi ifade eder.
 
-	- **Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+	- **Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 
 	- **Tutar:** Yapılan ödemenin veya işlemin tutarını ifade eder. İlgili kasadan yapılan nakit çıkışının miktarını gösterir.
 
@@ -77,7 +77,7 @@ Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etike
 - **Etiketler:** Cari hareketine özel etiketler veya tanımlayıcı bilgiler eklemeye olanak tanır. 
 Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
 
--> Kaydet butonuna tıklayarak belge ve notlar ekleme sayfasına ulaşabilirsiniz. 
+-> *Kaydet* butonuna tıklayarak belge ve notlar ekleme sayfasına ulaşabilirsiniz. 
 Bu sayfada, ilgili işlemle ilgili belgeleri yükleyebilir ve açıklayıcı notlar ekleyebilirsiniz.
 
 ## Notlar 
@@ -88,8 +88,8 @@ Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikl
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 

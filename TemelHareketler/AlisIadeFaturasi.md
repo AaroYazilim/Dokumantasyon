@@ -114,7 +114,7 @@ Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve de�
 
 Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
 
-### Doldurmamız gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
+### Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
 
 - Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
 - Alış iade faturamızda kalemimiz stok, gelir gider, demirbaş olabilir. En baştaki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
@@ -133,7 +133,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
 
 
-- Alış iade faturasında bir kalem belirtilecekse *kaydet* diyerek bir sonraki aşamaya geçebiliriz.
+- Alış iade faturasında bir kalem belirtilecekse **Kaydet** diyerek bir sonraki aşamaya geçebiliriz.
 - Başka kalemler mevcut ise yukarıda aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
 - Sağ üst köşede faturaya ait toplam fiyat kısımlarını içerir;
@@ -150,9 +150,9 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Yeni Demirbaş Kalemi Ekle: Alış iade faturasına demirbaş kalemi eklemek için kullanılır.
 - İrsaliyeden Kalem Ekle: Alış iade faturasına irsaliyeden kalem eklemek için kullanılır.(İlgili irsaliye seçilerek daha sonrasında kalem ya da kalemler seçilerek ekleme yapılır.)
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan **Kaydet** butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
@@ -177,6 +177,6 @@ Alış iade faturamızda ekleme yapmak ya da herhangi bir düzeltme yapmak için
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Depo Terminaline Aktar: Stokları depo terminaline aktarmak için kullanılır.
 - Görev Oluştur: İade faturası için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listedeki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, *kaydet* diyerek görevi bağlayabiliriz.
+- Görev Bağla: Açılan listedeki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, **Kaydet** diyerek görevi bağlayabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
 

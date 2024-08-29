@@ -64,7 +64,7 @@ Biten işlemler için; Üretim -> Listeler -> Üretim Hareketleri Listesinden g�
 			Örneğin, bir üretim işçisi veya yönetici, ürünlerin üretim aşamalarını takip ederken, terminal ekranında belirli bir aşamadan diğerine geçişi için kullanım sağlar.
 			Üretim aşamasının atlandığını veya tamamlandığını göstermek için kullanılır.
 
-Verileri kontrol ettikten sonra kaydet butonuna basarak üretim operasyonu kaydet işlemini tamamlayabilirsiniz.
+Verileri kontrol ettikten sonra *Kaydet* butonuna basarak üretim operasyonu *Kaydet* işlemini tamamlayabilirsiniz.
 
 ## Terminal Kullanıcı Ekleme 
 
@@ -109,7 +109,7 @@ Kulalnıcının çalışma saaatlerini başlangıç ve bitiş olarak saatlerini 
 
 Kullanıcının aktif ya da pasiflik durumunu buradan seçebilirsiniz. 
 
-**Kaydet butonuna basarak kullanıcı tanımlama işlemini gerçekleştirebilirsiniz.**
+***Kaydet* butonuna basarak kullanıcı tanımlama işlemini gerçekleştirebilirsiniz.**
 
 
 Kullanıcıya bir kaç makineye bakacak ise ya da başka makinede işlem yapacaksa terminal kullanıcısı ile makine eşleştirmesi yapılmalıdır.

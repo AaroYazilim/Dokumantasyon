@@ -73,13 +73,13 @@ Ayrıca, üretim makinelerine cihazlar takılarak, bu süreçlerin otomatikleşt
 
 **Plan Gösterim Sıra**
 
-## Kaydet butonuna basarak makine tanımalama işlemimimiz tamamlanır, belgeler ve notlar ekranına ulaşım sağlarız.
+## *Kaydet* butonuna basarak makine tanımalama işlemimimiz tamamlanır, belgeler ve notlar ekranına ulaşım sağlarız.
 ## Görev oluşturabilir, görev bağlayabiliriz.
 
 ### Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 

@@ -27,7 +27,7 @@ Bu, ürün satışları, hizmet bedelleri, alacak tahsilatları veya diğer geli
 
 **Kasa:** Nakit ödemenin yapıldığı kasayı ifade eder.
 
-**Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 
 **Açıklama:** Kasa işlemi için ek detaylar burada belirtilebilir. 
 
@@ -57,8 +57,8 @@ Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikl
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
@@ -94,7 +94,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 
-- Kasa hareketinde bir kalem belirtilecekse kaydet diyerek bir sonraki aşamaya geçebiliriz.
+- Kasa hareketinde bir kalem belirtilecekse *Kaydet* diyerek bir sonraki aşamaya geçebiliriz.
 - Başka kalemlerde mevcut ise yukarıda aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
 - Sağ üst köşede faturaya ait toplam fiyat kısımlarını içerir;
@@ -110,6 +110,6 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
 - Görev Oluştur: Kasa hareketi için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
+- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, *Kaydet* diyerek görevi bağlayabiliriz.
 
 

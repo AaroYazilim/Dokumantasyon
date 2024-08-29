@@ -75,9 +75,9 @@ Tanımlar: **[Muhasebeleşme Tanımları](../TemelOzellikler/MuhasebelesmeTaniml
 **Masraf Merkezi Zorunlu:** Hareket kaydı girilirken bu kart seçildiğinde masraf merkezi seçilmesini zorunlu yapar.
 
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Kısayollar

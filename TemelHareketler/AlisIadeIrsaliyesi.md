@@ -97,7 +97,7 @@ Kısayol eklemek, işleminizi daha hızlı ve pratik bir şekilde gerçekleştir
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
 Buraya işlem  esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
@@ -119,7 +119,7 @@ Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve de�
 
 Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
 
-## Doldurmamız gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
+## Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
 
 - Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
 - Alış iade irsaliyesinde kalemimiz stok, gelir gider, demirbaş olabilir. En baştaki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
@@ -138,7 +138,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
 
 
-- Alış iade irsaliyesinde bir kalem belirtilecekse *kaydet* diyerek bir sonraki aşamaya geçebiliriz.
+- Alış iade irsaliyesinde bir kalem belirtilecekse **Kaydet** diyerek bir sonraki aşamaya geçebiliriz.
 - Başka kalemlerde mevcut ise yukarıda aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
 - Sağ üst köşede faturaya ait toplam fiyat kısımları bulunur;
@@ -154,9 +154,9 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Yeni Gelirgider Kalemi Ekle: Alış iade irsaliyesine gelir gider kalemi eklemek için kullanılır.
 - Yeni Demirbaş Kalemi Ekle: Alış iade irsaliyesine demirbaş kalemi eklemek için kullanılır.
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan **Kaydet** butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
@@ -181,6 +181,6 @@ Alış iade irsaliyemizde ekleme ya da herhangi bir düzeltme yapmak için kalem
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Depo Terminaline Aktar: Stokları depo terminaline aktarmak için kullanılır.
 - Görev Oluştur: İrsaliye için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listedeki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçip *kaydet* diyerek görevi bağlayabiliriz.
+- Görev Bağla: Açılan listedeki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçip **Kaydet** diyerek görevi bağlayabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.
 

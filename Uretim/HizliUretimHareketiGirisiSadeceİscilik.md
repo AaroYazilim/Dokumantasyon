@@ -68,9 +68,9 @@ Nedeni seçelim alt kısmına da açıklamasını girelim. Makine arıza detayla
 
 Üretime ait özel bir açıklamaları burada belirtebiliriz.
 
-### Kaydet butonuna basarak kaydetme işlemimizi tamamlayabiliriz.
+### *Kaydet* butonuna basarak *Kaydet*me işlemimizi tamamlayabiliriz.
 
-Kaydetme işlemimizi tamamladıktan sonra iş emrimiz, reçetemiz, üretim planımız tamamlanmış olacaktır. 
+*Kaydet*me işlemimizi tamamladıktan sonra iş emrimiz, reçetemiz, üretim planımız tamamlanmış olacaktır. 
 Karşımıza gelen ekranda kayıt ettiğimiz bilgilerden farklı olarak Atlandı seçeneği ve kayıt bilgileri bulunmaktadır.
 Üretim hareketimize belge ve not ekleyebiliriz. Üretim hareketine ait görseller, dokümantasyonlar var ise buraya ekleyebiliriz. 
 Bu şekilde üretim hareketine giren herkes bu belgeleri görüntüleyereke erişim kolaylığı sağlayarak verilerin kaybolmasını önler.
@@ -81,7 +81,7 @@ Bu şekilde üretim hareketine giren herkes bu belgeleri görüntüleyereke eri�
 
 ### İş Emri 
 
-Üretim hareketimizi kaydettikten sonra karşımıza çıkan ekranın sağ üst köşesinden erişim sağlayabiliriz.
+Üretim hareketimizi *Kaydet*tikten sonra karşımıza çıkan ekranın sağ üst köşesinden erişim sağlayabiliriz.
 İş emrimizi görüntüleyebilir, çıktı alabilir, hızlı düzeltmeler yapabilir, planını görebilir ve tekrardan planlayabiliriz.
 İş Emri kullanım detayları için tıklayınız. [İş Emri](../Uretim/IsEmri.md)
 
@@ -105,8 +105,8 @@ Reçete düzenleme kullanım detayları için tıklayınız. [Recete Diagramı](
 
 ### Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
@@ -121,9 +121,9 @@ Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler
 Önemli bir detay var ise bu detayları burada belirtebiliriz.
 Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
-## Kaydetme 
+## *Kaydet*me 
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak üretim hareketi girişi işlemimizi tamamlayabiliriz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak üretim hareketi girişi işlemimizi tamamlayabiliriz.
 
 ### Yazdır
 

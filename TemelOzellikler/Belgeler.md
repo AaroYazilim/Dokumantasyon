@@ -1,7 +1,7 @@
 
 # Belgeler
 
-Herhangi bir harekete veya karta işlem ile ilgili JPEG, PNG veya PDF formatlarında belgeler ekleyebilirsiniz. 
+Herhangi bir harekete veya karta işlem ile ilgili jpg, PNG veya PDF formatlarında belgeler ekleyebilirsiniz. 
 Bu, işlem yapacak kişilerin detaylı bilgiye veya görsellere erişmesini sağlar. 
 Ayrıca, işlem gerçekleşirken çekilen görselleri yükleyebilir ve siparişlerde sözleşmeleri ekleyebilirsiniz. 
 Personellerin özlük dosyalarını ekleyerek verilerin kaybolmasını önler ve ihtiyaç durumunda hızlı erişim sağlar.
@@ -12,7 +12,7 @@ Belge eklemek için tıklayalım:
 - Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 - Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
-Kaydettikten sonra;
+*Kaydet*tikten sonra;
 
 **İndir** Belgeyi cihazınıza indirmek için kullanılır. İndir işartein basarak dosyayı indirebilirsiniz.
 

@@ -32,7 +32,7 @@ Eğer teklif onaylanmazsa, müşteri teklifi revize edilmesi için tekrar isteye
 
 *Stok ve Üretim Kontrolü:* Sipariş edilen ürünlerin stok durumu kontrol edilir veya üretim süreci başlatılır.
 
-Aaro sisteminde teklif onaylandıktan sonra, teklif detaylarına gidip "üç işlem butonu" üzerinden "teklifimizi siparişleştir" seçeneğini seçerek sipariş işlemini tamamlayabilirsiniz. Açılan ekranda, vade, belge tarihi ve belge numarası gibi bilgileri girebilir, ardından "Kaydet" diyerek siparişleştirme işlemini başarıyla tamamlayabilirsiniz.
+Aaro sisteminde teklif onaylandıktan sonra, teklif detaylarına gidip "üç işlem butonu" üzerinden "teklifimizi siparişleştir" seçeneğini seçerek sipariş işlemini tamamlayabilirsiniz. Açılan ekranda, vade, belge tarihi ve belge numarası gibi bilgileri girebilir, ardından "*Kaydet*" diyerek siparişleştirme işlemini başarıyla tamamlayabilirsiniz.
 
 Teklif verilmeden sipariş alındıysa;
 
@@ -60,7 +60,7 @@ Sipariş ekleme detaylarına linkten erişim sağlayabilirsiniz. [İrsaliye Olu�
 
 Faturalandırma Süreci:
 
-İrsaliyesini oluşturduğunuz siparişin bir sonraki aşaması faturalandırmadır. İrsaliye oluşturmadan fatura çıkarmak isterseniz, sipariş detaylarına gidip üç işlem butonundan **"siparişi faturalaştır"** seçeneğini seçerek faturalaştırma işlemini gerçekleştirebilirsiniz. Açılan ekranda, vade, belge tarihi ve belge numarası gibi bilgileri girip *"Kaydet"* ile işlemi tamamlayabilirsiniz.
+İrsaliyesini oluşturduğunuz siparişin bir sonraki aşaması faturalandırmadır. İrsaliye oluşturmadan fatura çıkarmak isterseniz, sipariş detaylarına gidip üç işlem butonundan **"siparişi faturalaştır"** seçeneğini seçerek faturalaştırma işlemini gerçekleştirebilirsiniz. Açılan ekranda, vade, belge tarihi ve belge numarası gibi bilgileri girip *"*Kaydet*"* ile işlemi tamamlayabilirsiniz.
 
 Satış İade İrsaliyesi:
 
@@ -85,10 +85,10 @@ Burada açılan ekranda vade, belge tarihi ve belge numarası girebiliriz.
 
 ### Faturalandırma:
 
-* Kaydetme ve Detay Girişi: 
+* *Kaydet*me ve Detay Girişi: 
 
-*"Kaydet"* butonuna bastığınızda, kalem ekleme, düzenleme ve sipariş detaylarını görme ekranlarına erişirsiniz.
-Bu ekranlarda gerekli bilgileri kontrol edip onayladıktan sonra, *"Kaydet"* diyerek işlemi tamamlayabilirsiniz.
+*"*Kaydet*"* butonuna bastığınızda, kalem ekleme, düzenleme ve sipariş detaylarını görme ekranlarına erişirsiniz.
+Bu ekranlarda gerekli bilgileri kontrol edip onayladıktan sonra, *"*Kaydet*"* diyerek işlemi tamamlayabilirsiniz.
 
 **"Fatura Gönder"** seçeneğine tıklayarak eklemeniz gereken detayları girebilirsiniz.
 Faturanın önizlemesini yaparak son kontrollerinizi sağladıktan sonra faturayı gönderebilirsiniz.

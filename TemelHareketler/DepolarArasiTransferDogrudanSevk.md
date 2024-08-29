@@ -42,7 +42,7 @@ Bu yöntem, özellikle yüksek hacimli veya acil ihtiyaç duyulan ürünlerin ta
 
 **Hedef Depo:** Transferin gerçekleşeceği depoyu ifade eder. Hangi depoya malzeme gönderimi yapılacak ise o depoyu seçelim.
 
-**Kaydet diyerek transeferi gerçekleşecek malzemeler için kalem ekleme ekranına geçerek kaydetme işlemimizi tamamlayabilirsiniz.**
+***Kaydet* diyerek transeferi gerçekleşecek malzemeler için kalem ekleme ekranına geçerek *Kaydet*me işlemimizi tamamlayabilirsiniz.**
 
 ## Kalem Ekleme
 
@@ -53,8 +53,8 @@ Bu yöntem, özellikle yüksek hacimli veya acil ihtiyaç duyulan ürünlerin ta
 
 ## Belge
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
@@ -75,9 +75,9 @@ Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve de�
 
 Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
 
 ## Yazdır
@@ -103,7 +103,7 @@ Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme il
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Depo Terminaline Aktar: 
 - Görev Oluştur: Teklif için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
+- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, *Kaydet* diyerek görevi bağlayabiliriz.
 - Siparişlerini Gör: 
 - Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
 

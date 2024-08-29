@@ -38,7 +38,7 @@ Hareket kayıtlarını giren yetkiliyi görebiliriz.
 
 ## İş Emri 
 
-Üretim hareketimizi kaydettikten sonra karşımıza çıkan ekranın sağ üst köşesinden erişim sağlayabiliriz.
+Üretim hareketimizi *Kaydet*tikten sonra karşımıza çıkan ekranın sağ üst köşesinden erişim sağlayabiliriz.
 İş emrimizi görüntüleyebilir, çıktı alabilir, hızlı düzeltmeler yapabilir, planını görebilir ve tekrardan planlayabiliriz.
 İş Emri kullanım detayları için tıklayınız. [İş Emri](../Uretim/IsEmri.md)
 
@@ -62,8 +62,8 @@ Reçete düzenleme kullanım detayları için tıklayınız. [Recete Diagramı](
 
 ### Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
@@ -78,7 +78,7 @@ Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler
 Önemli bir detay var ise bu detayları burada belirtebiliriz.
 Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.

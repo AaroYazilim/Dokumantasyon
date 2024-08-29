@@ -9,8 +9,8 @@ SayfaTipi: BankaHareketleri
 
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'Banka gider' aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Banka -> Hareket Oluştur -> Bankadan Gider Hareketi şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Banka gider'  şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Banka -> Hareket Oluştur -> Bankadan Gider Hareketi* şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
 
@@ -43,7 +43,7 @@ Bu nedenle, işletmeler genellikle bu tür harcamaları dikkatle izler ve kayded
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
 
-**Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 **Banka Hesap:** Bu hareket işlemi için hangi banka şubesiyle işlem yapılacağını belirtir. 
 **Girilmesi Zorunludur.**
@@ -70,7 +70,7 @@ Bu nedenle, işletmeler genellikle bu tür harcamaları dikkatle izler ve kayded
 
 İşleme ait detaylar açıklamaya eklenebilir. [Etiket](../TemelOzellikler/Etiketler.md)
 
--> Kaydet butonuna tıklayarak belge ve notlar ekleme sayfasına ulaşabilirsiniz. 
+**Kaydet** butonuna tıklayarak belge ve notlar ekleme sayfasına ulaşabilirsiniz. 
 Bu sayfada, ilgili işlemle ilgili belgeleri yükleyebilir ve açıklayıcı notlar ekleyebilirsiniz.
 
 ## Notlar 
@@ -81,13 +81,13 @@ Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikl
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> belgeyi seç -> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seç -> belgeyi ya da belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
@@ -105,9 +105,9 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Miktar: İşlemi gerçekleşen giderin miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
-- İskonto: Giderimizin iskonto oranını belirtir. Uygulanan iskonto var ise buraya oranı girebiliriz.
+- İskonto: Giderimizin iskonto oranını belirtir. Uygulanan bir iskonto var ise buraya oranı girebiliriz.
 - Net Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler hariç, sadece temel maliyetini ifade eden fiyatı belirtir. 
-	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
+	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatları görüntülenebilir.
 - Tutar: Bir mal veya hizmetin toplam mali değerini ifade eden miktarı belirtir. 
 - KDV oran: KDV oranını ifade eder.
 - Depo: Bu kalemin kullandığı depoyu belirtir.
@@ -118,7 +118,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 
-- Banka hareketinde bir kalem belirtilecekse kaydet diyerek bir sonraki aşamaya geçebiliriz.
+- Banka hareketinde bir kalem belirtilecekse **Kaydet** diyerek bir sonraki aşamaya geçebiliriz.
 - Başka kalemlerde mevcut ise yukarıda aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
 - Sağ üst köşede faturaya ait toplam fiyat kısımlarını içerir;
@@ -128,11 +128,11 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Kopyala: Banka hareketini işlemini kopyalamak için kullanılır.
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
 - Görev Oluştur: Banka hareketi için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
+- Görev Bağla: Açılan listedeki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçip **Kaydet** diyerek görevi bağlayabiliriz.

@@ -32,7 +32,7 @@
 
 **Şarj Kg:**
 
-Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna basarak işleminizi kaydebilirsiniz.
+Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna basarak işleminizi kaydebilirsiniz.
 İş emriniz oluşmuştur, sistem size otomatik planlama yapacaktır. Bu planlama üzerinden devam edebilir ya da değişiklik yapabilirsiniz.
 
 ### Değişiklik yapmak için;

@@ -93,7 +93,7 @@ Operasyonların iş emri çıktıları buradan alınarak ilgili kişilere iletil
 Üretim -> Listeler -> Üretim Planı -> Herhangi bir operasyonun üzerine tıklayalım -> Y.I. -> En üst arama çubuğunda ki linkte IsEmriPlanID= ... Burada yazan 5 haneli numara bizim tasarım ID'mizdir.
 
 ID'mizi öğrendikten bir sonra ki işlemimiz parametrelerden iş emri operasyon çıktısına tasarım ID tanımlamamız gerekmektedir.
-Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: Uretim_IsEmriPlanCiktisi (Üretim Planı) -> Değer=TasarımID -> Kaydet diyerek eşleştirmemizi tamamlayalım.
+Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: Uretim_IsEmriPlanCiktisi (Üretim Planı) -> Değer=TasarımID -> *Kaydet* diyerek eşleştirmemizi tamamlayalım.
 
 Tasarımlarımızda düzenleme yapmak istediğimizde;
 Ayarlar -> Çıktı Listesi -> İş Emri -> İlgili tasarımı seçelim -> Tasarla diyerek düzenleme yapabiliriz.
@@ -114,7 +114,7 @@ Bu barkodlar, malzeme veya ürünlerin depolanması, taşınması ve takibi sür
 Üretim -> Listeler -> Üretim Planı -> Herhangi bir operasyonun üzerine tıklayalım -> Y.Br. -> En üst arama çubuğunda ki linkte IsEmriPlanID= ... Burada yazan 5 haneli numara bizim tasarım ID'mizdir.
 
 ID'mizi öğrendikten bir sonra ki işlemimiz parametrelerden iş emri operasyon çıktısına tasarım ID tanımlamamız gerekmektedir.
-Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: Uretim_IsEmriPlanCiktisi (Üretim Planı) -> Değer=TasarımID -> Kaydet diyerek eşleştirmemizi tamamlayalım.
+Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: Uretim_IsEmriPlanCiktisi (Üretim Planı) -> Değer=TasarımID -> *Kaydet* diyerek eşleştirmemizi tamamlayalım.
 
 Tasarımlarımızda düzenleme yapmak istediğimizde;
 Ayarlar -> Çıktı Listesi -> İş Emri -> İlgili tasarımı seçelim -> Tasarla diyerek düzenleme yapabiliriz.

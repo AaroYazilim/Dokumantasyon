@@ -78,11 +78,11 @@ Demirbaş kartı, işletmenin demirbaşlarını etkin bir şekilde izlemesine, e
 **GTIP:** İhracat tipindeki e-faturalarda, demirbaşa ait GTIP değerinin doldurulması zorunludur.
 
 
-Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna basarak Müşteri/Satıcı kartı açma işlemimizi bitirebiliriz.
+Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna basarak Müşteri/Satıcı kartı açma işlemimizi bitirebiliriz.
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
 
 ## Kısayollar

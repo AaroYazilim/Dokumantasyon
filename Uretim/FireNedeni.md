@@ -57,7 +57,7 @@ Bu tür hatalar, üretim süreçlerinin verimsiz çalışmasına ve israfın art
 
 - **Açıklama:** Fire nedenine ait açıklama ya da not girebilirsiniz.
 
-# Kaydet butonuna basarak kaydetme işlemimizi tamamlayabiliriz.
+# *Kaydet* butonuna basarak *Kaydet*me işlemimizi tamamlayabiliriz.
 
 ### Kayıt Bilgileri
 
@@ -67,8 +67,8 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ### Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 

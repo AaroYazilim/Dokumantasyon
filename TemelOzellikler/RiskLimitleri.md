@@ -14,7 +14,7 @@ Finansal risk toleransı, yani kabul edilebilir risk seviyesi belirlenir.
 Bu tolerans, organizasyonun risklere karşı ne kadar dayanabileceğini ve hangi seviyede riski kabul edebileceğini gösterir.
 Risk toleransına göre, finansal işlemlerde risk limitleri tanımlanır. Bu limitler, belirli bir risk seviyesinin ötesine geçilmemesi için üst sınırları belirler.
 Risk limitlerine aşan durumlarda sistem işlem yapmanıza izin vermez. 
-Örneğin, fatura oluşturduğunuzda sistem kaydetmenize izin verir, ancak risk limitini aştığınızda e-fatura ve e-irsaliye gönderimi başarısız olur.
+Örneğin, fatura oluşturduğunuzda sistem *Kaydet*menize izin verir, ancak risk limitini aştığınızda e-fatura ve e-irsaliye gönderimi başarısız olur.
 Bir diğer örnek ise; Bir Carimiz için toplam risk limiti 100000 ₺ olarak tanımladık.
 Carimiz bize 200000 ₺ bir ödeme yaptı bizden de ödeme, 150000 ₺ değerinde ürün talebinde bulundu,
 Carimizde Risk limiti 100000 ₺ tanımlı olduğu için; sistem bize sadece 100000 ₺ değerinde ürün çıkışı yapmamıza izin verecektir.
@@ -50,10 +50,10 @@ Bir Carimize risk limitini nasıl tanımlarız;
 
 		- Toplam: Cari hesaba tanımlanan risk limitleri kapsamında yapılabilecek tüm işlemlerin birikmiş tutarını temsil eder.
 
-	**Kaydet** seçeneği ile risk limiti tanımlama işlemimizi tamamlayabiliriz.
+	***Kaydet*** seçeneği ile risk limiti tanımlama işlemimizi tamamlayabiliriz.
 
 Cariye Risk Limitini tanımladıktan sonra risk limitlerin çalışması için parametre tanımlarımızı yapmamız gerekmektedir.
-- Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: CariRisk_Calissin (Müşteri/Satıcı Risk Limitleri) -> Değer: Evet -> Kaydet 
+- Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: CariRisk_Calissin (Müşteri/Satıcı Risk Limitleri) -> Değer: Evet -> *Kaydet* 
 Carilerimizde Risk Limitlerimizi aktif edilmiştir.
 
 ### Raporlar

@@ -5,94 +5,94 @@ SayfaTipi:
 
 # Karma Transfer Hareketi 
 
-**Eriþim Linki :** [erp.aaro.com.tr/KarmaDekont](erp.aaro.com.tr/KarmaDekont/)
+**Eriï¿½im Linki :** [erp.aaro.com.tr/KarmaDekont](erp.aaro.com.tr/KarmaDekont/)
 
-## Ulaþým 
+## Ulaï¿½ï¿½m 
 
-- Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "karma" aratarak ulaþým saðlayabilirsiniz.
-- Sol menüden Banka -> Hareket Oluþtur -> Diðer Ýþlemler -> Karma Transfer Oluþtur þeklinde ulaþým saðlayabilirsiniz. 
-- Sol menüden Demirbaþ -> Hareket Oluþtur -> Diðerler -> Karma Transfer Oluþtur þeklinde ulaþým saðlayabilirsiniz. 
-- Sol menüden Gelir Gider -> Hareket Oluþtur -> Diðerler -> Karma Transfer Oluþtur þeklinde ulaþým saðlayabilirsiniz. 
-- Sol menüden Kasa -> Hareket Oluþtur -> Diðer Ýþlemler -> Karma Transfer Oluþtur þeklinde ulaþým saðlayabilirsiniz. 
-- Sol menüden Musteri/Satici -> Hareket Oluþtur -> Diðerler -> Karma Transfer Oluþtur þeklinde ulaþým saðlayabilirsiniz. 
-- Sol menüden Stok -> Hareket Oluþtur -> Karma Transfer Oluþtur þeklinde ulaþým saðlayabilirsiniz. 
+- Sol sekmede Aaro kullanï¿½cï¿½ bilgilerinin hemen altï¿½nda yer alan arama motorundan "karma" aratarak ulaï¿½ï¿½m saï¿½layabilirsiniz.
+- Sol menï¿½den Banka -> Hareket Oluï¿½tur -> Diï¿½er ï¿½ï¿½lemler -> Karma Transfer Oluï¿½tur ï¿½eklinde ulaï¿½ï¿½m saï¿½layabilirsiniz. 
+- Sol menï¿½den Demirbaï¿½ -> Hareket Oluï¿½tur -> Diï¿½erler -> Karma Transfer Oluï¿½tur ï¿½eklinde ulaï¿½ï¿½m saï¿½layabilirsiniz. 
+- Sol menï¿½den Gelir Gider -> Hareket Oluï¿½tur -> Diï¿½erler -> Karma Transfer Oluï¿½tur ï¿½eklinde ulaï¿½ï¿½m saï¿½layabilirsiniz. 
+- Sol menï¿½den Kasa -> Hareket Oluï¿½tur -> Diï¿½er ï¿½ï¿½lemler -> Karma Transfer Oluï¿½tur ï¿½eklinde ulaï¿½ï¿½m saï¿½layabilirsiniz. 
+- Sol menï¿½den Musteri/Satici -> Hareket Oluï¿½tur -> Diï¿½erler -> Karma Transfer Oluï¿½tur ï¿½eklinde ulaï¿½ï¿½m saï¿½layabilirsiniz. 
+- Sol menï¿½den Stok -> Hareket Oluï¿½tur -> Karma Transfer Oluï¿½tur ï¿½eklinde ulaï¿½ï¿½m saï¿½layabilirsiniz. 
 
-## Taným 
+## Tanï¿½m 
 
-Karma transfer hareketi, banka, depo, müþteriler ve gelir-gider gibi farklý alanlarda yapýlan iþlemleri tek bir iþlem altýnda birleþtiren bir süreçtir. 
-Bu tür bir iþlem, birden fazla varlýk veya deðerin ayný anda farklý hesaplar veya birimler arasýnda aktarýlmasýný saðlar.
+Karma transfer hareketi, banka, depo, mï¿½ï¿½teriler ve gelir-gider gibi farklï¿½ alanlarda yapï¿½lan iï¿½lemleri tek bir iï¿½lem altï¿½nda birleï¿½tiren bir sï¿½reï¿½tir. 
+Bu tï¿½r bir iï¿½lem, birden fazla varlï¿½k veya deï¿½erin aynï¿½ anda farklï¿½ hesaplar veya birimler arasï¿½nda aktarï¿½lmasï¿½nï¿½ saï¿½lar.
 
-Örneðin, bir iþletme gün sonunda þu iþlemleri yapmak isteyebilir:
+ï¿½rneï¿½in, bir iï¿½letme gï¿½n sonunda ï¿½u iï¿½lemleri yapmak isteyebilir:
 
-- Banka hesabýndan para çekmek (banka)
-- Depodan mal çýkýþý yapmak (depo)
-- Müþteri hesabýna ödeme almak (müþteriler)
-- Ýþletmenin gelir ve giderlerini kaydetmek (gelir-gider)
+- Banka hesabï¿½ndan para ï¿½ekmek (banka)
+- Depodan mal ï¿½ï¿½kï¿½ï¿½ï¿½ yapmak (depo)
+- Mï¿½ï¿½teri hesabï¿½na ï¿½deme almak (mï¿½ï¿½teriler)
+- ï¿½ï¿½letmenin gelir ve giderler*Kaydet*ydetmek (gelir-gider)
 
-Bu iþlemler ayrý ayrý yapýlabileceði gibi, karma transfer hareketi sayesinde tek bir iþlem olarak da gerçekleþtirilebilir. 
-Böylece, banka hesabýndan çekilen para depo hesabýna eklenir, müþteri ödemesiyle birlikte gelir-gider hesabý güncellenir ve bu hareketler bir bütün olarak iþlenir. 
-Bu yöntem, iþletmelerin iþlemlerini daha hýzlý, düzenli ve hatasýz bir þekilde yapmasýna olanak tanýr.
+Bu iï¿½lemler ayrï¿½ ayrï¿½ yapï¿½labileceï¿½i gibi, karma transfer hareketi sayesinde tek bir iï¿½lem olarak da gerï¿½ekleï¿½tirilebilir. 
+Bï¿½ylece, banka hesabï¿½ndan ï¿½ekilen para depo hesabï¿½na eklenir, mï¿½ï¿½teri ï¿½demesiyle birlikte gelir-gider hesabï¿½ gï¿½ncellenir ve bu hareketler bir bï¿½tï¿½n olarak iï¿½lenir. 
+Bu yï¿½ntem, iï¿½letmelerin iï¿½lemlerini daha hï¿½zlï¿½, dï¿½zenli ve hatasï¿½z bir ï¿½ekilde yapmasï¿½na olanak tanï¿½r.
 
 ### Genel 
 
-**Þirket-Þube:** Kartýn ait olduðu þirket ve þubeyi belirtir. Þirket-Þube kullaným detaylarý için linke týklayýnýz. [Þirket-Þube](../TemelOzellikler/SirketSubeKart.md)
+**ï¿½irket-ï¿½ube:** Kartï¿½n ait olduï¿½u ï¿½irket ve ï¿½ubeyi belirtir. ï¿½irket-ï¿½ube kullanï¿½m detaylarï¿½ iï¿½in linke tï¿½klayï¿½nï¿½z. [ï¿½irket-ï¿½ube](../TemelOzellikler/SirketSubeKart.md)
 
-**Tarih:** Ýþlemin yapýldýðý tarihi belirtir.
+**Tarih:** ï¿½ï¿½lemin yapï¿½ldï¿½ï¿½ï¿½ tarihi belirtir.
 
-**Belge No:** Belge numarasýný ifade eder. Otomatik sýradaki numara gelir. Ýstenirse seri kullanýlabilir.
+**Belge No:** Belge numarasï¿½nï¿½ ifade eder. Otomatik sï¿½radaki numara gelir. ï¿½stenirse seri kullanï¿½labilir.
 **Girilmesi Zorunludur.**
 
-**Depo:** Bu iþlemin kullanýldýðý depoyu belirtir.
+**Depo:** Bu iï¿½lemin kullanï¿½ldï¿½ï¿½ï¿½ depoyu belirtir.
 
-**Vade:** Karma transfer hareketlerinde vade, birden fazla iþlemle ilgili borç veya alacaklarýn ödenmesi gereken son tarihleri ifade eder. 
-Bu vade, transfer edilen varlýklarýn veya deðerlerin ilgili hesaplara ne zaman tam olarak yansýtýlacaðýný belirler. 
-	Örneðin, banka transferi, müþteri ödemesi ve depo çýkýþý gibi iþlemlerin her biri için belirlenen son tarihler, karma transfer hareketinin vadeleri olarak adlandýrýlýr.
+**Vade:** Karma transfer hareketlerinde vade, birden fazla iï¿½lemle ilgili borï¿½ veya alacaklarï¿½n ï¿½denmesi gereken son tarihleri ifade eder. 
+Bu vade, transfer edilen varlï¿½klarï¿½n veya deï¿½erlerin ilgili hesaplara ne zaman tam olarak yansï¿½tï¿½lacaï¿½ï¿½nï¿½ belirler. 
+	ï¿½rneï¿½in, banka transferi, mï¿½ï¿½teri ï¿½demesi ve depo ï¿½ï¿½kï¿½ï¿½ï¿½ gibi iï¿½lemlerin her biri iï¿½in belirlenen son tarihler, karma transfer hareketinin vadeleri olarak adlandï¿½rï¿½lï¿½r.
 
 ### Detay
 
-**Proje: Bu hareketin hangi projeye ait olduðunu belirtir. Kalemlerde deðiþtirilebilir.
+**Proje: Bu hareketin hangi projeye ait olduï¿½unu belirtir. Kalemlerde deï¿½iï¿½tirilebilir.
 
-**Plasiyer:** Bu hareketin hangi plasiyere ait olduðunu belirtir. Kalemlerde deðiþtirilebilir.
+**Plasiyer:** Bu hareketin hangi plasiyere ait olduï¿½unu belirtir. Kalemlerde deï¿½iï¿½tirilebilir.
 
 **Tip:** Alt hareket tipini belirtir.
 
-### Açýklamalar
+### Aï¿½ï¿½klamalar
 
-**Açýklamalar:** Ek açýklamalarý belirtir. [Açýklama](../TemelOzellikler/Aciklama.md)
+**Aï¿½ï¿½klamalar:** Ek aï¿½ï¿½klamalarï¿½ belirtir. [Aï¿½ï¿½klama](../TemelOzellikler/Aciklama.md)
 
 ### Etiketler
 
-**Etiketler:** Bu kartý gruplamak ve ileride gruplu rapor alabilmek için kullanýlýr. [Etiketler](../TemelOzellikler/Etiketler.md)
+**Etiketler:** Bu kartï¿½ gruplamak ve ileride gruplu rapor alabilmek iï¿½in kullanï¿½lï¿½r. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 ### Belgeler
 
-Yapacaðýmýz iþlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya iþlem gerçekleþirken ki görselleri yükleyebiliriz.
+Yapacaï¿½ï¿½mï¿½z iï¿½lem iï¿½in elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yï¿½kleyebiliriz.
+Buraya iï¿½lem gerï¿½ekleï¿½irken ki gï¿½rselleri yï¿½kleyebiliriz.
 
-Belge eklemek için týklayalým ;
+Belge eklemek iï¿½in tï¿½klayalï¿½m ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> Ýliþkilendir þeklinde belge yükleme iþlemimizi gerçekleþtirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle þeklinde belge yükleme iþlemimizi gerçekleþtirebiliriz.
+- Daha ï¿½nce yï¿½klediklerimden seï¿½ -> belgeyi seï¿½elim -> ï¿½liï¿½kilendir ï¿½eklinde belge yï¿½kleme iï¿½lemimizi gerï¿½ekleï¿½tirebiliriz.
+- Yï¿½klenecek belge veya resimleri seï¿½in -> belgeyi ya da belgeleri seï¿½elim -> Yï¿½kle ï¿½eklinde belge yï¿½kleme iï¿½lemimizi gerï¿½ekleï¿½tirebiliriz.
 
-Belge kullaným detaylarý için linke týklayýnýz. [Belge](../TemelOzellikler/Belgeler.md)
+Belge kullanï¿½m detaylarï¿½ iï¿½in linke tï¿½klayï¿½nï¿½z. [Belge](../TemelOzellikler/Belgeler.md)
 
 ### Notlar 
 
-Ýþleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detaylarý burada belirtebiliriz.
-Notlar kullaným detaylarý için linke týklayýnýz. [Notlar](../TemelOzellikler/Notlar.md)
+ï¿½ï¿½leme ait ï¿½zel notlar belirtebiliriz. 
+ï¿½nemli bir detay var ise bu detaylarï¿½ burada belirtebiliriz.
+Notlar kullanï¿½m detaylarï¿½ iï¿½in linke tï¿½klayï¿½nï¿½z. [Notlar](../TemelOzellikler/Notlar.md)
 
-### Kayýt Bilgileri
+### Kayï¿½t Bilgileri
 
-Kartýn hangi kullanýcý tarafýndan ve hangi tarihlerde oluþturulduðu ve deðiþtirildiði bilgisini içerir.
+Kartï¿½n hangi kullanï¿½cï¿½ tarafï¿½ndan ve hangi tarihlerde oluï¿½turulduï¿½u ve deï¿½iï¿½tirildiï¿½i bilgisini iï¿½erir.
 
-Kart iþ akýþ süreçlerine dahil edildiðinde hangi kullanýcý tarafýndan hangi tarihte onaylandýðý bilgilerini içerir. 
+Kart iï¿½ akï¿½ï¿½ sï¿½reï¿½lerine dahil edildiï¿½inde hangi kullanï¿½cï¿½ tarafï¿½ndan hangi tarihte onaylandï¿½ï¿½ï¿½ bilgilerini iï¿½erir. 
 
 ### Kalem Ekleme
 
 - Yeni Stok Kalemi Ekle: 
 - Yeni Gelirgider Kalemi Ekle: 
-- Yeni Demirbaþ Kalemi Ekle: 
+- Yeni Demirbaï¿½ Kalemi Ekle: 
 - Yeni Vergi Kalem Ekle: 
 - Yeni Cari Kalemi Ekle: 
 - Yeni Kasa Kalemi Ekle: 
@@ -101,34 +101,34 @@ Kart iþ akýþ süreçlerine dahil edildiðinde hangi kullanýcý tarafýndan hangi tari
 
 
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulmasý gereken alanlar girildikten sonra sað alt köþede bulunan Kaydet butonuna týklayarak Verilen sipariþ iþlemimizi tamamlayabilirsiniz.
-- Kayýtlý bir kartý silmek için sol altta bulunan sil butonuna týklayarak silebilirsiniz.
+- Doldurulmasï¿½ gereken alanlar girildikten sonra saï¿½ alt kï¿½ï¿½ede *Kaydet*n Kaydet butonuna tï¿½klayarak Verilen sipariï¿½ iï¿½lemimizi tamamlayabilirsiniz.
+- Kayï¿½tlï¿½ bir kartï¿½ silmek iï¿½in sol altta bulunan sil butonuna tï¿½klayarak silebilirsiniz.
 
-## Yazdýr
+## Yazdï¿½r
 
-- Sayfanýn sað üstünde bulunan yazýcý sembolü ile sayfaya tanýmlanan özel çýktý formatlarý ile farklý çýktýlar alýnabilir. 
-- Kartta bulunan bilgilerin kullanýcýnýn isteðine baðlý olarak özel tasarým ile yazdýrýlmasýný saðlar.
-- Birden çok çýktý tasarým yapýlabilir ve deðiþtirilebilir.
-- Kullanýcýya özel teklif formu gibi farklý tasarýmlar yapýlabilir.
-- Çýktý tasarýmlarýnýn herbirine ayrý ayrý yetkiler verilerek sadece istenilen kullanýcýnýn belirli çýktýlara ulaþmasý saðlanabilir.
-- Çýktýlar program üzerinden e-mail olarak gönderilebilir. 
+- Sayfanï¿½n saï¿½ ï¿½stï¿½nde bulunan yazï¿½cï¿½ sembolï¿½ ile sayfaya tanï¿½mlanan ï¿½zel ï¿½ï¿½ktï¿½ formatlarï¿½ ile farklï¿½ ï¿½ï¿½ktï¿½lar alï¿½nabilir. 
+- Kartta bulunan bilgilerin kullanï¿½cï¿½nï¿½n isteï¿½ine baï¿½lï¿½ olarak ï¿½zel tasarï¿½m ile yazdï¿½rï¿½lmasï¿½nï¿½ saï¿½lar.
+- Birden ï¿½ok ï¿½ï¿½ktï¿½ tasarï¿½m yapï¿½labilir ve deï¿½iï¿½tirilebilir.
+- Kullanï¿½cï¿½ya ï¿½zel teklif formu gibi farklï¿½ tasarï¿½mlar yapï¿½labilir.
+- ï¿½ï¿½ktï¿½ tasarï¿½mlarï¿½nï¿½n herbirine ayrï¿½ ayrï¿½ yetkiler verilerek sadece istenilen kullanï¿½cï¿½nï¿½n belirli ï¿½ï¿½ktï¿½lara ulaï¿½masï¿½ saï¿½lanabilir.
+- ï¿½ï¿½ktï¿½lar program ï¿½zerinden e-mail olarak gï¿½nderilebilir. 
 
-## Düzenleme 
+## Dï¿½zenleme 
 
-Verilen sipariþimize ekleme yapmak ya da herhangi bir düzeltme yapmak için kalem iþaretini seçerek açýlan ekranda düzenlemeleri yapabiliriz.
+Verilen sipariï¿½imize ekleme yapmak ya da herhangi bir dï¿½zeltme yapmak iï¿½in kalem iï¿½aretini seï¿½erek aï¿½ï¿½lan ekranda dï¿½zenlemeleri yapabiliriz.
 
-## Ek Ýþlemler
+## Ek ï¿½ï¿½lemler
 
- Sayfanýn sað üstünde bulunan alt altta üç çizgi þeklinde olan düðme ile ek iþlemlere ulaþýlýr.
-- Yevmiye Fiþ: Yevmiye fiþi, iþletmelerde gerçekleþen her türlü mali iþlemin tarih, miktar ve açýklama bilgileri ile birlikte kaydedildiði muhasebe belgesidir.
-- Kopyala: Verilen sipariþi kopyalamak için kullanýlýr.
-- Kur Güncelle: Döviz kurunda deðiþiklik yapmak için kullanýlýr.
-- Tüm Kalemlerde Deðiþtir: Buradan depo, proje, sözleþme, vergi muafiyeti, vergileri yenile, iskonto oraný, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde deðiþtirebiliriz.
-- Döviz Türü Deðiþtir: Döviz türü deðiþikliði yapabiliriz.
-- Görev Oluþtur: Sipariþ için görev oluþturup, kiþi atayabiliriz, açýklama, tarih bitiþ, hatýrlatma süresi, yönetici, kullanýcý, tamamlanma tipi, tekrar þekli bilgilerini ekleyerek görev tanýmlama iþlemimizi gerçekleþtirebiliriz.
-- Görev Baðla: Açýlan listede ki görevlerden görevi baðlayacaðýmýz, birleþtireceðimiz görevi seçelim, kaydet diyerek görevi baðlayabiliriz.
-- Grid Sütunlarý Ayarla: Burada kartýn detaylarýnýn gözükmesinde deðiþiklikler yapabilirsiniz.
+ Sayfanï¿½n saï¿½ ï¿½stï¿½nde bulunan alt altta ï¿½ï¿½ ï¿½izgi ï¿½eklinde olan dï¿½ï¿½me ile ek iï¿½lemlere ulaï¿½ï¿½lï¿½r.
+- Yevmiye Fiï¿½: Yevmiye fiï¿½i, iï¿½letmelerde gerï¿½ekleï¿½en her tï¿½rlï¿½ mali iï¿½lemin tarih, miktar ve aï¿½ï¿½klama bilgileri ile birlikte kaydedildiï¿½i muhasebe belgesidir.
+- Kopyala: Verilen sipariï¿½i kopyalamak iï¿½in kullanï¿½lï¿½r.
+- Kur Gï¿½ncelle: Dï¿½viz kurunda deï¿½iï¿½iklik yapmak iï¿½in kullanï¿½lï¿½r.
+- Tï¿½m Kalemlerde Deï¿½iï¿½tir: Buradan depo, proje, sï¿½zleï¿½me, vergi muafiyeti, vergileri yenile, iskonto oranï¿½, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tï¿½m kalemlerde deï¿½iï¿½tirebiliriz.
+- Dï¿½viz Tï¿½rï¿½ Deï¿½iï¿½tir: Dï¿½viz tï¿½rï¿½ deï¿½iï¿½ikliï¿½i yapabiliriz.
+- Gï¿½rev Oluï¿½tur: Sipariï¿½ iï¿½in gï¿½rev oluï¿½turup, kiï¿½i atayabiliriz, aï¿½ï¿½klama, tarih bitiï¿½, hatï¿½rlatma sï¿½resi, yï¿½netici, kullanï¿½cï¿½, tamamlanma tipi, tekrar ï¿½ekli bilgilerini ekleyerek gï¿½rev tanï¿½mlama iï¿½lemimizi gerï¿½ekleï¿½tirebiliriz.
+- Gï¿½rev Baï¿½la: Aï¿½ï¿½lan listede ki gï¿½revlerden gï¿½revi baï¿½layacaï¿½ï¿½mï¿½z, birleï¿½tirece*Kaydet*gï¿½revi seï¿½elim, kaydet diyerek gï¿½revi baï¿½layabiliriz.
+- Grid Sï¿½tunlarï¿½ Ayarla: Burada kartï¿½n detaylarï¿½nï¿½n gï¿½zï¿½kmesinde deï¿½iï¿½iklikler yapabilirsiniz.
 
 

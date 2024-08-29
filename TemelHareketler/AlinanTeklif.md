@@ -82,7 +82,7 @@ Vade, teklifin kabul edilmesinden itibaren geçerli olan ve ödemelerin yapılma
 
 - **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
 
-#### Doldurmamız gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aşamasına geçebilirsiniz.
+#### Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamasına geçebilirsiniz.
 
 - Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
 - Alınan teklifte firmamızın talebi olan stok, gelir gider, demirbaş olabilir. En baştaki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
@@ -101,7 +101,7 @@ Vade, teklifin kabul edilmesinden itibaren geçerli olan ve ödemelerin yapılma
 - Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
 
 
-- Teklifte bir kalem belirtilecekse *kaydet* diyerek bir sonraki aşamaya geçebiliriz.
+- Teklifte bir kalem belirtilecekse **Kaydet** diyerek bir sonraki aşamaya geçebiliriz.
 - Başka kalemlerde mevcut ise yukarıda aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
 - Sağ üst köşede faturaya ait toplam fiyat kısımları bulunur;
@@ -141,9 +141,9 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Yeni Gelirgider Kalemi Ekle: Alınan teklif gelir gider kalemi eklemek için burayı seçerek ekleme yapabilirsiniz.
 - Yeni Demirbaş Kalemi Ekle: Alınan teklif demirbaş kalemi eklemek için burayı seçerek ekleme yapabilirsiniz.
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan **Kaydet** butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
@@ -170,7 +170,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref. teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Görev Oluştur: Teklif için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçip kaydet diyerek görevi bağlayabiliriz.
+- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçip *Kaydet* diyerek görevi bağlayabiliriz.
 - Kapat: Teklifi açmak ya da kapatmak için kullanılır.
 - Paylaş: Alınan teklifin hangi şirket veya şubelerde gözükeceğini buradan seçebiliriz.
 - Siparişleştir: Karşı taraf teklifimizi onayladığında buradan siparişleştir yaparak, siparişimizi oluşturabiliriz.

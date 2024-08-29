@@ -35,7 +35,7 @@ Bu işlem, banka şubesinde, ATM'de veya dijital bankacılık kanalları üzerin
 
 **Kasa** Banka para yatırma işlemi için nakit çıkışının yapılacağı kasa hesabını belirtir.
 
-**Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 	
 **Tutar:** Bankaya yatırılacak nakit miktarını belirtir.
 
@@ -45,7 +45,7 @@ Bu işlem, banka şubesinde, ATM'de veya dijital bankacılık kanalları üzerin
 
 **Banka Hesap:** Nakit paranın yatıralacak banka hesabını belirtir.
 
-**Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 	
 **Tutar:** Bankaya yatırılacak nakit miktarını belirtir.
 
@@ -71,7 +71,7 @@ Bu işlem, banka şubesinde, ATM'de veya dijital bankacılık kanalları üzerin
 
 - **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
 
--> Kaydet butonuna tıklayarak belge ve notlar ekleme sayfasına ulaşabilirsiniz. 
+-> *Kaydet* butonuna tıklayarak belge ve notlar ekleme sayfasına ulaşabilirsiniz. 
 Bu sayfada, ilgili işlemle ilgili belgeleri yükleyebilir ve açıklayıcı notlar ekleyebilirsiniz.
 
 ## Notlar 
@@ -82,8 +82,8 @@ Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikl
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 

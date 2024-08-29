@@ -101,7 +101,7 @@ Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve de�
 
 Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
 
-### Doldurmamız gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
+### Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
 
 - Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
 - Alış faturamızda kalemimiz stok, gelir gider, demirbaş olabilir. En baştaki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
@@ -120,7 +120,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
 
 
-- Alış faturasında bir kalem belirtilecekse *kaydet* diyerek bir sonraki aşamaya geçebiliriz.
+- Alış faturasında bir kalem belirtilecekse **Kaydet** diyerek bir sonraki aşamaya geçebiliriz.
 - Başka kalemlerde mevcut ise yukarıdaki aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
 - Sağ üst köşede faturaya ait toplam fiyat kısımları bulunur;
@@ -138,9 +138,9 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - İrsaliyeden Kalem Ekle: Alış faturasına irsaliyeden kalem eklemek için kullanılır.(İlgili irsaliye seçilerek daha sonrasında kalem ya da kalemler seçilerek ekleme yapılır.)
 - Siparişten Kalem Ekle: Alış faturasına siparişten kalem eklemek için kullanılır. (İlgili sipariş seçilerek daha sonrasında kalem ya da kalemler seçilerek ekleme yapılır.)
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan **Kaydet** butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
@@ -165,7 +165,7 @@ Alış faturamızda ekleme yapmak ya da herhangi bir düzeltme yapmak için kale
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Depo Terminaline Aktar: Stokları depo terminaline aktarmak için kullanılır.
 - Görev Oluştur: Alış faturası için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listedeki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, *kaydet* diyerek görevi bağlayabiliriz.
+- Görev Bağla: Açılan listedeki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, **Kaydet** diyerek görevi bağlayabiliriz.
 - Nakit Ödeme: Cariye kasadan yapılan ödemeler için kullanılır.
 - Banka Ödeme: Cariye bankadan yapılan ödemeler için kullanılır.
 - Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.

@@ -79,14 +79,14 @@ Vade, sipariş için geçerli olan ödemelerin yapılması gereken süreyi tanı
 
 - **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak işlemimizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan **Kaydet** butonuna tıklayarak işlemimizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 	## İş Emri Ver 
 	
-	Kaydet dediğimizde karşımıza çıkan ekranda siparişlerimizi görüntüleyebilir, iş emri verebiliriz.
+	*Kaydet* dediğimizde karşımıza çıkan ekranda siparişlerimizi görüntüleyebilir, iş emri verebiliriz.
 	
 	Kalemlerin yanında, **İş Emri Ver** seçeneği bulunmaktadır burayı seçerek iş emri oluşturabiliriz.
 	
@@ -148,7 +148,7 @@ Bu işlem, ürünlerin doğru bir şekilde paketlenmesi ve gönderilmeye hazırl
 
 	**Hedef Depo:** Siparişin sevkiyatı için ürünlerin hangi şirket veya şubeye çıkacağını belirtir.
 
-> Bilgileri doldurduktan sonra *"Kaydet"* butonuna bastığınızda, Depolar Arası Transfer ekranına erişim sağlanır.
+> Bilgileri doldurduktan sonra *"*Kaydet*"* butonuna bastığınızda, Depolar Arası Transfer ekranına erişim sağlanır.
 	Depolar Arası Transfer hareketinin detaylarına nasıl yapılması gerektiğini bağlantıdan ulaşabilirsiniz. 
 	[Depolar Arası Transfer](../TemelHareketler/DepolarArasiTransfer.md)
 
@@ -164,7 +164,7 @@ Bu işlem, ürünlerin doğru bir şekilde paketlenmesi ve gönderilmeye hazırl
 	**Vade:** Ürün veya hizmetin ödemesinin yapılması gereken süreyi belirtir. 
 Vade, sipariş için geçerli olan ödemelerin yapılması gereken süreyi tanımlar. 
 
--> Bilgileri doldurduktan sonra *"Kaydet"* butonuna bastığınızda, Sipariş bilgilerimizle irsaliye ekranına erişim sağlanır. 
+-> Bilgileri doldurduktan sonra *"*Kaydet*"* butonuna bastığınızda, Sipariş bilgilerimizle irsaliye ekranına erişim sağlanır. 
 Burada güncellenecek bilgileri düzenleyebilir, bilgileri teyit ettikten sonra kaydedebilirsiniz. 
 
 İrsaliye hareketinin detaylarına bağlantıdan ulaşabilirsiniz. 
@@ -181,7 +181,7 @@ Burada güncellenecek bilgileri düzenleyebilir, bilgileri teyit ettikten sonra 
 	**Vade:** Ürün veya hizmetin ödemesinin yapılması gereken süreyi belirtir. 
 Vade, sipariş için geçerli olan ödemelerin yapılması gereken süreyi tanımlar. 
 
-> Bilgileri doldurduktan sonra *"Kaydet"* butonuna bastığınızda, Sipariş bilgilerimizle fatura ekranına erişim sağlanır. 
+> Bilgileri doldurduktan sonra *"*Kaydet*"* butonuna bastığınızda, Sipariş bilgilerimizle fatura ekranına erişim sağlanır. 
 Burada güncellenecek bilgileri düzenleyebilir, bilgileri teyit ettikten sonra kaydedebilirsiniz. 
 Fatura hareketinin detaylarına bağlantıdan ulaşabilirsiniz. 
 [Satış Faturası](../TemelHareketler/SatisFaturasi.md)
@@ -243,7 +243,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Tüm Kalemlerde Değiştir: Depo, proje, sözleşme, vergi muafiyeti, vergiler, iskonto oranı, ithalat/ihracat, plasiyer, ve teslim tarihi bilgilerini tüm kalemlerde değiştirebilirsiniz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabilirsiniz.
 - Görev Oluştur: Sipariş için görev oluşturabilir, kişiyi atayabilir, açıklama, tarih, bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi ve tekrar şekli gibi bilgileri ekleyerek görev tanımlayabilirsiniz.
-- Görev Bağla: Açılan listeden görevi bağlayacağınız veya birleştireceğiniz görevi seçip, *"Kaydet"* diyerek görevi bağlayabilirsiniz.
+- Görev Bağla: Açılan listeden görevi bağlayacağınız veya birleştireceğiniz görevi seçip, *"*Kaydet*"* diyerek görevi bağlayabilirsiniz.
 - Kapat: Siparişi açmak veya kapatmak için kullanılır.
 - Paylaş: Alınan siparişin hangi şirket veya şubelerde görüneceğini seçebilirsiniz.
 - Nakit Tahsilat: Sipariş için nakit tahsilata hızlı erişim sağlar. Kasayı, tahsilat tutarını girip, ek bilgiler ekleyerek siparişe ait nakit tahsilat tanımlayabilirsiniz. 

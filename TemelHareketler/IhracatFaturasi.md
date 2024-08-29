@@ -80,7 +80,7 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 **Etiketler:** Bu işlemi gruplamak ve ileride gruplu rapor alabilmek için kullanılan hiyerarşik olmayan tanımlardır. Etiket kullanım detayları için linke tıklayınız. [Etiket](../TemelOzellikler/Etiket.md)
 
 
-Gerekli bilgilerimizi doldurduktan sonra kaydet seçeneğine basalım.
+Gerekli bilgilerimizi doldurduktan sonra *Kaydet* seçeneğine basalım.
 
 Kalem stok ekleme ekranı çıkacak karşımıza;
 
@@ -110,9 +110,9 @@ Dikkat etmemiz gereken detaylardan biride ihracat yapacağımız ürünün GTIP 
 - Kalemimizin yanındaki üç noktayı tıklayalım -> Kart Aç seçelim.
 - Stok kartımıza buradan kolayca erişi sağlayabiliriz. Gelişmiş kısmında GTIP yer almaktadır, 
 - GTIP (Gümrük Tarife İstatistik Pozisyonu) numaramızı buraya girelim.
-- Kaydet diyerek GTIP kodumuzu tanımlamış bulunmaktayız.
+- *Kaydet* diyerek GTIP kodumuzu tanımlamış bulunmaktayız.
 
-## Doldurmamız gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
+## Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
 
 - Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
 - Satış faturamızda satış yapacağımız işlem stok, gelir gider, demirbaş olabilir. En başta ki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
@@ -131,7 +131,7 @@ Dikkat etmemiz gereken detaylardan biride ihracat yapacağımız ürünün GTIP 
 - Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 
-- Satış faturasında bir kalem belirtilecekse kaydet diyerek bir sonraki aşamaya geçebiliriz.
+- Satış faturasında bir kalem belirtilecekse *Kaydet* diyerek bir sonraki aşamaya geçebiliriz.
 - Başka kalemlerde mevcut ise yukarıda aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
 - Sağ üst köşede faturaya ait toplam fiyat kısımlarını içerir;
@@ -164,8 +164,8 @@ Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikl
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
@@ -180,9 +180,9 @@ Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve de�
 
 Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
 
 ## Yazdır
@@ -203,7 +203,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Depo Terminaline Aktar: 
 - Görev Oluştur: Satış Faturası için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
+- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, *Kaydet* diyerek görevi bağlayabiliriz.
 - Nakit Tahsilat: Fatura için nakit tahsilata hızlı erişimdir. Buradan kasamızı, nakit tahsilat tutarını girerek, eklemek istediğimiz bilgileri ekleyerek, faturaya ait nakit tahsilat tanımlayabiliriz.
 - Kredi Pos Tahsilat: Sipariş için pos tahsilata hızlı erişimdir. Buradan pos tahsilat işlemlerini gösterebiliriz, çekim yaptığım pos tahsilatın bankasını seçelim, tutarını girelim, taksit adedini girelim, eklemek istediğimiz bilgileri ekleyerek, siparişe ait pos tahlisat tanımlayabiliriz. 
 - Banka Tahsilat: Fatura için Havale/EFT Alma hareketine hızlı erişimdir. Buradan banka hesabımıza gelen Havale/EFT Alma işlemimizi, gelen banka hesabımızı seçerek gerekli bilgileri ekleyerek faturaya ait havale/EFT ödemimizi girebiliriz.

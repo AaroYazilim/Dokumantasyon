@@ -26,7 +26,7 @@ Ancak, ödeme tarihi geldiğinde döviz kuru 1 USD = 21 TL olmuşsa, bu kur fark
 - Eğer bir dövizli alacak hesabı işlem yapıldığında belirli bir döviz kuru ile kayıt edilmişse ve kur farkı nedeniyle döviz kuru değişmişse, bu fark alacaklı hesaplarda kur farkı olarak kaydedilir.
 - Benzer şekilde, bir dövizli borç hesabı işlem yapıldığında belirli bir döviz kuru ile kayıt edilip kur farkı nedeniyle değiştiğinde, bu fark borçlu hesaplarda kur farkı olarak kaydedilir.
 
-Diyelim ki bir şirket 1.000 EUR’yu 1 EUR = 25 TL kuru ile satın aldı ve işlemi 25.000 TL olarak kaydetti. 
+Diyelim ki bir şirket 1.000 EUR’yu 1 EUR = 25 TL kuru ile satın aldı ve işlemi 25.000 TL olarak *Kaydet*ti. 
 Ancak, raporlama tarihi geldiğinde EUR/TL kuru 1 EUR = 26 TL’ye yükseldi. Bu durumda:
 
 Şirketin 1.000 EUR alacağı 26.000 TL’ye yükseldi.
@@ -72,8 +72,8 @@ Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikl
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
@@ -97,7 +97,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Yeni Kasa Kalemi Ekle: Kasa kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
 - Yeni Banka Kalemi Ekle: Banka Hesap kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
 
-## Doldurmamız gereken bilgileri doldurduktan sonra kaydet butonuna basarak kur farkı hareketi işlemimizi tamamlayabiliriz.
+## Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak kur farkı hareketi işlemimizi tamamlayabiliriz.
 
 ## Ek İşlemler
 
@@ -108,5 +108,5 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Görev Oluştur: Satış Faturası için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
+- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, *Kaydet* diyerek görevi bağlayabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.

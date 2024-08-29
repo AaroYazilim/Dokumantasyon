@@ -30,7 +30,7 @@ Her operasyon, üretim sürecinde belirli bir görevin nasıl yapılacağını a
 
 ### Belgeler
 
-PDF, JPEG, PNG gibi belgeleri eklemek mümkündür. Bu belgelere erişim izni olanlar, belgelere ulaşabilir, indirebilir ve kontrol edebilirler.
+PDF, jpg, PNG gibi belgeleri eklemek mümkündür. Bu belgelere erişim izni olanlar, belgelere ulaşabilir, indirebilir ve kontrol edebilirler.
 Bu özellik, paylaşılan verilerin güvenliği ve kolay erişimi için önemli bir hizmet sunar. 
 Detaylı bilgi için tıklayınız. [Belgeler](../TemelOzellikler/Belgeler.md)
 
@@ -40,7 +40,7 @@ Detaylı bilgi için tıklayınız. [Belgeler](../TemelOzellikler/Belgeler.md)
 Bu bölüm, üretim sürecindeki personel ve yöneticilerin daha iyi iletişim kurmalarına ve süreci daha verimli yönetmelerine yardımcı olur.
 Detaylı bilgi için tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
-**Kaydet butonuna basarak yeni reçete operasyon ekleme işlemimizi başarıyla tamamlamış bulunmaktayız.**
+***Kaydet* butonuna basarak yeni reçete operasyon ekleme işlemimizi başarıyla tamamlamış bulunmaktayız.**
 
 ## Operasyon Sil
 

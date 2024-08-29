@@ -29,7 +29,7 @@ Satış fiyat listesi, müşterilerin ve işletme personelinin fiyat bilgilerine
 
 **Durum:** Aktif veya pasif durumunu ifade eder.
 
-*Kaydet diyerek fiyat listemizin kalemlerini ekleyebiliriz.*
+**Kaydet* diyerek fiyat listemizin kalemlerini ekleyebiliriz.*
 
 **Toplu Stok Kalem Ekle:** Stok listemizden seçim yapabiliriz.
 

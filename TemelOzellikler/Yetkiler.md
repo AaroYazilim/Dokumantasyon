@@ -59,6 +59,6 @@ Listenin en üst kısmında yer alan filtreleme özelliği sayesinde, yetki veya
 **İndirme:** Belirlenen kullanıcı grubu veya kullanıcıların seçilen program ID'sine hareket listesi veya kart listesinin excel dökümü indirmeyi ifade eder.
 	Örneğin; Seçilen ProgramID: Satış Faturası(Hareketler) ekleme seçeneği aktif ettiğimiz kullanıcı ya da kullanıcı grupları satış faturası hareketlerini Listeyi Excele Aktar diyerek dökümünü alabilir.
 
-**Kaydet diyerek yetkileri aktif hale getirilir.**
+***Kaydet* diyerek yetkileri aktif hale getirilir.**
 
 

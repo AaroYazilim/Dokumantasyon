@@ -29,7 +29,7 @@ Verilen siparişte siparişin kim tarafından onaylandığı ve sipariş numaras
 
 **Satıcı:** Satın alma yapıldığı cari kartını ifade eder. **Girilmesi Zorunludur.**
 
-**Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 
 **Depo:** Bu işlemin kullanıldığı depoyu belirtir.
 
@@ -66,7 +66,7 @@ Verilen siparişte siparişin kim tarafından onaylandığı ve sipariş numaras
 
 - **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
 
-## Doldurmamız gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
+## Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
 
 - Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
 - Verilen siparişimiz stok, gelir gider, demirbaş olabilir. En başta ki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
@@ -84,7 +84,7 @@ Verilen siparişte siparişin kim tarafından onaylandığı ve sipariş numaras
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 - Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
 
-- Siparişte bir kalem belirtilecekse kaydet diyerek bir sonraki aşamaya geçebiliriz.
+- Siparişte bir kalem belirtilecekse *Kaydet* diyerek bir sonraki aşamaya geçebiliriz.
 - Başka kalemlerde mevcut ise yukarıda ki aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
 - Sağ üst köşede faturaya ait toplam fiyat kısımlarını içerir;
@@ -95,8 +95,8 @@ Verilen siparişte siparişin kim tarafından onaylandığı ve sipariş numaras
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
@@ -126,9 +126,9 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Talepten Kalem Ekle: Siparişimizde, satın alma talebinde bulunan taleplerden kalem eklemek için kullanılır.
 
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Verilen sipariş işlemimizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Verilen sipariş işlemimizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
 
 ## Yazdır
@@ -152,7 +152,7 @@ Verilen siparişimize ekleme yapmak ya da herhangi bir düzeltme yapmak için ka
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Görev Oluştur: Sipariş için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
+- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, *Kaydet* diyerek görevi bağlayabiliriz.
 - Kapat: Siparişimizi açmak ya da kapatmak için kullanılır.
 - Paylaş: Alınan siparişin hangi şirket veya şubelerde gözükeceğini buradan seçebiliriz.
 - İrsaliyeleştir: Siparişimiz tamamalandıktan sonra buradan irsaliyeleştir yaparak, siparişimizi irsaliyeleştirebiliriz.

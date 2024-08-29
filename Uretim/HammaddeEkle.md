@@ -26,7 +26,7 @@ Bu bilgiler, işletmenin alım faturalarını analiz etmek ve fiyatlar üzerinde
 
 #### Belgeler 
 
-Buraya PDF, JPEG, PNG gibi belgeleri eklemek mümkündür. Bu belgelere erişim izni olanlar, belgelere ulaşabilir, indirebilir ve kontrol edebilirler. 
+Buraya PDF, jpg, PNG gibi belgeleri eklemek mümkündür. Bu belgelere erişim izni olanlar, belgelere ulaşabilir, indirebilir ve kontrol edebilirler. 
 
 #### Notlar 
 

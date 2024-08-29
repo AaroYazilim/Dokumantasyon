@@ -62,7 +62,7 @@ Makinelerimizden biri arıza verdiğinde yeni makine arıza kaydını girebiliri
 
 **Şirket-Şube:** Hangi şirket-şubedeki makine arızalandıysa o şirket-şubeyi seçelim. 
 
-**Kaydet butonu basarak kaydetme işlemimizi tamamladıktan sonra karşımıza çıkan ekranda belgeler ve notlar kısmından belge ve not ekleyebiliriz.**
+***Kaydet* butonu basarak *Kaydet*me işlemimizi tamamladıktan sonra karşımıza çıkan ekranda belgeler ve notlar kısmından belge ve not ekleyebiliriz.**
 
 ### Görev Oluştur
 
@@ -88,8 +88,8 @@ Makinelerimizden biri arıza verdiğinde yeni makine arıza kaydını girebiliri
 
 ### Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
@@ -104,9 +104,9 @@ Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler
 Önemli bir detay var ise bu detayları burada belirtebiliriz.
 Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
-## Kaydetme 
+## *Kaydet*me 
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak üretim hareketi girişi işlemimizi tamamlayabiliriz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak üretim hareketi girişi işlemimizi tamamlayabiliriz.
 
 ### Yazdır
 

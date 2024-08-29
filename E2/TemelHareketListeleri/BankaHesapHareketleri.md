@@ -176,7 +176,7 @@ Karma Transfer Hareketi
 
 Kartlar
 
-**Banka Hesap Kartı Listesi:** Burada sistemde kaydetmiş olduğumuz kasa kartlarının hepsini gösterir borç-alacaklı hesapları gösterir. 
+**Banka Hesap Kartı Listesi:** Burada sistemde *Kaydet*miş olduğumuz kasa kartlarının hepsini gösterir borç-alacaklı hesapları gösterir. 
 Verilerimiz çok olduğunda kod kısımlarına ekleme yaptığımız özel özelliklere göre filtreleme sağlayabiliriz.
 
 **POS Hesaba Geçiş Tanımı Listesi:** Burada POS hesabının banka kartları ile işlem hareketlerini görüntüleyebilmekteyiz.

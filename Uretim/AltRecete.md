@@ -34,12 +34,12 @@ Operasyon Bilgileri kısmına geçelim;
 Operasyon -> Karışım -> Makine karışımda kullanacağımız makinemizi seçelim -> Bu operasyonda çalışacak işçi adedini, hazırlık süremizi, üretim süremizi, açıklama, hesap açıklaması, işçilik / Saat, Çalışma Mal.Saat bilgilerini girelim.
 Gelişmiş -> Şirket-Şubemizi seçelim -> Şarj Kg 
 
-Kaydet diyerek reçete taslağımızın ilk aşamasını tamamlayalım.
+*Kaydet* diyerek reçete taslağımızın ilk aşamasını tamamlayalım.
 Reçetemizi detaylandıralım;
 Kalem minesi yarı mamülümüz grafit, kil ve emprenye karışımdan oluşmaktadır.
 
 Kalem minesi yarı mamülümüz için hammaddelerimizi girelim;
-Yarı mamülümüzü elde ettiğimiz operasyonumuza tıklıyoruz -> Hammadde Ekle -> Hammaddemiz Kil -> Miktarı, birim fiyatını, Açıklama, hesap açıklamasını girelim -> Kaydet diyelim.
+Yarı mamülümüzü elde ettiğimiz operasyonumuza tıklıyoruz -> Hammadde Ekle -> Hammaddemiz Kil -> Miktarı, birim fiyatını, Açıklama, hesap açıklamasını girelim -> *Kaydet* diyelim.
 Diğer hammaddemiz emprenye girişini de yapalım aynı şekilde ekliyoruz hammadde adına emprenye olarak giriyoruz.
 
 Kalem minelerini hazırladığımız mamülü lata ile bir yapıştırıcı yardımıyla birleştireceğiz. Şimdi ise lata'yı reçetemize tanımlayalım.
@@ -76,9 +76,9 @@ Kartı aç dediğimizde Alt reçetemizi yeni sekmede görüntüleyebiliriz.
 ### Ana Reçeteye Alt Reçete Bağlama 
 
 Ana reçetemizde hammadde olarak görünen yarı mamülümüzün için, ana reçetede ki hammaddeye tıklayalım -> Hammadde düzelt diyelim -> 
-Gelişmiş kısmında Alt Reçete -> Alt reçetemizi seçelim -> Kaydet diyelim bu şekilde ana retemize alt reçetemizi tanımlayabiliriz.
+Gelişmiş kısmında Alt Reçete -> Alt reçetemizi seçelim -> *Kaydet* diyelim bu şekilde ana retemize alt reçetemizi tanımlayabiliriz.
 
 Ana reçetenizde hammadde olarak görünen yarı mamulü alt reçete ile ilişkilendirmek için şu adımları izleyebilirsiniz; 
-Ana reçetede ki hammaddeye tıklayalım -> Hammadde düzelt diyelim -> Gelişmiş kısmında Alt Reçete -> Alt reçetemizi seçelim -> Kaydet
+Ana reçetede ki hammaddeye tıklayalım -> Hammadde düzelt diyelim -> Gelişmiş kısmında Alt Reçete -> Alt reçetemizi seçelim -> *Kaydet*
 Bu adımları takip ederek, ana reçetenizdeki yarı mamulü, tanımlı bir alt reçete ile ilişkilendirip kullanabilirsiniz. 
 Bu sayede, üretim süreçlerinizde hem daha düzenli bir yapı oluşturmuş olur hem de süreçlerinizi kolaylaştırırsınız.

@@ -121,10 +121,10 @@ Bu modül; doğru stok seviyelerinizi korumak, müşteri taleplerinize zamanınd
 	- Genel_StokKartKoduOtomatikUzunluk (Genel): Stok Kartların kodunun otomatik kaç hane olacağını belirtir. Ön Değeri:15
 	- EksiBakiyeKontrolu (Stok Kartı): Stok bakiyelerinin eksiye düşmesini engeller.
 	- SayimFarkiniIslemeGelirGiderHesabi (Stok Kartı): Yapılan sayımın işlendikten sonra kalan bakiyenin hangi hesaba atılacağını belirler.
-	- Stok_StandartMuhasebe (Stok Kartı): Stok-Demirbaş-GelirGider rehberlerindeki hızlı kaydet seçeneği kullanılacağı zaman tüm hızlı kayıtlar burada belirtilen stok muhasebesi kodu ile kaydedilir.
-	- Stok_StandartVergi (Stok Vergi Tanımı): Stok-Demirbaş-GelirGider rehberlerindeki hızlı kaydet seçeneği kullanılacağı zaman tüm hızlı kayıtlar burada belirtilen vergi ile kaydedilir.
-	- Stok_StandartDepo (Depo Kartı): Stok-Demirbaş-GelirGider rehberlerindeki hızlı kaydet seçeneği kullanılacağı zaman tüm hızlı kayıtlar burada belirtilen depoya kaydedilir.
-	- Stok_StandartStokBrm1 (Ölçü Birimi): Stok-Demirbaş-GelirGider rehberindeki hızlı kaydet seçeneği kullanılacağı zaman tüm hızlı kayıtlar burada belirtilen ölçü birimi ile kaydedilir.
+	- Stok_StandartMuhasebe (Stok Kartı): Stok-Demirbaş-GelirGider rehberlerindeki hızlı *Kaydet* seçeneği kullanılacağı zaman tüm hızlı kayıtlar burada belirtilen stok muhasebesi kodu ile kaydedilir.
+	- Stok_StandartVergi (Stok Vergi Tanımı): Stok-Demirbaş-GelirGider rehberlerindeki hızlı *Kaydet* seçeneği kullanılacağı zaman tüm hızlı kayıtlar burada belirtilen vergi ile kaydedilir.
+	- Stok_StandartDepo (Depo Kartı): Stok-Demirbaş-GelirGider rehberlerindeki hızlı *Kaydet* seçeneği kullanılacağı zaman tüm hızlı kayıtlar burada belirtilen depoya kaydedilir.
+	- Stok_StandartStokBrm1 (Ölçü Birimi): Stok-Demirbaş-GelirGider rehberindeki hızlı *Kaydet* seçeneği kullanılacağı zaman tüm hızlı kayıtlar burada belirtilen ölçü birimi ile kaydedilir.
 	- Stok_RehberAdSekli (Stok Kartı): Stok Rehberinde Ad Görüntüleme şeklini belirtir. 1 Değeri girildiğinde 'Adı (Kodu)' şeklinde görünür. 2 için 'Kodu Adi'. 3 için 'Barkodu Kodu Adı'. 4 için 'Adı (Kodu) Barkodu Kodlar Etiketler' şeklinde gözükür.
 	- Stok_RehberBarkodluGiris (Stok Kartı): Stok Rehberinde hareket satırlarında sadece barkod ile seçim yapılabileceğini belirtir.
 	- Stok_OzetMaliyetFiyatTipi (Stok Kartı): Stok Rehberinde hareket satırlarında sadece barkod ile seçim yapılabileceğini belirtir.

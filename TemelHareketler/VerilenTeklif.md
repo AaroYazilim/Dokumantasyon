@@ -28,7 +28,7 @@ Bu tanım, teklifin kapsamını, teslim edilecek ürün veya hizmetlerin detayla
 
 **Müşteri:** İşlemin yapıldığı cari kartını ifade eder. **Girilmesi Zorunludur.**
 
-**Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 
 **Depo:** Bu işlemin kullanıldığı depoyu belirtir.
 
@@ -66,7 +66,7 @@ Vade, teklifin kabul edilmesinden itibaren geçerli olan ve ödemelerin yapılma
 
 - **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
 
-## Doldurmamız gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
+## Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
 
 - Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
 - Verilen teklifte firmamızın talebi olan stok, gelir gider, demirbaş olabilir. En başta ki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
@@ -84,7 +84,7 @@ Vade, teklifin kabul edilmesinden itibaren geçerli olan ve ödemelerin yapılma
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 - Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
 
-- Teklifte bir kalem belirtilecekse kaydet diyerek bir sonraki aşamaya geçebiliriz.
+- Teklifte bir kalem belirtilecekse *Kaydet* diyerek bir sonraki aşamaya geçebiliriz.
 - Başka kalemlerde mevcut ise yukarıda aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
 - Sağ üst köşede faturaya ait toplam fiyat kısımlarını içerir;
@@ -96,8 +96,8 @@ Vade, teklifin kabul edilmesinden itibaren geçerli olan ve ödemelerin yapılma
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
@@ -124,9 +124,9 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Yeni Gelirgider Kalemi Ekle: Vereceğimiz teklife gelir gider kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
 - Yeni Demirbaş Kalemi Ekle: Vereceğimiz teklife demirbaş kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
 
 ## Yazdır
@@ -150,7 +150,7 @@ Verilen teklifimizde ekleme yapmak ya da herhangi bir düzeltme yapmak için kal
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Görev Oluştur: Teklif için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
+- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, *Kaydet* diyerek görevi bağlayabiliriz.
 - Kapat: Teklifimizi açmak ya da kapatmak için kullanılır.
 - Paylaş: Verilen teklifin hangi şirket veya şubelerde gözükeceğini buradan seçebiliriz.
 - Siparişleştir: Karşı taraf teklifimizi onayladığında buradan siparişleştir yaparak, siparişimizi oluşturabiliriz.

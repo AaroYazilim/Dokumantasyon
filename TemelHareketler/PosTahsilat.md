@@ -44,12 +44,12 @@ POS tahsilatlar, nakit ödemelere alternatif olarak hızlı, güvenli ve izleneb
 
 **Tip:** Alt hareket tipini belirtir.
 
-**Kaydet diyerek belge ve notlar, kayıt bilgileri, yazdırma ekranına geçerek kaydetme işlemimizi tamamlayabilirsiniz.**
+***Kaydet* diyerek belge ve notlar, kayıt bilgileri, yazdırma ekranına geçerek *Kaydet*me işlemimizi tamamlayabilirsiniz.**
 
 ## Belge
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 

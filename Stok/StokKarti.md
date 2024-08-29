@@ -130,9 +130,9 @@ Muhasebeleşme tanımlarını ayarlayarak, bu kart için hareket işlendiğinde 
 Bu kısma stok ile ilgili açıklama eklenebilir. Açıklama detaylarına linkten erişim sağlayabilirsiniz. [Açıklamalar](../TemelOzellikleri/Aciklama.md)
 
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan **Kaydet** butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Kısayollar

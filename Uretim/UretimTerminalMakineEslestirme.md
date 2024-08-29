@@ -31,11 +31,11 @@ Terminal ile makine eşleştirmesi yapacağımız terminal kullanıcısı tanım
 
 **Makine Adı** Eşleştirme yapacağımız makineyi seçelim.
 
-**Kaydet butonuna basarak eşleştirmemizi gerçekleştirdik.
+***Kaydet* butonuna basarak eşleştirmemizi gerçekleştirdik.
 
 - Makine eşleştirdikten sonra sistemden giriş çıkış yapınız, sistem güncellemelerinizi kaydedecektir.
 
-## Kaydet butonuna basarak makine tanımlama işlemimimiz tamamlanır, belgeler ve notlar ekranına ulaşım sağlarız.
+## *Kaydet* butonuna basarak makine tanımlama işlemimimiz tamamlanır, belgeler ve notlar ekranına ulaşım sağlarız.
 ## Görev oluşturabilir, görev bağlayabiliriz.
 
 ### Belgeler
@@ -62,9 +62,9 @@ Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve de�
 
 Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
 
-## Kaydetme ve Silme
+## *Kaydet*me ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemini tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işlemini tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
 
 ## Ek İşlemler
