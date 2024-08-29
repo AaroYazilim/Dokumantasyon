@@ -7,7 +7,7 @@ SayfaTipi: Liste
 
 **Erişim Linki :** [erp.aaro.com.tr/SiparisListe/Liste?TipID=10013,10016&TarihBas=!AyBasi(-3)&Kapali=false](erp.aaro.com.tr/SiparisListe/Liste?TipID=10013,10016&TarihBas=!AyBasi(-3)&Kapali=false)
 
-**Satış sözleşme listesi**, bir işletmenin müşterileriyle yaptığı tüm satış sözleşmelerini gösteren bir dökümandır. Bu listede; sözleşme numaraları, sözleşme tarihleri, müşteri bilgileri, satılan ürün veya hizmetler ve sözleşme şartları bulunmaktadır.
+**Satış sözleşme listesi**, bir işletmenin müşterileriyle yaptığı tüm satış sözleşmelerini gösteren bir dokümandır. Bu listede; sözleşme numaraları, sözleşme tarihleri, müşteri bilgileri, satılan ürün veya hizmetler ve sözleşme şartları bulunmaktadır.
 
 
 
@@ -51,8 +51,8 @@ Eşleştirme yapacağımız sözleşmeyi seçelim, fiyat listesini seçelim, isk
 
 ## Ek İşlemler
 
-- Ana sayfaya Kısayol Olarak Ekle: Ana sayfamıza hızlı erişim sağlayabilmek için kısayollarımıza ekleyebiliriz. [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
-- Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz. [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
+- Ana Sayfaya Kısayol Olarak Ekle: Ana sayfamıza hızlı erişim sağlayabilmek için kısayollarımıza ekleyebiliriz. [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+- Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz. [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
 
 ## Belgeler
 

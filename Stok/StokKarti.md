@@ -9,17 +9,15 @@ SayfaTipi: Kart
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Stok kartı" olarak aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Stok -> Stok Modülü -> Yeni Stok Kartı şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Stok -> Kartlar -> Stok Kartı Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "Stok kartı" olarak aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *Stok -> Stok Modülü -> Yeni Stok Kartı* şeklinde ulaşım sağlayabilirsiniz. 
+- *Sol menüden Stok -> Kartlar -> Stok Kartı Listesi* üzerinden ulaşım sağlayarak yeni kart ekleyebilir ya da mevcutları düzenleyebilirsiniz.
 
 ### Tanım
 
-Stok, bir işletmenin sahip olduğu satış veya üretim için kullanılmak üzere depoladığı tüm fiziksel varlıkları ifade eder. 
-Bu varlıklar, malzemeler, hammadde, yarı mamul veya tamamlanmış ürünler olabilir. 
-Stok kartlarınızı tanımlayarak, bu varlıkların miktarını, değerini ve döngüsünü izleyebilir ve optimize edebilirsiniz. 
-Stok seviyelerini belirlemek, stok hareketlerini işlemek ve envanterin doğru bir şekilde yönetilmesi için stok kartları tanımlanmalıdır.
-Aşağıdaki bilgiler doldurularak stok kartınızı tanımlayabilirsiniz.
+Stok, bir işletmenin satış veya üretim amacıyla depoladığı tüm fiziksel varlıkları ifade eder. Bu varlıklar malzemeler, ham madde, yarı mamul veya tamamlanmış ürünler olabilir. Stok kartlarınızı tanımlayarak, bu varlıkların miktarını, değerini ve döngüsünü izleyebilir ve optimize edebilirsiniz. Stok seviyelerini belirlemek, stok hareketlerini işlemek ve envanterin doğru bir şekilde yönetilmesi için stok kartları oluşturulmalıdır. 
+
+Stok kartınızı tanımlamak için aşağıdaki bilgileri doldurabilirsiniz.
 
 ### Genel
 
@@ -27,7 +25,7 @@ Aşağıdaki bilgiler doldurularak stok kartınızı tanımlayabilirsiniz.
 
 **Stok Kodu:** Kartın kendine özel kodudur. Detaylı tanım için linke tıklayınız. [Kart Kodu](../TemelOzellikler/KartKodu.md)
 
-**Birim 1:** Stok kartının hangi birim cinsinden takip edileceğini belirtir. Girilecek ürünün ölçü ya da sayım birimi yani adet m3 kg litre desi koli plaka gibi özellikler eklenebilir.
+**Birim 1:** Stok kartının hangi birim cinsinden takip edileceğini belirtir. Girilecek ürünün ölçü ya da sayım birimi yani adet, m3, kg, litre, desi, koli, plaka gibi özellikler eklenebilir.
 
 **Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
 
@@ -42,7 +40,7 @@ Aşağıdaki bilgiler doldurularak stok kartınızı tanımlayabilirsiniz.
 
 **Satış Fiyat:** Bu karta ait ürün veya hizmetin müşterilere satıldığı fiyatı ifade eder.
 
-**Döviz Adı:** Bu stok kartın aiat alış fiyatının çalıştığı döviz cinsini belirtir. Bilgi amaçlıdır.
+**Döviz Adı:** Bu stok kartın alış fiyatının çalıştığı döviz cinsini belirtir. Bilgi amaçlıdır.
 
 
 ### Barkod
@@ -58,9 +56,9 @@ Aşağıdaki bilgiler doldurularak stok kartınızı tanımlayabilirsiniz.
 
 **Birim 3:** Bu stok kartı için üçüncü ölçü birimidir.Kolay hesap yapmak ve raporlarda farklı cins rapor alabilmek için kullanılır.
 
-**Çevrimiçi Birim2:** Birim-1 cinsinden bu stoğun kaç Birim-2 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-2:Deste ise bu deger = 0,1(1/10) olur.
+**Çevrimiçi Birim2:** Birim-1 cinsinden bu stoğun kaç Birim-2 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-2:Deste ise bu değer = 0,1(1/10) olur.
 
-**Çevrimiçi Birim3:** Birim-1 cinsinden bu stoğun kaç Birim-3 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-3:Düzine ise bu deger = 0,083(1/12) olur.
+**Çevrimiçi Birim3:** Birim-1 cinsinden bu stoğun kaç Birim-3 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-3:Düzine ise bu değer = 0,083(1/12) olur.
 
 **Üretim Birim:** Üretimle ilgili raporlarda seçilen birim cinsinden rapor almanızı kolaylaştırır.
 
@@ -78,30 +76,28 @@ Aşağıdaki bilgiler doldurularak stok kartınızı tanımlayabilirsiniz.
 
 
 ### Vergi Oranları
-
-**Vergi Oranları:** Bu stok kartı ait işlemlerde kullanılacak devletin belirlemiş olduğu KDV oranını(vergi oranını) belirtir. **Girilmesi Zorunludur.**
+ Bu stok kartı ait işlemlerde kullanılacak devletin belirlemiş olduğu KDV oranını(vergi oranını) belirtir. **Girilmesi Zorunludur.**
 
 ### Muhasebe Tanımları
 
-Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde otomatikman belirli muhasebe hesaplarına gerekli kayıtların oluşmasını sağlayabilirsiniz.
+Muhasebeleşme tanımlarını ayarlayarak, bu kart için hareket işlendiğinde otomatik olarak belirli muhasebe hesaplarına gerekli kayıtların oluşturulmasını sağlayabilirsiniz.
 [Muhasebeleşme Tanımları](../TemelOzellikler/MuhasebelesmeTanimlari.md)
 
 
 
 ### Bayi Tanımları
 
-**Bayide Göster:** Tüm stoklarınız bayilerinize gösterilmez.Bayi sisteminiz aktif ise göstermek istediğiniz bir stok ise işartelemeniz gerekmektedir.
+**Bayide Göster:** Stoklarınızın tamamı bayilerinize gösterilmez. Bayi sisteminiz aktifse, göstermek istediğiniz stoku işaretlemeniz gerekmektedir.
 
-**Bayi Maks. Miktar:** Bayileriniz, belirleyeceğiniz sayının üzerindeki stok miktarını göremez. Örneğin;Deponuzda 100 birim ABC stoğu var.
-Bu alana 50 girilirse, bayileriniz bu stoğun miktarını 50+ şeklinde görecektir.0 girerseniz asdece'Stokta Var' ya da 'Stokta Yok' şeklinde görürler.
+**Bayi Maks. Miktar:** Bayileriniz, belirlediğiniz sayının üzerindeki stok miktarını göremezler. Örneğin, deponuzda 100 birim ABC stoğu varsa ve bu alana 50 girerseniz, bayileriniz bu stoğun miktarını "50+" şeklinde görecektir. Eğer 0 girerseniz, bayiler sadece "Stokta Var" veya "Stokta Yok" şeklinde görebilirler.
 
 **Stok Yönetimi**
 
-**Takip Yöntemi:** Stok miktar takibi yapılırken Seri veya Lot takibi yapılıp yapılmadığını belirler. **Girilmesi Zorunludur.**
+**Takip Yöntemi:** Stok miktar takibi yapılırken seri veya lot takibi yapılıp yapılmadığını gösterir. **Girilmesi Zorunludur.**
 
-**TY Kod Ön Eki:** Otomatik başlatılan Seri ve Lot numaralarında No'nun istenilen seri ile başlasını sağlar. **Girilmesi Zorunludur.**
+**TY Kod Ön Eki:** Otomatik başlatılan seri ve lot numaralarında numaranın istenilen seri ile başlamasını sağlar. **Girilmesi Zorunludur.**
 
-**TY Üretim Bire Bir ilişki:** Üretim hareketlerinde bu stok üretilirken her bir Seri ve Lot için hangi hammaddelerin bire bir kontrolünün yapılması için kullanılır. **Girilmesi Zorunludur.**
+**TY Üretim Birebir ilişki:** Üretim hareketlerinde bu stok üretilirken her bir seri ve lot için hangi ham maddelerin bire bir kontrol edileceğini belirler. **Girilmesi Zorunludur.**
 
 **Raf Takibi:** Raf takibi yapılıp yapılmayacağını belirler. *Girilmesi Zorunludur.**
 
@@ -112,7 +108,7 @@ Bu alana 50 girilirse, bayileriniz bu stoğun miktarını 50+ şeklinde görecek
 
 **Şirket-Şube:**  Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
 
-**Durum:** Kartın kullanabilirliğini belirtir. Pasif kartlar işlemde kullanılamaz.
+**Durum:** Kartın kullanılabilirliğini belirtir. Pasif kartlar işlemde kullanılamaz.
 
 **GTIP:** İhracat tipindeki e-faturalarda, stoğa ait GTIP değerinin doldurulması zorunludur.
 
@@ -126,7 +122,7 @@ Bu alana 50 girilirse, bayileriniz bu stoğun miktarını 50+ şeklinde görecek
 
 **Kargo ücreti:** Kargo ücreti 
 
-**StandartMı:** Stok kartının standart stok olarak değerlendirilmesini sağlar. Filtreleyerek bulmamızı kolaylaştırır. 
+**StandartMı:** Stok kartının standart stok olarak değerlendirilmesini sağlar. Filtreleyerek bulmayı kolaylaştırır. 
 
 
 ### Açıklamalar
@@ -136,21 +132,21 @@ Bu kısma stok ile ilgili açıklama eklenebilir. Açıklama detaylarına linkte
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Kısayollar
 
-Stokta bulunan kısayolları sekmesi ile stokla ait ilgili raporlara ve öncelikli sayfalara kolayca ulaşabilirsiniz.
+Stokta bulunan kısayollar sekmesi ile stokla ait ilgili raporlara ve öncelikli sayfalara kolayca ulaşabilirsiniz.
 
 - Liste
 	- Hareketleri
-	- Alınan Sipariş Hareetleri
+	- Alınan Sipariş Hareketleri
 	- Depo Miktarları
 
 ## Kayıt Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+Kartın hangi kullanıcı tarafından, hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
 
 Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
 
@@ -160,26 +156,26 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
 - Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel ekstre, dövizli ekstre gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+ Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+- [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - Görev Oluştur 
 - Görev Bağla
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> belgeyi seç -> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seç -> belgeyi ya da belgeleri seç-> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 

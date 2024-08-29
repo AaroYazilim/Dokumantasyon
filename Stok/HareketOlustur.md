@@ -42,7 +42,7 @@ SayfaTipi: Hareket Olustur
 - [Depolar Arası Transfer](../TemelHareketler/DepolarArasiTransfer.md)
 - [Depolar Arası Transfer (Doğrudan Sevk)](TemelHareketler/DepolarArasiTransferDogrudanSevk.md)
 - [Sayım Farkı İşlemi](../TemelHareketler/SayimFarkiIslemi.md)
-- [Üretime Hammadde Çıkışı](../TemelHareketler/ÜretimeHammaddeCikisi.md)
+- [Üretime Ham madde Çıkışı](../TemelHareketler/ÜretimeHammaddeCikisi.md)
 - [Üretimden Mamül Giriş](../TemelHareketler/ÜretimdenMamülGiris.md)
 - [Devir](../TemelHareketler/Devir.md)
 - [Karma Transfer Hareketi](../TemelHareketler/KarmaTransferHareketi.md)
