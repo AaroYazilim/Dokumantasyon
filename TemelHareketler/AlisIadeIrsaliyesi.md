@@ -52,7 +52,7 @@ Kısayol eklemek, işleminizi daha hızlı ve pratik bir şekilde gerçekleştir
 
 - **Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
 
-- **Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenirse seri kullanılabilir.
+- **Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 - **Satıcı:** İşlemin yapıldığı cari kartını ifade eder. **Girilmesi Zorunludur.**
 

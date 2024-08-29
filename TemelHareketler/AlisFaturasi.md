@@ -36,7 +36,7 @@ Bu işlemi sıkça kullanıyorsanız, anasayfanıza kısayol ekleyerek hızlı e
 
 - **Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
 
-- **Belge No:** Belge Numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenirse seri kullanılabilir.
+- **Belge No:** Belge Numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 - **Satıcı:** İşlemin yapıldığı cari kartını ifade eder. **Girilmesi Zorunludur.**
 

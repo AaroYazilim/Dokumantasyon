@@ -24,7 +24,7 @@ Sonuç olarak, senet karşılıksız olarak kabul edilir ve alacaklıya ödeme y
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir. 
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 **Döviz:** Bu senetin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
 Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.

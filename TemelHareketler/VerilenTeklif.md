@@ -24,7 +24,7 @@ Bu tanım, teklifin kapsamını, teslim edilecek ürün veya hizmetlerin detayla
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
 
-**Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge Numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 **Müşteri:** İşlemin yapıldığı cari kartını ifade eder. **Girilmesi Zorunludur.**
 

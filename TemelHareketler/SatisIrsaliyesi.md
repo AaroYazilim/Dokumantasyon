@@ -19,7 +19,7 @@ SayfaTipi: Irsaliye
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir. 
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 **Müşteri:** İşlemin yapıldığını cari kartını ifade eder. 
 

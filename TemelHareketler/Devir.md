@@ -32,7 +32,7 @@ Devir işlemi, işletmenin finansal sürekliliği ve doğru muhasebe kayıtları
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir.
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 **Girilmesi Zorunludur.**
 
 **Depo:** Bu işlemin kullanıldığı depoyu belirtir.

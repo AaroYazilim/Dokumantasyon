@@ -24,7 +24,7 @@ Bu işlem, senedin bedelinin kasaya nakit veya başka bir ödeme şekliyle girdi
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir. 
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 **Kasa:** İşlemin yapıldığını kasayı ifade eder. 
 

@@ -31,7 +31,7 @@ Sayım fark işleme işlemi, bu farkların kaydedilmesi ve gerekli düzeltmeleri
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
 
-**Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge Numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 **Depo:** Bu işlemin kullanıldığı depoyu belirtir.
 

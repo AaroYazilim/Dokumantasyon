@@ -29,7 +29,7 @@ Bu transferler, her iki tarafın da hesap hareketlerini düzenli ve şeffaf bir 
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir.
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 **Girilmesi Zorunludur.**
 
 #### Cari Alacak 

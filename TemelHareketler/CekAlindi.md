@@ -9,18 +9,16 @@ SayfaTipi: CekAlindi
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "çek alındı" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden ÇekSenet -> Hareket Oluştur -> Çek -> Çek Alındı şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Satış & Pazarlama -> Hareket Oluştur -> Çek Alındı üzerinden ulaşım sağlayabilirsiniz. 
-- Sol menüden Müşteri/Satıcı -> Hareket Oluştur -> Çek -> Çek Alındı şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "çek alındı" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek -> Çek Alındı* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden *Satış & Pazarlama -> Hareket Oluştur -> Çek Alındı* üzerinden ulaşım sağlayabilirsiniz. 
+- Sol menüden *Müşteri/Satıcı -> Hareket Oluştur -> Çek -> Çek Alındı* şeklinde ulaşım sağlayabilirsiniz. 
 
 ### Tanım 
 
-Çek Alındı Kaydı, bir çekin firma veya kişi tarafından teslim alındığını ve muhasebe kayıtlarına işlendiğini ifade eder. 
-Bu işlem, çekin fiziksel olarak alındığını ve gerekli finansal kayıtların oluşturulduğunu gösterir. 
-Çek alındı kaydı, çekin alınma tarihini, tutarını, çek sahibini ve diğer ilgili bilgileri içerir. 
-Bu kayıt, çekin ileride tahsil edilmesi veya diğer finansal işlemler için takip edilmesini sağlar.
-Çek, belirli bir tarihte veya çeki getirildiğinde ödenebilir.
+Çek Alındı Kaydı, bir çekin bir firma veya kişi tarafından teslim alındığını ve muhasebe kayıtlarına geçirildiğini gösterir. Bu işlem, çekin fiziksel olarak alındığını ve gerekli finansal kayıtların yapıldığını belirtir.
+
+ Çek alındı kaydı, çekin alındığı tarihi, tutarını, çek sahibinin bilgilerini ve diğer önemli detayları içerir. Bu kayıt, çekin gelecekte tahsil edilmesi veya başka finansal işlemler için takip edilmesine yardımcı olur. Çek, belirli bir tarihte veya getirildiğinde ödenebilir."
 
 ## Genel
 
@@ -28,7 +26,7 @@ Bu kayıt, çekin ileride tahsil edilmesi veya diğer finansal işlemler için t
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir. 
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 **Cari:** İşlemin yapıldığını cari kartını ifade eder. 
 
@@ -55,7 +53,7 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 **Bilgilerimizi doldurduktan sonra *Kaydet* diyerek kalem ekleme ekranımıza erişim sağlamaktayız.**
 
@@ -73,8 +71,8 @@ Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> belgeyi seç -> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seç -> belgeyi ya da belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
@@ -101,7 +99,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 **Banka Şube:** Çekin bankasını ifade eder.
 
-**İl:** Çekin bankasının hangi ile aif olduğunu ifade eder.
+**İl:** Çekin bankasının hangi ile ait olduğunu ifade eder.
 
 **Açıklama** İşleme ait açıklamayı belirtir. Açıklama kullanım detayları için linke tıklayınız.[Açıklama](../TemelOzellikler/Aciklama.md)
 
@@ -114,17 +112,17 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklindeki düğme ile ek işlemlere ulaşılır.
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Kopyala: Çeki kopyalamak için kullanılır.
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
-- Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
-- Görev Oluştur: İade faturası için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+- Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.
+- Görev Oluştur: İade faturası için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
 - Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, *Kaydet* diyerek görevi bağlayabiliriz.
 
-## *Kaydet*me ve Silme
+## Kaydetme ve Silme
 
 - Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 

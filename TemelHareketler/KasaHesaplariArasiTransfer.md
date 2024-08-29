@@ -27,7 +27,7 @@ Transfer işlemi her iki kasa hesabında da muhasebe kayıtlarına yansıtılır
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
 
-**Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge Numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 ## Kasa Alacak için;
 

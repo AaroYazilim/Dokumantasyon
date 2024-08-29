@@ -23,7 +23,7 @@ Bu işlem, senedin iptali, anlaşmazlık ya da başka bir nedenle satıcı taraf
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir. 
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 **Cari:** İşlemin yapıldığını cari kartını ifade eder. 
 

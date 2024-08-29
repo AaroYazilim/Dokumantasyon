@@ -27,7 +27,7 @@ Bu yöntem, özellikle yüksek hacimli veya acil ihtiyaç duyulan ürünlerin ta
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir.
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 **Girilmesi Zorunludur.**
 
 **Vade:** Bu işlem için yapılması gereken süreyi ifade eder. 

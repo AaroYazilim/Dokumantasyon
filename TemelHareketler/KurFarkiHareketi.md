@@ -39,7 +39,7 @@ Aradaki 1.000 TL’lik fark (26.000 TL - 25.000 TL) kur farkı olarak kaydedilir
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir.
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 **Girilmesi Zorunludur.**
 
 **Depo:** İşlemin ait olduğu depoyu ifade eder.

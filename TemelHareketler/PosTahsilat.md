@@ -27,7 +27,7 @@ POS tahsilatlar, nakit ödemelere alternatif olarak hızlı, güvenli ve izleneb
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir.
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 **Girilmesi Zorunludur.**
 
 **Cari:** Pos tahsilatın hangi cari tarafından yapıldığını ifade eder. 

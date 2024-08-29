@@ -25,7 +25,7 @@ Bu durumda, çek bedeli nakit olarak kasaya girer ve çek, ilgili muhasebe kayı
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir. 
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 **Kasa:** İşlemin yapıldığını kasayı ifade eder. 
 

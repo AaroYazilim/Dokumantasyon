@@ -25,7 +25,7 @@ Bu işlem, senedin vadesinin dolmuş ve ödemesinin yapılmış olduğunu göste
 
 - **Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
  
-- **Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+- **Belge No:** Belge Numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 - **Banka Hesap:** İşlemin yapıldığı banka hesap kartını ifade eder. **Girilmesi Zorunludur.**
 

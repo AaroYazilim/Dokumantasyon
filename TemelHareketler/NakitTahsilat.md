@@ -27,7 +27,7 @@ Nakit tahsilatlar, kredi kartı ödemeleri veya banka havaleleri gibi diğer öd
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir.
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir. **Girilmesi Zorunludur.**
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir. **Girilmesi Zorunludur.**
 
 **Kasa:** Nakit tahsilatın hangi kasaya yapıldığını ifade eder. Nakit akışının girdiği kasayı seçelim.
 

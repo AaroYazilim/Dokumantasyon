@@ -25,7 +25,7 @@ Bu işlem, ticari işlemlerde veya borçların ödenmesinde yaygın olarak kulla
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir. 
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 **Cari:** İşlemin yapıldığını cari kartını ifade eder. 
 

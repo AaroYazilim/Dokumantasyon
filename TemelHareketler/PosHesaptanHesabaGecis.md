@@ -44,7 +44,7 @@ Bu şekilde, POS hesaptan hesaba geçiş işlemi, işletmenizin POS cihazı üze
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir. 
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 **Banka Hesap:** İşlemin yapılacağı banka hesabı ifade eder. 
 

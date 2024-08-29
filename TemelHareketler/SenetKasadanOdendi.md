@@ -23,7 +23,7 @@ Senet kasadan ödendi, bir senedin ödemesinin kasa hesabından yapıldığını
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir. 
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 **Kasa:** İşlemin yapıldığını kasayı ifade eder. 
 

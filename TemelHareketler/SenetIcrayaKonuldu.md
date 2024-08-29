@@ -23,7 +23,7 @@ Bu işlem, senedin zorunlu olarak tahsil edilmesi amacıyla yetkili icra dairesi
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir. 
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 **Cari:** İşlemin yapıldığını cari kartını ifade eder. 
 
