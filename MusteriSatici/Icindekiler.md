@@ -13,7 +13,7 @@ Bu modül, müşteri bilgilerini saklamak, alış ve satış işlemlerini takip 
 - Müşterilerinizle ilgili temel bilgilerin saklanmasını sağlar. Bu; müşteri adı, iletişim bilgileri, adres bilgileri gibi bilgiler içerir.
 - Müşterilerden gelen siparişleri kaydedebilir ve izleyebilirsiniz. Müşteri siparişlerinizi almak, onaylamak ve işleme koymak için kullanılır.
 - Müşterilerinize gönderilecek faturaların oluşturulmasını ve yönetilmesini sağlar. Satış işlemlerinizin faturalandırılması ve müşteriye gönderilmesi için kullanılır.
-- Müşterilerinizle etkileşimlerinizi izlemek ve yönetmek için kullanılır. Müşteri ile yapılan telefon görüşmeleri, e-posta alışverişleri ve toplantılar gibi etkileşimleri *Kaydet*mek için kullanılır.
+- Müşterilerinizle etkileşimlerinizi izlemek ve yönetmek için kullanılır. Müşteri ile yapılan telefon görüşmeleri, e-posta alışverişleri ve toplantılar gibi etkileşimleri Kaydetmek için kullanılır.
 - Alış ve Satış verileriyle ilgili detaylı raporlar ve analizler sunar. Bu, işletmenizin alış ve satış performansını değerlendirmesine ve stratejik kararlar almasına yardımcı olur.
 
 ## Bu modülde yer alan işlemler;

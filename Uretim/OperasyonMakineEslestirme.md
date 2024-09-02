@@ -26,14 +26,14 @@ Bu süreç genellikle üretim planlaması ve iş emri yönetimi süreçleriyle e
 **Makine** Operasyonla eşleştireceğimiz makineyi seçelim.
 **Öncelik** Operasyonun öncelik aşamasının sıralamsını giriniz.
 
-## *Kaydet*me ve Silme
+## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
  Operasyonda bulunan kısayolları sekmesi ile operasyona ile makine eşletirme listesine erişim sağlayabilir yeni eşleştirme yapabiliriz.
  Eşleştrilmiş makine ve operasyonlar listesini görüntüleyebiliriz.
 - [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)

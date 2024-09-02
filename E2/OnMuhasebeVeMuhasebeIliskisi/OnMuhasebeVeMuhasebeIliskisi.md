@@ -1,7 +1,7 @@
 
 # Muhasebe Nedir?
 
-Genel **muhasebe**, diğer adıyla finansal muhasebenin mali işlemleri *Kaydet*me, sınıflandırma, raporlama ve analiz sürecidir.
+Genel **muhasebe**, diğer adıyla finansal muhasebenin mali işlemleri Kaydetme, sınıflandırma, raporlama ve analiz sürecidir.
 
 Firmaların hareketlerini görmek kayıt altına almak borç-alacak takibini yaparak son durumlarını görüntüleyebilmektir.
 

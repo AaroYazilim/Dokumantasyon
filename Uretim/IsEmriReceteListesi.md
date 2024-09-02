@@ -35,7 +35,7 @@ Her adımın süresi ve kullanılacak makineler belirtilir.
 
 ### Ek İşlem Butonu
 
-- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+- Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
 - [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 	İş emri reçete listesini anasayfaya kısayol olarak ekleyebiliriz, böylece hızlı ve kolay erişim sağlayabiliriz.
 	Bu kısayol, iş emri reçete listesine anında ulaşmanızı sağlar.

@@ -40,7 +40,7 @@ Değiştirmek istediğiniz bilginin değerini girip değiştirmek isteiğinizi b
 **Ref. Teslim Tarihi:** Ref. Teslim Tarihi değişikliği yapılacak ise yeni Ref. Teslim Tarihi ifade eder.
 
 
-Dekontlardaki tüm satırlarda değişiklik yapmak ve dekontu tekrar *Kaydet*mek için seçiniz. 
+Dekontlardaki tüm satırlarda değişiklik yapmak ve dekontu tekrar Kaydetmek için seçiniz. 
 Eğer seçmezseniz sadece hareketlerde değişiklik yapar, dekontta ve dekontun diğer kalemlerinde işlem yapmaz.
 
 Belgenin tüm kalemlerine uygula seçeneği bulunmaktadır.

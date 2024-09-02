@@ -85,7 +85,7 @@ Burada açılan ekranda vade, belge tarihi ve belge numarası girebiliriz.
 
 ### Faturalandırma:
 
-* *Kaydet*me ve Detay Girişi: 
+* Kaydetme ve Detay Girişi: 
 
 *"*Kaydet*"* butonuna bastığınızda, kalem ekleme, düzenleme ve sipariş detaylarını görme ekranlarına erişirsiniz.
 Bu ekranlarda gerekli bilgileri kontrol edip onayladıktan sonra, *"*Kaydet*"* diyerek işlemi tamamlayabilirsiniz.

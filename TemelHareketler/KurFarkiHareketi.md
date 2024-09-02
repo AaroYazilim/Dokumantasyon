@@ -9,11 +9,11 @@ SayfaTipi:
 
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "kur farkı" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Müşteri/Satıcı -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Demirbaş -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Gelir/Gider -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Stok -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "kur farkı" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *Müşteri/Satıcı -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden *Demirbaş -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden *Gelir/Gider -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden *Stok -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi* şeklinde ulaşım sağlayabilirsiniz. 
 
 ## Tanım
 
@@ -24,9 +24,9 @@ Kur farkı hesaplaması, dövizli işlemlerin kaydedilmesi ve raporlanması sır
 Ancak, ödeme tarihi geldiğinde döviz kuru 1 USD = 21 TL olmuşsa, bu kur farkı, ödeme işlemiyle birlikte hesaplanır ve raporlanır.
 
 - Eğer bir dövizli alacak hesabı işlem yapıldığında belirli bir döviz kuru ile kayıt edilmişse ve kur farkı nedeniyle döviz kuru değişmişse, bu fark alacaklı hesaplarda kur farkı olarak kaydedilir.
-- Benzer şekilde, bir dövizli borç hesabı işlem yapıldığında belirli bir döviz kuru ile kayıt edilip kur farkı nedeniyle değiştiğinde, bu fark borçlu hesaplarda kur farkı olarak kaydedilir.
+- Benzer şekilde, bir dövizli borç hesabı işlem yapıldığında belirli bir döviz kuru ile kaydedilip kur farkı nedeniyle değiştiğinde, bu fark borçlu hesaplarda kur farkı olarak kaydedilir.
 
-Diyelim ki bir şirket 1.000 EUR’yu 1 EUR = 25 TL kuru ile satın aldı ve işlemi 25.000 TL olarak *Kaydet*ti. 
+Diyelim ki bir şirket 1.000 EUR’yu 1 EUR = 25 TL kuru ile satın aldı ve işlemi 25.000 TL olarak Kaydetti. 
 Ancak, raporlama tarihi geldiğinde EUR/TL kuru 1 EUR = 26 TL’ye yükseldi. Bu durumda:
 
 Şirketin 1.000 EUR alacağı 26.000 TL’ye yükseldi.
@@ -62,23 +62,21 @@ Aradaki 1.000 TL’lik fark (26.000 TL - 25.000 TL) kur farkı olarak kaydedilir
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlardaki belgeleri buraya yükleyebiliriz.
 Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> belgeyi seç -> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seç -> Belgeyi ya da belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
@@ -101,12 +99,12 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Kopyala: Faturayı kopyalamak için kullanılır.
 - Kur Güncelle:Döviz kurunda değişiklik yapmak için kullanılır.
-- Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
+- Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
-- Görev Oluştur: Satış Faturası için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, *Kaydet* diyerek görevi bağlayabiliriz.
-- Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
+- Görev Oluştur: Satış Faturası için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+- Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçip, *Kaydet* diyerek görevi bağlayabiliriz.
+- Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.

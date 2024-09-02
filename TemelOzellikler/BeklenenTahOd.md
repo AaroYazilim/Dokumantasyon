@@ -20,7 +20,7 @@ Tahsilatların gerçekleşip gerçekleşmediğini kontrol eder ve gerekli hatır
 
 **Sözleşme:** Bu hareketin hangi sözleşmeye ait olduğunu gösterir.
 
-**Proje: Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir.
+**Proje:** Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir.
 
 **Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 

@@ -24,4 +24,4 @@ Bu listede müşteri siparişlerimizi görüntüleyebiliriz.
 
 - Ana Sayfaya Kısayol Olarak Ekle: Ana sayfamıza hızlı erişim sağlayabilmek için kısayollarımıza ekleyebiliriz. [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - Toplu Değiştir: Burada cari hareketlerinde toplu değişiklik yapabiliriz. [Toplu Değiştir](../TemelOzellikler/TopluDegistir.md)
-- Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabiliriz. [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
+- Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabiliriz. [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)

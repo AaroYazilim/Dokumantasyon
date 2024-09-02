@@ -76,7 +76,7 @@ Düzenli tutmamız hareket takibi yapabilmemiz için çok önemlidir.
 - Gelir Gider Parametreleri
 	- SayimFarkiniIslemeGelirGiderHesabi (Stok Kartı): Yapılan sayım işlendikten sonra kalan bakiyenin hangi hesaba atılacağını belirler.
 	- GelirGider_EksiBakiyeKontrolu (Gelir/Gider Kartı): Gelir Gider Kartlarında eksi bakiye kontrollerini açmak için kullanılır.
-	- eFatura_GelenEFaturaOtomatikGelirGiderID (E-Fatura): Gelen e-faturaları, kasa ve banka gider hareketi olarak *Kaydet*me esnasında geçici olarak kaydedilecek olan gelir gider kartını tanımlar.
+	- eFatura_GelenEFaturaOtomatikGelirGiderID (E-Fatura): Gelen e-faturaları, kasa ve banka gider hareketi olarak Kaydetme esnasında geçici olarak kaydedilecek olan gelir gider kartını tanımlar.
 
 - Tasarım Parametreleri
 	- Tasarim_GelirGiderKod1Baslik (Kod): GelirGider sayfalarında Kod 1 için istenilen label yazısını ayarlar. Örn: 'Nakliye Gideri olarak girilirse, stok sayfalarında Kod 1 başlığı yerine Nakliye Gideri başlığı gelir.'

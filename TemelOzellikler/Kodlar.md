@@ -3,7 +3,7 @@
 
 ### Tanım 
 
-Kodlar, kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılan hiyerarşik tanımlardır.
+Kodlar, kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılan hiyerarşik tanımlardır.
 Sistemde belirli kayıtları veya varlıkları benzersiz bir şekilde tanımlamak için kullanılan bir kategorilendirmedir. Kayıtları veya varlıkları ayırt etmek için benzersiz kimlikler atama işlevini gerçekleştirir.
 Sistemimizde kodlar kısmı altı adete kadar desteklenmektedir. 
 Kategoriler gibi her kod bir sonrakinin alt kategorisi olacak şekilde birbirlerine bağlı şekilde ilerlemektedir.

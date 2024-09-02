@@ -27,4 +27,4 @@ Burada satış faturalarımızı görüntüleyebilir, filtreleme yapabilir, hare
 
 - Ana Sayfaya Kısayol Olarak Ekle: Ana sayfamıza hızlı erişim sağlayabilmek için kısayollarımıza ekleyebiliriz. [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - Toplu Değiştir: Burada cari hareketlerinde toplu değişiklik yapabilirsiniz. [Toplu Değiştir](../TemelOzellikler/TopluDegistir.md)
-- Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz. [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
+- Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz. [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)

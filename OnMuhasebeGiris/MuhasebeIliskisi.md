@@ -33,7 +33,7 @@ Vergi beyannamelerinin hazırlanması, yasal bildirimlerin yapılması gibi konu
 
 ## Hesap Planı
 
-Genel muhasebe için bir hesap planıdır. İşletmenin finansal işlemlerini *Kaydet*mek ve raporlamak için kullanılan hesapların bir listesini içerir. 
+Genel muhasebe için bir hesap planıdır. İşletmenin finansal işlemlerini Kaydetmek ve raporlamak için kullanılan hesapların bir listesini içerir. 
 
 Bu plan; işletmenin finansal yapısını, varlıklarını, borçlarını, gelirlerini ve giderlerini düzenli bir şekilde sınıflandırır.
 
