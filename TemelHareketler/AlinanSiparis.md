@@ -67,7 +67,7 @@ Vade, sipariş için geçerli olan ödemelerin yapılması gereken süreyi tanı
 
 - **Cari Adres:** Carinin adresini belirtir. Farklı adrese gönderilecekse seçilmelidir. Kalemlerde değiştirilebilir.
 
-- **Ref. İthalat İhracat:** Bu hareket bir ithalat yada ihracat ise seçilmelidir. Hangi ithalata veya ihracata ait olduğunu belirtir. Kalemlerde değiştirilebilir.
+- **Ref. İthalat İhracat:** Bu hareket bir ithalat ya da ihracat ise seçilmelidir. Hangi ithalata veya ihracata ait olduğunu belirtir. Kalemlerde değiştirilebilir.
 
 - **Teslim Tarihi:** Bu siparişin teslim edildiği tarihi belirtir.
 

@@ -29,10 +29,12 @@ Bu işlem, senedin vadesinin dolmuş ve ödemesinin yapılmış olduğunu göste
 
 - **Banka Hesap:** İşlemin yapıldığı banka hesap kartını ifade eder. **Girilmesi Zorunludur.**
 
-- **Döviz:** Bu senetin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
+- **Döviz:** Bu 
+senedin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
 Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
-- **Kur:** Belirtilen senetin, işlem yapılan para birimi karşısındaki değerini ifade eder. 
+- **Kur:** Belirtilen 
+senedin, işlem yapılan para birimi karşısındaki değerini ifade eder. 
 Kur, dövizin güncel piyasa değerini yansıtır ve bu oran üzerinden işlemler gerçekleştirilir.
 
 - **Açıklama:** İşleme ait açıklamayı belirtir.
@@ -56,7 +58,8 @@ Bu, işlemin farklı bir işlem hareket türü içinde yer aldığını gösteri
 
 ### Kalem Ekleme 
 
-- **Çek Senet Ekle:** Bankadan tahsil edilecek seneti seçelim.
+- **Çek Senet Ekle:** Bankadan tahsil edilecek 
+senedi seçelim.
 
 ## Notlar 
 
@@ -91,9 +94,18 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Seneti kopyalamak için kullanılır.
+- Kopyala: 
+senedi kopyalamak için kullanılır.
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.

@@ -89,32 +89,49 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 #### Genel
 
-**Seri No:** Senetin seri numarasını ifade eder.
+**Seri No:** 
+senedin seri numarasını ifade eder.
 
-**Vade:** Senetin geçerlilik süresini ifade eder.
+**Vade:** 
+senedin geçerlilik süresini ifade eder.
 
-**Tutar:** Senetin tutarını ifade eder.
+**Tutar:** 
+senedin tutarını ifade eder.
 
-**Cari:** Senetin hangi cari tarafından verildiğini ifade eder.
+**Cari:** 
+senedin hangi cari tarafından verildiğini ifade eder.
 
-**Banka Şube:** Senetin bankasını ifade eder.
+**Banka Şube:** 
+senedin bankasını ifade eder.
 
-**İl:** Senetin bankasının hangi ile aif olduğunu ifade eder.
+**İl:** 
+senedin bankasının hangi ile aif olduğunu ifade eder.
 
 **Açıklama** İşleme ait açıklamayı belirtir. Açıklama kullanım detayları için linke tıklayınız.[Açıklama](../TemelOzellikler/Aciklama.md)
 
 **Çek-Senet Asıl Bilgileri (İlk düzenleyen)**
 	Çek-Senet'in ilk düzenleyeni işlediğiniz cariden farklı ise asıl bilgilerini doldurunuz.
 
-**Asıl Adı:** Senetin hangi cariye ait olduğunu ifade eder.
+**Asıl Adı:** 
+senedin hangi cariye ait olduğunu ifade eder.
 
-**Vergi No:** Senetin ait olduğu carinin vergi numarasını ifade eder.
+**Vergi No:** 
+senedin ait olduğu carinin vergi numarasını ifade eder.
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Seneti kopyalamak için kullanılır.
+- Kopyala: 
+senedi kopyalamak için kullanılır.
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.

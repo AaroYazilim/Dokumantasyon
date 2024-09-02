@@ -10,11 +10,11 @@ SayfaTipi: SenetKarsiliksizPortfoyde
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet karşılıksız" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden ÇekSenet -> Hareket Oluştur -> Çek -> Senet Portföyde Karşılıksız Çıktı şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek -> Senet* Portföyde Karşılıksız Çıktı şeklinde ulaşım sağlayabilirsiniz. 
 
 ### Tanım 
 
-Senet portföyde karşılıksız çıktı, portföyde bulunan bir senedin vadesi geldiğinde ödenmemesi durumunu ifade eder. 
+**Senet portföyde karşılıksız çıktı**, portföyde bulunan bir senedin vadesi geldiğinde ödenmemesi durumunu ifade eder. 
 Bu, senedin düzenleyicisinin ödeme yapmadığı ve senedin tahsil edilemediği anlamına gelir. 
 Sonuç olarak, senet karşılıksız olarak kabul edilir ve alacaklıya ödeme yapılmaz.
 
@@ -26,7 +26,7 @@ Sonuç olarak, senet karşılıksız olarak kabul edilir ve alacaklıya ödeme y
 
 **Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
-**Döviz:** Bu senetin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
+**Döviz:** Bu senedin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
 Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 **Kur:** Para biriminin başka bir para birimi cinsinden değerini ifade eder. 
@@ -51,7 +51,8 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 ### Kalem Ekleme 
 
-- **Çek Senet Ekle:** Karşılıksız çıkan seneti seçelim.
+- **Çek Senet Ekle:** Karşılıksız çıkan 
+senedi seçelim.
 
 ## Notlar 
 
@@ -78,9 +79,10 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Seneti kopyalamak için kullanılır.
+- Kopyala: Senedi kopyalamak için kullanılır.
 - Kur Güncelle: Döviz kurunda değişiklik yapmak için kullanılır.
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.

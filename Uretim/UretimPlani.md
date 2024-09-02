@@ -100,7 +100,7 @@ Alternatif makineleri değerlendirerek en uygun üretim planını hazırlar.
 
 **Plan Başlangıç Tarihi:** Planlamaya hangi gün başlayacaksak tarihini girelim.
 
-**Plan Başlangıç Vardiya:** Plana başladığımızda kaçıncı vardiyada isek o vardiyayı seçelim.
+**Plan Başlangıç Vardiya:** Plana başladığımızda kaçıncı vardiya da isek o vardiyayı seçelim.
 
 **Alternatif Makineleri Değerlendir:** Bu seçeneği aktif ederek alternatif makineleri değerlendirerek en uygun planlamayı yapar.
 

@@ -58,7 +58,7 @@ Demirbaş kartı, işletmenin demirbaşlarını etkin bir şekilde izlemesine, e
 
 ### Vergi Oranları
 
-**Vergi Oranları:** Bu demirbaş kartı için yapılacak işlemlerde kullanılacak vergi oranlarını(KDV oranınlarını) belirtir. **Girilmesi Zorunludur.**
+**Vergi Oranları:** Bu demirbaş kartı için yapılacak işlemlerde kullanılacak vergi oranlarını(KDV Oranınlarını) belirtir. **Girilmesi Zorunludur.**
 
 **Muhasebe Tanımları:** [Muhasebeleşme Tanımları](../TemelOzellikler/MuhasebelesmeTanimlari.md)
 
@@ -110,7 +110,15 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 - [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - [Görev Oluştur]()
 - [Görev Bağla]()

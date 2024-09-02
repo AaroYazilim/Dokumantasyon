@@ -104,7 +104,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Net Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler hariç, sadece temel maliyetini ifade eden fiyatı belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatları görüntülenebilir.
 - Tutar: Bir mal veya hizmetin toplam mali değerini ifade eden miktarı belirtir. 
-- KDV Oran: KDV oranını ifade eder.
+- KDV Oran: KDV Oranını ifade eder.
 - Depo: Bu kalemin kullandığı depoyu belirtir.
 - Açıklama: Kaleme ait açıklamayı belirtir.
 - Demirbaş: Gelir, bir demirbaş satışı veya tahsilatı ile ilgili olup, hangi demirbaşa ait olduğunu belirtir.

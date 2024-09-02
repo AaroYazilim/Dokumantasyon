@@ -106,7 +106,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 	## Vergiler
 
-	**KDV:** Sayım farkı girilen stoğa ait KDV oranını ifade eder.
+	**KDV:** Sayım farkı girilen stoğa ait KDV Oranını ifade eder.
 
 	**Tevkifat:** Sayım farkı girilen stoğa ait olan tevfikatları ifade eder.
 
@@ -142,6 +142,6 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 	## Vergiler
 
-	**KDV:** Gelir Gider kartına ait KDV oranını ifade eder.
+	**KDV:** Gelir Gider kartına ait KDV Oranını ifade eder.
 
 	**Tevkifat:** Gelir Gider kartınına ait olan tevfikatları ifade eder.

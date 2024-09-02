@@ -199,8 +199,8 @@ Bir diğer yöntem ise satış faturası açalım, yeni stok kalemi ekle kısmı
 
 **Soru:** Faturada kalemlerin KDV'sini nasıl değiştirebilirim?
 
-**Cevap:** Kalemin yanında ki büyüteçe tıklayalım -> Vergiler -> KDV oranını girelim -> *Kaydet* -> 
-Üç işlem butonundan Tüm Kalemlerde Değiştir seçelim -> Vergileri Yenile -> *Kaydet* diyerek KDV oranı değişikliği gerçekleştirebiliriz.
+**Cevap:** Kalemin yanında ki büyüteçe tıklayalım -> Vergiler -> KDV Oranını girelim -> *Kaydet* -> 
+Üç işlem butonundan Tüm Kalemlerde Değiştir seçelim -> Vergileri Yenile -> *Kaydet* diyerek KDV Oranı değişikliği gerçekleştirebiliriz.
 
 **Soru:** E-fatura Entegratörü üzerinden kesilen fatura program da nasıl eşleştirilir?
 
@@ -291,7 +291,7 @@ Satış&Pazarlama -> Hareket Oluştur -> Satış Faturası -> Carimizi seçelim 
 --Cevap: Vergi tanımı yapmamız gerekmektedir. Gelir gider olarak tanımlayacağımız için gelir gider kartı açmamız gerekmekedir;
 Gelir Gider Modülü -> Yeni Gelir Gider Kartı Ekle -> Gelir gider adı girelim Örn; Avukat Gideri -> Birim1 Adet seçmemiz gerekiyor -> 
 Vergi Oranları; bu kısımda yeni bir vergi oranı tanımlayacağız Örn; KDVSTOPAJ20 detaylı ekle diyelim;
-Stok Vergi Kodu KDVSTOPAJ20 aynısını yazabiliriz -> Stok Vergi Adı Stopaj diyebiliriz -> Alış KDV Oranı KDV oranını girelim -> Satış KDV Oranı KDV oranını girelim ->
+Stok Vergi Kodu KDVSTOPAJ20 aynısını yazabiliriz -> Stok Vergi Adı Stopaj diyebiliriz -> Alış KDV Oranı KDV Oranını girelim -> Satış KDV Oranı KDV Oranını girelim ->
 Alış Vergi 1 Gelir Vergisi Stopajı 0003 seçebiliriz -> Alış Vergi Oranı 1 vergi oranını girelim -> Satış Vergi 1 Gelir Vergisi Stopajı 0003 seçebiliriz -> Satış Vergi Oranı 1 vergi oranını girelim -> *Kaydet* diyerek stopajımızı tanımlayabiliriz.
 Gelir/Gider Kartı (Yeni) ekranımızdan Vergi oranları kısmını tanımladığımız stopajı seçelim. Tanımlayacağımız bilgileri doldurduktan sonra kaydedebiliriz.
 
@@ -302,11 +302,11 @@ Tutarı girelim -> Depomuzu GelirGider Depomuzu seçelim -> Ekleyeceğimiz detay
 
 
 
----Soru: Tek bir hareket için KDV oranı nasıl değiştirilir?
+---Soru: Tek bir hareket için KDV Oranı nasıl değiştirilir?
 ---
 ---Cevap: Herhangi bir kartımızın sadece bir hareket için vergi oranını ilgili harekette kartımızı ekledikten sonra görüntüleyerek
 ---KDV bölümünde yer alan rakamı ihtiyacımız olan vergi oranını yazıp kaydederek vergi oranını sadece bu hareket için değiştirmiş oluruz.
----Kalemin yanında ki büyüteçe tıklayalım -> Vergiler -> KDV oranını girelim -> *Kaydet* şeklinde KDV oranını değişikliği gerçekleşir.
+---Kalemin yanında ki büyüteçe tıklayalım -> Vergiler -> KDV Oranını girelim -> *Kaydet* şeklinde KDV Oranını değişikliği gerçekleşir.
 
 **Soru:** KDV'den muaf fatura neden ve hangi durumlarda kesilir?
 
@@ -396,7 +396,7 @@ Soru: Kdv den muaf fatura yetkisi nasıl açılır?
 Cevap: Ayarlar -> Modül sayfası -> Yetki alt listesi bölümünden Yeni Yetki Alt Ekle diyerek çıkan ekranda AltProgramID kısmına "Genel – DekontFatura_KDVdenMuafYapabilir" 
 yetkisi seçilerek okuma,ekleme,silme, düzenleme aktif edilerek kaydedilir.
 
-Soru: KDV oranı değiştirme yetkisi nasıl açılır?
+Soru: KDV Oranı değiştirme yetkisi nasıl açılır?
 
 Cevap:Ayarlar modül sayfası yetki alt listesi bölümünden Yeni Yetk Alt Ekle diyerek çıkan ekranda AltProgramID kısmına "DekontFatura_KDVOranDegistirebilir " 
 yetkisi seçilerek okuma,ekleme,silme, düzenleme aktif edilerek kaydedilir.

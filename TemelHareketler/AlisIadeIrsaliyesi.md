@@ -82,7 +82,7 @@ Kısayol eklemek, işleminizi daha hızlı ve pratik bir şekilde gerçekleştir
 
 - **Cari Adres:** Carinin adresini belirtir. Farklı adrese gönderilecekse seçilmelidir. Kalemlerde değiştirilebilir.
 
-- **Ref. İthalat İhracat:** Bu hareket bir ithalat yada ihracat ise seçilmelidir. Hangi ithalata veya ihracata ait olduğunu belirtir. Kalemlerde değiştirilebilir.- **Teslim Tarihi:** Bu siparişin teslim edildiği tarihi belirtir.
+- **Ref. İthalat İhracat:** Bu hareket bir ithalat ya da ihracat ise seçilmelidir. Hangi ithalata veya ihracata ait olduğunu belirtir. Kalemlerde değiştirilebilir.- **Teslim Tarihi:** Bu siparişin teslim edildiği tarihi belirtir.
 
 - **Teslim Tarihi:** Bu siparişin teslim edildiği tarihi belirtir.
 
@@ -125,11 +125,11 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Miktar: Alış iade irsaliyesinde belirtilmesi istenilen stoğun miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatları görüntülenebilir.
-- İskonto: Alış iade irsaliyesinde kalem için iskonto oranını belirtir. Uyguladığımız iskonto var ise buraya oranı girebiliriz.
+- İskonto: Alış iade irsaliyesinde kalem için iskonto oranını belirtir. Uyguladığımız bir iskonto var ise buraya oranı girebiliriz.
 - Net Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler hariç, sadece temel maliyetini ifade eden fiyatı belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
 - Tutar: Bir mal veya hizmetin toplam mali değerini ifade eden miktarı belirtir. 
-- KDV Oran: KDV oranını ifade eder.
+- KDV Oran: KDV Oranını ifade eder.
 - Depo: Bu kalemin kullandığı depoyu belirtir.
 - Açıklama: Kaleme ait açıklamayı belirtir.
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
@@ -172,7 +172,15 @@ Alış iade irsaliyemizde ekleme ya da herhangi bir düzeltme yapmak için kalem
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Kopyala: Alış iade irsaliyesine kopyalamak için kullanılır.
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.

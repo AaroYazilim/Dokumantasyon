@@ -1,16 +1,22 @@
 ---
-SayfaID: CekSenetIcrayaKonuldu
-SayfaTipi: SenetIcrayaKonuldu
+SayfaID: Cek
+senedicrayaKonuldu
+SayfaTipi: 
+senedicrayaKonuldu
 ---
 
 # Senet İcraya Konuldu
 
-**Erişim Linki :** [erp.aaro.com.tr/CekSenetIcrayaKonuldu?TipID=SenetIcrayaKonuldu](https://erp.aaro.com.tr/CekSenetIcrayaKonuldu?TipID=SenetIcrayaKonuldu)
+**Erişim Linki :** [erp.aaro.com.tr/Cek
+senedicrayaKonuldu?TipID=
+senedicrayaKonuldu](https://erp.aaro.com.tr/Cek
+senedicrayaKonuldu?TipID=
+senedicrayaKonuldu)
 
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden ÇekSenet -> Hareket Oluştur -> Senet -> Senet İcraya Konuldu şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Senet -> Senet İcraya Konuldu* şeklinde ulaşım sağlayabilirsiniz. 
 
 ### Tanım 
 
@@ -27,7 +33,8 @@ Bu işlem, senedin zorunlu olarak tahsil edilmesi amacıyla yetkili icra dairesi
 
 **Cari:** İşlemin yapıldığını cari kartını ifade eder. 
 
-**Döviz:** Bu senetin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
+**Döviz:** Bu 
+senedin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
 Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 **Kur:** Para biriminin başka bir para birimi cinsinden değerini ifade eder. 
@@ -54,7 +61,7 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 ### Kalem Ekleme 
 
-- **Çek Senet Ekle:** İcraya verilen seneti seçelim.
+- **Çek Senet Ekle:** İcraya verilen senedi seçelim.
 
 ## Notlar 
 
@@ -81,9 +88,11 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Seneti kopyalamak için kullanılır.
+- Kopyala: 
+senedi kopyalamak için kullanılır.
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.

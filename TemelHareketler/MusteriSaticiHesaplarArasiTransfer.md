@@ -105,7 +105,15 @@ Depolar arası transfer işlemimizde herhangi bir düzeltme ya da ekleme yapmak 
 
 ## Ek İşlemler
 
-Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Kopyala: Verilen teklifi kopyalamak için kullanılır.
 - Pos Tahsilatı: 

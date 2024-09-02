@@ -91,11 +91,11 @@ Bu, her iki taraf için de muhasebe kayıtlarının düzgün tutulması ve olas�
 - Miktar: Satış yapacağımız stoğun miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
-- İskonto: Satışını yaptığımız işlemlerin iskonto oranını belirtir. Uyguladığımız iskonto var ise buraya oranı girebiliriz.
+- İskonto: Satışını yaptığımız işlemlerin iskonto oranını belirtir. Uyguladığımız bir iskonto var ise buraya oranı girebiliriz.
 - Net Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler hariç, sadece temel maliyetini ifade eden fiyatı belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
 - Tutar: Bir mal veya hizmetin toplam mali değerini ifade eden miktarı belirtir. 
-- KDV oran: KDV oranını ifade eder.
+- KDV Oran: KDV Oranını ifade eder.
 - Depo: Bu kalemin kullandığı depoyu belirtir.
 - Açıklama: Kaleme ait açıklamayı belirtir.
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
@@ -108,7 +108,7 @@ Bu, her iki taraf için de muhasebe kayıtlarının düzgün tutulması ve olas�
 - Sağ üst köşede faturaya ait toplam fiyat kısımları bulunur;
 	- Toplam: Satış faturasının KDV hariç toplam tutarını içerir.
 	- İskonto Sonrası: Satış faturasının KDV dahil fiyatından uygulanan iskonto tutarını ifade eder.
-	- KDV: Satış faturasının KDV oranının karşılık geldiği tutarı ifade eder.
+	- KDV: Satış faturasının KDV Oranının karşılık geldiği tutarı ifade eder.
 	- Genel Toplam: Satış faturasının tüm kalemlerin KDV dahil tutarının toplamını belirtir.
 
 ### Kalem Ekleme Ek Özellikler
@@ -157,7 +157,15 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Kopyala: Faturayı kopyalamak için kullanılır.
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.

@@ -76,7 +76,7 @@ Stok kartınızı tanımlamak için aşağıdaki bilgileri doldurabilirsiniz.
 
 
 ### Vergi Oranları
- Bu stok kartı ait işlemlerde kullanılacak devletin belirlemiş olduğu KDV oranını(vergi oranını) belirtir. **Girilmesi Zorunludur.**
+ Bu stok kartı ait işlemlerde kullanılacak devletin belirlemiş olduğu KDV Oranını(vergi oranını) belirtir. **Girilmesi Zorunludur.**
 
 ### Muhasebe Tanımları
 
@@ -162,7 +162,15 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 - [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - Görev Oluştur 
 - Görev Bağla

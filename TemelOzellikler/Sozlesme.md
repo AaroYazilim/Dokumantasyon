@@ -60,7 +60,7 @@ Bu grafik, ödemelerin ne zaman ve ne kadar yapılacağını net bir şekilde ta
 
 ### Fiyat Listeleri
 
-Cari ile yapılan sözleşmede için geçerli olan fiyat listesini ifade eder.
+Cari ile yapılan sözleşme için geçerli olan fiyat listesini ifade eder.
 
 ### Girişler
 
@@ -85,6 +85,6 @@ Bir işletmenin, belirli bir zaman dilimi içinde müşterilerinden almayı bekl
 
 **Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
 
-**Durum:** Sözleşmenin aktif ya da pasif durumunu ifade eder.
+**Durum:** Sözleşmenin aktif ya da pasif olma durumunu ifade eder.
 
 

@@ -91,7 +91,7 @@ Fatura, e-fatura veya matbu fatura olarak kesilebilir.
 ## Satış Faturası Nedir?
 
 İşletmenin, alıcısına sattığı ürünün ya da hizmetin detaylarını (satılan malın cinsi, miktarı, birim satış fiyatı,
-fiyatı, toplam bedeli, KDV oranı, istisnai durumları, iskonto) belirterek ödeyeceği tutarı belgelemek için müşterilerine 
+fiyatı, toplam bedeli, KDV Oranı, istisnai durumları, iskonto) belirterek ödeyeceği tutarı belgelemek için müşterilerine 
 kestiği faturalardır. Her satışın belgelenerek yasallaşması gerekir.
 
 Satış faturasında borç - alacak ilişkisinde cari (ürün ya da hizmet satın alan işletme veya şahıs) borçludur, 
@@ -107,7 +107,7 @@ Cari (Müşteri) adı, ticaret ünvanı, adresi, varsa vergi dairesi vergi numar
 
 Vade Tarihi (Ödeme yapılması için verilen süre ya da gereken süre)
 
-Malın veya işin adı, miktarı, fiyatı, birim fiyatı, toplam bedeli, KDV oranı, istisnai durumları
+Malın veya işin adı, miktarı, fiyatı, birim fiyatı, toplam bedeli, KDV Oranı, istisnai durumları
 
 Satılan malın ya da hizmetin teslim tarihi ve irsaliye numarası
 

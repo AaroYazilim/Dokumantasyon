@@ -25,7 +25,15 @@ SayfaTipi: KartListe
 
 ### Ek İşlem Butonu
 
-- Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+- Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 	- [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 	- [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
 	- [Listeyi Excele Aktar](../TemelOzellikler/ListeyiExceleAktar.md)

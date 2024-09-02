@@ -75,7 +75,7 @@ Etiketler kullanım detayları için linke tıklayınız. [Etiketler](../TemelOz
 
 **Açıklama:** İşleme ait özel açıklamamız notlarımız varsa burada belirtebiliriz. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
-**Vergiler:** Stok seçtiğimizde o stoğa ait KDV oranlarını özel istisna Muafiyet ekleyecebileceğimiz alandır.
+**Vergiler:** Stok seçtiğimizde o stoğa ait KDV Oranlarını özel istisna Muafiyet ekleyecebileceğimiz alandır.
 
 ### Detay
 
@@ -132,7 +132,7 @@ Hammaddelerin stok girişlerini tamamlayıp, bilgilerimizin kontrollerini yaptı
 
 **Açıklama:**İşleme ait özel açıklamamız notlarımız varsa burada belirtebiliriz. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
-**Vergiler:** Stok seçtiğimizde o stoğa ait KDV oranlarını özel istisna Muafiyet ekleyecebileceğimiz alandır.
+**Vergiler:** Stok seçtiğimizde o stoğa ait KDV Oranlarını özel istisna Muafiyet ekleyecebileceğimiz alandır.
 
 ### Detay 
 
@@ -169,5 +169,13 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 - [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)

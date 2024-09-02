@@ -11,7 +11,7 @@ SayfaTipi: Kart
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Gelir Gider Kartı" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Gelir Gider -> Gelir Gider Modülü -> Gelir Gider Kartı şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Gelir Gider -> Kartlar -> Gelir/Gider Kartı Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
+- Sol menüden Gelir Gider -> Kartlar -> Gelir/Gider Kartı Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir ya da mevcutları düzenleyebilirsiniz.
 
 ### Tanım
 
@@ -46,7 +46,7 @@ Ayrıca, gelir-gider kartları, işletmenin bütçeleme, planlama ve karar verme
 
 ### Vergi Oranları
 
-**Vergi Oranları:** Bu karta ait işlemlerde kullanılacak devletin belirlemiş olduğu KDV oranını(vergi oranını) belirtir. **Girilmesi Zorunludur.**
+**Vergi Oranları:** Bu karta ait işlemlerde kullanılacak devletin belirlemiş olduğu KDV Oranını(vergi oranını) belirtir. **Girilmesi Zorunludur.**
 
 ### Muhasebe Tanımları: 
 
@@ -105,7 +105,15 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 - [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - Görev Oluştur
 - Görev Bağla

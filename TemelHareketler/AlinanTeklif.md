@@ -90,11 +90,11 @@ Vade, teklifin kabul edilmesinden itibaren geçerli olan ve ödemelerin yapılma
 - Miktar: Teklifte belirtilmesi istenilen stoğun miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
-- İskonto: Teklifimizde girdiğimiz kalem için iskonto oranını belirtir. Uyguladığımız iskonto var ise buraya oranı girebiliriz.
+- İskonto: Teklifimizde girdiğimiz kalem için iskonto oranını belirtir. Uyguladığımız bir iskonto var ise buraya oranı girebiliriz.
 - Net Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler hariç, sadece temel maliyetini ifade eden fiyatı belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatları görüntülenebilir.
 - Tutar: Bir mal veya hizmetin toplam mali değerini ifade eden miktarı belirtir. 
-- KDV Oran: KDV oranını ifade eder.
+- KDV Oran: KDV Oranını ifade eder.
 - Depo: Bu kalemin kullandığı depoyu belirtir.
 - Açıklama: Kaleme ait açıklamayı belirtir.
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
@@ -107,8 +107,8 @@ Vade, teklifin kabul edilmesinden itibaren geçerli olan ve ödemelerin yapılma
 - Sağ üst köşede faturaya ait toplam fiyat kısımları bulunur;
 	- Toplam: Teklifin KDV hariç toplam tutarını içerir.
 	- İskonto Sonrası: Teklifin KDV dahil fiyatından uygulanan iskonto tutarını ifade eder.
-	- KDV: Teklifin KDV oranının karşılık geldiği tutarı ifade eder.
-	- Genel Toplam: Teklifin tüm kalemlerin KDV dahil tutarının toplamını belirtir.
+	- KDV: Teklifin KDV Oranının karşılık geldiği tutarı ifade eder.
+	- Genel Toplam: Teklifin tüm kalemlerinin KDV dahil tutarının toplamını belirtir.
 
 
 ## Belgeler

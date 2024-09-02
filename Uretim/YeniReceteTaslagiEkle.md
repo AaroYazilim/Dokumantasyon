@@ -92,7 +92,15 @@ Hazırladığımız reçetede üretmek istediğiniz mamül bilgilerini ifade ede
 
 ## Ek İşlemler 
 
-Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 - [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - [Makine Listesi](../Uretim/MakineListesi.md)
 - [Operasyon Listesi](../Uretim/OperasyonListesi.md)

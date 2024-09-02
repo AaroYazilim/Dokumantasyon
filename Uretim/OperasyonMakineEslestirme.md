@@ -33,7 +33,15 @@ Bu süreç genellikle üretim planlaması ve iş emri yönetimi süreçleriyle e
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
  Operasyonda bulunan kısayolları sekmesi ile operasyona ile makine eşletirme listesine erişim sağlayabilir yeni eşleştirme yapabiliriz.
  Eşleştrilmiş makine ve operasyonlar listesini görüntüleyebiliriz.
 - [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)

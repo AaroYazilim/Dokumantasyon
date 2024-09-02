@@ -51,7 +51,8 @@
 - [Senet Bankaya Tahsile Verildi](../TemelHareketler/SenetBankayaTahsileVerildi.md)
 - [Senet Cariye İade Edildi](../TemelHareketler/SenetCariyeIadeEdildi.md)
 - [Senet Ciro Edildi_Verildi](../TemelHareketler/SenetCiroEdildi_Verildi.md)
-- [Senet İcraya Konuldu](../TemelHareketler/SenetIcrayaKonuldu.md)
+- [Senet İcraya Konuldu](../TemelHareketler/
+senedicrayaKonuldu.md)
 - [Senet Kasadan Ödendi](../TemelHareketler/SenetKasadanOdendi.md)
 - [Senet Kasadan Tahsil Edildi](../TemelHareketler/SenetKasadanTahsilEdildi.md)
 - [Senet Portföyde Karşılıksız Çıktı](../TemelHareketler/SenetPortfoydeKarsiliksizCikti.md)

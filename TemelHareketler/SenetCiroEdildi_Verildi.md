@@ -10,12 +10,12 @@ SayfaTipi: SenetCiroEdildi
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden ÇekSenet -> Hareket Oluştur -> Senet Ciro Edildi/Verildi şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Müşteri/Satıcı -> Hareket Oluştur -> Senet -> Senet Ciro Edildi/Verildi şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Senet Ciro Edildi/Verildi* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden *Müşteri/Satıcı -> Hareket Oluştur -> Senet -> Senet Ciro Edildi/Verildi* şeklinde ulaşım sağlayabilirsiniz. 
 
 ### Tanım 
 
-Senet ciro edilerek verildi, bir senedin, ödeme veya borç devri amacıyla başka bir kişiye veya kuruluşa devredildiğini belirtir. 
+**Senet ciro edilerek verildi**, bir senedin, ödeme veya borç devri amacıyla başka bir kişiye veya kuruluşa devredildiğini belirtir. 
 Ciro işlemi, senedin arka yüzüne yapılan bir imza ile gerçekleştirilir ve senet, yeni alacaklıya verilmiş olur. 
 Bu işlem, genellikle borçların ödenmesi veya ticari işlemlerin tamamlanması amacıyla yapılır.
 
@@ -29,7 +29,8 @@ Bu işlem, genellikle borçların ödenmesi veya ticari işlemlerin tamamlanmas�
 
 **Cari:** İşlemin yapıldığını cariyi ifade eder. 
 
-**Döviz:** Bu senetin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
+**Döviz:** Bu 
+senedin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
 Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 **Kur:** Para biriminin başka bir para birimi cinsinden değerini ifade eder. 
@@ -61,11 +62,13 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 ### Çek Senet Ekle
 
-- **Çek Senet Ekle:** Ciro işlemini gerçekleştireceğimiz seneti ekleyelim.
+- **Çek Senet Ekle:** Ciro işlemini gerçekleştireceğimiz 
+senedi ekleyelim.
 
 ### Ciro Ekle 
 
-- **Ciro Ekle:** Ciro işlemini gerçekleştireceğimiz seneti seçelim. 
+- **Ciro Ekle:** Ciro işlemini gerçekleştireceğimiz 
+senedi seçelim. 
 
 ## Notlar 
 
@@ -92,14 +95,23 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.
 - Görev Oluştur: İade faturası için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
 - Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçip, *Kaydet* diyerek görevi bağlayabiliriz.
-- Çek-Senet Kopyala: Seneti kopyalamak için kullanılır.
+- Çek-Senet Kopyala: 
+senedi kopyalamak için kullanılır.
 
 ## Kaydetme ve Silme
 

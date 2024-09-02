@@ -29,7 +29,7 @@ Satıcı, KDV'yi tahsil etmez ve ihraç kayıtlı satışını belirli süreler 
 - Gerekli İzinlerin Alınması: Satıcı, ihraç kayıtlı satış yapabilmek için vergi dairesinden gerekli izinleri almalıdır. 
 	Bu izinler genellikle KDV iadesi sürecinde kontrol edilir.
 - Faturanın Düzenlenmesi: Faturada "İhraç Kayıtlıdır" ibaresi açıkça belirtilmelidir.
-	Malın cinsi, miktarı, birim fiyatı, toplam tutarı ve KDV oranı (KDV'siz olarak) belirtilmelidir.
+	Malın cinsi, miktarı, birim fiyatı, toplam tutarı ve KDV Oranı (KDV'siz olarak) belirtilmelidir.
 	Faturada, ihracatın yapılacağı ülke, alıcının bilgileri ve gümrük beyannamesi numarası gibi ihracat detayları da yer almalıdır.
 - Gümrük Beyannamesi ve İhracat İşlemleri: Alıcı, satın aldığı malları ihracat işlemlerine tabi tutar ve gümrük beyannamesi düzenler.
 	İhracat işlemi tamamlandıktan sonra, alıcı bu işlemi belgelendirir ve satıcıya bildirir.
@@ -114,7 +114,7 @@ Karşımıza kalem stok ekleme ekranı çıkacaktır;
 
 Kalemimizin hemen yanında büyüteç işaretine tıklayalım,
 
-Muafiyet eklememiz gerekmektedir, **Vergiler** kısmında KDV oranının altında **Muafiyet Ekle** linki yer almaktadır tıkladığımızda KDV Muafiyet seçeneği açılacaktır. 
+Muafiyet eklememiz gerekmektedir, **Vergiler** kısmında KDV Oranının altında **Muafiyet Ekle** linki yer almaktadır tıkladığımızda KDV Muafiyet seçeneği açılacaktır. 
 	3065 s. KDV Kanununun 11/1-c md. Kapsamındaki İhraç Kayıtlı Satış (701) muafiyetini seçelim.
 
 ## Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
@@ -125,11 +125,11 @@ Muafiyet eklememiz gerekmektedir, **Vergiler** kısmında KDV oranının altınd
 - Miktar: Satış yapacağımız stoğun miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
-- İskonto: Satışını yaptığımız işlemlerin iskonto oranını belirtir. Uyguladığımız iskonto var ise buraya oranı girebiliriz.
+- İskonto: Satışını yaptığımız işlemlerin iskonto oranını belirtir. Uyguladığımız bir iskonto var ise buraya oranı girebiliriz.
 - Net Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler hariç, sadece temel maliyetini ifade eden fiyatı belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
 - Tutar: Bir mal veya hizmetin toplam mali değerini ifade eden miktarı belirtir. 
-- KDV Oran: KDV oranını ifade eder.
+- KDV Oran: KDV Oranını ifade eder.
 - Depo: Bu kalemin kullandığı depoyu belirtir.
 - Açıklama: Kaleme ait açıklamayı belirtir.
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
@@ -142,7 +142,7 @@ Muafiyet eklememiz gerekmektedir, **Vergiler** kısmında KDV oranının altınd
 - Sağ üst köşede faturaya ait toplam fiyat kısımları bulunur;
 	- Toplam: Satış faturasının KDV hariç toplam tutarını içerir.
 	- İskonto Sonrası: Satış faturasının KDV dahil fiyatından uygulanan iskonto tutarını ifade eder.
-	- KDV: Satış faturasının KDV oranının karşılık geldiği tutarı ifade eder.
+	- KDV: Satış faturasının KDV Oranının karşılık geldiği tutarı ifade eder.
 	- Genel Toplam: Satış faturasının tüm kalemlerin KDV dahil tutarının toplamını belirtir.
 
 ### Fatura Önizleme ve Gönderme

@@ -10,8 +10,8 @@ SayfaTipi: Siparis
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'sipariş' şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Verilen Sipariş şeklinde ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Satış&Pazarlama -> Hareket Oluştur -> Verilen Sipariş şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Verilen Sipariş* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Satış&Pazarlama -> Hareket Oluştur -> Verilen Sipariş* şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
 
@@ -54,7 +54,7 @@ Verilen siparişte siparişin kim tarafından onaylandığı ve sipariş numaras
 
 - **Cari Adres:** Carinin adresini belirtir. Farklı adrese gönderilecekse seçilmelidir. Kalemlerde değiştirilebilir.
 
-- **Ref. İthalat İhracat:** Bu hareket bir ithalat yada ihracat ise seçilmelidir. Hangi ithalata veya ihracata ait olduğunu belirtir. Kalemlerde Değiştirilebilir.
+- **Ref. İthalat İhracat:** Bu hareket bir ithalat ya da ihracat ise seçilmelidir. Hangi ithalata veya ihracata ait olduğunu belirtir. Kalemlerde değiştirilebilir.
 
 - **Teslim Tarihi:** Verilen siparişin teslim edildiği tarihi belirtir.
 
@@ -74,23 +74,23 @@ Verilen siparişte siparişin kim tarafından onaylandığı ve sipariş numaras
 - Miktar: Teklifte belirtilmesi istenilen stoğun miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
-- İskonto: Teklifimizde girdiğimiz kalem için iskonto oranını belirtir. Uyguladığımız iskonto var ise buraya oranı girebiliriz.
+- İskonto: Teklifimizde girdiğimiz kalem için iskonto oranını belirtir. Uyguladığımız bir iskonto var ise buraya oranı girebiliriz.
 - Net Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler hariç, sadece temel maliyetini ifade eden fiyatı belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
 - Tutar: Bir mal veya hizmetin toplam mali değerini ifade eden miktarı belirtir. 
-- KDV oran: KDV oranını ifade eder.
+- KDV Oran: KDV Oranını ifade eder.
 - Depo: Bu kalemin kullandığı depoyu belirtir.
 - Açıklama: Kaleme ait açıklamayı belirtir.
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 - Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
 
 - Siparişte bir kalem belirtilecekse *Kaydet* diyerek bir sonraki aşamaya geçebiliriz.
-- Başka kalemlerde mevcut ise yukarıda ki aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
+- Başka kalemlerde mevcut ise yukarıdaki aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
 - Sağ üst köşede faturaya ait toplam fiyat kısımları bulunur;
 	- Toplam: Siparişin KDV hariç toplam tutarını içerir.
 	- İskonto Sonrası: Siparişin KDV dahil fiyatından uygulanan iskonto tutarını ifade eder.
-	- KDV: Siparişin KDV oranının karşılık geldiği tutarı ifade eder.
+	- KDV: Siparişin KDV Oranının karşılık geldiği tutarı ifade eder.
 	- Genel Toplam: Siparişin tüm kalemlerin KDV dahil tutarının toplamını belirtir.
 
 ## Belgeler
@@ -117,7 +117,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kalem Ekleme
 
-- Yeni Stok Kalemi Ekle: Vereceğimiz siparişin stok kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
+- Yeni Stok Kalemi Ekle: Vereceğimiz siparişin stok kalemini eklemek için burayı seçerek ekleme sağlayabilirsiniz.
 - Yeni Gelirgider Kalemi Ekle: Vereceğimiz siparişin gelir gider kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
 - Yeni Demirbaş Kalemi Ekle: Vereceğimiz siparişin demirbaş kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
 - Tekliften Kalem Ekle: Siparişimizde, verdiğimiz tekliflerden kalem eklemek için kullanılır.
@@ -144,7 +144,15 @@ Verilen siparişimize ekleme yapmak ya da herhangi bir düzeltme yapmak için ka
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Kopyala: Verilen siparişi kopyalamak için kullanılır.
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.
