@@ -9,7 +9,7 @@ SayfaTipi: UrFireNeden/Liste
 
 ### Ulaşım 
 
-- Sol menüden Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "fire" aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "fire" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Kartlar -> Fire Neden Listesi şeklinde ulaşım sağlayabilirsiniz.
 
 ### Tanım

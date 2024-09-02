@@ -9,10 +9,10 @@ SayfaTipi: Kasa
 
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "nakit tahsilat" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Musteri/Satici -> Hareket Oluştur -> Kasa -> Nakit Tahsilat şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Satış & Pazarlama -> Hareket Oluştur -> Nakit Tahsilat şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Kasa -> Hareket Oluştur -> Nakit Tahsilat şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "nakit tahsilat" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Kasa -> Nakit Tahsilat* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden *Satış & Pazarlama -> Hareket Oluştur -> Nakit Tahsilat* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden *Kasa -> Hareket Oluştur -> Nakit Tahsilat* şeklinde ulaşım sağlayabilirsiniz. 
 
 ## Tanım
 

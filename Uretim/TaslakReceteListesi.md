@@ -9,7 +9,7 @@ SayfaTipi: Kart
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Kartlar -> Taslak Reçete Listesi şeklinde ulaşım sağlayabilirsiniz. 
 - Sol menüden Üretim -> Modül Sayfası -> Liste -> Taslak Reçete Listesi şeklinde ulaşım sağlayabiliriz.
 

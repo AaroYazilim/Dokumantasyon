@@ -9,7 +9,7 @@ SayfaTipi: SenetIcrayaKonuldu
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden ÇekSenet -> Hareket Oluştur -> Senet -> Senet İcraya Konuldu şeklinde ulaşım sağlayabilirsiniz. 
 
 ### Tanım 

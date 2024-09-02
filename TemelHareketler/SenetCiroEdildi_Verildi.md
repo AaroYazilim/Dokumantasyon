@@ -9,7 +9,7 @@ SayfaTipi: SenetCiroEdildi
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden ÇekSenet -> Hareket Oluştur -> Senet Ciro Edildi/Verildi şeklinde ulaşım sağlayabilirsiniz. 
 - Sol menüden Müşteri/Satıcı -> Hareket Oluştur -> Senet -> Senet Ciro Edildi/Verildi şeklinde ulaşım sağlayabilirsiniz. 
 

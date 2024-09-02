@@ -9,7 +9,7 @@ SayfaTipi: KartListe
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Kartlar -> Operasyon -> Operasyon Listesi -> Yeni Operasyon Ekle şeklinde ulaşım sağlayabilirsiniz.
 
 ### Tanım

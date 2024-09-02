@@ -9,7 +9,7 @@ SayfaTipi:
 
 ### Ulaşım
 
-- Sol menüden Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "işçilik" aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "işçilik" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Hareketler -> Hızlı Üretim Hareketi Girişi (Sadece İşçilik) şeklinde ulaşım sağlayabilirsiniz.
 
 ### Tanım

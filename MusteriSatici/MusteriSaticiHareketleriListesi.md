@@ -10,7 +10,7 @@ SayfaTipi: HareketListe
 ### Ulaşım 
 Aşağıdaki şekillerde ulaşım sağlayabilirsiniz:
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Müşteri/satıcı hareket listesi" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Müşteri/satıcı hareket listesi" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Müşteri/Satıcı -> Modül Sayfası -> Müşteri/Satıcı Hareketleri Listesi üzerinden ulaşım sağlayabilirsiniz. 
 - Sol menüden Müşteri/Satıcı -> Listeler -> Müşteri/Satıcı Hareketleri Listesi üzerinden ulaşım sağlayabilirsiniz.
 

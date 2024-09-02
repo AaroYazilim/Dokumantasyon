@@ -9,8 +9,8 @@ SayfaTipi: Cari
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "müşteri satıcı" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Musteri/Satici -> Hareket Oluştur -> Müşteri/Satıcı Hesapları Arası Transfer şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "müşteri satıcı" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Müşteri/Satıcı Hesapları Arası* Transfer şeklinde ulaşım sağlayabilirsiniz. 
 
 ### Tanım
 

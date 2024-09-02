@@ -9,9 +9,9 @@ SayfaTipi: SenetBankadanIadeAlindi
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Senet" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden ÇekSenet -> Hareket Oluştur -> Senet Bankadan İade Alındı üzerinden ulaşım sağlayabilirsiniz. 
-- Sol menüden Banka -> Hareket Oluştur -> Senet Bankadan İade Alındı üzerinden ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Senet" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Senet Bankadan İade Alındı* üzerinden ulaşım sağlayabilirsiniz. 
+- Sol menüden *Banka -> Hareket Oluştur -> Senet Bankadan İade Alındı* üzerinden ulaşım sağlayabilirsiniz. 
 
 ### Tanım 
 

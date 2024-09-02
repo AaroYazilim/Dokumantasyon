@@ -9,7 +9,7 @@ SayfaTipi:
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "hızlı aç" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "hızlı aç" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Hareketler -> Üretim Hareketi Hızlı Aç şeklinde ulaşım sağlayabilirsiniz. 
 
 ### Tanım

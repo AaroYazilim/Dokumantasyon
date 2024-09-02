@@ -9,8 +9,7 @@ SayfaTipi: Siparis
 
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'sipariş
-' şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'sipariş' şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol sekmede yer alan modüller kısmından Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Verilen Sipariş şeklinde ulaşım sağlayabilirsiniz.
 - Sol sekmede yer alan modüller kısmından Satış&Pazarlama -> Hareket Oluştur -> Verilen Sipariş şeklinde ulaşım sağlayabilirsiniz.
 

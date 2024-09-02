@@ -9,9 +9,8 @@ SayfaTipi: StokHareketleri
 
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'sayım
-' şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Stok -> Hareket Oluştur -> Diğerler -> Sayım Farkı İşleme şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'sayım' şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Stok -> Hareket Oluştur -> Diğerler -> Sayım Farkı İşleme* şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
 
@@ -84,7 +83,9 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 	## Genel 
 
-	**Borç / Alacak:** Borç= Fiziksel sayımdan sonra kayıtlı stoklarımızdan fazla olan stokları ifade eder.
+	**Borç / Alacak:** 
+	
+	Borç= Fiziksel sayımdan sonra kayıtlı stoklarımızdan fazla olan stokları ifade eder.  
 	Alacak= Fiziksel sayımdan sonra kayıtlı stoklarımızdan az olan stokları ifade eder.
 
 	**Stok:** Sayımını yaptığımız stoğu ifade eder.
@@ -93,7 +94,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 	**Brüt Fiyat:** Sayımı yapılan stoğun brüt fiyatını ifade eder.
 
-	**İskonto Oranı:** Sayımı yapılan stoğun iskonko oranını ifade eder.
+	**İskonto Oranı:** Sayımı yapılan stoğun iskonto oranını ifade eder.
 
 	**Net Fiyat:** Sayımı yapılan stoğun net fiyatını ifade eder.
 
@@ -119,7 +120,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 	**Miktar:** Gelir giderin adetini ifade eder.
 
-	**Brüt Fiyat:** Gelir Gider kartının brüf fiyatı8nı ifade eder.
+	**Brüt Fiyat:** Gelir Gider kartının brüt fiyatını ifade eder.
 
 	**İskonto Oranı:** Gelir Gider kartının iskonto oranını ifade eder.
 
@@ -141,6 +142,6 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 	## Vergiler
 
-	**KDV:** Gelir Gider kartınına ait KDV oranını ifade eder.
+	**KDV:** Gelir Gider kartına ait KDV oranını ifade eder.
 
 	**Tevkifat:** Gelir Gider kartınına ait olan tevfikatları ifade eder.

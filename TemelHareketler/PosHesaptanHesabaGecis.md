@@ -9,8 +9,8 @@ SayfaTipi: Banka
 
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "pos hesap" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Banka -> Hareket Oluştur -> Diğer İşlemler -> POS Hesaptan Hesaba Geçiş şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "pos hesap" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *Banka -> Hareket Oluştur -> Diğer İşlemler -> POS Hesaptan Hesaba Geçiş* şeklinde ulaşım sağlayabilirsiniz. 
 
 ## Tanım 
 
@@ -31,11 +31,12 @@ Bu işlem, POS hesabındaki hareketlerin doğru bir şekilde takip edilmesini ve
 Ayrıca, bankalardan gelen hesap ekstreleri ile POS geçiş işlemlerinin uyumlu olup olmadığını kontrol etmek önemlidir.
 
 Örnek:
+
 Bir işletme, POS cihazı ile 1.000 TL'lik satış yapar ve bu tutar POS hesabına aktarılır. 
 Gün sonunda bu 1.000 TL, POS hesabından işletmenin ana banka hesabına transfer edilir. Bu işlem, muhasebe kayıtlarında şu şekilde görünür:
 
-POS Hesabı: 1.000 TL borç (azaltma)
-Ana Banka Hesabı: 1.000 TL alacak (artış)
+POS Hesabı: 1.000 TL borç (azaltma)  
+Ana Banka Hesabı: 1.000 TL alacak (artış)  
 Bu şekilde, POS hesaptan hesaba geçiş işlemi, işletmenizin POS cihazı üzerinden yapılan satışların düzgün bir şekilde ana hesaba aktarılmasını ve finansal kayıtlarınızın doğru ve güncel tutulmasını sağlar.
 
 ## Genel
@@ -48,8 +49,7 @@ Bu şekilde, POS hesaptan hesaba geçiş işlemi, işletmenizin POS cihazı üze
 
 **Banka Hesap:** İşlemin yapılacağı banka hesabı ifade eder. 
 
-**Döviz:** Bu banka hesabının çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
-Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
+**Döviz:** Banka hesabının çalıştığı döviz cinsini belirtir. Türk lirası dışında bir döviz seçildiğinde, yalnızca o döviz cinsinden işlem yapılmasına izin verir. Banka hesabının bakiyesi, seçilen döviz cinsine göre takip edilir.
 
 **Kur:** Belirtilen dövizin, işlem yapılan para birimi karşısındaki değerini ifade eder. 
 Kur, dövizin güncel piyasa değerini yansıtır ve bu oran üzerinden işlemler gerçekleştirilir.

@@ -14,7 +14,7 @@ Bu adımlar sırayla listelenir ve ürünün yapımının adım adım nasıl ger
 
 # Sonradan Reçete Düzenlemesi Yapmak 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Kartlar -> İş Emri Reçeteleri Listesi şeklinde ulaşım sağlayabilirsiniz. 
 
 Reçete diagram ekranımızı açalım, işlem yapacağımız yani önüne ya da arkasına ürün gelecek operasyonu seçiniz. 

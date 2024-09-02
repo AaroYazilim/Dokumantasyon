@@ -9,11 +9,10 @@ SayfaTipi: KasaHareketleri
 
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'kasa
-' şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Kasa -> Hareket Oluştur -> Nakit Ödeme şeklinde ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Müşteri/Satıcı -> Hareket Oluştur -> Kasa -> Nakit Ödeme şeklinde ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Satın Alma -> Hareket Oluştur -> Nakit Ödeme İşleme şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'kasa' şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Kasa -> Hareket Oluştur -> Nakit Ödeme* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Müşteri/Satıcı -> Hareket Oluştur -> Kasa -> Nakit Ödeme* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Satın Alma -> Hareket Oluştur -> Nakit Ödeme İşleme* şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
 

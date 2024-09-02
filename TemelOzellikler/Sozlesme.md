@@ -9,7 +9,7 @@ SayfaTipi: Lıste
 
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "sözleşme" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "sözleşme" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Satın Alma -> Kartlar -> Sözleşme Listesi(Alış) şeklinde ulaşım sağlayabilirsiniz.
 - Sol menüden Satış&Pazarlama -> Kartlar -> Sözleşme Listesi(Satış) şeklinde ulaşım sağlayabilirsiniz.
 

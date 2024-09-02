@@ -74,7 +74,7 @@ anlık verilerin canlı üretim sisteminde görüntülenmesine yardımcı olarak
 
 ### Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "terminal" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "terminal" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Ayarlar -> Kartlar -> Terminal Kullanıcı Listesi -> Yeni Terminal Ekle şeklinde ulaşım sağlayabilirsiniz.
 
 #### Genel 

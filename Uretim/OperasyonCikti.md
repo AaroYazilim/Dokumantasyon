@@ -3,7 +3,7 @@
 
 Operasyon çıktıları üretim aşamalarının tek tek her süreç için olmasıdır. 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Kartlar -> Operasyon Listesi şeklinde ulaşım sağlayabilirsiniz.
 
 **İş emrinde her bir operasyonu tek tek almak için;**

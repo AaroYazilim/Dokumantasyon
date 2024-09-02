@@ -9,7 +9,7 @@ SayfaTipi: KartListe
 
 ### Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Demirbaş kartı listesi" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Demirbaş kartı listesi" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Demirbaş -> Demirbaş Modülü -> Demirbaş Kartı Listesi şeklinde ulaşım sağlayabilirsiniz. 
 - Sol menüden Demirbaş -> Listeler -> Demirbaş Kartı Listesi üzerinden ulaşım sağlayabilirsiniz.
 

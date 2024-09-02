@@ -9,7 +9,7 @@ SayfaTipi: CekKarsiliksizPortfoyde
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "çek karşılıksız" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "çek karşılıksız" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek -> Çek Portföyde Karşılıksız Çıktı* şeklinde ulaşım sağlayabilirsiniz. 
 
 ### Tanım 

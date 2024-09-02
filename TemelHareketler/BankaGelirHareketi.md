@@ -9,8 +9,7 @@ SayfaTipi: BankaHareketleri
 
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Banka gider
-' şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Banka gider' şeklinde aratarak ulaşım sağlayabilirsiniz.
 - *Sol sekmede yer alan modüller kısmından Banka -> Hareket Oluştur -> Banka Gelir Hareketi* şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım

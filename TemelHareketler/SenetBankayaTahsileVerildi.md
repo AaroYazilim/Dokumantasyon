@@ -9,7 +9,7 @@ SayfaTipi: CekSenetBankayaTahsilataVerildi
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden ÇekSenet -> Hareket Oluştur -> Senet Bankaya Tahsile Verildi üzerinden ulaşım sağlayabilirsiniz. 
 - Sol menüden Banka -> Hareket Oluştur -> Senet Bankaya Tahsile Verildi üzerinden ulaşım sağlayabilirsiniz. 
 

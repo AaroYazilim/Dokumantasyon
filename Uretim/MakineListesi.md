@@ -9,7 +9,7 @@ SayfaTipi: KartListe
 
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "makine" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "makine" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Kartlar -> Makine -> Makine Listesi şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım

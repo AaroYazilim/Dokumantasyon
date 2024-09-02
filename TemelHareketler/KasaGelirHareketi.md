@@ -9,8 +9,7 @@ SayfaTipi: KasaHareketleri
 
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'kasa gider
-' şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'kasa gider' şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol sekmede yer alan modüller kısmından *Kasa -> Hareket Oluştur -> Kasadan Gelir Hareketi* şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım

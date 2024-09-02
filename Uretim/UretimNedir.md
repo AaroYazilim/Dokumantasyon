@@ -9,7 +9,7 @@ SayfaTipi: Modül
 
 # Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Üretim" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Üretim" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Üretim Modülü şeklinde ulaşım sağlayabilirsiniz. 
 
 ## Tanım 

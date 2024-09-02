@@ -9,7 +9,7 @@ SayfaTipi: Kart
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon makine" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon makine" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Kartlar -> Operasyon ile Makine Eşleştirme Listesi -> Yeni - Operasyon-Makine Eşleştirme şeklinde ulaşım sağlayabilirsiniz. 
 
 ### Tanım

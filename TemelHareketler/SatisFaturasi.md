@@ -9,9 +9,9 @@ SayfaTipi: Fatura
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "satış faturası" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Musteri/Satici -> Hareket Oluştur -> Satış Faturası şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Satış & Pazarlama -> Listeler -> Satış Faturası Listesi -> Yeni Hareket Ekle üzerinden ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "satış faturası" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Satış Faturası* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden *Satış & Pazarlama -> Listeler -> Satış Faturası Listesi -> Yeni Hareket Ekle* üzerinden ulaşım sağlayabilirsiniz. 
 
 ## Tanım 
 
@@ -29,8 +29,23 @@ Bu, her iki taraf için de muhasebe kayıtlarının düzgün tutulması ve olas�
 
 **Müşteri:** İşlemin yapıldığını cari kartını ifade eder. 
 
-**Döviz:** Bu banka hesabının çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
-Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
+**Döviz:**"Banka hesabının çalıştığı döviz cinsini belirtir. Türk lirası dışında bir döviz seçildiğinde, yalnızca o döviz cinsinden işlem yapılmasına izin verir. Banka hesabının bakiyesi, seçilen döviz cinsine göre takip edilir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Depo:** Bu işlemin kullandığı depoyu belirtir.
 

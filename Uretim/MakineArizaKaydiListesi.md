@@ -9,7 +9,7 @@ SayfaTipi: Liste
 
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "makine arıza" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "makine arıza" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Listeler -> Makine Arıza Kaydı Listesi şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım 

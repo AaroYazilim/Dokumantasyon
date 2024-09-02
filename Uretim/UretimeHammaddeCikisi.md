@@ -9,7 +9,7 @@ SayfaTipi: Hareket
 
 ## Ulaşım
 
-- Sol menüden Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "hammadde" aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "hammadde" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Hareketler -> Üretime Hammadde Çıkışı şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım

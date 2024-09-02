@@ -9,7 +9,7 @@ SayfaTipi: Lıste
 
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "yetki" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "yetki" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Ayarlar -> Modül Sayfası -> Yetki Listesi -> Yeni Yetki Ekle şeklinde yeni parametre ekleyebilirsiniz.
 - Sol menüden Ayarlar -> Yetki Listesi şeklinde yetki listesine ulaşım sağlayabilirsiniz. 
 

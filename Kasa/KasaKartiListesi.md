@@ -9,7 +9,7 @@ SayfaTipi: KartListe
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "kasa kartı listesi" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "kasa kartı listesi" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden *Kasa -> Kasa Modülü -> Kasa Kartı Listesi* şeklinde ulaşım sağlayabilirsiniz. 
 - Sol menüden *Kasa -> Kasa Modülü -> Kartlar -> Kasa Kartı Listesi* şeklinde ulaşım sağlayabilirsiniz. 
 

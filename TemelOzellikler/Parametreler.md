@@ -17,7 +17,7 @@ Bazı parametrelerin kritik iş süreçlerini etkileyebilir bu nedenle sadece ye
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Parametre" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Parametre" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Ayarlar -> Modül Sayfası -> Parametre Listesi -> Yeni Parametre Ekle şeklinde yeni parametre ekleyebilirsiniz.
 - Sol menüden Ayarlar -> Modül Sayfası -> Parametre Listesi şeklinde parametre listesine ulaşım sağlayabilirsiniz. 
 

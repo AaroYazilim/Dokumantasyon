@@ -53,8 +53,23 @@ Bu adımlar, ihraç kayıtlı fatura kesmenin genel sürecini özetlemektedir.
 
 **Müşteri:** İhracat faturamızı keseceğimiz firmayı seçelim. Kayıtlı değilse Detaylı ekle, Hızlı ekle seçenekleriyle kolayca cari ekleyebilirsiniz.
 
-**Döviz:** Bu banka hesabının çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
-Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
+**Döviz:**"Banka hesabının çalıştığı döviz cinsini belirtir. Türk lirası dışında bir döviz seçildiğinde, yalnızca o döviz cinsinden işlem yapılmasına izin verir. Banka hesabının bakiyesi, seçilen döviz cinsine göre takip edilir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Depo:** İhracat faturasını kestiğimiz ürünün hangi depodan temin edileceğini belirtir. 
 

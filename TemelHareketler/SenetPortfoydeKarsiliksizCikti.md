@@ -9,7 +9,7 @@ SayfaTipi: SenetKarsiliksizPortfoyde
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet karşılıksız" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet karşılıksız" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden ÇekSenet -> Hareket Oluştur -> Çek -> Senet Portföyde Karşılıksız Çıktı şeklinde ulaşım sağlayabilirsiniz. 
 
 ### Tanım 

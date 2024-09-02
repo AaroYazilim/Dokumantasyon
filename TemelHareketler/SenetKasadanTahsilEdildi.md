@@ -9,7 +9,7 @@ SayfaTipi: SenetKasadanTahsilEdildi
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Senet" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Senet" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden ÇekSenet -> Hareket Oluştur -> Senet Kasadan Tahsil Edildi şeklinde ulaşım sağlayabilirsiniz. 
 - Sol menüden Kasa -> Hareket Oluştur -> Senet Kasadan Tahsil Edildi şeklinde ulaşım sağlayabilirsiniz. 
 

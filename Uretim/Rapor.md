@@ -18,7 +18,7 @@ Burada, mevcut stok durumu, tedarik süreleri, üretim planı ve diğer önemli 
 
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon bazında üretim mamul" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon bazında üretim mamul" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Rapor -> Üretim -> Operasyon Bazında Üretim (Makine,Mamül) şeklinde ulaşım sağlayabilirsiniz.
 
 ## Detaylar 

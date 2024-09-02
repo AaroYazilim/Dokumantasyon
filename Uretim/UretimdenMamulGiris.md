@@ -9,7 +9,7 @@ SayfaTipi:
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "mamül giriş" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "mamül giriş" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Üretim -> Hareketler -> Üretimden Mamül Giriş şeklinde ulaşım sağlayabilirsiniz. 
 
 ### Tanım

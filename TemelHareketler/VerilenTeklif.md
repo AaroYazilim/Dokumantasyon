@@ -9,8 +9,7 @@ SayfaTipi: Teklif
 
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'Verilen Teklif
-' şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'Verilen Teklif' şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol sekmede yer alan modüller kısmından Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Verilen Teklif şeklinde ulaşım sağlayabilirsiniz.
 - Sol sekmede yer alan modüller kısmından Satıi&Pazarlama -> Hareket Oluştur -> Verilen Teklif şeklinde ulaşım sağlayabilirsiniz.
 
