@@ -5,6 +5,7 @@ Beklenen tahsilat ödemeleri , gelecekteki müşteri veya diğer alacaklılardan
 Bu ödemeler, belirli tarihlerde veya vade süresinde gerçekleştirilmesi planlanan ödemelerdir.
 
 Tahsilatların gerçekleşip gerçekleşmediğini kontrol eder ve gerekli hatırlatmaları yapılmasına olanak tanır.
+
 Ödemelerin zamanında alınıp alınmadığını takip ederek finansal durumu izleyebilirsiniz.
 
 ### Beklenen Ödeme ve Tahsilat (Yeni) Tanımlama
@@ -24,7 +25,7 @@ Tahsilatların gerçekleşip gerçekleşmediğini kontrol eder ve gerekli hatır
 
 **Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 
-#### Vade ve Tutarlar
+### Vade ve Tutarlar
 
 **Vade:** Ürün veya hizmetin ödemesinin yapılması gereken süreyi belirtir. 
 

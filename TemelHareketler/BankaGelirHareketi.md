@@ -81,8 +81,10 @@ Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
-- *Daha önce yüklediklerimden seç -> belgeyi seç -> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- *Yüklenecek belge veya resimleri seç -> belgeyi ya da belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> Belgeyi seç
+-> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seç -> Belgeyi ya da
+ belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 

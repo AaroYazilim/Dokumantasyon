@@ -3,6 +3,7 @@
 
 Grid sütunlarını ayarlamak, bir tablo veya veri görünümündeki sütunların sırasını düzenlemeyi ifade eder. 
 Bu ayarlamalar, verilerin daha okunabilir ve kullanıcı dostu bir şekilde sunulmasını sağlar.
+
 Grid Sütunlarını ayarlayabilir ve kartın detaylarının görünümünde değişiklikler yapabilirsiniz. 
 Sütunların sırası, verilerin mantıklı bir sıralama ile sunulmasını sağlar. 
 Bazı sütunlar ihtiyaç duyulmadığında gizlenebilir veya görünür hale getirilebilir. Bu, gereksiz verilerin ekranı karıştırmaması için yapılır.

@@ -6,6 +6,7 @@ Vadesi girilmiş bir cari işlem yapldığında otomatik olarak belirlenmiş vad
 
 Vade, bir borcun veya alacağın ödeme veya tahsil edilmesi için belirlenen süre veya tarih anlamına gelir. 
 Bu süre, iki taraf arasında yapılan anlaşmaya veya ticari işlem şartlarına bağlı olarak değişebilir. 
+
 Örneğin; bir borç veya fatura için belirlenen vade, borcun ne zaman ödenmesi gerektiğini gösterirken 
 bir alacak için belirlenen vade, alacağın ne zaman tahsil edileceğini belirtir.
 
