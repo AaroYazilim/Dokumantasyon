@@ -9,14 +9,14 @@ SayfaTipi: CekKasadanOdendi
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "çek" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden ÇekSenet -> Hareket Oluştur -> Çek Kasadan Ödendi şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Kasa -> Hareket Oluştur -> Çek Kasadan Ödendi şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "çek" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek Kasadan Ödendi* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden *Kasa -> Hareket Oluştur -> Çek Kasadan Ödendi* şeklinde ulaşım sağlayabilirsiniz. 
 
 ### Tanım 
 
 Çek Kasadan Ödendi işlemi, bir çekin ödeme aracı olarak kullanılarak kasadan yapılan bir ödeme işlemini ifade eder. 
-Bu durum, çekin bir borcun ödenmesi veya bir alım işlemi için kullanılması anlamına gelir. 
+Bu durum, çekin, bir borcun ödenmesi veya bir alım işlemi için kullanılması anlamına gelir. 
 Ödeme gerçekleştikten sonra, çek tutarı kasa hesabından düşülür ve ilgili muhasebe kayıtlarına işlenir. 
 Bu işlem, hem çek hem de kasa hesaplarının güncellenmesini sağlar.
 
@@ -67,13 +67,13 @@ Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikl
 
 ## Belge
 
-Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlardaki belgeleri buraya yükleyebiliriz.
 Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> belgeyi seç -> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seç -> belgeyi ya da belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
@@ -93,11 +93,11 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
 - Görev Oluştur: İade faturası için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, *Kaydet* diyerek görevi bağlayabiliriz.
+- Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçelim, *Kaydet* diyerek görevi bağlayalım.
 
-## *Kaydet*me ve Silme
+## Kaydetme ve Silme
 
 - Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 

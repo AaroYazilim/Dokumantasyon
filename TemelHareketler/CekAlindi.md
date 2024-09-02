@@ -28,7 +28,7 @@ SayfaTipi: CekAlindi
 
 **Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
-**Cari:** İşlemin yapıldığını cari kartını ifade eder. 
+**Cari:** İşlemin yapıldığı cari kartını ifade eder. 
 
 **Döviz:** Bu çekin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
 Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
@@ -108,7 +108,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 	**Asıl Adı:** Çekin hangi cariye ait olduğunu ifade eder.
 
-	**Vergi No:**Çekin ait olduğu carinin vergi numarasını ifade eder.
+	**Vergi No:** Çekin ait olduğu carinin vergi numarasını ifade eder.
 
 ## Ek İşlemler
 
@@ -119,10 +119,10 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.
 - Görev Oluştur: İade faturası için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, *Kaydet* diyerek görevi bağlayabiliriz.
+- Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçelim, *Kaydet* diyerek görevi bağlayabiliriz.
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
