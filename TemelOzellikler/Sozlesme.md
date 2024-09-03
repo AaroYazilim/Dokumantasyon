@@ -10,17 +10,17 @@ SayfaTipi: Lıste
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "sözleşme" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Satın Alma -> Kartlar -> Sözleşme Listesi(Alış) şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden Satış&Pazarlama -> Kartlar -> Sözleşme Listesi(Satış) şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden *Satın Alma -> Kartlar -> Sözleşme Listesi(Alış)* şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden *Satış&Pazarlama -> Kartlar -> Sözleşme Listesi(Satış)* şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
 
-Sözleşme, iki veya daha fazla taraf arasında belirli bir konuda karşılıklı hak ve yükümlülüklerin belirlendiği yazılı veya sözlü bir anlaşmadır. 
-Sözleşmeler, tarafların birbiriyle yaptığı anlaşmaların detaylarını ve şartlarını netleştirir, bu sayede her iki tarafın da haklarını korur ve yerine getirilmesi gereken taahhütleri belirler. 
+Sözleşme, iki veya daha fazla taraf arasında belirli bir konuda karşılıklı hak ve yükümlülüklerin belirlendiği yazılı veya sözlü bir anlaşmadır.  
+Sözleşmeler, tarafların birbiriyle yaptığı anlaşmaların detaylarını ve şartlarını netleştirir, bu sayede her iki tarafın da haklarını korur ve yerine getirilmesi gereken taahhütleri belirler.  
 Sözleşmeler genellikle ticari işlemler, hizmet alım-satımları, kiralamalar, iş anlaşmaları ve benzeri durumlar için kullanılır.
 
-Bir sözleşme, genellikle tarafların kimlikleri, anlaşmanın konusu, tarafların yükümlülükleri, ödeme şartları, süresi, fesih koşulları ve anlaşmazlık durumunda uygulanacak çözümleri içerir. 
-Sözleşmenin geçerliliği için, tarafların anlaşma iradesine sahip olması, sözleşmenin konusu ile ilgili yasalara uygun olması ve tarafların sözleşmeyi imzalaması gerekmektedir. 
+Bir sözleşme, genellikle tarafların kimlikleri, anlaşmanın konusu, tarafların yükümlülükleri, ödeme şartları, süresi, fesih koşulları ve anlaşmazlık durumunda uygulanacak çözümleri içerir.  
+Sözleşmenin geçerliliği için, tarafların anlaşma iradesine sahip olması, sözleşmenin konusu ile ilgili yasalara uygun olması ve tarafların sözleşmeyi imzalaması gerekmektedir.  
 Sözleşmeler, hukuki bağlayıcılığı olan belgeler olup, tarafların anlaşmanın şartlarına uymalarını garanti altına alır.
 
 Cariler ile aranızdaki sözleşmelerinizi sisteme tanımlayabilir, hareketlerde sözleşme seçerek takibini sağlayabilirsiniz.
@@ -35,7 +35,7 @@ Müşteri ve satıcılarınız ile aranızdaki sözleşmelerinizi sisteme yükle
 
 **Sözleşme Kodu:** Sözleşmenin kodunu ifade eder.
 
-**Tip:** Sözleşmenin alış veya satış mı olduğunu ifade eder.
+**Tip:** Sözleşmenin alış mı yoksa satış mı olduğunu ifade eder.
 
 **Tarih:** Sözleşmenin tarihini ifade eder.
 
