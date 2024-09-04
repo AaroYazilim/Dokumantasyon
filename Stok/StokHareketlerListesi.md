@@ -77,6 +77,6 @@ SayfaTipi: HareketListe
 - [Depolar Arası Transfer](../TemelHareketler/DepolarArasiTransfer.md)
 - [Depolar Arası Transfer-Doğrudan Sevk](../TemelHareketler/DepolarArasiTransfer.md)
 - [Sayım Farkı İşlemi](../TemelHareketler/SayimFarkiIslemi.md)
-- [Üretime Ham Madde Çıkışı](../TemelHareketler/ÜretimeHammaddeCikisi.md)
-- [Üretimden Mamül Giriş](../TemelHareketler/SayimFarkiIslemi.md)
+- [Üretime Ham Madde Çıkışı](../TemelHareketler/ÜretimeHam maddeCikisi.md)
+- [Üretimden mamul Giriş](../TemelHareketler/SayimFarkiIslemi.md)
 

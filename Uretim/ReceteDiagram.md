@@ -1,38 +1,38 @@
 
-# Reçete Diagramı
+# Reçete Diyagramı
 
 Üretim reçetesi diyagramı, genellikle bir ürünün üretim sürecinde kullanılan malzemelerin, ekipmanın ve prosedürlerin detaylı bir listesini içerir. 
-Diyagram, üretim süreçlerini yönetmek ve optimize etmek için kullanılır.
-Reçete diagramı, malzemelerin nasıl kullanılacağını ve işlem adımlarını içerir. 
+Diyagram, üretim süreçlerini yönetmek ve optimize etmek için kullanılır.  
+Reçete diyagramı, malzemelerin nasıl kullanılacağını ve işlem adımlarını içerir.   
 Bu adımlar sırayla listelenir ve ürünün yapımının adım adım nasıl gerçekleştirileceğini açıklar.
 
 ## Ulaşım
 
-- Sol menüden Üretim -> Kartlar -> Taslak Reçete Listesi şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> İş Emri Reçeteleri Listesi şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Listeler -> İş Emri Listesi şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden *Üretim -> Kartlar -> Taslak Reçete Listesi* şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden *Üretim -> Kartlar -> İş Emri Reçeteleri Listesi* şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden *Üretim -> Listeler -> İş Emri Listesi* şeklinde ulaşım sağlayabilirsiniz.
 
 # Sonradan Reçete Düzenlemesi Yapmak 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> İş Emri Reçeteleri Listesi şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden *Üretim -> Kartlar -> İş Emri Reçeteleri Listesi* şeklinde ulaşım sağlayabilirsiniz. 
 
-Reçete diagram ekranımızı açalım, işlem yapacağımız yani önüne ya da arkasına ürün gelecek operasyonu seçiniz. 
-Buradan yanlış olan ya da daha sonrasında operasyon, mamül, hammadde, yarı mamüller de değişiklik yapabiliriz.
+Reçete Diyagram ekranımızı açalım, işlem yapacağımız yani önüne ya da arkasına ürün gelecek operasyonu seçiniz.  
+Buradan yanlış olan ya da daha sonrasında operasyon, mamul, ham madde ve yarı mamullerde değişiklik yapabiliriz.
 
-### Hammaddeye tıklayalım hammadde düzeltebilir, hammadde silebilir, operasyon ekleyebilir(öncesi ve sonrası), reçete getirebiliriz.
+### Ham maddeye tıklayalım; ham madde düzeltebilir, ham madde silebilir, operasyon ekleyebilir(öncesi ve sonrası), reçete getirebiliriz.
 
-Reçetede hammadde de yapabileceğimiz işlemlerin detaylarına linkten erişebiliriz. [Hammadde](../Uretim/HammaddeEkle.md)
+Reçetede ham maddede yapabileceğimiz işlemlerin detaylarına linkten erişebiliriz. [Ham madde](../Uretim/Ham maddeEkle.md)
 
-### Operasyona tıklayalım Operasyon düzeletebilir, silebilir, hammadde ya da mamül ekleyebiliriz.
+### Operasyona tıklayalım; operasyon düzeltebilir, silebilir, ham madde ya da mamul ekleyebiliriz.
 
 Reçetede operasyonda yapabileceğimiz işlemlerin detaylarına linkten erişebiliriz. [Operasyon](../Uretim/OperasyonEkle.md)
 
-### Mamüle tıklayalım mamül düzeltebilir, mamül silebilir, operasyon ekleyebilir(öncesi ve sonrası), reçete miktarı belirleyebiliriz.
+### Mamule tıklayalım; mamul düzeltebilir, mamul silebilir, operasyon ekleyebilir(öncesi ve sonrası), reçete miktarı belirleyebiliriz.
 
-Reçetede mamülde yapabileceğimiz işlemlerin detaylarına linkten erişebiliriz. [Mamül](../Uretim/MamülEkle.md)
+Reçetede mamulde yapabileceğimiz işlemlerin detaylarına linkten erişebiliriz. [mamul](../Uretim/mamulEkle.md)
 
 
-### Hammadde Mamül(Yarı Mamül) tıklayalım hammadde-mamül düzeltebilir, silebilir, önceki zinciri silebilir, Operasyon ekleyebiliriz(öncesi-sonrası).
+### Ham madde mamul (Yarı mamul) tıklayalım; ham madde-mamul düzeltebilir, silebilir, önceki zinciri silebilir, operasyon ekleyebiliriz(öncesi-sonrası).
 
-Reçetede operasyonda yapabileceğimiz işlemlerin detaylarına linkten erişebiliriz. [Hammadde-Mamül](../Uretim/HammaddeMamul.md)
+Reçetede operasyonda yapabileceğimiz işlemlerin detaylarına linkten erişebiliriz. [Ham madde-mamul](../Uretim/Ham maddeMamul.md)

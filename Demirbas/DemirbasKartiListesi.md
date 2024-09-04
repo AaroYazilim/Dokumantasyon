@@ -22,7 +22,7 @@ SayfaTipi: KartListe
 ### Ek Özellikler 
 
 - Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
-- Sayfada ki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
+- Sayfadaki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) ile sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
 
 
 ### Ek İşlem Butonu

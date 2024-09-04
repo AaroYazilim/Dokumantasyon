@@ -3,94 +3,92 @@ SayfaID: UretimdenMamulGirisi
 SayfaTipi: 
 ---
 
-# Üretimden Mamül Giriş
+# Üretimden mamul Giriş
 
 **Erişim Linki :** [erp.aaro.com.tr/UretimdenMamulGirisi](erp.aaro.com.tr/UretimdenMamulGirisi)
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "mamül giriş" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Hareketler -> Üretimden Mamül Giriş şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "mamul giriş" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *Üretim -> Hareketler -> Üretimden mamul Giriş* şeklinde ulaşım sağlayabilirsiniz. 
 
 ### Tanım
 
-Üretimden mamül giriş, üretim sürecinde tamamlanmış ürünlerin stoklara girişini ifade eder. 
-Bu süreç, işletmenin üretim faaliyetlerinden elde edilen nihai ürünlerin depoya alınmasını ve kaydedilmesini kapsar. 
+Üretimden mamul giriş, üretim sürecinde tamamlanmış ürünlerin stoklara girişini ifade eder.  
+Bu süreç, işletmenin üretim faaliyetlerinden elde edilen nihai ürünlerin depoya alınmasını ve kaydedilmesini kapsar.  
 İşletmenin verimli çalışması ve stok yönetiminin etkin olması için bu sürecin düzgün bir şekilde yönetilmesi önemlidir.
 
 ### Genel 
 
-**Şirket-Şube:** Üretimi tamamlanan ürünün hangi depodan yapılacağını ifade eder. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+**Şirket-Şube:** Üretimi tamamlanan ürünün hangi depodan çıkış yapılacağını belirtir. Şirket-Şube kullanım detayları için  [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md) linkine tıklayınız.
 
-**Tarih** İşlemin yapıldığı tarihi ifade eder.
+**Tarih:** İşlemin yapıldığı günü ifade eder.
 
-**Belge No** İşlemi yapacağımız belgenin numarasını ifade eder.
+**Belge No:** İşlem için kullanılan belgenin numarasını belirtir.
 
-**Kaynak Depo** Ürünün şuan bulunduğu depoyu seçelim.
+**Kaynak Depo:** Ürünün şu an bulunduğu depoyu seçiniz.
 
-**Şirket-Şube:** Üretimi sonucunda elde ettiğimiz mamülü göndereceğimiz şirket ya da şubeyi ifade eder. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+**Şirket-Şube:** Üretim sonucunda elde edilen mamulü göndereceğimiz şirket veya şubeyi ifade eder. Detaylar için  [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md) linkine tıklayınız.
 
-**Hedef Depo** Mamülleri göndereceğimiz depoyu seçelim.
+**Hedef Depo:** Mamulleri göndereceğiniz depoyu seçiniz.
 
-**Vade** Gönderim sağladığımız depolarda ki gelir giderleri takip edebilmek için vade girebiliriz.
+**Vade:** Gönderim yapılan depolardaki gelir ve giderleri takip edebilmek için vade bilgisi girebilirsiniz.
 
-**Tip**
+**Tip:** İşlem tipini belirtir.
 
 ### Detay
 
-**Proje:** İşleme ait proje var ise *Kaydet*tiğimiz projeyi buradan seçelim.
+**Proje:** İşleme ait bir proje varsa, kaydettiğiniz projeyi buradan seçebilirsiniz.
 
-**Plasiyer:** İşlemi yapacak kullanıcı ifade eder. 
+**Plasiyer:** İşlemi yapacak kullanıcıyı belirtir.
 
-### Açıklamalar
+**Açıklamalar:** İşleme ait özel açıklamalar veya notlar varsa, bu alanda belirtebilirsiniz. Açıklama kullanımı hakkında detaylar için [Açıklama](../TemelOzellikler/Aciklama.md) linkine tıklayabilirsiniz.
 
-İşleme ait özel açıklamamız notlarımız varsa burada belirtebiliriz. 
-Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+**Etiketler:**
+Belirli kriterlere göre filtreleme veya arama yaparak kayıtları bulmak için kullanılır. Etiketler hakkında detaylı bilgi için [Etiketler](../TemelOzellikler/Etiketler.md) linkine tıklayınız.
 
-### Etiketler
-
-Filtreleme veya arama yaparak belirli kriterlere göre kayıtları bulmak için kullanılır.
-Etiketler kullanım detayları için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
-
-***Kaydet* dediğimizde mamül ekleme ekranımız açılacaktır.**
+*Kaydet* dediğimizde mamul ekleme ekranı açılacaktır.
 
 ## Yeni Stok Kalemi Ekle
 
 ### Genel 
 
-**Stok:** İşlem yapacağımız mamülü seçelim.
+**Stok:** İşlem yapacağınız mamulü buradan seçiniz.
 
-**Miktar:** Stoğumuzdan ne kadar miktarda gönderim sağlayacağız, miktarı girelim.
+**Miktar:** Stoktan göndereceğiniz miktarı giriniz.
 
-**Brüt Fiyat:** İskonto yapılmadan önceki fiyattır.
+**Brüt Fiyat:** İskonto uygulanmadan önceki mamul fiyatını belirtir.
 
-**İskonto Oranı:** İndirim yapacağımız iskonto oranını girelim.
+**İskonto Oranı:** Yapılacak indirimin oranını buraya giriniz.
 
-**Net Fiyat:** Brüt fiyata isokontonun uygulanmış fiyatıdır.
+**Net Fiyat:** Brüt fiyata iskonto uygulandıktan sonra oluşan fiyattır.
 
-**Tutar:** Miktar ve net tutarın çarpılarak elde edilen değerdir.
+**Tutar:** Miktar ile net fiyatın çarpılmasıyla elde edilen toplam tutardır.
 
-**Depo:** Mamülümüzün şuan bulunduğu depoyu seçelim.
+**Depo:** Mamulün şu anda bulunduğu depoyu seçiniz.
 
-**Açıklama:** İşleme ait özel açıklamamız notlarımız varsa burada belirtebiliriz. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+**Açıklama:** İşleme ait özel açıklamalar veya notlar varsa, bu alanda belirtebilirsiniz. Açıklama kullanım detayları için Açıklama linkine tıklayabilirsiniz.
+ [Açıklama](../TemelOzellikler/Aciklama.md)
 
-**Vergiler:** Stok seçtiğimizde o stoğa ait KDV Oranlarını özel istisna Muafiyet ekleyecebileceğimiz alandır.
+**Vergiler:** Stok seçtiğimizde o stoğa ait KDV Oranlarını ve Özel İstisna Muafiyet durumlarını ekleyecebileceğimiz alandır.
 
 ### Detay
 
-**Proje:** İşleme ait proje var ise *Kaydet*tiğimiz projeyi buradan seçelim.
+**Proje:** İşleme ait proje var ise kaydettiğimiz projeyi buradan seçelim.
 
 **Plasiyer:** Plasiyer, bir şirketin ürün veya hizmetlerini belirli bir bölgede tanıtan ve satan saha satış temsilcisidir. 
 	Müşterilerle doğrudan iletişim kurarak sipariş alır, ürünlerin tanıtımını yapar ve satış hacmini artırmaya çalışır. 
 
 ### Açıklamalar
 
-İşleme ait özel açıklamamız notlarımız varsa burada belirtebiliriz. 
+İşleme ait özel açıklamamız ya da notlarımız varsa burada belirtebiliriz. 
 Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 ### Etiketler
 
-Filtreleme veya arama yaparak belirli kriterlere göre kayıtları bulmak için kullanılır.
+Belirli kriterlere göre kayıtları bulmak için filtreleme veya arama yaparak kullanılır.
+
+
 Etiketler kullanım detayları için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 ### Notlar 
@@ -119,41 +117,40 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 **Yeni Stok Kalemi Ekle diyerek yeni stok kalemi ekleme işlemimizi gerçekleştirebiliriz.**
 
-Mamüllerimizin stok girişlerini tamamlayıp, bilgilerimizin kontrollerini yaptıktan sonra işlemimizi kaydedebiliriz.
+Mamullerimizin stok girişlerini tamamlayıp, bilgilerimizin kontrollerini yaptıktan sonra işlemimizi kaydedebiliriz.
 
 ## Yeni Gelir / Gider Kalemi Ekle
 
 ### Genel
+**Gelir / Gider:** İşlemi gerçekleştireceğiniz gelir veya gideri seçiniz.
 
-**Gelir / Gider:** İşlemi gerçekleştireceğimiz gelir ya da gideri seçelim.
+**Miktar:** Stoğunuzdan gönderim sağlayacağınız miktarı giriniz.
 
-**Miktar:** Stoğumuzdan ne kadar miktarda gönderim sağlayacağız, miktarı girelim.
+**Brüt Fiyat:** İskonto uygulanmadan önceki fiyatı belirtir.
 
-**Brüt Fiyat:** İskonto yapılmadan önceki fiyattır.
+**İskonto Oranı**: Yapılacak indirimin oranını giriniz.
 
-**İskonto Oranı:** İndirim yapacağımız iskonto oranını girelim.
+**Net Fiyat:** Brüt fiyata iskonto uygulandıktan sonraki fiyattır.
 
-**Net Fiyat:** Brüt fiyata isokontonun uygulanmış fiyatıdır.
+**Tutar:** Miktar ile net fiyatın çarpılması sonucu elde edilen değerdir.
 
-**Tutar:** Miktar ve net tutarın çarpılarak elde edilen değerdir.
-
-**Depo:** Bu işlemin kullanıldığı depoyu ifade eder.
+**Depo:** İşlemin kullanıldığı depoyu belirtir.
 
 **Hangi Cari için:** Bu işlemin hangi cari için yapıldığını belirtir.
 
 **Hangi Demirbaş için:** Bu işlemin hangi demirbaş için yapıldığını belirtir.
 
-**Hangi Dekont için** Bu işlemin hangi dekont için yapıldığını belirtir.
+**Hangi Dekont için:** Bu işlemin hangi dekont için yapıldığını belirtir.
 
-**Masraf Merkezi** Bu işlemin hangi masraf merkezi için yapıldığını belirtir.
+**Masraf Merkezi:** İşlemin hangi masraf merkezi için yapıldığını belirtir.
 
-**Açıklama:**İşleme ait özel açıklamamız notlarımız varsa burada belirtebiliriz. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+**Açıklama:** İşleme ait özel açıklamalar veya notlar varsa buraya girebilirsiniz. Açıklama kullanım detayları için  [Açıklama](../TemelOzellikler/Aciklama.md) linkine tıklayabilirsiniz.
 
-**Vergiler:** Stok seçtiğimizde o stoğa ait KDV Oranlarını özel istisna Muafiyet ekleyecebileceğimiz alandır.
+**Vergiler:** Stok seçtiğimizde o stoğa ait KDV Oranlarını ve Özel İstisna Muafiyet durumlarını ekleyecebileceğimiz alandır.
 
 ### Detay 
 
-**Sözleşme:** Yaptığımız işeleme ait sözleşme varsa burada sözleşme ile eşleştirelim.
+**Sözleşme:** Yaptığımız işleme ait sözleşme varsa burada sözleşme ile eşleştirelim.
 
 **Proje:** Yaptığımız işleme ait projemizle eşleştirebiliriz.
 
@@ -168,7 +165,9 @@ Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../Temel
 
 ### Etiketler
 
-Filtreleme veya arama yaparak belirli kriterlere göre kayıtları bulmak için kullanılır.
+Belirli kriterlere göre kayıtları bulmak için filtreleme veya arama yaparak kullanılır.
+
+
 Etiketler kullanım detayları için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 ### Kayıt Bilgileri
@@ -199,7 +198,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 
 
-    - [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 
 - Yevmiye Fiş
 - Kopyala 

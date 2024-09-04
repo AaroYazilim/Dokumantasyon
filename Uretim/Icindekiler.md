@@ -7,13 +7,13 @@ SayfaTipi: Modul
 
 **Erişim Linki :** [erp.aaro.com.tr/UretimModulu](erp.aaro.com.tr/UretimModulu)
 
-Üretim modülü, ürünlerinizin üretim süreçlerini, aşamalarını planlayabilir, yönetebilir ve izleyebilirsiniz.
+Üretim modülü, ürünlerinizin üretim süreçlerini, aşamalarını planlayabilir, yönetebilir ve izleyebilirsiniz.  
 Üretim modülünde, üretim süreçlerinizi gerçek zamanlı olarak izleyebilirsiniz. 
 
-- Makinelerinizin ve işçilerinizin performanslarını, iş emirlerinin ilerlemesini, hammaddelerin kullanımı ve diğer üretim aktiviteleri sürekli olarak takip edebilirsiniz.
+- Makinelerinizin ve işçilerinizin performanslarını, iş emirlerinin ilerlemesini, ham maddelerin kullanımı ve diğer üretim aktivitelerini sürekli olarak takip edebilirsiniz.
 - Üretim süreçlerinizde kullanılan malzemelerin ve ürünlerin stok yönetimini sağlayabilirsiniz. 
 - Malzeme ihtiyaçlarınızı belirler, stok seviyelerinizi izler, malzeme giriş ve çıkışlarınızı yönetir ve stok sayımlarınızı gerçekleştirebilirsiniz. 
-- Üretim süreçlerinizle ilgili verilerinizi analiz ededilir ve raporlayabilirsiniz.
+- Üretim süreçlerinizle ilgili verilerinizi analiz edebilir ve raporlayabilirsiniz.
 - Firelerinizi ve çıkan ürünlerinizin süreçlerini, aşamalarını, maliyetlerini kolayca elde edebilirsiniz. 
 
 - Üretim aşamalarını üretimle ilgili tanımların detaylarına linkten erişim sağlayabilirsiniz. [Üretim Nedir?](../Uretim/UretimNedir.md)
@@ -23,8 +23,8 @@ SayfaTipi: Modul
 ### Üretim Hareketleri
 
 - [Üretim Hareketi Hızlı Aç](../Uretim/UretimHareketiHizliAc.md)
-- [Üretimden Mamül Giriş](../Uretim/UretimdenMamulGiris.md)
-- [Üretime Hammadde Çıkışı](../Uretim/UretimeHammaddeCikisi.md)
+- [Üretimden mamul Giriş](../Uretim/UretimdenMamulGiris.md)
+- [Üretime Ham madde Çıkışı](../Uretim/UretimeHam maddeCikisi.md)
 - [Hızlı Üretim Hareketi Girişi](../Uretim/HizliUretimHareketi.md)
 - [Hızlı Üretim Hareketi Girişi (Sadece Iscilik)](../Uretim/HizliUretimHareketiGirisiSadeceİscilik.md)
 
@@ -46,8 +46,8 @@ SayfaTipi: Modul
 - [İş Emri Listesi](../Uretim/IsEmriListesi.md)
 - [Makine Arıza Kaydı Listesi](../Uretim/MakineArizaKaydiListesi.md)
 - [Üretim Hareketi Çalışan Personel](../Uretim/UretimHareketiCalisanListesi.md)
-- [Üretim Hareketi Kullanılan Hammadde](../Uretim/UretimHareketiKullanilanHammadde.md)
-- [Üretim Hareketi Üretilen Mamül](../Uretim/UretimHareketiUretilenMamul.md)
+- [Üretim Hareketi Kullanılan Ham madde](../Uretim/UretimHareketiKullanilanHam madde.md)
+- [Üretim Hareketi Üretilen mamul](../Uretim/UretimHareketiUretilenMamul.md)
 
 ### Raporlar
 
@@ -57,8 +57,8 @@ SayfaTipi: Modul
 	- İş Emri Kalan Miktarları
 	- İş Emri Maliyet Raporu
 	- Makine Arıza Raporu
-	- Operasyon Bazında Kullanım (Makine,Mamül)
-	- Operasyon Bazında Üretim (Makine,Mamül)
+	- Operasyon Bazında Kullanım (Makine,mamul)
+	- Operasyon Bazında Üretim (Makine,mamul)
 	- Reçete Üretim Maliyetleri
 	- Üretim Geçiçi Günlük Üretim
 	- Üretim Giriş Çıkış Listesi
@@ -77,11 +77,11 @@ SayfaTipi: Modul
 	- Üretim Personel Mesai Süre Karşılaştırma
 
 - Planlama Raporları
-	- Operasyon Bazında Planlama (Makine,Mamül)
+	- Operasyon Bazında Planlama (Makine,mamul)
 	- Tarihlere Göre Üretilecekler Listesi
 	- Üretim Planı Toplam Saat
 	- Üretim Toplam Saat
-	- Üretimi Planlanan Mamül Listesi
+	- Üretimi Planlanan mamul Listesi
 
 
 ### Parametreler

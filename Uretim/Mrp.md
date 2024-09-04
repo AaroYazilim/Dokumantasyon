@@ -1,7 +1,7 @@
 
-# MRP Malzeme Gereksinim PLanlaması 
+# MRP Malzeme Gereksinim Planlaması 
 
-Bir üretim işletmesinin üretim süreçlerini düzenlemek ve malzeme ihtiyaçlarını doğru bir şekilde tahmin etmek için kullanılan bir planlama ve envanter yönetimi tekniğidir. 
+Bir üretim işletmesinin üretim süreçlerini düzenlemek ve malzeme ihtiyaçlarını doğru bir şekilde tahmin etmek için kullanılan bir planlama ve envanter yönetimi tekniğidir.  
 MRP, belirli bir ürünün üretimeniz için hangi malzemelerin ne zaman ve ne kadarının gerektiğini belirlemeye yardımcı olan bir sistemdir.
 
 - Üretilecek ürünlerin bileşenleri (malzemeleri) belirlenir.
@@ -17,5 +17,5 @@ Minimum Depo Miktarı = 500
 Maksimum Depo Miktarı = 2000 
 Üretilecek ürün adeti = 750 adet ürün üretilmesi gerekmektedir.
 
-Mrp aynı zamanda üretim için eksik olan hammadde eksikliklerini de belirler. 
-100 adet açığımız kalmış ise eksik olan hammaddeden üretilecek miktar için ne kadar gerekli olduğunu gösterir.
+Mrp aynı zamanda üretim için eksik olan ham madde eksikliklerini de belirler. 
+100 adet açığımız kalmış ise eksik olan ham maddeden üretilecek miktar için ne kadar gerekli olduğunu gösterir.

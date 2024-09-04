@@ -10,31 +10,31 @@ SayfaTipi: KartListe
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> Operasyon -> Operasyon Listesi -> Yeni Operasyon Ekle şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden *Üretim -> Kartlar -> Operasyon -> Operasyon Listesi -> Yeni Operasyon Ekle* şeklinde ulaşım sağlayabilirsiniz.
 
 ### Tanım
 
-Operasyon, bir üretim sürecinin belirli bir aşamasında gerçekleştirilen belirli bir faaliyettir.
-Bir operasyon, hammaddelerin işlenmesi, parçaların montajı, ürünlerin test edilmesi gibi çeşitli işlemleri içerebilir. 
-Operasyonlar genellikle belirli bir ürün veya hizmetin üretimini tamamlamak için gerekli adımları içeren bir operasyonel planın parçasıdır.
+Operasyon, bir üretim sürecinin belirli bir aşamasında gerçekleştirilen belirli bir faaliyettir. 
+Bir operasyon, ham maddelerin işlenmesi, parçaların montajı, ürünlerin test edilmesi gibi çeşitli işlemleri içerebilir.   
+Operasyonlar genellikle belirli bir ürün veya hizmetin üretimini tamamlamak için gerekli adımları içeren bir operasyonel planın parçasıdır.  
 Operasyon listesiyle makinaların eşleştirmesi sağlanmaktadır.
 
 ### Ek Özellikler 
 
 - Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
-- Sayfada ki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
+- Sayfadaki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
 
 ### Yeni Operasyon Ekle
 
 #### Genel
 
-**Operasyon Kodu** Sistemin vermiş olduğu otomatik kodu kullanım sağlayabilirsiniz ya da kendin kodunuzu girebilirsiniz.
+**Operasyon Kodu** Sistemin vermiş olduğu otomatik kodu kullanabilir ya da kendi kodunuzu girebilirsiniz.
 
 **Operasyon Adı** Yapılacak operasyonun adını buraya giriniz.
 
-**Kodlar** Reçeteyi gruplamak ve sonrasında gruplu rapor alabilmek için kullanılanabilirsiniz. Kodlar hakkında detaylı bilgiler için tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
+**Kodlar** Reçeteyi gruplamak ve sonrasında gruplu rapor alabilmek için kullanabilirsiniz. Kodlar hakkında detaylı bilgiler için tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
 
-**Etiketler** Reçeteyi gruplamak ve sonrasında gruplu rapor alabilmek için kullanılanabilirsiniz. Etiketler hakkında detaylı bilgiler için tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
+**Etiketler** Reçeteyi gruplamak ve sonrasında gruplu rapor alabilmek için kullanabilirsiniz. Etiketler hakkında detaylı bilgiler için tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 #### Eşleşmiş Makine Listesi
 
@@ -42,9 +42,9 @@ Operasyon listesiyle makinaların eşleştirmesi sağlanmaktadır.
 
 **Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
-**Hız Birim** Operasyonun hangi birimle adet, metre, metrekare, gram litre gibi birimini seçiniz.
+**Hız Birim** Operasyonun birim, adet, metre, metrekare, gram, litre gibi birimini seçiniz.
 
-## *Kaydet* butonuna basarak makine tanımalama işlemimimiz tamamlanır, belgeler ve notlar ekranına ulaşım sağlarız.
+## *Kaydet* butonuna basarak makine tanımalama işlemiminiz tamamlanır, belgeler ve notlar ekranına ulaşım sağlarız.
 ## Görev oluşturabilir, görev bağlayabiliriz.
 
 ### Belgeler
@@ -67,7 +67,7 @@ Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler
 
 ### Kayıt Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+Kartın hangi kullanıcı tarafından  hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
 
 Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
 
@@ -82,7 +82,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 
 
-- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+- [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
 - Görev Oluştur
 - Görev Bağla

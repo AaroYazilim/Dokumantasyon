@@ -10,7 +10,7 @@ SayfaTipi: Kart
 ### Ulaşım
 Aşağıdaki gibi birkaç farklı yoldan ulaşabilirsiniz:
 
-- Sol menüden Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "müşteri satıcı kartı" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüde, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "müşteri satıcı kartı" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden *Musteri/Satici -> Modül Sayfası -> Yeni Musteri/Satici Kartı* şeklinde ulaşım sağlayabilirsiniz.
 - Sol menüden *Musteri/Satici -> Kartlar -> Müşteri/Satıcı Kartı Listesi* üzerinden ulaşım sağlayarak yeni kart ekleyebilir ya da mevcutları düzenleyebilirsiniz.
 

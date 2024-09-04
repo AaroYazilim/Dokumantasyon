@@ -1,79 +1,79 @@
 ---
-SayfaID: UretimeHammaddeCikisi
+SayfaID: UretimeHam maddeCikisi
 SayfaTipi: Hareket
 ---
 
-# Üretime Hammadde Çıkışı
+# Üretime Ham Madde Çıkışı
 
-**Erişim Linki :** [erp.aaro.com.tr/UretimeHammaddeCikisi](erp.aaro.com.tr/UretimeHammaddeCikisi)
+**Erişim Linki :** [erp.aaro.com.tr/UretimeHam maddeCikisi](erp.aaro.com.tr/UretimeHam maddeCikisi)
 
 ## Ulaşım
 
-- Sol menüden Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "hammadde" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Hareketler -> Üretime Hammadde Çıkışı şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüde, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Ham madde" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *Üretim -> Hareketler -> Üretime Ham madde Çıkışı* şeklinde ulaşım sağlayabilirsiniz.
 
-## Tanım
+### Tanım
+**Üretimden ham madde çıkışı**, üretimde kullanılacak ham maddelerin üretim yapılacak depoya transfer edilmesi için kullanılır. Bu süreç, ham maddelerin depodan çıkarılarak üretim hattına veya ilgili üretim birimine teslim edilmesini ifade eder.
 
-Üretimden hammadde çıkışı, üretimde kullanım sağlanacak hammaddelerin üretimi yapılacak depoya bir nevi transferini için kullanılır. 
-Üretime hammadde çıkışı, üretim sürecinde kullanılacak hammaddelerin depodan çıkarılarak üretim hattına veya ilgili üretim birimine teslim edilmesi sürecini ifade eder. 
+### Genel
+**Şirket-Şube:** Ham maddenin hangi şirket ve şubeden işlem yapılacağını belirtir. Detaylar için [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md) linkine tıklayabilirsiniz.
 
-### Genel 
+**Tarih:** İşlemin yapıldığı tarihi ifade eder.
 
-**Şirket-Şube:** Hammaddenin hangi şirket-şubeden işlem yapılacağını ifade eder. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+**Belge No:** İşlemi yapacağımız belgenin numarasını ifade eder.
 
-**Tarih** İşlemin yapıldığı tarihi ifade eder.
+**Kaynak Depo:** Ham maddenin şuan bulunduğu depoyu seçelim.
 
-**Belge No** İşlemi yapacağımız belgenin numarasını ifade eder.
+**Şirket-Şube:** Ham maddenin gönderim sağlanacağı şirket-şubeyi ifade eder. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
 
-**Kaynak Depo** Hammaddenin şuan bulunduğu depoyu seçelim.
+**Hedef Depo:** Ham maddeyi göndereceğimiz depoyu seçebiliriz.
 
-**Şirket-Şube:** Hammaddenin gönderim sağlanacağı şirket-şubeyi ifade eder. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
-
-**Hedef Depo** Hammaddeyi göndereceğimiz depoyu seçelim.
-
-**Vade** Gönderim sağladığımız depolarda ki gelir giderleri takip edebilmek için vade girebiliriz.
+**Vade:** Gönderim sağladığımız depolardaki gelir giderleri takip edebilmek için vade girebiliriz.
 
 **Tip**
 
 ### Detay
 
-**Proje:** İşleme ait proje var ise *Kaydet*tiğimiz projeyi buradan seçelim.
+**Proje:** İşleme ait proje var ise Kaydettiğimiz projeyi buradan seçebiliriz.
 
 **Plasiyer:** Plasiyer, bir şirketin ürün veya hizmetlerini belirli bir bölgede tanıtan ve satan saha satış temsilcisidir. 
-	Müşterilerle doğrudan iletişim kurarak sipariş alır, ürünlerin tanıtımını yapar ve satış hacmini artırmaya çalışır. 
+
+Müşterilerle doğrudan iletişim kurarak sipariş alır, ürünlerin tanıtımını yapar ve satış hacmini artırmaya çalışır. 
 
 ### Açıklamalar
 
-İşleme ait özel açıklamamız notlarımız varsa burada belirtebiliriz. 
+İşleme ait özel açıklamamız ya da notlarımız varsa burada belirtebiliriz. 
 Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 ### Etiketler
 
-Filtreleme veya arama yaparak belirli kriterlere göre kayıtları bulmak için kullanılır.
+Belirli kriterlere göre kayıtları bulmak için filtreleme veya arama yaparak kullanılır.
+
+
 Etiketler kullanım detayları için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 
-***Kaydet* dediğimizde hammadde ekranımız açılacaktır.**
+***Kaydet* dediğimizde ham madde ekranımız açılacaktır.**
 
 ## Yeni Stok Kalemi Ekle
 
 ### Genel 
 
-**Stok:** İşlem yapacağımız hammaddeyi seçelim.
+**Stok:** Ham Madde: İşlem yapacağınız ham maddeyi seçiniz.
 
-**Miktar:** Stoğumuzdan ne kadar miktarda gönderim sağlayacağız, miktarı girelim.
+**Miktar:** Stoğunuzdan ne kadar miktarda ham madde göndereceğinizi giriniz.
 
-**Brüt Fiyat:** İskonto yapılmadan önceki fiyattır.
+**Brüt Fiyat:** İskonto uygulanmadan önceki fiyattır.
 
-**İskonto Oranı:** İndirim yapacağımız iskonto oranını girelim.
+**İskonto Oranı:** Yapılacak indirimin oranını giriniz.
 
-**Net Fiyat:** Brüt fiyata isokontonun uygulanmış fiyatıdır.
+**Net Fiyat:** Brüt fiyata iskonto uygulandıktan sonraki fiyattır.
 
-**Tutar:** Miktar ve net tutarın çarpılarak elde edilen değerdir.
+**Tutar:** Miktar ile net fiyatın çarpılmasıyla elde edilen toplam tutardır.
 
-**Depo:** Hammaddenin şuan bulunduğu depoyu seçelim.
+**Depo:** Ham maddenin şu an bulunduğu depoyu seçiniz.
 
-**Açıklama:** İşleme ait özel açıklamamız notlarımız varsa burada belirtebiliriz. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+**Açıklama:** İşleme ait özel açıklamalar veya notlar varsa buraya girebilirsiniz. Detaylar için Açıklama linkine tıklayabilirsiniz. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 **Vergiler:** Stok seçtiğimizde o stoğa ait KDV Oranlarını özel istisna Muafiyet ekleyecebileceğimiz alandır.
 
@@ -91,7 +91,9 @@ Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../Temel
 
 ### Etiketler
 
-Filtreleme veya arama yaparak belirli kriterlere göre kayıtları bulmak için kullanılır.
+Belirli kriterlere göre kayıtları bulmak için filtreleme veya arama yaparak kullanılır.
+
+
 Etiketler kullanım detayları için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 ### Kayıt Bilgileri
@@ -102,7 +104,7 @@ Kim tarafından oluşturuldu, oluşturulma tarihi, onay durumu, değiştiren, de
 
 **Yeni Stok Kalemi Ekle diyerek yeni stok kalemi ekleme işlemimizi gerçekleştirebiliriz.**
 
-Hammaddelerin stok girişlerini tamamlayıp, bilgilerimizin kontrollerini yaptıktan sonra işlemimizi kaydedebiliriz.
+Ham maddelerin stok girişlerini tamamlayıp, bilgilerimizin kontrollerini yaptıktan sonra işlemimizi kaydedebiliriz.
 
 ## Yeni Gelir / Gider Kalemi Ekle
 
@@ -132,11 +134,11 @@ Hammaddelerin stok girişlerini tamamlayıp, bilgilerimizin kontrollerini yaptı
 
 **Açıklama:**İşleme ait özel açıklamamız notlarımız varsa burada belirtebiliriz. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
-**Vergiler:** Stok seçtiğimizde o stoğa ait KDV Oranlarını özel istisna Muafiyet ekleyecebileceğimiz alandır.
+**Vergiler:** Seçilen stoğa ait KDV oranlarını ve Özel İstisna ya da Muafiyet durumlarını ekleyebileceğiniz alandır.
 
 ### Detay 
 
-**Sözleşme:** Yaptığımız işeleme ait sözleşme varsa burada sözleşme ile eşleştirelim.
+**Sözleşme:** Yaptığımız işleme ait sözleşme varsa burada sözleşme ile eşleştirebiliriz.
 
 **Proje:** Yaptığımız işleme ait projemizle eşleştirebiliriz.
 
@@ -151,12 +153,14 @@ Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../Temel
 
 ### Etiketler
 
-Filtreleme veya arama yaparak belirli kriterlere göre kayıtları bulmak için kullanılır.
+Belirli kriterlere göre kayıtları bulmak için filtreleme veya arama yaparak kullanılır.
+
+
 Etiketler kullanım detayları için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 ### Kayıt Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+Kartın hangi kullanıcı tarafından hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
 
 Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
 
@@ -173,9 +177,4 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 
 
-
-
-
-
-
-- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+- [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
