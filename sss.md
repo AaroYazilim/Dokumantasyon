@@ -1,57 +1,76 @@
 
 ## Depo - Stok Soruları
 
-**Soru:** Sayım farkını nasıl silebilirim?
+**Soru:** 
+Sayım farkını nasıl silebilirim?
 
-**Cevap:** **Stok modülün -> Stok Haraketleri Listesi -> stok haraketleri** adımlarını izleyerek işlem sayfasına ulaşabilirsiniz.
+**Cevap:**
+
+ **Stok modülü -> Stok Haraketleri Listesi -> stok Hareketleri** adımlarını izleyerek işlem sayfasına ulaşabilirsiniz.  
 Stok sayım farkımıza gelelim, büyütece basarak ya da çift tıklayarak detayına girelim.
-Kalem işaretine tıklayalım, sol alt köşede sil butonundan silelim.
+Kalem işaretine tıklayalım, sol alt köşedeki sil butonundan silelim.
 
 **Soru:** Elimde tek bir ürün farkı var bunu nasıl işlerim?
 
-**Cevap:** **Stok Modülü -> Hareket Oluştur -> Devir -> ilgili depo -> Yeni Stok Kalemi Ekle -> stok seçimi** adımlarını izleyip miktar girişini gerçekleştirebilirsiniz.
+**Cevap:**  
+
+ **Stok Modülü -> Hareket Oluştur -> Devir -> İlgili Depo -> Yeni Stok Kalemi Ekle -> Stok Seçimi** adımlarını izleyip miktar girişini gerçekleştirebilirsiniz.
 Ardından *Kaydet*e tıklayıp işlemi tamamlayın.
 
 **Soru:** Kesilen faturada stok kodu nasıl görüntülenir?
 
-**Cevap:** **Ayarlar -> Modül sayfası -> Parametre Listesi -> Yeni Parametre ekle** işlemlerini takip edin ve ardından "eDonusum_KalemdeStokKoduBilgisiGonderilsin (E-Fatura)" 
-parametresini evet yaparak gönderilen faturalarda stok kodunun görüntülenmesini sağlayabilirsiniz.
+**Cevap:** 
 
-**Soru:** Yanlış açılan stok ve cari kayıtlarının düzeltilmesi, hareketlerinin taşınması nasıl yapılır?
+*Ayarlar -> Modül sayfası -> Parametre Listesi -> Yeni Parametre Ekle* işlemlerini takip edin.    
+Sonrasında "eDonusum_KalemdeStokKoduBilgisiGonderilsin (E-Fatura)" parametresini "Evet" olarak ayarlayarak, gönderilen faturalarda stok kodunun görüntülenmesini sağlayabilirsiniz.
 
-**Cevap:** Yanlış açılan herhangi bir stok kartı ile ilgili hareket yapılmışsa düzeltilmesi için o harekete gidip ilgili kartı değiştirmek gerekir.
+**Soru:** Yanlış açılan stok ve cari kayıtlarının düzeltilmesi ve hareketlerinin taşınması nasıl yapılır?
 
-Örneğin, bir satış faturasında yanlış açılan stok kalemini düzeltmek istersek şu yolu izlemeliyiz:   
-Faturanın yevmiye fişinden 
-muhasebeleştirmesi onayını ve kilidini kaldır dedikten sonra fatura içeriğine gidilip yanlış kalemler doğru kalemlerle eşleştirilip 
-yanlış kalemin hareketinin kalmaması sağlanır böylelikle yanlış stok kartını listemizden kaldırmış oluruz.
+**Cevap:** 
 
-**Soru:** Fiyat listesi düzenleme şablonları ve bu şablonların tekrar yüklenmesi nasıl yapılır?
+Yanlış açılan stok kartına hareket eklenmişse, ilgili hareketin bulunduğu yere gidip kartı değiştirmeniz gerekir.
+Örneğin, bir satış faturasında yanlış stok kalemini düzeltmek için:   
+Faturanın yevmiye fişinden muhasebeleştirme onayı ve kilidini kaldırın.
+Faturanın içeriğine gidip, yanlış kalemleri doğru kalemlerle değiştirin.
+Yanlış kalemin hareketi kalmadığında, ilgili stok kartını listeden çıkarabilirsiniz.
 
-**Cevap:** *Rapor -> Stok -> Fiyat -> Fiyat Listesi Aktarım/Düzeltme Şablonu* kısmına gidelim ve sistemde yer alan fiyat listelerini indirip düzenleyelim,
-*Ayarlar -> Modül Sayfası -> Dışarıdan Aktarma -> Stok -> Fiyat Listesi Aktarma* şeklinde tekrardan yükleyebiliriz.
+**Soru:** Fiyat listesi düzenleme şablonları nasıl düzenlenip tekrar yüklenir?
 
-**Soru:** Stok sayımı nasıl yapılır ?
+**Cevap:**
 
-**Cevap:** Yöntem 1: Stok -> Stok Sayım Girişi -> Depomuzu seçelim -> Açıklama-Proje-Plasiyer -> *Kaydet* -> 
-Stoğu seçelim -> Miktarı girelim -> Seri/Lot Takibi yaptığımız stoklarda kodu girelim -> Raf Kodu raf takibi yaptığımız stokların raflarını girelim -> Paket Adı ->
-Kalemleri dolduralım *Kaydet* yaparak  stok sayım girişimizi tamamlayabiliriz.
+*Rapor -> Stok -> Fiyat -> Fiyat Listesi Aktarım/Düzeltme Şablonu* kısmından mevcut fiyat listelerini indirip düzenleyin.  
+*Ayarlar -> Modül Sayfası -> Dışarıdan Aktarma -> Stok -> Fiyat Listesi Aktarma* yolunu izleyerek tekrar yükleyin.
 
-Yöntem 2: Bu yöntemle sadece stok adı miktar ve açıklama ekleyebiliriz.
-Excel dosyasında sayım olarak aktarabiliriz. Ayarlar -> Dışarıdan Aktarma -> Stok Aktarmaları -> Stok Sayım Aktarma -> Excel Şablonu İndir -> 
-Şablon açalım stok adı, miktarı ve açıklamaları dolduralım, kaydedelim -> Dosya Seç -> Dosyamızı Seçelim -> 
-Sayım Giriş Listesi seçelim Detaylı Ekle diyerek yeni bir liste de açabiliriz -> Şablonu Yükle diyerek sayım girişimizi tamamlayabiliriz.
+**Soru:** Stok sayımı nasıl yapılır?
+
+**Cevap:**
+
+Yöntem 1:
+
+Stok -> Stok Sayım Girişi kısmına gidin.
+Depoyu seçin, açıklama, proje, plasiyer bilgilerini girip kaydedin.
+Stokları, miktarları ve (varsa) seri/lot ve raf kodlarını ekleyin.
+Gerekli alanları doldurup kaydedin.
+
+Yöntem 2:
+
+Excel dosyası ile stok adı, miktar ve açıklama bilgilerini aktarabilirsiniz.
+*Ayarlar -> Dışarıdan Aktarma -> Stok Aktarmaları -> Stok Sayım Aktarma -> Excel Şablonu İndir* yolunu izleyin.
+Şablonu doldurup kaydedin, ardından dosyayı seçip yükleyin.
+Sayım giriş listesi seçerek detaylı bir liste de oluşturabilirsiniz.
 
 **Soru:** Elimde tek bir ürün farkı var bunu nasıl işleyeceğim ?
 
-**Cevap:** Ters kayıt girerek işleyeceğiz, Stok -> Hareket Oluştur -> Devir -> Depomuzu seçelim -> 
-Yeni Stok Kalemi Ekle -> Borç-Alacak seçelim -> Stok kartını seçelim -> İlgili alanları doldurarak işlemimizi kaydedelim.
+**Cevap:** Ters kayıt girerek işleyeceğiz, *Stok -> Hareket Oluştur -> Devir -> Depomuzu seçelim -> 
+Yeni Stok Kalemi Ekle -> Borç-Alacak seçelim -> Stok kartını seçelim ->* İlgili alanları doldurarak işlemimizi kaydedelim.
 
 ## Üretim Soruları 
 
 **Soru:** Üretimde harcanan ürün depodan nasıl düşecek?
 
-Cevap:**** Reçeteler işlem yapıldıkça ham madde, yarı mamul ve mamuller üretilip üretim hareketi girildikçe sistemden otomatik olarak düşmektedir.
+**Cevap:** 
+ 
+ Reçeteler işlem yapıldıkça ham madde, yarı mamul ve mamuller üretilip üretim hareketi girildikçe sistemden otomatik olarak düşmektedir.
 
 
 ## Satış&Pazarlama Soruları
