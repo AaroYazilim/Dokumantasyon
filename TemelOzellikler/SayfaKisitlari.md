@@ -9,4 +9,3 @@ Ayrıca, bu özellik, karmaşık raporlar veya listeler üzerinde çalışırken
 Filtreleme işlemleri, verilerinizi özelleştirmenizi ve sadece ihtiyaç duyduğunuz bilgileri görmenizi sağlayarak iş süreçlerinizi optimize eder. 
 Bu, özellikle yoğun veri akışının olduğu durumlarda, hızlı ve etkili kararlar almanıza yardımcı olur.
 
-
