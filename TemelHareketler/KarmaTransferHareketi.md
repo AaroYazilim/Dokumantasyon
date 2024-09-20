@@ -6,7 +6,9 @@ SayfaTipi:
 # Karma Transfer Hareketi 
 
 **Erişim Linki :** [erp.aaro.com.tr/KarmaDekont](erp.aaro.com.tr/KarmaDekont/)
+**Erişim Linki :** [erp.aaro.com.tr/KarmaDekont](erp.aaro.com.tr/KarmaDekont/)
 
+## Ulaşım 
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "karma" şeklinde aratarak ulaşım sağlayabilirsiniz.
@@ -18,10 +20,14 @@ SayfaTipi:
 - Sol menüden *Stok -> Hareket Oluştur -> Karma Transfer Oluştur* şeklinde ulaşım sağlayabilirsiniz. 
 
 ## Tanım 
+## Tanım 
 
 Karma transfer hareketi, banka, depo, müşteriler ve gelir-gider gibi farklı alanlarda yapılan işlemleri tek bir işlem altında birleştiren bir süreçtir. 
 Bu tür bir işlem, birden fazla varlık veya değerin aynı anda farklı hesaplar veya birimler arasında aktarılmasını sağlar.
+Karma transfer hareketi, banka, depo, müşteriler ve gelir-gider gibi farklı alanlarda yapılan işlemleri tek bir işlem altında birleştiren bir süreçtir. 
+Bu tür bir işlem, birden fazla varlık veya değerin aynı anda farklı hesaplar veya birimler arasında aktarılmasını sağlar.
 
+Örneğin, bir işletme gün sonunda şu işlemleri yapmak isteyebilir:
 Örneğin, bir işletme gün sonunda şu işlemleri yapmak isteyebilir:
 
 - Banka hesabından para çekmek (banka)
@@ -38,12 +44,18 @@ Bu yöntem, işletmelerin işlemlerini daha hızlı, düzenli ve hatasız bir ş
 **Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir.
+**Tarih:** İşlemin yapıldığı tarihi belirtir.
 
+**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
 **Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
 **Girilmesi Zorunludur.**
 
 **Depo:** Bu işlemin kullanıldığı depoyu belirtir.
+**Depo:** Bu işlemin kullanıldığı depoyu belirtir.
 
+**Vade:** Karma transfer hareketlerinde vade, birden fazla işlemle ilgili borç veya alacakların ödenmesi gereken son tarihleri ifade eder. 
+Bu vade, transfer edilen varlıkların veya değerlerin ilgili hesaplara ne zaman tam olarak yansıtılacağını belirler. 
+	Örneğin, banka transferi, müşteri ödemesi ve depo çıkışı gibi işlemlerin her biri için belirlenen son tarihler, karma transfer hareketinin vadeleri olarak adlandırılır.
 **Vade:** Karma transfer hareketlerinde vade, birden fazla işlemle ilgili borç veya alacakların ödenmesi gereken son tarihleri ifade eder. 
 Bu vade, transfer edilen varlıkların veya değerlerin ilgili hesaplara ne zaman tam olarak yansıtılacağını belirler. 
 	Örneğin, banka transferi, müşteri ödemesi ve depo çıkışı gibi işlemlerin her biri için belirlenen son tarihler, karma transfer hareketinin vadeleri olarak adlandırılır.
@@ -53,11 +65,14 @@ Bu vade, transfer edilen varlıkların veya değerlerin ilgili hesaplara ne zama
 **Proje:** Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir.
 
 **Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir.
+**Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir.
 
 **Tip:** Alt hareket tipini belirtir.
 
 ### Açıklamalar
+### Açıklamalar
 
+**Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md)
 **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 ### Etiketler
@@ -70,12 +85,14 @@ Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatla
 Buraya işlem gerçekleşirkenki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
+Belge eklemek için tıklayalım ;
 
 - *Daha önce yüklediklerimden seç -> Belgeyi seç
 -> İlişkilendir* şeklinde belge üye ekleme işlemimizi gerçekleştirebiliriz.
 - *Yüklenecek belge veya resimleri -> Belgeyi ya da
  belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
+Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
 ### Notlar 
@@ -85,6 +102,7 @@ Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler
 ### Kay�t Bilgileri
 
 Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
 
 Kart iş akışı süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
 
@@ -93,12 +111,11 @@ Kart iş akışı süreçlerine dahil edildiğinde hangi kullanıcı tarafından
 - Yeni Stok Kalemi Ekle: 
 - Yeni Gelirgider Kalemi Ekle: 
 - Yeni Demirbaş Kalemi Ekle: 
+- Yeni Demirbaş Kalemi Ekle: 
 - Yeni Vergi Kalem Ekle: 
 - Yeni Cari Kalemi Ekle: 
 - Yeni Kasa Kalemi Ekle: 
 - Yeni Banka Kalemi Ekle: 
-
-
 
 
 ## Kaydetme ve Silme
@@ -111,6 +128,7 @@ Elbette, işte metindeki hataları düzeltilmiş hali:
 ---
 
 ## Yazdır
+## Yazdır
 
 - Sayfanın sağ üstünde bulunan yazıcı sembolü ile sayfaya tanımlanan özel çıktı formatlarıyla farklı çıktılar alınabilir.
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarımla yazdırılmasını sağlar.
@@ -120,9 +138,12 @@ Elbette, işte metindeki hataları düzeltilmiş hali:
 - Çıktılar program üzerinden e-mail olarak gönderilebilir.
 
 ## Düzenleme 
+## Düzenleme 
 
 Verilen siparişimize ekleme yapmak ya da herhangi bir düzeltme yapmak için kalem işaretini seçerek açılan ekranda düzenlemeleri yapabiliriz.
+Verilen siparişimize ekleme yapmak ya da herhangi bir düzeltme yapmak için kalem işaretini seçerek açılan ekranda düzenlemeleri yapabiliriz.
 
+## Ek İşlemler
 ## Ek İşlemler
 
 Sayfanın sağ üstünde bulunan, üst üste üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.

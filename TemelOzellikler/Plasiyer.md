@@ -1,3 +1,16 @@
+---
+SayfaID: Plasiyer/Liste
+SayfaTipi: Liste
+---
+
+# Proje
+
+**Erişim Linki :** [erp.aaro.com.tr/Plasiyer/Liste](erp.aaro.com.tr/Plasiyer/Liste)
+
+## Ulaşım 
+
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "plasiyer" aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden Ayarlar -> Kartlar -> Plasiyer Listesi şeklinde ulaşım sağlayabilirsiniz.
 
 # Plasiyer
 
@@ -15,3 +28,21 @@ Bu durumda, stok kalemlerini sisteme girerken, her bir ürünün hangi plasiyere
 Plasiyer tanımlaması, her bir plasiyerin performansını izlemeye, satışların hangi plasiyer tarafından gerçekleştirildiğini görmeye ve satış komisyonlarını doğru bir şekilde hesaplamaya olanak tanır. 
 Ayrıca, bu bilgi, müşteri ilişkilerinin yönetimi açısından da önemlidir; müşterinin hangi plasiyerle etkileşimde bulunduğu kolayca tespit edilebilir.  
 Bu sayede, müşteri memnuniyeti artırılırken, satış süreçleri daha şeffaf ve organize bir şekilde yürütülür.
+
+## Yeni Plasiyer Ekle 
+
+### Genel 
+
+**Kodu:** Plasiyerin kodunu ifade eder. Sistem otomatik kod verir kullanabilir ya da manuel kod tanımlanabilir.
+
+**Adı:** Plasiyer adını ifade eder.
+
+**Telefon:** Plasiyerin telefon numarasını ifade eder.
+
+**Telefon2** Plasiyerin ikinci numarasını ifade eder.
+
+**Email:** Plasiyerin e-mail adresini ifade eder.
+
+**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
+
+**Durum:** Projenin aktiflik ya da pasiflik durumu ifade eder.
