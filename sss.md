@@ -24,32 +24,34 @@ parametresini evet yaparak gönderilen faturalarda stok kodunun görüntülenmes
 muhasebeleştirmesi onayını ve kilidini kaldır dedikten sonra fatura içeriğine gidilip yanlış kalemler doğru kalemlerle eşleştirilip 
 yanlış kalemin hareketinin kalmaması sağlanır böylelikle yanlış stok kartını listemizden kaldırmış oluruz.
 
-Soru: Fiyat listesi düzenleme şablonları ve bu şablonların tekrar yüklenmesi nasıl yapılır?
+**Soru:** Fiyat listesi düzenleme şablonları ve bu şablonların tekrar yüklenmesi nasıl yapılır?
 
-Cevap: Rapor -> Stok -> Fiyat -> Fiyat Listesi Aktarım/Düzeltme Şablonu kısmına gidelim ve sistemde yer alan fiyat listelerini indirip düzenleyelim,
-Ayarlar -> Modül Sayfası -> Dışarıdan Aktarma -> Stok -> Fiyat Listesi Aktarma** şeklinde tekrardan yükleyebiliriz.
+**Cevap:** Rapor -> Stok -> Fiyat -> Fiyat Listesi Aktarım/Düzeltme Şablonu kısmına gidelim ve sistemde yer alan fiyat listelerini indirip düzenleyelim,
+Ayarlar -> Modül Sayfası -> Dışarıdan Aktarma -> Stok -> Fiyat Listesi Aktarma şeklinde tekrardan yükleyebiliriz.
 
-Soru: Stok sayımı nasıl yapılır ?
+**Soru:** Stok sayımı nasıl yapılır ?
 
-Cevap: Yöntem 1: Stok -> Stok Sayım Girişi -> Depomuzu seçelim -> Açıklama-Proje-Plasiyer -> Kaydet -> 
+**Cevap:** 
+
+**Yöntem 1:** Stok -> Stok Sayım Girişi -> Depomuzu seçelim -> Açıklama-Proje-Plasiyer -> Kaydet -> 
 Stoğu seçelim -> Miktarı girelim -> Seri/Lot Takibi yaptığımız stoklarda kodu girelim -> Raf Kodu raf takibi yaptığımız stokların raflarını girelim -> Paket Adı ->
 Kalemleri dolduralım kaydet yaparak stok sayım girişimizi tamamlayabiliriz.
 
-Yöntem 2: Bu yöntemle sadece stok adı miktar ve açıklama ekleyebiliriz.
+**Yöntem 2: Bu yöntemle sadece stok adı miktar, seriLot Kodu ve açıklama ekleyebiliriz.**
 Excel dosyasında sayım olarak aktarabiliriz. Ayarlar -> Dışarıdan Aktarma -> Stok Aktarmaları -> Stok Sayım Aktarma -> Excel Şablonu İndir -> 
 Şablon açalım stok adı, miktarı ve açıklamaları dolduralım, kaydedelim -> Dosya Seç -> Dosyamızı Seçelim -> 
 Sayım Giriş Listesi seçelim Detaylı Ekle diyerek yeni bir liste de açabiliriz -> Şablonu Yükle diyerek sayım girişimizi tamamlayabiliriz.
 
-Soru: Elimde tek bir ürün farkı var bunu nasıl işleyeceğim ?
+**Soru:** Elimde tek bir ürün farkı var bunu nasıl işleyeceğim ?
 
-Cevap: Ters kayıt girerek işleyeceğiz, Stok -> Hareket Oluştur -> Devir -> Depomuzu seçelim -> 
+**Cevap:** Ters kayıt girerek işleyeceğiz, Stok -> Hareket Oluştur -> Devir -> Depomuzu seçelim -> 
 Yeni Stok Kalemi Ekle -> Borç-Alacak seçelim -> Stok kartını seçelim -> İlgili alanları doldurarak işlemimizi kaydedelim.
 
 ## Üretim Soruları 
 
-Soru: Üretimde harcanan ürün depodan nasıl düşecek?
+**Soru:** Üretimde harcanan ürün depodan nasıl düşecek?
 
-Cevap: Reçeteler işlem yapıldıkça hammadde, yarı mamül ve mamüller üretilip üretim hareketi girildikçe sistemden otomatik olarak düşmektedir.
+**Cevap:** Reçeteler işlem yapıldıkça hammadde, yarı mamül ve mamüller üretilip üretim hareketi girildikçe sistemden otomatik olarak düşmektedir.
 
 
 ## Satış&Pazarlama Soruları
@@ -67,9 +69,9 @@ Excele indir gelmiyor ise yetkiniz olmayabilir kontrol edelim.
 Bir diğer yöntem ise Rapor -> Sipariş/Teklif -> Hareket -> Sipariş Sevkiyat Detayları (Arama kısmına sevkiyat yazarakta erişim sağlayabilirsiniz) -> 
 Tarih aralığını seçelim -> Cari seçelim -> Sadece Açık Siparişler seçili olmalı -> Raporla -> Yazdır/İndir şeklinde erişim sağlayabiliriz.
 
-Soru: Verilen teklifi siparişleştir dediğimde geçerlilik tarihi geçmiştir diye uyarı veriyor ne yapmam gerekiyor ?
+**Soru:** Verilen teklifi siparişleştir dediğimde geçerlilik tarihi geçmiştir diye uyarı veriyor ne yapmam gerekiyor ?
 
-Cevap: Verilen teklifimizi açalım, detay kısmında geçerlilik tarihi yer almaktadır tarihi güncel tarihle değiştirdiğimizde siparişleştirme yapabiliriz.
+**Cevap:** Verilen teklifimizi açalım, detay kısmında geçerlilik tarihi yer almaktadır tarihi güncel tarihle değiştirdiğimizde siparişleştirme yapabiliriz.
 
 ## Çek Senet Soruları
 
@@ -85,14 +87,15 @@ Buradan çeki ciro edeceğimiz cariyi seçelim, döviz türünü seçelim kaydet
 - Bu çek alındı kaydıdır. Alınan çek farklı bir firmaya ciro edilebilir borcumuzu kapatabilmek için. 
 - Ayrıca çek/senet işlemlerinde adım adım ilerlemek gerekir. 
 - Çekin banka hesabımıza geçmesi için öncelikle alınan çekin bankaya tahsile verilmesi gerekir tahsile verildikten sonra bankadan tahsil edilip hesabımıza geçer. 
-	Mesela bir çek aldık direk bankadan tahsil et dersek karşımıza gelmez, çekin tahsile verilmesi gerekir .
+	Mesela bir çek aldık direk bankadan tahsil et dersek karşımıza gelmez, çekin tahsile verilmesi gerekir.
 - Çek/Senet Hareketleri Listesinden çek/senet hareketlerini görüntüleyebilirsiniz.
 
 ## Müşteri/Satıcı Soruları 
 
 **Soru:** Carini açık siparişlerinin sevkiyat listesini nasıl görüntüleyebilirim nasıl indirebilirim?
 
-**Cevap:** Siparişlerin sevkiyatlarını görüntülemek için; Satış&Pazarlama -> Listeler -> Alınan Sipariş Hareketleri -> Cariyi seçelim -> Tarihi seçelim -> Listeyi Excele Aktar diyerek listeyi excele aktarımını gerçekeleştirebiliriz.
+**Cevap:** Siparişlerin sevkiyatlarını görüntülemek için; 
+Satış&Pazarlama -> Listeler -> Alınan Sipariş Hareketleri -> Cariyi seçelim -> Tarihi seçelim -> Listeyi Excele Aktar diyerek listeyi excele aktarımını gerçekleştirebiliriz.
 
 Bir diğer yöntem ise;
 Rapor -> Sipariş/Teklif -> Hareket -> Sipariş Sevkiyat Detayları -> Alınan Sipariş -> Cariyi seçelim -> Sadece Açık Siparişler seçeneğini seçelim -> Raporla diyerek erişim sağlayabiliriz.
@@ -105,26 +108,26 @@ Rapor -> Sipariş/Teklif -> Hareket -> Sipariş Sevkiyat Detayları -> Alınan S
 
 **Soru:** Bankadan nasıl virman yapabilirim?
 
-**Cevap:** Bankalar Arası Transfer yapmamız gerekiyor;
+**Cevap:** Banka Hesapları Arası Transfer yapmamız gerekiyor;
 Banka -> Hareket Oluştur -> Banka Hesapları Arası Transfer -> Banka Alacak: Gönderici bankayı seçelim -> Tutarı girelim -> Şirket-Şube seçelim -> Banka Borç: Alıcı bankayı seçelim. 
 Kaydet diyerek işlemimizi tamamlayabiliriz.
+Banka hesapları arası transfer detayları için lütfen linke tıklayınız. [Banka Hesapları Arası Transfer](../TemelHareketler/BankaHesaplariArasiTransfer.md)
 
 **Soru:** Kasadan veya Bankadan Gelir ve Gider hareketleri (Cari Kaydı Açmadan) nasıl işlenir?
 
 **Cevap:** Kasadan ve bankadan gelir/gider hareketi seçeneği ile cari kaydı yapılmadan işlem yapılabilir.
 Örneğin; Bim marketinden alınan ürünü banka kartı ile ödeme yapılarak alındığını düşünelim bankadan gider hareketi seçilerek ilgili 
 banka hesabı seçilip kayıt işleminden sonra gider kartı (Temizlik Giderleri, Mutfak Giderleri, Yemek Giderleri vb.) 
-eklenip tutar girilir gerekirse açıklama da eklenerek raporlardan alınabilir.
+eklenip tutar girilir, açıklama kısmında detay belirtilir bu da raporlama da kolaylık sağlar.
 
-
-**Soru:** Personel maaşlarını bankadan nasıl gösterebilirim?
-
-?? **Cevap:** Bankalar içerisinde maaş ödeme hesabına para aktarıp personel maaş ödemesi çıkabilirsiniz.
-?? Banka -> Hareket -> Yeni Banka Hesap Kartı -> 
-
-**Soru:** Kredi kartını nasıl takip ediyoruz ödemelerini nasıl yapacağız?
-
-??? **Cevap:** Ödeme zamanı geldiğinde kredi carisine diğer bankadan transfer yapıyoruz.
+	**Soru:** Personel maaşlarını bankadan nasıl gösterebilirim?
+	
+	?? **Cevap:** Bankalar içerisinde maaş ödeme hesabına para aktarıp personel maaş ödemesi çıkabilirsiniz.
+	?? Banka -> Hareket -> Yeni Banka Hesap Kartı -> 
+	
+	**Soru:** Kredi kartını nasıl takip ediyoruz ödemelerini nasıl yapacağız?
+	
+	??? **Cevap:** Ödeme zamanı geldiğinde kredi carisine diğer bankadan transfer yapıyoruz.
 
 **Soru:** Bankadan çekilen kredi nasıl takip edilir?
 
@@ -136,9 +139,10 @@ Bankadan ödeme yaptık diyelim; Banka -> Havale/EFT Gönderme -> Hangi bankadan
 Nakit(Kasa'dan) ödeme yaptık diyelim; Kasa -> Hareket Oluştur -> Nakit ödeme -> Ödeme yapılan kasamızı seçelim -> Kredi kartı carimizi seçelim -> Kaydet diyerek işlemimizi tamamlayalım.
 Müşteri/Satıcı -> Müşteri/Satıcı Hareketleri Listesi -> Carimizi seçerek filtreleme yapalım buradan kalan borçumuzu yaptığımız ödemelerimizi takip edebiliriz.
 
-Soru: Bankadan devir işlemini nasıl yapacağız ?
+**Soru:** Bankadan devir işlemini nasıl yapacağız ?
 
-Cevap: Banka -> Hareket Oluştur -> Devir -> Gelir gider deposunu çalıştıracağız -> Yeni Banka kalemi ekle -> Alacak-Borçlu seçelim -> Bankayı seçelim -> Tutar girelim -> Açıklama eklenebilir -> Kaydet diyerek işlemimizi tamalayalım.
+**Cevap:** Arama çubuğuna "devir" yazarak erişim sağlayabilirsiniz ya da Banka -> Hareket Oluştur -> Devir -> Gelir gider deposunu çalıştıracağız ->
+Yeni Banka kalemi ekle -> Alacak-Borçlu seçelim -> Bankayı seçelim -> Tutar girelim -> Açıklama eklenebilir -> Kaydet diyerek işlemimizi tamamlayalım.
 Yevmiye fişini açalım; üç işlem butonu -> Yevmiye Fiş kontrollerimizi sağlayalım -> Tutarlarımızı karşılatıralım kontrol ederek işlemimizi sonlandıralım.
 
 ## İhracat Soruları
@@ -148,32 +152,40 @@ Yevmiye fişini açalım; üç işlem butonu -> Yevmiye Fiş kontrollerimizi sa�
 **Cevap:** Mikro ihracat, küçük ölçekli ihracat işlemlerini ifade eder ve genellikle e-ticaret yoluyla yapılan ihracatlar için kullanılır. 
 Mikro ihracat, belirli bir parasal limitin altında kalan ve daha basit gümrük prosedürleri gerektiren ihracat işlemleridir. 
 Türkiye'de mikro ihracat işlemleri, Elektronik Ticaret Gümrük Beyannamesi (ETGB) ile gerçekleştirilir ve gümrük müşavirine ihtiyaç duyulmadan hızlı bir şekilde yapılabilir.
-KDV sıfırlama yapmıyoruz, muafiyet girmemiz gerekiyor. Vergi muafiyetlerinde 301 seçmemiz gerekmektedir.
+KDV sıfırlama yapmıyoruz, muafiyet girmemiz gerekiyor. Vergi muafiyetlerini girmemiz gerekmektedir.
 Vergi muafiyetini nasıl yapılır;
-Faturamızı oluşturduktan sonra kalemlerimizin yanında ki büyüteçe tıklayalım -> Vergiler - Muafiyet Ekle -> KDV Muafiyet -> 11/1-a Mal İhracatı  (301) seçelim.
+Faturamızı oluşturduktan sonra kalemlerimizin yanında ki büyüteçe tıklayalım -> Vergiler - Muafiyet Ekle -> KDV Muafiyet -> İhracat muafiyet kodunu seçelim.
 Muafiyet tanımlamamız tamamlanmıştır, kontrol edelim.
 e-Arşiv, e-Faturayı gönder diyelim, Fatura Tipi ISTISNA olması gerekmektedir.
 
-Soru: İhracat Faturasını nasıl kesebilirim ? İhracat nelere dikkat etmemiz gerekmektedir ?
-**Soru:** İhracat Faturasını nasıl kesebilirim ? Nelere dikkat etmemiz gerekmektedir?
-
-Cevap: İhracat faturalarında yasal gerekliliklere uymak önem arz etmektedir. 
-Yurtdışı satışlarında vergi uygulanmamaktadır vergi muafiyeti girilmesi gerekmektedir. Muafiyet ihracat faturalarında mutlaka eklenmelidir.
-**Cevap:** 
-
-Aaro'da ihracat faturamızı oluşturalım;
-
-Satış&Pazarlama -> Hareket Oluştur -> Satış Faturası -> Carimizi seçelim -> Kaydet diyelim -> Kalemlerimizi ekleyelim -> Kalem detaylarına girelim KDV Muafiyet Vergi Muafiyeti Muafiyet kodumuzu girelim Örneğin; 301 Mal İhracatı -> Kaydet diyelim -> 
-Üç işlem butonuna tıklayalım -> Tüm Kalemlerde Değiştir -> Vergi Muafiyeti / Vergileri Yenile iki seçeneği seçelim -> Kaydet diyelim.
-Fatura Tipi İstisna olmalıdır. e-Arşiv - e-Fatura Önizle yaparak kontrollerimizi sağladıktan sonra gönderme işlemimizi gerçekleştirebiliriz.
-
+	**Soru:** İhracat Faturasını nasıl kesebilirim ? Nelere dikkat etmemiz gerekmektedir?
+	
+	**Cevap:** İhracat faturalarında yasal gerekliliklere uymak önem arz etmektedir. 
+	Yurtdışı satışlarında vergi uygulanmamaktadır vergi muafiyeti girilmesi gerekmektedir. Muafiyet ihracat faturalarında mutlaka eklenmelidir.
+	İhracat işleminin hangi koşullarda yapıldığını gösteren teslim şartları (Incoterms) net bir şekilde belirtilmelidir.
+	Ödeme yöntemleri ve şartları da fatura üzerinde yer almalıdır.
+	Eğer fatura dövizle kesiliyorsa, döviz cinsi ve kur bilgileri de eklenmelidir.
+	İhraç edilen malın detaylı ve doğru bir şekilde tanımlanması, cins, miktar, birim fiyat gibi bilgilerin açıkça belirtilmesi gerekir.
+	Satıcı ve alıcının tam unvanı, adresi, vergi kimlik numarası gibi bilgileri eksiksiz bir şekilde yazılmalıdır.
+	
+	Aaro'da ihracat faturamızı oluşturalım;
+	
+	Satış&Pazarlama -> Hareket Oluştur -> Satış Faturası -> Carimizi seçelim -> Kaydet diyelim -> Kalemlerimizi ekleyelim -> Kalem detaylarına girelim;
+	Üç işlem butonuna tıklayalım -> Tüm Kalemlerde Değiştir -> Vergi Muafiyeti / Vergileri Yenile iki seçeneği seçelim -> Kaydet diyelim.
+	Fatura Tipi İstisna olmalıdır. e-Arşiv - e-Fatura Önizle yaparak kontrollerimizi sağladıktan sonra gönderme işlemimizi gerçekleştirebiliriz.
+	İhracat faturalarında beyanname bilgileri de belirtilmelidir.
+	
+	İthalat-İhracat faturalarında e-Fatura mükellefi yazısı çıkmazsa faturada bir hata var demektir, faturanızı kontrol ediniz.
+	e-Faturayı ithalat veya ihracat için gönderdiğimizde senaryo ve fatura tipi İstisna olarak seçili olmalıdır.
+	İthalat ve ihracat faturalarında ödeme şekli/tipi seçmek zorunludur.
 
 
 ## İhraç Faturaları Soruları
 
-Soru: GTIP nedir ? Naıl kullanım sağlarım ?
+**Soru:** GTIP kodu nedir, nasıl tanımlarım ? 
 
-Cevap: GTIP (Gümrük Tarife İstatistik Pozisyonu) Kodu, Türkiye'de malların ithalat ve ihracat işlemlerinde kullanılan, ürünlerin gümrük tarife cetvelinde sınıflandırılmasını sağlayan bir koddur. 
+**Cevap:** GTIP (Gümrük Tarife İstatistik Pozisyonu) Kodu, Türkiye'de malların ithalat ve ihracat işlemlerinde kullanılan, 
+ürünlerin gümrük tarife cetvelinde sınıflandırılmasını sağlayan bir koddur. 
 Bu kod, bir ürünün ticaretine ilişkin vergi oranlarını, ithalat veya ihracat kısıtlamalarını ve diğer gümrük mevzuatlarını belirler.
 Ürünün GTIP kodu belirlenirken, öncelikle ürünün ne olduğu, hangi malzeme ya da hammadde içerdiği ve nasıl bir işlevi olduğu doğru bir şekilde tanımlanmalıdır.
 Ürünün GTIP kodunu belirlemek için Gümrük ve Ticaret Bakanlığı'nın yayınladığı gümrük tarife cetvelleri kullanılabilir. Bu cetvellerde yer alan sınıflandırmalara göre ürünün kodu bulunur.
@@ -184,16 +196,25 @@ GTIP tanımlamasını yapalım;
 Stok -> Stok Kartı Listesi -> Yeni Stok Kartı Ekle -> Gerekli alanları dolduralım -> 
 Gelişmiş kısmında GTIP alana stok kartına ait GTIP kodumuzu girmemiz gerekmektedir -> Kaydet diyerek GTIP kodu tanımlı stok kartımızı tanımlayalım.
 
+**Soru:** İhraç kayıtlı fatura kesiyorum fakat KDV sıfırladığım halde ihraç kayıtlı fatura olmuyor ne yapmalıyım ?
+
+**Cevap:** İhraç kayıtlı fatura keserken KDV oranının sıfır olmasının nedeni vergi muafiyet durumunun olmasıdır.
+Bu durumda KDV oranımızı eski haline getirerek yani; kalem stoğu için ihraç kayıtlı fatura oluşturacağız KDV oranı:%20 bunu yazalım.
+Stok kartında vergi KDV sıfırlayarak, değil muafiyetini belirteceğiz.
+Daha sonrasında; üç işlem butonu -> Tüm kalemlerde değiştir -> Vergi Muafiyeti seçeneğimizi aktif ederek - 11/1-a Mal İhracatı (301) ->
+Vergileri Yenile seçeneğini de aktif edelim -> Kaydet diyelim -> Gerekli bilgiler tamamlandıktan sonra faturanın kontrollerini sağlayalım.
+Fatura kalemlerinin tutarını, toplam tutarını kontrol edelim, fatura tipi: İhraç Kayıtlı olmadına dikkat edelim, kontrollerimizi sağladıktan sonra faturamızı gönderebiliriz. 
 
 **Soru:** İhraç kayıtlı e-arşiv fatura nasıl kesilir?
 
-**Cevap:** Normal satış faturası kaydı girilir fatura tamamlandıktan sorna e-Arşiv fatura gönder seçeneğinden sonra karşımıza çıkan ekranda ihraç kayıtlı seçeneği seçmemiz gerekmektedir.
+**Cevap:** Normal satış faturası kaydı girilir burada dikkat edilmesi gereken hususlar; stok kartında GTIP kodu belirtilmelidir, KDV istisnası KDV de belirtilmelidir.(KDV girilerek sıfırlanmamalıdır)
+Fatura tamamlandıktan sonra e-Arşiv fatura gönder seçeneğinden sonra karşımıza çıkan ekranda ihraç kayıtlı seçeneği seçmemiz gerekmektedir.
 
 ## Fatura Soruları 
 
 **Soru:** Birden fazla irsaliye tek fatura nasıl birleştirilir?
 
-**Cevap:** Bir irsaliyemizi açalım, üç işlem sekmesinden Faturalaştır diyelim, bilgileri kontrol ettikten sonra kaydet diyelim.
+**Cevap:** Birleştireceğimiz irsaliyelerden birini açalım, üç işlem sekmesinden Faturalaştır diyelim, bilgileri kontrol ettikten sonra kaydet diyelim.
 Sağ üstte İrsaliyeden Kalem Ekle seçeneğine tıklayalım, irsaliyelerimizi seçelim kaydet butonu basarak irsaleyimizi fatura dönüştürebiliriz.
 Bir diğer yöntem ise satış faturası açalım, yeni stok kalemi ekle kısmındaki oka tıklayalım irsaliyeden kalem ekle diyerek irsaliyelerimizi seçebiliriz.
 
@@ -216,20 +237,18 @@ Mali mührü aldıktan sonra entegratör firmanın evrakları iletilir.
 Ayrıca sözleşmenin dışında firma bilgi formunda istenilen bilgiler doldurulacak ve bu formda istenilen evraklar temin edilecek. (İmza sirküsü, vergi levhası, oda kayıt belgesi, yetkili kimlik fotokopisi)
 Entegratör firma ya evraklar,sözleşme ve istenilen kontör miktarı ile birlikte iletilir.(e-fatura/e-arşiv/e-irsaliye geçişleri bilgisi verilir)
 
-Soru: Muafiyetli fatura nasıl kesilir ? Nasıl muafiyet eklenir ?
-**Soru:** Muafiyetli fatura nasıl kesilir?
+**Soru:** Muafiyetli fatura nasıl kesilir ? Faturalara nasıl muafiyet eklenir ?
 
 **Cevap:** Satış Faturası hareketi normal olarak girilir. 
 Bu harekette girilen her kart açılarak (Satış faturası alanında her kalemin yanında bulunan büyüteçten erişim sağlayabilirsiniz). 
 KDV'nin altında yer alan muafiyet ekleme seçeneği ile açılan bölümden ilgili muafiyet nedeni seçilir ve kaydedilir. 
 Eğer birden fazla kart ekli ise her kart için aynı şekilde muafiyet eklenir.
 
-Soru: Bir faturayı iptal ettik Aaro'dan ve foriba'dan tekrar fatura kesmek istediğimizde foribada numara gözüktüğü için tekrar kesemiyoruz ne yapmamız lazım ?
+**Soru:** Bir faturayı iptal ettik Aaro'dan ve foriba'dan tekrar fatura kesmek istediğimizde foribada numara gözüktüğü için tekrar kesemiyoruz ne yapmamız lazım ?
 
-Cevap: Fatura iptali foribadan yapılıp Aaro'dan silindiği taktirde Aaro işlemi tanıyamaz, Aaro'dan silindiğinde sistem bunu bilirdi ve o kodu tekrar verirdi.
+**Cevap:** Fatura iptali foribadan yapılıp Aaro'dan silindiği taktirde Aaro işlemi tanıyamaz, Aaro'dan silindiğinde sistem bunu bilirdi ve o kodu tekrar verirdi.
 Şimdi aynı kodu manuel değişiklik yaparak kullanmamız gerekmektedir. 
 
-Soru: Tevkifatlı fatura nasıl kesilir ?
 **Soru:** Tevkifatlı fatura nasıl kesilir?
 
 **Cevap:** Fatura hareketi sistemimizde olduğu gibi oluşturulur. Harekete eklenen kartlar için o kartların içeriğine gidilerek vergi oranı kısmında tevkifatlı vergi oranı açılır.
@@ -240,59 +259,61 @@ Açılan vergi tanımında tevkifat tipi belirtilerek kaydedilir. Hareketin içe
 
 **Cevap:** Muhtelif cari özelliğimiz ile tek bir cari altında birden fazla carimizi takip edebiliriz. 
 Mesela; N11 sitesinde firmamızın ürünlerini satıyoruz herhangi bir kişi ürünümüzü satın aldı ve bu döngü sürekli halde devam ediyor. 
-Bir ürünü birden fazla kişi bir kereliğine alabilir ve biz bu kişileri müşterimiz olarak açmak istemeyiz. Çünkü; ödeme kısımlarını da biz asıl firmamız olan N11'den almaktayız. 
+Bir ürünü birden fazla kişi bir kereliğine alabilir ve biz bu kişileri müşterimiz olarak açmak istemeyiz. 
+Çünkü; ödemelerini biz asıl anlaşmalı firmamız olan N11'den almaktayız. 
 O yüzden N11 firmasını  muhtelif cari olarak açabiliriz. Cari kartı içeriğinde yer alan muhtelif cari özelliğimizi aktif ederek.
 (Müşteri/Satıcı kartının içine girelim Muhtelif Cari özelliğini aktif edelim.) 
 
-Soru: Benim bir müşterim var tek seferlik alışveriş yaptı cari açmak istemiyorum cari açmadan nasıl fatura kesebilirim ?
+**Soru:** Benim bir müşterim var tek seferlik alışveriş yaptı cari açmak istemiyorum cari açmadan nasıl fatura kesebilirim ?
 
-Cevap: Muhtelif cari özelliğimizi kullanarak tek seferlik müşterilerimizin fatura işlemlerinde kullanabiliriz.
+**Cevap:** Muhtelif cari özelliğimizi kullanarak tek seferlik müşterilerimizin fatura işlemlerinde kullanabiliriz.
 Muhtelif cari açalım öncellikle; Müşteri&Satıcı -> Müşteri&Satıcı Kartı Listesi -> Yeni Müşteri/Satıcı Kartı Ekle -> 
 örneğin adına Muhtelif Cari diyerek genel ortak bir ad ile açabiliriz -> Gelişmiş -> Muhtelif Cari seçeneğimizi aktif etmemiz gerekmektedir.
 Satış faturamızı oluşturalım; Müşteri&Satıcı -> Hareket Oluştur -> Satış Faturası -> Cari olarak açtığımız Muhtelif Cariyi seçelim -> 
 Carimizi seçtikten sonra muhtelif carimizin bilgilerini dolduracağımız alan gelecektir bilgileri dolduralım -> satış yaptığımız stok, gelir gider ya da demirbaşı girelim ->
 Kaydet diyerek e-Fatura/e-Arşiv faturamızın ön izlemesini yaparak kontrollerimizi sağlayalım.
 
+**Soru:** e-Arşiv faturamı iptal etmek istiyorum nasıl yapabilirim ?
 
-Soru: e-Arşiv faturamı iptal etmek istiyorum nasıl yapabilirim ?
-
-Cevap: e-Arşiv faturalarında kesildikten 7 gün içerisinde iptal işleminin yapılması gerekmektedir.
+**Cevap:** e-Arşiv faturalarında kesildikten 7 gün içerisinde iptal işleminin yapılması gerekmektedir.
 İptal etmek istediğiniz faturanın düzenlenmiş ve karşı tarafa iletilmiş olması gerekir. 
 İptal işlemi için belirli bir süre sınırı bulunmaktadır 7 gün içerisinde yapılması gerekmektedir.
 
-Soru: Demirbaş kiralık araç tanımlama işlemini nasıl yapabilirim ?
+**Soru:** Demirbaş kiralık araç tanımlama işlemini nasıl yapabilirim ?
 
-Cevap: Gelir gider -> Alış Faturası -> Cariyi seçelim -> Gelir gider -> kalemimizi dolduralım kart adını, miktar ve fiyatını girelim -> 
+**Cevap:** Gelir gider -> Alış Faturası -> Cariyi seçelim -> Gelir gider -> kalemimizi dolduralım kart adını, miktar ve fiyatını girelim -> 
 Depo olarak GelirGider Depo (GG) seçelim -> Demirbaşımızı seçelim. 
 Kaydettikten sonra yevmiye fişimizi açalım gelir giderimize göre yevmiye fişlerimizi güncelleyelim.
 
-Soru: Fatura adresimizi değiştirmemiz gerekiyor Aaro'da nasıl değiştireceğiz ?
+**Soru:** Fatura adresimizi değiştirmemiz gerekiyor Aaro'da nasıl değiştireceğiz ?
 
-Cevap: Ayarlar -> Şirket Listesi -> Adres bilgilerinden değişiklik yapabilirsiniz.
+**Cevap:** Ayarlar -> Şirket Listesi -> Adres bilgilerinden değişiklik yapabilirsiniz.
 
-Soru: Makine tamirini nasıl gösterebilirim. Stok açmamız gerekli mi ?
+**Soru:** Makine tamirini nasıl gösterebilirim. Stok açmamız gerekli mi ?
 
-Cevap: Makine tamirinizin faturası kesilecek mi, banka, kasa çıkışımı yapılacak ya da cari gösterilecek mi bu gibi detaylar önemlidir.
+**Cevap:** Makine tamirinizin faturası kesilecek mi, banka, kasa çıkışımı yapılacak ya da cari gösterilecek mi bu gibi detaylar önemlidir.
 Fatura kesilen tamirimizi;
 Gelir gider -> Hareket Oluştur -> Alış Faturası -> Carimizi seçelim -> Kaydet -> Kalemimizi dolduralım Gelir gider seçelim -> 
 Kart Adı örn; Makine Tamiri -> Fiyat bilgisini girelim -> Demirbaş seçelim -> Doldurulması gereken bilgileri doldurduktan sonra işlemimizi tamamlayabiliriz.
 
-Soru: İrsaliyeleştirmeden nasıl fatura oluştırabilirim ?
+**Soru:** Siparişimi irsaliyeleştirmeden nasıl fatura oluşturabilirim ?
 
-Cevap: Siparişini oluşturmuş olduğumuz bir siparişi irsaleyisini kesmeden direk faturalaştırmak istiyorsak; 
+**Cevap:** Siparişini oluşturmuş olduğumuz bir siparişi irsaliyesini kesmeden direk faturalaştırmak istiyorsak; 
 Alınan Siparişlerden siparişimizi açalım -> Faturalalaştır diyerek siparişimizi faturalandırabiliriz.
 
-Sipariş ya da teklifi olmayan bir siparişimiz için fatura oluşturmak istiyorsak;
+**Sipariş ya da teklifi olmayan bir siparişimiz için fatura oluşturmak istiyorsak;**
 Satış&Pazarlama -> Hareket Oluştur -> Satış Faturası -> Carimizi seçelim -> Kaydet diyelim -> Kalemlerimi dolduralım -> Kaydet diyerek faturalandırma işlemimizi gerçekleştirebiliriz.
 
 
---Soru: Serbest Meslek Makbuzu (SMM) makbuzları, avukat makbuzları nasıl işlenir ?
+**Soru:** Serbest Meslek Makbuzu (SMM) makbuzları, avukat makbuzları nasıl işlenir ?
 
---Cevap: Vergi tanımı yapmamız gerekmektedir. Gelir gider olarak tanımlayacağımız için gelir gider kartı açmamız gerekmekedir;
-Gelir Gider Modülü -> Yeni Gelir Gider Kartı Ekle -> Gelir gider adı girelim Örn; Avukat Gideri -> Birim1 Adet seçmemiz gerekiyor -> 
+**Cevap:** Vergi tanımı yapmamız gerekmektedir. Gelir gider olarak tanımlayacağımız için gelir gider kartı açmamız gerekmektedir;
+Gelir Gider Modülü -> Yeni Gelir Gider Kartı Ekle -> Gelir gider adı girelim Örn; Avukat Gideri -> 
 Vergi Oranları; bu kısımda yeni bir vergi oranı tanımlayacağız Örn; KDVSTOPAJ20 detaylı ekle diyelim;
-Stok Vergi Kodu KDVSTOPAJ20 aynısını yazabiliriz -> Stok Vergi Adı Stopaj diyebiliriz -> Alış KDV Oranı KDV oranını girelim -> Satış KDV Oranı KDV oranını girelim ->
-Alış Vergi 1 Gelir Vergisi Stopajı 0003 seçebiliriz -> Alış Vergi Oranı 1 vergi oranını girelim -> Satış Vergi 1 Gelir Vergisi Stopajı 0003 seçebiliriz -> Satış Vergi Oranı 1 vergi oranını girelim -> Kaydet diyerek stopajımızı tanımlayabiliriz.
+Stok Vergi Kodu KDVSTOPAJ20 aynısını yazabiliriz -> Stok Vergi Adı Stopaj diyebiliriz -> 
+Alış KDV Oranı KDV oranını girelim -> Satış KDV Oranı KDV oranını girelim ->
+Alış Vergi 1 Gelir Vergisi Stopajı 0003 (Gelir Vergisi Stopajı) seçebiliriz -> Alış Vergi Oranı 1 vergi oranını girelim -> 
+Satış Vergi 1 Gelir Vergisi Stopajı 0003 (Gelir Vergisi Stopajı) seçebiliriz -> Satış Vergi Oranı 1 vergi oranını girelim -> Kaydet diyerek stopajımızı tanımlayabiliriz.
 Gelir/Gider Kartı (Yeni) ekranımızdan Vergi oranları kısmını tanımladığımız stopajı seçelim. Tanımlayacağımız bilgileri doldurduktan sonra kaydedebiliriz.
 
 Avukat gideri kartımızı açtık alış faturamızı girebiliriz;
@@ -302,11 +323,11 @@ Tutarı girelim -> Depomuzu GelirGider Depomuzu seçelim -> Ekleyeceğimiz detay
 
 
 
----Soru: Tek bir hareket için KDV oranı nasıl değiştirilir?
----
----Cevap: Herhangi bir kartımızın sadece bir hareket için vergi oranını ilgili harekette kartımızı ekledikten sonra görüntüleyerek
----KDV bölümünde yer alan rakamı ihtiyacımız olan vergi oranını yazıp kaydederek vergi oranını sadece bu hareket için değiştirmiş oluruz.
----Kalemin yanında ki büyüteçe tıklayalım -> Vergiler -> KDV oranını girelim -> Kaydet şeklinde KDV oranını değişikliği gerçekleşir.
+**Soru:** Tek bir hareket için KDV oranı nasıl değiştirilir?
+
+**Cevap:** Herhangi bir kartımızın sadece bir hareket için vergi oranını ilgili harekette kartımızı ekledikten sonra görüntüleyerek
+KDV bölümünde yer alan rakamı ihtiyacımız olan vergi oranını yazıp kaydederek vergi oranını sadece bu hareket için değiştirmiş oluruz.
+Kalemin yanında ki büyüteçe tıklayalım -> Vergiler -> KDV oranını girelim -> Kaydet şeklinde KDV oranını değişikliği gerçekleşir.
 
 **Soru:** KDV'den muaf fatura neden ve hangi durumlarda kesilir?
 
@@ -322,7 +343,7 @@ Diplomatik ve Konsolosluk Satışları: Diplomatik misyonlar ve konsolosluklar i
 **KDV'den muaf fatura kesilmesi gerektiğinde, ilgili mevzuat ve düzenlemelere dikkat edilmelidir.**
 **Muafiyet durumunu ve uygulama şekillerini netleştirmek için mali müşavir veya vergi uzmanına danışmak en doğrusu olacaktır.**
 
-**Soru:** Fatura tipleri ve bu tiplerin özellikleri nelerdir ? Hangi tipteki faturalar iptal edibilir? Hangi tip faturalarda iade faturası kesmek gerekir? 
+**Soru:** Fatura tipleri ve bu tiplerin özellikleri nelerdir ? Hangi tipteki faturalar iptal edilebilir? Hangi tip faturalarda iade faturası kesmek gerekir? 
 
 **Cevap:** e-Faturalar Temel ve ticari fatura olarak iki tip e-Fatura türü vardır.
 Ticari faturaların onaylanma süresi 7 gündür, 7 gün içerisinde onaylanmaz ya da reddedilmezse otomatik onaylanır.
@@ -361,17 +382,17 @@ Satın alma iade faturası kesmek için;
 	e-Faturamızın önizlemesini yaparak tekrardan kontrollerimizi sağlayarak e-Fatura/e-Arşiv gönderme işlemimizi tamamlayabiliriz.
 	NOT: Kalem açıklamalarına iade nedenlerini belirtiğimiz faturalarda Kalem Açıklamalarını Gönder seçeneğini seçerek iade nedeninin görünmesini sağlayabiliriz.
 		
-Soru: Kesilen faturada stok kodu nasıl görüntülenir ? 
+**Soru:** Kesilen faturada stok kodu nasıl görüntülenir ? 
 
-Cevap: Aaro'da kesilen faturamızı açalım stok kalemimizin yanında ki büyütece tıklayalım burada stok kodumuzu görüntüleyebilir, linke tıklayarak stok kartımıza erişebiliriz.
+**Cevap:** Aaro'da kesilen faturamızı açalım stok kalemimizin yanında ki büyütece tıklayalım burada stok kodumuzu görüntüleyebilir, linke tıklayarak stok kartımıza erişebiliriz.
 
-Soru: Karşı taraf fatura kesemiyor e-posta da hata veriyor ne yapmamız gerekiyor ?
+**Soru:** Karşı taraf fatura kesemiyor e-posta da hata veriyor ne yapmamız gerekiyor ?
 
-Cevap: Karşı taraf sovosla görüşmeli sovos'a geçtiklerinin tanımını yapmaları gerekiyor.
+**Cevap:** Karşı taraf sovosla görüşmeli sovos'a geçtiklerinin tanımını yapmaları gerekiyor.
 
 ## Diğer
 
-**Soru:** Geçiçi Anahtar Nasıl Oluşturulur?
+**Soru:** Geçiçi Anahtar Nasıl Oluşturulur ?
 
 **Cevap:** Ayarlar -> Modül Sayfası -> Destek -> Geçici Erişim Anahtarı
 Geçici erişim anahtarınızdan 12 saat erişim izni verilmektedir.
@@ -379,38 +400,38 @@ Erişim anahtarı sayesinde yapılması gereken işlemler için sizin adına des
 
 ## Yetki Soruları
 
-Soru: Herhangi bir çıktı tasarımında rapor yetkisi nasıl açılır?
+**Soru:** Herhangi bir çıktı tasarımında rapor yetkisi nasıl açılır?
 
-Cevap: Bu işlemi herhangi bir çıktı tasarımından gerçekleştirebiliriz,
+**Cevap:** Bu işlemi herhangi bir çıktı tasarımından gerçekleştirebiliriz,
 Çıktımıza gelelim; Ayarlar -> Çıktı Listesi -> çıktımızın kategorisinden tasarımızı açalım, açılan ekranda rapor yetkileri kısmında Yeni Rapor Yetkileri Ekle,
 kullanıcıyı ya da kullanıcı grubu seçelim okuma yetkisini açalım.
 
-Soru: Belirli bir tarihten önce yapılan bir işlemde değişiklik yapma yetkiniz yoktur uyarısı nasıl çözülür? 
+**Soru:** Belirli bir tarihten önce yapılan bir işlemde değişiklik yapma yetkiniz yoktur uyarısı nasıl çözülür? 
 
-Cevap: Ayarlar -> Modül sayfası -> Kullanıcı listesi bölümünden ilgili kullanıcı açılarak Cari ve Muhasebe alanında Bugünden Önce(gün), 
+**Cevap:** Ayarlar -> Modül sayfası -> Kullanıcı listesi bölümünden ilgili kullanıcı açılarak Cari ve Muhasebe alanında Bugünden Önce(gün), 
 bugünden sonra(gün) bölümlerinde karşılarındaki rakam değerleri değiştirilerek kaydet seçeneği ile işlem tamamlanır. 
 (sistemi yenile veya çıkış yapıp giriş yaparak tekrar dene)
 
-Soru: Kdv den muaf fatura yetkisi nasıl açılır?
+**Soru:** Kdv den muaf fatura kesmek istiyorum yetkisiz işlem diyor, yetki nasıl açılır?
 
-Cevap: Ayarlar -> Modül sayfası -> Yetki alt listesi bölümünden Yeni Yetki Alt Ekle diyerek çıkan ekranda AltProgramID kısmına "Genel – DekontFatura_KDVdenMuafYapabilir" 
+**Cevap:** Ayarlar -> Modül sayfası -> Yetki alt listesi bölümünden Yeni Yetki Alt Ekle diyerek çıkan ekranda AltProgramID kısmına "Genel – DekontFatura_KDVdenMuafYapabilir" 
 yetkisi seçilerek okuma,ekleme,silme, düzenleme aktif edilerek kaydedilir.
 
-Soru: KDV oranı değiştirme yetkisi nasıl açılır?
+**Soru:** KDV oranı değiştirme yetkisi nasıl açılır?
 
-Cevap:Ayarlar modül sayfası yetki alt listesi bölümünden Yeni Yetk Alt Ekle diyerek çıkan ekranda AltProgramID kısmına "DekontFatura_KDVOranDegistirebilir " 
+**Cevap:** Ayarlar modül sayfası yetki alt listesi bölümünden Yeni Yetk Alt Ekle diyerek çıkan ekranda AltProgramID kısmına "DekontFatura_KDVOranDegistirebilir " 
 yetkisi seçilerek okuma,ekleme,silme, düzenleme aktif edilerek kaydedilir.
 
-Soru: Cari kartı açarken vergi numarasını 11111111111 girmek istiyorum sistem izin vermiyor nasıl düzeltebiliriz ?
+**Soru:** Cari kartı açarken vergi numarasını 11111111111 girmek istiyorum sistem izin vermiyor nasıl düzeltebiliriz ?
 
-Cevap: Mükerrer cari yetkilerini açmamız gerekmektedir. Mükerrer kendini tekrarlayan TC, vergi numarasını anlamına gelmektedir.
+**Cevap:** Mükerrer cari yetkilerini açmamız gerekmektedir. Mükerrer kendini tekrarlayan TC, vergi numarasını anlamına gelmektedir.
 Ayarlar -> Yetki Alt Listesi -> Yeni Yetki Alt Ekle -> Kullanıcıyı seçelim -> Genel - Cari_MukerrerVergiNoKaydedebilir -> 
 Okuma - Ekleme - Silme - Düzeltme seçeneklerinden kullanıcı için uygun olan seçenekleri seçelim. -> Kaydet diyelim yetkimiz aktif oldu.
 Aaro'dan çıkış yapıp tekrar giriş yapalım. 
 
-Soru: Kullanıcı kayıt yapma tarih aralığı yetkilendirmesi nasıl yapılır ?
+**Soru:** Kullanıcı kayıt yapma tarih aralığı yetkilendirmesi nasıl yapılır ?
 
-Cevap: Ayarlar -> Modül sayfası -> Kullanıcı listesi bölümünden ilgili kullanıcı açılarak Cari ve Muhasebe alanında Bugünden Önce(gün), 
+**Cevap:** Ayarlar -> Modül sayfası -> Kullanıcı listesi bölümünden ilgili kullanıcı açılarak Cari ve Muhasebe alanında Bugünden Önce(gün), 
 bugünden sonra(gün) bölümlerinde karşılarındaki rakam değerleri değiştirilerek kaydet seçeneği ile işlem tamamlanır. 
 (sistemi yenile veya çıkış yapıp giriş yaparak tekrar dene)
 
@@ -426,7 +447,7 @@ Personel -> Personel Kartı Listesi -> Personeli seçelim -> Kısayollar -> Giri
 
 **Soru:** Karma transfer hareketi mantığı nedir?
 
-Cevap : Mesela bir firma eksik ödeme yaptı 0,60 TL gibi bakiyesi açık görünüyor firmadan tekrar ödeme istemek yerine karma transfer hareketi ile bakiye kapanabilir.
+**Cevap :** Mesela bir firma eksik ödeme yaptı 0,60 TL gibi bakiyesi açık görünüyor firmadan tekrar ödeme istemek yerine karma transfer hareketi ile bakiye kapanabilir.
 Karma Transfer Hareketini açalım Ahmet isimli cari firmamıza borçlu carimizi alacak olarak (GelirGider, Stok vb.) 
 seçip ilgili diğer hesabı ise borç olarak seçiyoruz ve karma transfer hareketi tamamlanmış oluyor.
 
@@ -440,49 +461,52 @@ istedikleri bir tarihi girerek hareketlere ulaşabilirler.
 
 ## Rapor Soruları  
 
-Soru: Sipariş ve iş emirleri üzerinden malzeme ihtiyaç ve stok durum raporu(MRP) nasıl alınır?
+**Soru:** Sipariş ve iş emirleri üzerinden malzeme ihtiyaç ve stok durum raporu(MRP) nasıl alınır?
 
-Cevap: Rapor -> Stok -> Toplam -> MalzemeMevcudu (DepoMinMaxMiktar Kontrolü) -> İlgili sipariş ve ya iş emri seçerek raporlayabiliriz.
+**Cevap:** Rapor -> Stok -> Toplam -> MalzemeMevcudu (DepoMinMaxMiktar Kontrolü) -> İlgili sipariş ve ya iş emri seçerek raporlayabiliriz.
 
-Soru: Cari bakiye raporunu nasıl alabilirim ?
+**Soru:** Cari bakiye raporunu nasıl alabilirim ?
 
-Cevap: Rapor -> Müşteri/Satıcı -> Bakiye -> Müşteri-Satıcı Bakiye buradan erişim sağlayabiliriz detaylı bakiye raporları için cari bazlı min, max tutarlar için seçenekleri seçerek erişim sağlayabiliriz.
+**Cevap:** Rapor -> Müşteri/Satıcı -> Bakiye -> Müşteri-Satıcı Bakiye buradan erişim sağlayabiliriz detaylı bakiye raporları için cari bazlı min, max tutarlar için seçenekleri seçerek erişim sağlayabiliriz.
 
-Soru: Stok satış raporunu nasıl alabilirim ?
+**Soru:** Stok satış raporunu nasıl alabilirim ?
 
-Cevap: Stok adına göre detaylı rapor almak istiyorsak;
+**Cevap:** Stok adına göre detaylı rapor almak istiyorsak;
 Rapor -> Stok -> Toplam -> Stok Hareketleri Miktar Toplamları (StokAdına göre Gruplu) -> Tarih, depo, tutar filtrelemeleri ile rapor alabiliriz. 
 
-Soru: Üretim operasyona göre planlama raporunu nasıl alabilirim ?
+**Soru:** Üretim operasyona göre planlama raporunu nasıl alabilirim ?
 
-Cevap: Rapor -> Üretim -> Planlama -> Operasyon Bazında Planlama (Makine,Mamül) şeklinde raporlarına erişim sağlayabiliriz. 
+**Cevap:** Rapor -> Üretim -> Planlama -> Operasyon Bazında Planlama (Makine,Mamül) şeklinde raporlarına erişim sağlayabiliriz. 
 
-Soru: Depoya göre malzeme mevcudu raporlarına nasıl alabilirim ?
+**Soru:** Depoya göre malzeme mevcudu raporlarına nasıl alabilirim ?
 
-Cevap: Rapor -> Stok -> Toplam -> Malzeme Mevcudu -> Depo kısmında rapor almak istediğimiz depoyu seçelim -> Raporla diyerek, raporumuza ulaşım sağlayabiliriz.
+**Cevap:** Rapor -> Stok -> Toplam -> Malzeme Mevcudu -> Depo kısmında rapor almak istediğimiz depoyu seçelim -> Raporla diyerek, raporumuza ulaşım sağlayabiliriz.
 
-Soru: Bir cari ile ekstre karşılaştırmak istiyorum, ekstresine nasıl ulaşabilirim ?
+**Soru:** Bir cari ile ekstre karşılaştırmak istiyorum, ekstresine nasıl ulaşabilirim ?
 
-Cevap: Rapor -> Müşteri/Satıcı -> Müşteri-Satıcı Ekstre -> Tarih Aralığı seçelim -> Carimizi seçelim -> Raporla diyerek, raporumuza ulaşım sağlayabiliriz.
+**Cevap:** Rapor -> Müşteri/Satıcı -> Müşteri-Satıcı Ekstre -> Tarih Aralığı seçelim -> Carimizi seçelim -> Raporla diyerek, raporumuza ulaşım sağlayabiliriz.
 Bir diğer yöntem ise;
 Müşteri/Satıcı -> Müşteri/Satıcı Kartlar Listesi -> Carimizi açalım -> Kısayollar -> Ekstre Dökümü şeklinde ulaşım sağlayabiliriz. 
 
-Soru: Banka hesap kartımın ekstresini detaylı olarak almak istiyorum nasıl alabilirim ?
+**Soru:** Banka hesap kartımın ekstresini detaylı olarak almak istiyorum nasıl alabilirim ?
 
-Cevap: Rapor -> Banka -> Hareket -> Banka Ekstre Detaylı -> Tarih aralığı seçebiliriz -> BankaHesabını seçelim -> Raporla diyerek, raporumuza ulaşım sağlayabiliriz.
+**Cevap:** Rapor -> Banka -> Hareket -> Banka Ekstre Detaylı -> Tarih aralığı seçebiliriz -> BankaHesabını seçelim -> Raporla diyerek, raporumuza ulaşım sağlayabiliriz.
 
-Soru: Kasa hareketlerimi detaylı görmek istiyorum nasıl bakabilirim ?
+**Soru:** Kasa hareketlerimi detaylı görmek istiyorum nasıl bakabilirim ?
 
-Cevap: Rapor -> Kasa -> Hareket -> Kasa Detaylı Ekstre -> Tarih Aralığımızı seçelim -> Kasamızı seçelim -> Raporla diyerek raporumuza ulaşım sağlayabiliriz.
+**Cevap:** Rapor -> Kasa -> Hareket -> Kasa Detaylı Ekstre -> Tarih Aralığımızı seçelim -> Kasamızı seçelim -> Raporla diyerek raporumuza ulaşım sağlayabiliriz.
 
+**Soru:** Stok depo miktar listesi detaylı görmek ve excele aktarmak istiyorum nereden alabilirim ?
+
+**Cevap:** Rapor -> Stok -> Toplam -> Malzeme Mevcudu (StokAdı, DepoDetaylı,Fiyatlı) şeklinde ulaşabilir ve excele aktarabilirsiniz. 
 
 ## POS Tahsilat Soruları 
 
-Soru: PayTR, iyzico, MokaPos vs. gibi aracı bir entegratör firmayla çalışıyoruz. Yapılan tahsilatları ve faturaları sisteme nasıl işlemeliyiz? Komisyon faturalarını, ve kalan fatura tutarını nasıl takip ederiz?  Kalan alacağımızı nasıl takip ederiz?
+**Soru:** PayTR, iyzico, MokaPos vs. gibi aracı bir entegratör firmayla çalışıyoruz. Yapılan tahsilatları ve faturaları sisteme nasıl işlemeliyiz? Komisyon faturalarını, ve kalan fatura tutarını nasıl takip ederiz?  Kalan alacağımızı nasıl takip ederiz?
 
-Cevap: İki yöntem ile takip edebiliriz;
+**Cevap:** İki yöntem ile takip edebiliriz;
 
-1. Yöntem: Aracı firma ile olan borç alacak takibini basit bir şekilde takip etmek için kullanılabilir.
+**1. Yöntem:** Aracı firma ile olan borç alacak takibini basit bir şekilde takip etmek için kullanılabilir.
 
 Aracı Sanal Pos hesabı tek hesap üzerinden takip edilir. Gelen faturaları, EFT/Havale ödemelerini tek caride tutarız.
 Örneğin, bize müşterimiz sanal pos aracılığıyla 200 tl ödeme gerçekleştirdi, entegratör firma bu işlem için bize 5 tl komisyon kesti ve faturalandırdı.
@@ -511,7 +535,7 @@ Kalan 195 tl'yi EFT/Havale olarak banka hesabımıza gönderdi.
 Bu şekilde carimiz ile beklenen ödeme, yapılan ödeme toplam tutarlarını kalem kalem takip edebiliriz.
 Fakat bu yöntemde kesilecek faturaların takibini yapamayız. Faturaların ve havale eft alacağımızın ayrı ayrı takibini yapabilmek için ikinci yöntemi tercih edebilirsiniz.
 
-2. Yöntem: Aracı firma ile olan borç alacak takibini komisyon faturaları ve havale eft alacağı şeklinde detaylı takip edilmek isteniyorsa kullanılabilir. 
+**2. Yöntem:** Aracı firma ile olan borç alacak takibini komisyon faturaları ve havale eft alacağı şeklinde detaylı takip edilmek isteniyorsa kullanılabilir. 
 
 Aracı Sanal Pos hesabı iki hesap üzerinden takip edilir. Gelen faturaları bir cari hesapta tutulur. EFT/Havale ödemeleri ve alacaklar başka bir cari hesapta tutulur.
 Örneğin, bize müşterimiz sanal pos aracılığıyla 200 tl ödeme gerçekleştirdi, entegratör firma bu işlem için bize 5 tl komisyon kesti ve faturalandırdı.
@@ -554,40 +578,41 @@ Aaro'nun hazır şablonlarında ilk 5 satır yüklemeye hazır şekilde ayarlanm
 **Cevap:** Dışarıdan toplu aktarım yapmak istediğinizde sistem 995 adet olacak şekilde aktarılmaktadır. 
 2500 adet verimiz var ise bunu 995 olarak dosyalara bölmemiz gerekmektedir. Bu şekilde aktarımı gerçekleştirebiliriz.
 
-Soru: Grid sütunlarını nasıl ayarlayabilirim ve grid sütunlarımı excele nasıl aktarabilirim ?
+**Soru:** Grid sütunlarını nasıl ayarlayabilirim ve grid sütunlarımı excele nasıl aktarabilirim ?
 
-Cevap: Üç işlem butonundan Grid Sütunları Ayarla seçelim sürekle bırak mantığıyla istediğimiz grid sütunalarını ayarlayalım.
+**Cevap:** Üç işlem butonundan Grid Sütunları Ayarla seçelim sürekle bırak mantığıyla istediğimiz grid sütunalarını ayarlayalım.
 Üç işlem butonunu seçelim Listeyi Excele Aktar diyerek ayarladığım grid sütunları ayarladığımız şekilde excel listesine erişim sağlayabiliriz.
 Not: Listeyi excele aktar seçeneği gelmiyorsa indirme yetkiniz kapalıdır.
  
-Soru: Stok kartı açmak için excel ile stok kartları dosyası hazırlayıp toplu yükleme yapabilir miyiz ?
+**Soru:** Stok kartı açmak için excel ile stok kartları dosyası hazırlayıp toplu yükleme yapabilir miyiz ?
 
-Cevap: Evet, toplu yükleme yapabiliriz. Ayarlar -> Modül Sayfası -> Dışarıdan Aktarma -> Stok ve Benzeri Kartlar -> Stok Aktarmaları -> Stok Kartı Aktarma -> Excel Şablonu İndir -> 
+**Cevap:** Evet, toplu yükleme yapabiliriz. Ayarlar -> Modül Sayfası -> Dışarıdan Aktarma -> Stok ve Benzeri Kartlar -> Stok Aktarmaları -> Stok Kartı Aktarma -> Excel Şablonu İndir -> 
 Excel dosyamızı hazırlayalım zorunlu alanlar Stok Adı - Stok Kodu - KDV - Birim -> Sistemde Var Olan Stok Kayıtlarını Güncelle bu seçeneği kaldıralım -> 
 Dosya seç -> Dosyamızı seçelim -> Şablonu Yükle stok kartı toplu yükleme işlemimiz gerçekleşti.
 
-Soru: Cari kartı açmak için excel ile cari kartları dosyası hazırlayıp toplu yükleme yapabilir miyiz ?
+**Soru:** Cari kartı açmak için excel ile cari kartları dosyası hazırlayıp toplu yükleme yapabilir miyiz ?
 
-Cevap: Evet, toplu yükleme yapabiliriz. Ayarlar -> Modül Sayfası -> Dışarıdan Aktarma -> Müşteri Satıcı Aktarmaları -> Müşteri/Satıcı Kartı Aktarma -> Excel Şablonu İndir -> 
+**Cevap:** Evet, toplu yükleme yapabiliriz. Ayarlar -> Modül Sayfası -> Dışarıdan Aktarma -> Müşteri Satıcı Aktarmaları -> Müşteri/Satıcı Kartı Aktarma -> Excel Şablonu İndir -> 
 Excel dosyamızı hazırlayalım zorunlu alanlar Cari Kodu - Cari Adı - Cari Tipi - Vergi Dairesi Adı - Vergi No -> Sistemde Var Olan Cari Kayıtlarını Güncelle bu seçeneği kaldıralım -> 
 Dosya seç -> Dosyamızı seçelim -> Şablonu Yükle stok kartı toplu yükleme işlemimiz gerçekleşti.
 
-Soru: Excele aktarılan kayıt sınırını nasıl düzeltebilirim ?
+**Soru:** Excele aktarılan kayıt sınırını nasıl düzeltebilirim ?
 
-Cevap: Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: DisariExcelAktarMaxSatirSayisi (Genel) -> Değer: rakam değerleri değiştirilerek kaydet seçeneği ile işlem tamamlanır.
+**Cevap:** Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: DisariExcelAktarMaxSatirSayisi (Genel) -> Değer: rakam değerleri değiştirilerek kaydet seçeneği ile işlem tamamlanır.
 
 
 ## Gelir Gider Soruları 
 
-Soru: Gelir Gider kalemleriyle aylık rapor almak istiyorum nasıl alabilirim ?
+**Soru:** Gelir Gider kalemleriyle aylık rapor almak istiyorum nasıl alabilirim ?
 
+**Cevap:** Rapor -> Gelir Gider -> Toplam -> Gelir Gider Hareketleri Toplamları şeklinde ulaşım sağladıktan sonra tarih filtremesi yaparak 1 aylık kalem detaylı rapor alabilirsiniz
 
 
 ## Çıktı Tasarım Soruları 
 
-Soru: Çıktı tasarımı nasıl yapılır ?
+**Soru:** Çıktı tasarımı nasıl yapılır ?
 
-Cevap: Ayarlar -> Çıktı Listesi -> Çıktı Tasarımı yapacağımız tipi seçelim Örn; Verilen Teklif -> Sistemde var olan tasarımlarımızı buradan görüntüleyebiliriz -> 
+**Cevap:** Ayarlar -> Çıktı Listesi -> Çıktı Tasarımı yapacağımız tipi seçelim Örn; Verilen Teklif -> Sistemde var olan tasarımlarımızı buradan görüntüleyebiliriz -> 
 Düzenlemek istediğimiz tasarımı seçelim -> Düzenle -> Üç İşlem Butonu -> Çıktı Dosyasını İndir (Var olan dosyanın üzerinde çalışma yaptığımızda o dosyanın üzerine
 kaydeder yeni bir çalışma yapacağımız da çıktı dosyanı indirip tekrar yükleyerek üzerinde çalışmamız daha uygun olur.)
 Dosyamızı indirdikten sonra; 
@@ -599,7 +624,7 @@ Tasarla diyerek tasarım düzenleme alanımız açılacak -> Buradan istediğimi
 
 ## Demirbaş Soruları 
 
-Soru: Demirbaş kiralık araç nasıl tanımlarım ?
+**Soru:** Demirbaş kiralık araç nasıl tanımlarım ?
 
-Cevap: Gelir Gider -> Hareket Oluştur -> Alış Faturası -> Gelir Gider Hizmet depomuzu seçelim -> Taşıt Giderleri -> Hangi Demirbaş ekle -> 
+**Cevap:** Gelir Gider -> Hareket Oluştur -> Alış Faturası -> Gelir Gider Hizmet depomuzu seçelim -> Taşıt Giderleri -> Hangi Demirbaş ekle -> 
 Gerekli alanları doldurduktan sonra Kaydet diyelim. Yevmiye Fişini açarak gelir giderimize uygun olacak şekilde değişikliklerimizi yapalım.
