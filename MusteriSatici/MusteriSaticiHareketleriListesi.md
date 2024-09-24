@@ -27,7 +27,7 @@ Aşağıdaki şekillerde ulaşım sağlayabilirsiniz:
 ### Ek İşlem Butonu
 
 - Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşabilirsiniz.
-- [Anasayfaya Kısa yol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - [Toplu Değiştir](../TemelOzellikler/TopluDegistir.md)
 - [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
 - [Listeyi Excele Aktar](../TemelOzellikler/ListeyiExceleAktar.md)

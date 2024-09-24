@@ -3,7 +3,7 @@ SayfaID: CariZiyaret
 SayfaTipi: Liste
 ---
 
-# Karma Transfer Hareketi 
+# Yeni Müþteri/Satýcý Ziyareti 
 
 **Eriþim Linki :** [erp.aaro.com.tr/CariZiyaret/Liste](erp.aaro.com.tr/CariZiyaret/Liste/)
 
