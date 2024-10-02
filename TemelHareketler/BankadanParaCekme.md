@@ -3,7 +3,7 @@ SayfaID: KasaBankadanParaCekme
 SayfaTipi: BankaHareketleri
 ---
 
-# Bankadan Gider Hareketi
+# Bankadan Para Çekme
 
 **Erişim Linki :** [erp.aaro.com.tr/KasaBankadanParaCekme](erp.aaro.com.tr/KasaBankadanParaCekme)
 

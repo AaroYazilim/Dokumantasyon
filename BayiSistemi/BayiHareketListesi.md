@@ -3,7 +3,7 @@ SayfaID: CariHareketleri
 SayfaTipi: Liste
 ---
 
-# Bayi Sipariþ Listesi
+# Bayi Hareket Listesi
 
 **Eriþim Linki :** [erp.aaro.com.tr/CariHareketleri/Liste](https://erp.aaro.com.tr/CariHareketleri/Liste?BayiMi=true&DevirGetir=true&TarihBas=2024-09-01)
 
