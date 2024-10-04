@@ -31,16 +31,22 @@ Ayarlar -> Modül Sayfası -> Dışarıdan Aktarma -> Stok -> Fiyat Listesi Akta
 
 **Soru:** Stok sayımı nasıl yapılır ?
 
-**Cevap:** 
-
-**Yöntem 1:** Stok -> Stok Sayım Girişi -> Depomuzu seçelim -> Açıklama-Proje-Plasiyer -> Kaydet -> 
-Stoğu seçelim -> Miktarı girelim -> Seri/Lot Takibi yaptığımız stoklarda kodu girelim -> Raf Kodu raf takibi yaptığımız stokların raflarını girelim -> Paket Adı ->
-Kalemleri dolduralım kaydet yaparak stok sayım girişimizi tamamlayabiliriz.
-
-**Yöntem 2: Bu yöntemle sadece stok adı miktar, seriLot Kodu ve açıklama ekleyebiliriz.**
-Excel dosyasında sayım olarak aktarabiliriz. Ayarlar -> Dışarıdan Aktarma -> Stok Aktarmaları -> Stok Sayım Aktarma -> Excel Şablonu İndir -> 
-Şablon açalım stok adı, miktarı ve açıklamaları dolduralım, kaydedelim -> Dosya Seç -> Dosyamızı Seçelim -> 
-Sayım Giriş Listesi seçelim Detaylı Ekle diyerek yeni bir liste de açabiliriz -> Şablonu Yükle diyerek sayım girişimizi tamamlayabiliriz.
+**Cevap:** Stoklarımızın sayımlarını yaptıktan sonra birden çok kalem var ise excel doldurarak aktarmak bizler için kolaylık sağlayacaktır.
+Öncelikle stok sayım girişi kaydı oluşturmamız gerekmektedir; 
+Stok -> Stok Sayım Listesi -> Yeni Stok Sayım Girişi Ekle -> Sayım yapılan depomuzu seçelim -> Gerekli alanları doldurduktan sonra "Kaydet" diyerek stok sayım girişi kaydımızı tamamlayabiliriz.
+Açılan ekranda ürünleri tek tek girerek veya "Sayılmayan stoklardan ekle" seçeneğini kullanarak toplu bir seçim yapabiliriz. 
+Ctrl ve Shift tuşlarını kullanarak açılan listeden birden fazla ürün seçip sayım girişi detaylarımızı ekleyebiliriz.
+Stoklarımızın sayımlarını girdikten sonra "Stoğa İşle" diyerek sayımlarımızı stoklarımıza işleme işlemimizi tamamlabiliriz. 
+Bir diğer yöntem ise; Stok sayım girişi kaydı yaptıktan sonra stokları tek tek seçmek yerine excel dosyası indirip üzerinde doldurulma yapılarak sisteme toplu bir şekilde eklenebilir.
+Ayarlar -> Dışarıdan Aktarmalar -> Stok Sayım Aktarma -> Excel Şablonu İndir -> şablonumuzu indirdikten sonra excel şablonunu doldurmamız gerekmektedir.
+Excel şablonunda stok kodu kısmına sistemimizde kayıtlı olan stok kodlarını girmeliyiz, 
+Mamül Miktar sayımdan sonra elimizde mevcut olan stok adetimizi girmemiz gerekmektedir,
+SeriLot Kodu buraya seri veya lot takibini sağladığımız stokların seri - lot numaralarını girmemiz gerekmektedir.
+Açıklama buraya sayım girişi için stoklara özel açıklamayı ifade eder.
+Excelimizi doldurduktan sonra sistemimize sayım girişimizi yapabiliriz;
+Stok Sayım Dışarıdan Aktarma ekranına gelerek, Dosya Seç -> Dosyamızı seçelim -> Sayım Giriş Listesi -> Açtığımız sayım girişi listemizi seçelim -> Şablonu Yükle diyelim.
+Sayım girişimizi sisteme excel ile toplu aktarım sağlamış olduk, sayım girişimizi stoklarımıza işleyelim;
+Stok -> Stok Sayım Listesi -> Sayım girişimize girelim -> Stoğa İşle diyerek stoklarımıza işleyerek sayım girişimizi tamamlayalım.
 
 **Soru:** Elimde tek bir ürün farkı var bunu nasıl işleyeceğim ?
 
@@ -200,7 +206,7 @@ Gelişmiş kısmında GTIP alana stok kartına ait GTIP kodumuzu girmemiz gerekm
 
 **Cevap:** İhraç kayıtlı fatura keserken KDV oranının sıfır olmasının nedeni vergi muafiyet durumunun olmasıdır.
 Bu durumda KDV oranımızı eski haline getirerek yani; kalem stoğu için ihraç kayıtlı fatura oluşturacağız KDV oranı:%20 bunu yazalım.
-Stok kartında vergi KDV sıfırlayarak, değil muafiyetini belirteceğiz.
+Stok kartında vergi KDV sıfırlayarak değil vergi muafiyetini belirteceğiz.
 Daha sonrasında; üç işlem butonu -> Tüm kalemlerde değiştir -> Vergi Muafiyeti seçeneğimizi aktif ederek - 11/1-a Mal İhracatı (301) ->
 Vergileri Yenile seçeneğini de aktif edelim -> Kaydet diyelim -> Gerekli bilgiler tamamlandıktan sonra faturanın kontrollerini sağlayalım.
 Fatura kalemlerinin tutarını, toplam tutarını kontrol edelim, fatura tipi: İhraç Kayıtlı olmadına dikkat edelim, kontrollerimizi sağladıktan sonra faturamızı gönderebiliriz. 
@@ -389,6 +395,32 @@ Satın alma iade faturası kesmek için;
 **Soru:** Karşı taraf fatura kesemiyor e-posta da hata veriyor ne yapmamız gerekiyor ?
 
 **Cevap:** Karşı taraf sovosla görüşmeli sovos'a geçtiklerinin tanımını yapmaları gerekiyor.
+
+**Soru:** Alış-satış faturalarımı son 3 aylık şekilde görüntüleyerek vergi detaylı raporlamak istiyorum, nereden bakabilirim ? 
+
+**Cevap:** Rapor kısmında arama butonuna fatura yazarak ya da Rapor -> Fatura/İrsaliye -> Hareket şeklinde; üç farklı vergi detaylı rapora ulaşım sağlayabiliriz.
+
+Fatura-İrsaliye Listesi Vergi Detaylı; Bu rapordan faturaların vergi numaralarını, KDV Matrah, KDV tutarları, tevkifat ve oranları, tutar detayları görüntülenir.  
+
+Fatura-İrsaliye Listesi Vergi Detaylı Pivot; Bu pivot tablosunun veya analizinin vergi ile ilgili bilgileri detaylı bir şekilde içermesi anlamına gelir.
+ 	 	 	
+Fatura-İrsaliye Satırları Listesi Vergi Detaylı; Bu raporda fatura ve irsaliyelerin satır bazlı vergi detayları görüntülenmektedir.
+
+Raporlarda istediğimiz özelliklere göre filtreleme yapabiliriz. 
+Hareket türüne, giriş veya çıkışa, belirli tarih aralıklarına ve tutarlara göre filtreler uygulayarak istediğimiz detaylara kolayca ulaşabiliriz.
+
+**Soru:** Kur farkı faturası karşı taraftan kesildi. Bu kur farkı faturasını nasıl işleyeceğiz ?
+
+**Cevap:** Kur farkı faturaları, genellikle Türkiye'de döviz ile yapılan alışverişlerde ödeme zaman dilimindeki farklılıklardan kaynaklanır. 
+Bu durum sonucunda karşılıklı olarak kur farkı faturası kesilmektedir. 
+Karşı taraf bize fatura kestiğinde;
+Satın Alma -> Alış Faturası -> Fatura tarihini girelim -> Carimizi seçelim -> Döviz türünü seçelim -> Kaydet ->
+Fatura ekranım açıldıktan sonra tekrar kaydet diyelim -> Üç İşlem Butonunu seçelim -> Kur Farkı Faturası olarak işlensin -> Düzenleme -> Kaleme gelelim ->
+GelirGider -> Kart Adı: Kur Farkı Gideri -> Tutar: Kur Farkı Faturasının tutarını girelim (Bu kısımda döviz ve türk lirası alanı mevcut ₺ karşılığına tutar giriniz) -> Kaydet
+diyerek kur farkı faturası kesme işlemimizi tamamlayalım.
+Kur farkı faturaları genellikle türk lirası bazında yapılmaktadır.
+
+
 
 ## Diğer
 
