@@ -7,7 +7,8 @@
 
 ## Programda Bulunan Temel Modüller
 
-Aaro'da tüm modüller birbirleriyle entegre olarak çalışmaktadır. Modüllerin içerisinden diğer modüllere rahat bir şekilde ulaşım sağlayabilirsiniz. Modül ayrımı kavramsal olarak anlamayı kolaylaştırmak içindir. Örneğin, Kasa Modülünde yapacağınız bir nakit tahsilat otomatik olarak Müşteri / Satıcı modülüne de işlenmektedir.
+Aaro'da tüm modüller birbirleriyle entegre olarak çalışmaktadır. Modüllerin içerisinden diğer modüllere rahat bir şekilde ulaşım sağlayabilirsiniz. Modül ayrımı kavramsal olarak anlamayı kolaylaştırmak içindir.   
+Örneğin, Kasa Modülünde yapacağınız bir nakit tahsilat otomatik olarak Müşteri / Satıcı modülüne de işlenmektedir.
 
 Aşağıda bulunan modül linklerini inceleyerek modüller hakkında detaylı bilgiye sahip olabilirsiniz.
 
@@ -79,14 +80,18 @@ Personel modülü sayesinde işletmenizde çalışan personelleri ve onların ç
 
 ## Aaro Yazılım Hakkında
 
-Aaro Yazılım, işletmeler için özelleştirilebilir ve kullanıcı dostu ERP çözümleri sunan bir yazılım şirketidir. Müşterilerimize iş süreçlerini optimize etmelerine yardımcı olmak için kapsamlı bir ürün yelpazesi sunuyoruz.
+Aaro Yazılım, işletmeler için özelleştirilebilir ve kullanıcı dostu ERP çözümleri sunan bir yazılım şirketidir.
+
+Müşterilerimize iş süreçlerini optimize etmelerine yardımcı olmak için kapsamlı bir ürün yelpazesi sunuyoruz.
 
 Web sitemizi ziyaret ederek daha fazla bilgi edinebilirsiniz: 
 [aaro.com.tr](https://www.aaro.com.tr)
 
 ## Katkıda Bulunma
 
-Eğer herhangi bir hata bulursanız veya dokümantasyonda iyileştirmeler yapmak isterseniz, lütfen bir pull request açın. Katkılarınızı bekliyoruz!
+herhangi bir hata bulursanız veya dokümantasyonda iyileştirmeler yapmak isterseniz, lütfen bir **Pull Request** açın. 
+
+Katkılarınızı bekliyoruz!
 
 ## Lisans
 

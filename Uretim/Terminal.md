@@ -1,115 +1,119 @@
 
 # Canlı Üretim Terminali 
 
-Canlı üretim terminaliyle üretim anındaki süreçlerini detaylı olarak izleyebilirsiniz.
-Operatörler, işçiler ve yöneticiler, üretim süreçlerini terminal üzerinden takip edebilir ve gerekirse müdahale edebilirler.
-Üretime başlandığı an sistem üzerinden başladıklarını işaretlemeli, mola verdiklerinde mola nedeni ile birlikte mola detaylarını girmeli ve işlem bittiğinde bitirmelidir.
-Personel bitiri seçtiğinde işlemi canlı takipte göremeyiz, işlem yapılma aşamasında canlı görüntülenmektedir.
-Üretim bittiği andan itibaren canlı üretimden takip edemeyiz.
-Biten işlemler için; Üretim -> Listeler -> Üretim Hareketleri Listesinden görüntüleyebiliriz.
+Canlı üretim terminali ile üretim anındaki süreçleri detaylı olarak izleyebilirsiniz. Operatörler, işçiler ve yöneticiler, üretim süreçlerini terminal üzerinden takip edebilir ve gerektiğinde müdahale edebilirler.
 
-İlk işlem olarak bir terminal kullanıcısı eklememiz gerekmektedir.
+- Üretime başlandığında, sistem üzerinden "başla" seçeneği işaretlenmelidir.  
+- Mola verildiğinde, mola nedeni ve detayları girilmelidir.
+- İşlem bittiğinde, "bitir" seçeneği ile işlem sonlandırılmalıdır.  
+- Personel "bitir" seçeneğini seçtiğinde, işlem canlı takipte görünmez. Canlı görüntüleme yalnızca işlem devam ederken mümkündür.   
+Üretim tamamlandığında ise canlı takip sona erer.
 
-- [Terminal Kullanıcı Ekleme](../Uretim/TerminalKullaniciEkleme.md), kullanıcımızı tanımlayarak terminal sistemine erişimimiz başlayacaktır.
-- Üretim terminaline kullanıcımızı tanımladıktan sonra terminal sistemine giriş yapabiliriz.
-- https://erp.aaro.com.tr/ adresini açınız, üretim terminali kullancınızı ve şifrenizi giriniz. (Aaro hesabı yazan yerde ki mail ile giriş yapabilirsiniz. ayse@aaro.com.tr)
-	Aaro açık olan tarayıcımızdan bu sayfaya erişim sağlayamayız. Terminal ve kullanıcı sayfasını aynı anda kullanmak istiyorsak farklı bir tarayıcıdan giriş yapmamız gerekmektedir.
-- Terminal sistemini aktif kullanabilmemiz için [Operasyon Makine Eşleştirme](../Uretim/OperasyonMakineEslestirme.md) gerekmektedir. 
-	Reçeteleri eşleştirip işlem yapabilmemiz için eşleştirme yapmamız gerekmektedir.
-	Makinenin işlemleri eşleştirip tanımladıktan sonra,
-- Terminal sisteminin çalışması için, terminal ile makine eşleştirmemişse makineyi kullanıcı ile eşleştirme yapmamız gerekmektedir. 
-- Terminal ile makineyi eşleştirdiğimizde, terminal sistemimizde makine ve yapılacak operasyon aktif olacaktır. 
-- Terminal sisteminde hangi makineyi kullanacaksak aaro logosunun altında bulunan makinelerden seçim yapabiliriz ya da kullanıcı bilgilerimizden makine seçemimizi gerçekleştirebiliriz.
-- Makine terminal sisteminde aktif olduktan sonra canlı üretim terminal kısmımıza geçebiliriz.
-- Terminali açınız, işlem yapacağınız makineyi seçiniz.
+Biten işlemler, *Üretim -> Listeler -> Üretim Hareketleri Listesi* üzerinden görüntülenebilir.
 
-- Terminal sistemine giriş yaptığımızda bizi karşılayan ekranda;
+İlk adım olarak, bir terminal kullanıcısı eklememiz gerekmektedir.
 
-	**Devam Eden İş Emri**
-		Burada yarım kalan, devam etmemiz gereken işlerimizi görüntülenir.
-		Devam etmek istediğimiz işi seçerek canlı üretim terminalimize başlayabiliriz.
+Terminal Kullanıcı Ekleme adımlarını izleyip kullanıcıyı tanımladıktan sonra terminal sistemine erişimimiz başlayacaktır.   
+Üretim terminaline kullanıcıyı tanımladıktan sonra terminal sistemine giriş yapabilirsiniz.  
 
-	**Üretim Planı**
-		Burada otomatik planlanan ya da yapmış olduğumuz planlamalar görüntülenir.
-		İşleme başlayacağımız operasyonu seçerek işleme başlayabiliriz.
-		Başlangıç Tarihi, Bitişi Tarihi, Aktiflik, Sipariş Hareket, Stok, İş emri seçeneklerinden filtrelemeler yaparak istediğimiz verilere kolayca ulaşabiliriz.
+- https://erp.aaro.com.tr/ adresini açınız, üretim terminali kullanıcı adınızı ve şifrenizi giriniz. (Aaro hesabı kısmına, örneğin ayse@aaro.com.tr e-posta adresiniz ile giriş yapabilirsiniz.)  
+Aaro açık olan bir tarayıcıdan bu sayfaya erişim sağlanamaz.     Terminal ve kullanıcı sayfasını aynı anda kullanmak için farklı bir tarayıcıdan giriş yapmanız gerekmektedir.  
+- Terminal sistemini aktif kullanabilmek için Operasyon Makine Eşleştirme işleminin yapılması gerekmektedir.  
+Reçeteleri işleyebilmek için makine işlemlerini eşleştirip tanımlamanız gerekmektedir.  
+- Terminal sisteminin çalışması için, makineyi kullanıcı ile eşleştirmeniz gerekir. Makine ve operasyon eşleştirmesi yapıldığında, terminal sisteminde makine ve yapılacak işlem aktif hale gelecektir.  
+- Terminal sisteminde kullanacağınız makineyi seçmek için, ekranın altında bulunan makinelerden seçim yapabilir veya kullanıcı bilgileriniz üzerinden makine seçimi gerçekleştirebilirsiniz.  
+- Makine terminal sisteminde aktif olduktan sonra canlı üretim terminaline geçebilirsiniz.   Terminali açın ve işlem yapacağınız makineyi seçin. 
 
-	**Üretim Hareketleri**
-		Burada yapmış olduğumuz operasyonları görüntülenir.
-		İstediğimiz aralıkları seçerek filtreleme yapabiliriz.
-		Personel, Sipariş hareket, Stok, İş emri, Operasyon, Makine, Reçete, Son Operasyon Mu. seçeneklerinden filtrelemeler yaparak istediğimiz verilere kolayca ulaşabiliriz.
+Terminal sistemine giriş yaptığınızda sizi karşılayan ekranda şu bölüm yer alır:
 
-- Üretim yapılacak iş emrini seçtikten sonra üretim hareketi sayfamız açılacaktır. Açılan ekranda;
-	**Hazırlık Başlat** Makinenin ısınmasını beklediğimiz zaman diliminde ya da üretim hazırlık aşamlarına başladığımızda burayı aktif etmemiz gerekmektedir.
-	**Üretim Başlat** Hazırlık aşamamız bittikten sonra üretimi başlat aşamasına geçebiliriz.
-		**Durakla** Makine arıza verdiğinde ya da duraklamamız gereken bir durum olduğunda duraklaya basarak durma eylemimizi aktif bir şekilde işlemiş olmaktayız.
-			Bu butona bastığımızda neden ekranı karşılamaktadır. Durma nedemizi buraya girmemiz gerekmektedir makine arızalandı gibi detayları belirtmemiz gerekmektedir.
-		**Mola Ver**
-			Bu butonu seçtiğimizde üretim süresi sayma durar. 
-			Mola verdiğimiz zaman burayı işaretlememiz gerekmektedir. Kaç dk sürdüğünü sistem otomatik hesaplar.
-			Devam et dediğimizde süre, üretim süresininden devam eder. 
-		**Bitir**
-			Bu butona bastığımızda üretim hareket ekranı açılacaktır; 
-			Bu ekran üzerinde, üretim hareketlerinde sisteme kaydedilenden farklı bir işlem gerçekleştiğinde müdahale edebilirsiniz. 
-			Örneğin makine saatte 10 adet ürün olacak şekilde tanımlı fakat biz yavaş üretimden kaynaklı saatte 8 adet ürün çıkardık buradan verileri güncelleyebiliriz.
-			Makine saatte 10 adet ürün olacak şekilde tanımlıyken makine saatte 11 adet üretim yaptı aynı şekilde mamül miktarını değiştirebiliriz.
-			Bir başka senaryoda ise, hammadde kullanımı tanımlandığı miktarın üzerine çıkmış ya da daha az kullanılmış olabilir. Bu durumda, hammadde miktarını güncelleyebilirsiniz. 
-			Operasyon sırasında çalışan personel bilgilerini de operasyon ekranından ekleyebilirsiniz.O operasyonda çalışan personelleri, personel listesinden eklemesini yapabiliriz.
-			Üretim süreçlerindeki saatlerin yanlış kaydedilmiş veya eksik olduğunu fark ederseniz, bu bilgileri güncelleyebilirsiniz.
-			Üretimde bir duraklama olmuşsa, duraklama nedenini bu ekrandan girebilirsiniz. 
-			Ek olarak, operasyona ait açıklamaları üretim açıklama kısmına ekleyebilirsiniz. 
-			Bu sayede üretim süreçlerinin daha doğru ve verimli bir şekilde yönetilmesi sağlanır.
+### Devam Eden İş Emri:
 
-			Gelişmiş -> Atlandı: Terminal ekranında atlamak, üretim sürecinde belirli bir adıma geçişi ifade eder. 
-			Örneğin, bir üretim işçisi veya yönetici, ürünlerin üretim aşamalarını takip ederken, terminal ekranında belirli bir aşamadan diğerine geçişi için kullanım sağlar.
-			Üretim aşamasının atlandığını veya tamamlandığını göstermek için kullanılır.
+Burada, yarım kalmış ve devam etmeniz gereken iş emirleri görüntülenir.
+Devam etmek istediğiniz işi seçerek canlı üretim terminalini başlatabilirsiniz.
 
-Verileri kontrol ettikten sonra kaydet butonuna basarak üretim operasyonu kaydet işlemini tamamlayabilirsiniz.
+### Üretim Planı
+
+Bu bölümde, otomatik olarak planlanan veya yaptığımız üretim planlamalarını görüntüleyebiliriz. İşleme başlamak istediğimiz operasyonu seçerek işleme başlayabiliriz.
+
+Başlangıç Tarihi, Bitiş Tarihi, Aktiflik, Sipariş Hareketi, Stok, İş Emri gibi seçeneklerle filtreleme yaparak istediğimiz verilere kolayca ulaşabiliriz.
+
+### Üretim Hareketleri
+
+Bu bölümde, gerçekleştirdiğimiz tüm operasyonları görüntüleyebiliriz.
+
+İstediğimiz tarih aralıklarını seçerek filtreleme yapabiliriz.
+Personel, Sipariş Hareketi, Stok, İş Emri, Operasyon, Makine, Reçete, Son Operasyon Mu gibi filtreleme seçenekleri ile ihtiyacımız olan verilere kolayca ulaşabiliriz.
+
+
+-Üretim yapılacak iş emrini seçtikten sonra üretim hareketi sayfası açılacaktır. Açılan ekranda:
+
+**Hazırlık Başlat:** Makinenin ısınmasını beklediğinizde ya da üretim hazırlık aşamalarına başladığınızda bu butonu aktif hale getirmeniz gerekir.
+
+**Üretim Başlat:** Hazırlık aşaması tamamlandıktan sonra, üretimi başlatabilirsiniz.
+
+**Durakla:** Makine arıza verdiğinde ya da duraklamanız gereken bir durum olduğunda bu butona basarak durma işlemini aktif hale getirmiş olursunuz. Bu butona bastığınızda bir neden ekranı çıkar; durma nedeninizi (örneğin, makine arızası gibi) girmeniz gerekmektedir.
+
+**Mola Ver:** Bu butonu seçtiğinizde üretim süresi sayımı durur. Mola verdiğinizde burayı işaretleyip, sürenin kaç dakika olduğunu sistem otomatik olarak hesaplar. Devam et dediğinizde, süre üretim süresinden kaldığı yerden devam eder.
+
+**Bitir:** Bu butona bastığınızda üretim hareket ekranı açılır. Bu ekranda, üretim hareketlerinde sisteme kaydedilenden farklı bir işlem gerçekleştiyse müdahale edebilirsiniz.
+
+Örneğin, makine saatte 10 ürün üretecek şekilde tanımlanmış, fakat siz saatte 8 ürün üretmişseniz, buradan verileri güncelleyebilirsiniz.  
+Aynı şekilde, makine saatte 11 ürün üretmişse mamul miktarını da değiştirebilirsiniz. 
+
+-Ham madde kullanımı, tanımlanan miktarın üzerinde ya da altında gerçekleşmişse, ham madde miktarını buradan güncelleyebilirsiniz.  
+-Operasyon sırasında çalışan personellerin bilgilerini de ekleyebilirsiniz. Personel listesinden o operasyonda çalışanları seçerek işlem yapabilirsiniz.  
+-Üretim süreçlerindeki saatlerde yanlışlık veya eksiklik fark ederseniz, bu bilgileri de güncelleyebilirsiniz.  
+-Üretim sırasında duraklama olmuşsa, duraklama nedenini bu ekrandan girebilirsiniz.  
+-Operasyona ait açıklamaları da Üretim Açıklama kısmına ekleyebilirsiniz. Bu sayede üretim süreçlerinin daha doğru ve verimli bir şekilde yönetilmesi sağlanır.  
+-Gelişmiş -> Atlandı: Terminal ekranında "atlamak", üretim sürecinde belirli bir aşamadan diğerine geçişi ifade eder. Örneğin, bir işçi veya yönetici, üretim aşamalarını takip ederken, belirli bir adımdan diğerine geçmek için bu özelliği kullanabilir. Üretim aşamasının atlandığını ya da tamamlandığını göstermek için tercih edilir.
+
+Verileri kontrol ettikten sonra *Kaydet* butonuna basarak üretim operasyonu *Kaydet* işlemini tamamlayabilirsiniz.
 
 ## Terminal Kullanıcı Ekleme 
 
-Canlı üretim terminal sisteminde üretim anında gerçekleşen herşeyi gerçek zamanlı sistemde verilerin aktarılmasıdır. 
-Operasyon başladığında başla, mola verildiğinde mola verildi, durulduğunda durma ve işlem bittiğinde bitti butonlarına basarak sürelerin hesaplanması,
-anlık verilerin canlı üretim sisteminde görüntülenmesine yardımcı olarak daha hızlı planlamalar işin, siparişlerin durumuyla ilgili hızlı veriler elde edilir. 
+Canlı üretim terminal sistemi, üretim anında gerçekleşen tüm işlemlerin gerçek zamanlı olarak sisteme aktarılmasını sağlar.
+
+Operasyon başladığında "başla" butonuna,  
+Mola verildiğinde "mola verildi" butonuna,  
+Durma gerçekleştiğinde "durma" butonuna,  
+İşlem bittiğinde "bitti" butonuna
+ basılarak sürelerin hesaplanması sağlanır.
+Bu sistem, anlık verilerin canlı olarak görüntülenmesine yardımcı olur ve daha hızlı planlamalar yapılmasına, işin ve siparişlerin durumu hakkında hızlı veriler elde edilmesine olanak tanır. 
 
 ### Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "terminal" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Ayarlar -> Kartlar -> Terminal Kullanıcı Listesi -> Yeni Terminal Ekle şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "terminal" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *Ayarlar -> Kartlar -> Terminal Kullanıcı Listesi -> Yeni Terminal Ekle* şeklinde ulaşım sağlayabilirsiniz.
 
 #### Genel 
 
-**Kullanıcı Kodu** Kullanıcıya ait koddur. Bu kod ile oturum açılır.
+**Kullanıcı Kodu:** Kullanıcıya ait koddur ve bu kod ile oturum açılır.
 
-**Kullanıcı Adı** Kullanıcının adını giriniz.
+**Kullanıcı Adı:** Kullanıcının adını giriniz.
 
-**Aaro Hesabı** Oturum açma hesap bilgilerini belirtir. Sisteme girdiğiniz her adın yanına sistem @aaro.com.tr atar. 
-	Örn;ayse yazdık sistem kullanıcı girişi için bize otomatik ayse@aaro.com.tr adresini verdi bu adres ile giriş sağlayacağız.
+**Aaro Hesabı:** Oturum açma hesap bilgilerini belirtir. Sisteme girdiğiniz her adın yanına sistem otomatik olarak "@aaro.com.tr" ekler.
 
-**Telefon** Kullacının telefon numarası girilmelidir. İkinci güvenli ve şifre sıfırlama işlemleri için gereklidir.
+Örneğin: "ayse" yazdığınızda, sistem otomatik olarak "ayse@aaro.com.tr" adresini verir ve bu adres ile giriş yapabilirsiniz.   
+Telefon: Kullanıcının telefon numarasını giriniz. Bu numara, ikinci güvenlik adımı ve şifre sıfırlama işlemleri için gereklidir.
 
-**e-Posta** Kullanıcın kullandığı e-Postayı giriniz.
+**e-Posta:** Kullanıcının kullandığı e-posta adresini giriniz.
 
-**Şifre** Kullanıcı girişinizi yapabilmek için şifre belirleyiniz. 8 karakterden fazla olmalıdır.
+**Şifre:** Kullanıcı girişi için şifre belirleyiniz. Şifreniz 8 karakterden uzun olmalıdır.
 
-**Makine** Kullanıcının erişim sağlacağı makineyi ekleyiniz.
+**Makine:** Kullanıcının erişim sağlayacağı makineyi ekleyiniz.
 
-**Etiketler:** Gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
+**Etiketler:** Kullanıcıları gruplamak için kullanılır. Detaylı bilgi için Etiketler linkine tıklayınız.
 
-#### Yetkiler 
+### Yetkiler 
 
-**Oturum Açma Yetkisi** Kullacının oturum açabileceği Şirket-Şubeyi belirtir.
+**Oturum Açma Yetkisi:** Kullanıcının oturum açabileceği Şirket ve Şubeyi belirtir.
 
-#### Oturum Açma Saatleri
+**Oturum Açma Saatleri:**
+Vardiyalı çalışan yerlerde, başka bir kullanıcının başkası adına işlem yapmaması için güvenlik amacıyla çalışma saatleri belirtilir. Kullanıcının başlangıç ve bitiş saatlerini buradan ayarlayabilirsiniz.
 
-Vardiyalı çalışma yapan yerlerde başka bir kullancının başkası adına işlem yapmaması için güvenlik amaçlı çalışma saatleri belirtilir.
-Kulalnıcının çalışma saaatlerini başlangıç ve bitiş olarak saatlerini girebilirsiniz.
+**Gelişmiş:**
+Kullanıcının aktif ya da pasif durumunu bu bölümden seçebilirsiniz.
 
-#### Gelişmiş
+*Kaydet* butonuna basarak kullanıcı tanımlama işlemini tamamlayabilirsiniz.
 
-Kullanıcının aktif ya da pasiflik durumunu buradan seçebilirsiniz. 
-
-**Kaydet butonuna basarak kullanıcı tanımlama işlemini gerçekleştirebilirsiniz.**
-
-
-Kullanıcıya bir kaç makineye bakacak ise ya da başka makinede işlem yapacaksa terminal kullanıcısı ile makine eşleştirmesi yapılmalıdır.
+Eğer kullanıcı birden fazla makineden sorumluysa veya başka bir makinede işlem yapacaksa, terminal kullanıcısı ile makine arasında eşleştirme yapılmalıdır.

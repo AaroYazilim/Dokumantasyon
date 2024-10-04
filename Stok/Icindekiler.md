@@ -14,10 +14,10 @@ Düzenli tutmanız hareket takibi yapabilmeniz için çok önemlidir.
 işletmenizin satın alma, üretim ve satış süreçlerini yönetirken stoklarını etkin bir şekilde izleyebilir ve kontrol edebilirsiniz.
 
 - İşletmenizin sahip olduğu tüm ürünlerin detaylı kayıtlarını tutar. Ürün adı, kodu, birim fiyatı, stok miktarı gibi bilgileri içerir.
-- Stok modülü; stoklara giren ve stoklardan çıkan tüm işlemlerinizi izleyebilir. Satın alma siparişleri, satış siparişleri, üretim işlemleri gibi işlemleri içerir.
-- Stok seviyelerini takip eder ve stokta bulunan ürün miktarınızı gösterir. Böylece işletmenin stok ihtiyaçlarının belirlenmesine ve gerektiğinde yeni siparişler verilmesine yardımcı olur.
+- Stok modülü; stoklara giren ve stoklardan çıkan tüm işlemlerinizi izleyebilir. Satın alma siparişleri, satış siparişleri, üretim gibi işlemleri içerir.
+- Stok seviyelerini takip eder ve stokta bulunan ürün miktarınızı gösterir. Böylece işletmenizin stok ihtiyaçlarının belirlenmesine ve gerektiğinde yeni siparişler verilmesine yardımcı olur.
 - İşletmenizin stoklarının durumu hakkında detaylı raporlar sunar. Bu raporlar; stok miktarları, stok değerleri, hareketler ve varsa stok eksiklikleri gibi bilgileri içerir.
-- Stoklarınızın maliyetini ve değerini hesaplar. Bu şekilde; işletmenizin, stoklarının maliyetini doğru bir şekilde belirlemesine ve envanter değerini izlemesine yardımcı olur.
+- Stoklarınızın maliyetini ve değerini hesaplar. Bu şekilde; işletmenizin stoklarının maliyetini doğru bir şekilde belirlemesine ve envanter değerini izlemesine yardımcı olur.
 - Stok modülü, stok hareketlerini izlerken aynı zamanda stok trendlerini analiz etme imkanı sağlar. Böylece işletmenizin, stok yönetimini optimize etmesine ve israfı önlemesine yardımcı olur.
 
 
@@ -58,7 +58,7 @@ Bu modül; doğru stok seviyelerinizi korumak, müşteri taleplerinize zamanınd
 
 - Diğer Raporlar
 	- Barkod Basım Listesi
-	- Belge Satırları Gurup Gösterimi
+	- Belge Satırları Grup Gösterimi
 	- Stok Özet
 
 - Fiyat Raporları
@@ -74,16 +74,16 @@ Bu modül; doğru stok seviyelerinizi korumak, müşteri taleplerinize zamanınd
 	- Stok Hareketleri (Etiket Detaylı)
 	- Stok Hareketleri (Kod Detaylı)
 	- Stok Hareketleri (Plasiyer,Oluşturan, Değiştiren)
-	- Stok HareketleriDövizli	
-	- StokHareketleri(Acıklamalar)
+	- Stok Hareketleri Dövizli	
+	- Stok Hareketleri(Açıklamalar)
 
 - Kart Listeleri Raporları
-	- Stok Kart Etiket Lİstesi
-	- Stok Kart Kod Lİstesi		
-	- Stok Kart Lİstesi 1	
-	- Stok Kart Lİstesi 2	
-	- Stok Kart Lİstesi 3	
-	- Stok Kart Lİstesi 4	
+	- Stok Kart Etiket Listesi
+	- Stok Kart Kod Listesi		
+	- Stok Kart Listesi 1	
+	- Stok Kart Listesi 2	
+	- Stok Kart Listesi 3	
+	- Stok Kart Listesi 4	
 	- Stok Muhasbe Kart Listesi2
 	- Stok Muhasebe Kart Listesi
 
@@ -100,32 +100,32 @@ Bu modül; doğru stok seviyelerinizi korumak, müşteri taleplerinize zamanınd
 	- Stok Hareketleri Aylık Ortalama Dövizli Tutar Toplamı
 	- Stok Hareketleri Miktar Toplamları (Grafik) (Tarihe göre Gurplu)
 	- Stok Hareketleri Miktar Toplamları (StokAdına göre Gruplu)
-	- Stok Hareketleri Miktar Toplamları (Tarihe göre Gurplu)
-	- Stok Hareketleri Miktar Toplamları 2 (Grafik) (Tarihe göre Gurplu)
-	- Stok Hareketleri Miktar Toplamları 2 (Tarihe göre Gurplu)
-	- Stok Hareketleri Tutar Toplamları (Tarihe göre Gurplu)
-	- Stok Hareketleri Tutar Toplamları (Grafik) (Tarihe göre Gurplu)
-	- Stok Hareketleri Tutar Toplamları 2 (Tarihe göre Gurplu)
-	- Stok Hareketleri Tutar Toplamları 2 (Grafik) (Tarihe göre Gurplu)
+	- Stok Hareketleri Miktar Toplamları (Tarihe göre Gruplu)
+	- Stok Hareketleri Miktar Toplamları 2 (Grafik) (Tarihe göre Gruplu)
+	- Stok Hareketleri Miktar Toplamları 2 (Tarihe göre Gruplu)
+	- Stok Hareketleri Tutar Toplamları (Tarihe göre Gruplu)
+	- Stok Hareketleri Tutar Toplamları (Grafik) (Tarihe göre Gruplu)
+	- Stok Hareketleri Tutar Toplamları 2 (Tarihe göre Gruplu)
+	- Stok Hareketleri Tutar Toplamları 2 (Grafik) (Tarihe göre Gruplu)
 
 
-### Parametreleri
+### Parametreler
 
 - Fiyat Parametreleri
-	- FiyatListesi_StokHareketlerindeZorunluSatis (Fiyat): Stok hareketlerine Satış işlemleri için kayıt atılırken fiyatın fiyat listesinden gelme zorunlulugunu ayarlar.
-	- FiyatListesi_StokHareketlerindeZorunluAlis (Fiyat): Stok hareketlerine Alış işlemleri için kayıt atılırken fiyatın fiyat listesinden gelme zorunlulugunu ayarlar.
+	- FiyatListesi_StokHareketlerindeZorunluSatis (Fiyat): Stok hareketlerine Satış işlemleri için kayıt atılırken fiyatın fiyat listesinden gelme zorunluluğunu ayarlar.
+	- FiyatListesi_StokHareketlerindeZorunluAlis (Fiyat): Stok hareketlerine Alış işlemleri için kayıt atılırken fiyatın fiyat listesinden gelme zorunluluğunu ayarlar.
 
 - Stok Parametreleri
-	- Genel_StokMiktarHaneSayisi (Genel): Stok Miktarı girilirken kaç hane gösterileceğini ve girilebileceğini belirtir. Maksimum 6 minimum 1 girilebilir.
-	- Genel_BayiTumDepolardakiStokBakiyeleriniGorsun (Genel): Bayilerinizin sadece kendilerine tanımlanmış Şirketin, Şube ve deponun değil tüm depolardaki stok miktar toplamını görmesini sağlar. Görmesini istiyorsanız -Evet- olarak kaydedin
+	- Genel_StokMiktarHaneSayisi (Genel): Stok Miktarı girilirken kaç hane gösterileceğini ve girilebileceğini belirtir. Maksimum 6, minimum 1 karakter girilebilir.
+	- Genel_BayiTumDepolardakiStokBakiyeleriniGorsun (Genel): Bayilerinizin sadece kendilerine tanımlanmış Şirketin, Şube ve deponun değil tüm depolardaki stok miktar toplamını görmesini sağlar. Görmesini istiyorsanız *Evet* olarak kaydedin
 	- Genel_StokKartKoduOtomatikUzunluk (Genel): Stok Kartların kodunun otomatik kaç hane olacağını belirtir. Ön Değeri:15
-	- EksiBakiyeKontrolu (Stok Kartı): Stok bakiyelerinin eksiye düşemiyeceğini tanımlar.
+	- EksiBakiyeKontrolu (Stok Kartı): Stok bakiyelerinin eksiye düşmesini engeller.
 	- SayimFarkiniIslemeGelirGiderHesabi (Stok Kartı): Yapılan sayımın işlendikten sonra kalan bakiyenin hangi hesaba atılacağını belirler.
-	- Stok_StandartMuhasebe (Stok Kartı): Stok-Demirbaş-GelirGider rehberlerindeki hızlı kaydet seçeneği kullanılacağı zaman tüm hızlı kayıtlar burada belirtilen stok muhasebesi kodu ile kaydedilir.
-	- Stok_StandartVergi (Stok Vergi Tanımı): Stok-Demirbaş-GelirGider rehberlerindeki hızlı kaydet seçeneği kullanılacağı zaman tüm hızlı kayıtlar burada belirtilen vergi ile kaydedilir.
-	- Stok_StandartDepo (Depo Kartı): Stok-Demirbaş-GelirGider rehberlerindeki hızlı kaydet seçeneği kullanılacağı zaman tüm hızlı kayıtlar burada belirtilen depoya kaydedilir.
-	- Stok_StandartStokBrm1 (Ölçü Birimi): Stok-Demirbaş-GelirGider rehberlerindeki hızlı kaydet seçeneği kullanılacağı zaman tüm hızlı kayıtlar burada belirtilen ölçü birimi ile kaydedilir.
-	- Stok_RehberAdSekli (Stok Kartı): Stok Rehberinde Ad Görüntüleme şeklini belirtir. 1 Degeri girildiğinde 'Adı (Kodu)' şeklinde gözükür. 2 için 'Kodu Adi'. 3 için 'Barkodu Kodu Adı'. 4 için 'Adı (Kodu) Barkodu Kodlar Etiketler' şeklinde gözükür.
+	- Stok_StandartMuhasebe (Stok Kartı): Stok-Demirbaş-GelirGider rehberlerindeki hızlı *Kaydet* seçeneği kullanılacağı zaman tüm hızlı kayıtlar burada belirtilen stok muhasebesi kodu ile kaydedilir.
+	- Stok_StandartVergi (Stok Vergi Tanımı): Stok-Demirbaş-GelirGider rehberlerindeki hızlı *Kaydet* seçeneği kullanılacağı zaman tüm hızlı kayıtlar burada belirtilen vergi ile kaydedilir.
+	- Stok_StandartDepo (Depo Kartı): Stok-Demirbaş-GelirGider rehberlerindeki hızlı *Kaydet* seçeneği kullanılacağı zaman tüm hızlı kayıtlar burada belirtilen depoya kaydedilir.
+	- Stok_StandartStokBrm1 (Ölçü Birimi): Stok-Demirbaş-GelirGider rehberindeki hızlı *Kaydet* seçeneği kullanılacağı zaman tüm hızlı kayıtlar burada belirtilen ölçü birimi ile kaydedilir.
+	- Stok_RehberAdSekli (Stok Kartı): Stok Rehberinde Ad Görüntüleme şeklini belirtir. 1 Değeri girildiğinde 'Adı (Kodu)' şeklinde görünür. 2 için 'Kodu Adi'. 3 için 'Barkodu Kodu Adı'. 4 için 'Adı (Kodu) Barkodu Kodlar Etiketler' şeklinde gözükür.
 	- Stok_RehberBarkodluGiris (Stok Kartı): Stok Rehberinde hareket satırlarında sadece barkod ile seçim yapılabileceğini belirtir.
 	- Stok_OzetMaliyetFiyatTipi (Stok Kartı): Stok Rehberinde hareket satırlarında sadece barkod ile seçim yapılabileceğini belirtir.
 	- Stok_KartListesiMiktarDepoSiniri (Stok Kartı): Stok Kart Listesinde depo miktari getirilirken sadece bir deponun miktarinin getirilmesi istenirse bu parametre ile sınırlandırılabilir.

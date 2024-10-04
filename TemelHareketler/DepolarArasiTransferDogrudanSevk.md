@@ -9,9 +9,9 @@ SayfaTipi: Fatura
 
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "depo" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Stok -> Hareket Oluştur -> Diğerler -> Depolar Arası Transfer şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Satış & Pazarlama -> Hareket Oluştur -> Depoaar Arası Transfer şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "depo" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *Stok -> Hareket Oluştur -> Diğerleri -> Depolar Arası Transfer* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden *Satış & Pazarlama -> Hareket Oluştur -> Depoalar Arası Transfer* şeklinde ulaşım sağlayabilirsiniz. 
 
 ## Tanım
 
@@ -27,7 +27,7 @@ Bu yöntem, özellikle yüksek hacimli veya acil ihtiyaç duyulan ürünlerin ta
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir.
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 **Girilmesi Zorunludur.**
 
 **Vade:** Bu işlem için yapılması gereken süreyi ifade eder. 
@@ -42,32 +42,31 @@ Bu yöntem, özellikle yüksek hacimli veya acil ihtiyaç duyulan ürünlerin ta
 
 **Hedef Depo:** Transferin gerçekleşeceği depoyu ifade eder. Hangi depoya malzeme gönderimi yapılacak ise o depoyu seçelim.
 
-**Kaydet diyerek transeferi gerçekleşecek malzemeler için kalem ekleme ekranına geçerek kaydetme işlemimizi tamamlayabilirsiniz.**
+***Kaydet* diyerek transeferi gerçekleşecek malzemeler için kalem ekleme ekranına geçerek Kaydetme işleminizi tamamlayabilirsiniz.**
 
 ## Kalem Ekleme
 
-- Siparişten Kalem Ekle: Sipariş için depolar arası transfer yapmamız gerekirse, siparişten kalem seçerek kalem eklem işlemini gerçekleştirebiliriz.
+- Siparişten Kalem Ekle: Sipariş için depolar arası transfer yapmamız gerekirse, siparişten kalem seçerek kalem ekleme işlemini gerçekleştirebiliriz.
 
 - Sağ üst köşede depolar arası transfere ait toplam fiyat kısımlarını içerir;
 	- Toplam: Satış iade irsaliyesinin KDV hariç toplam tutarını içerir.
 
 ## Belge
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlardaki belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> Belgeyi seç
+-> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seçi- belgeyi ya da belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
 
 ## Kayıt Bilgileri
 
@@ -77,16 +76,16 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
 
-- Sayfanın sağ üstünde bulunan yazıcı sembolü ile sayfaya tanımlanan özel çıktı formatları ile farklı çıktılar alınabilir. 
+- Sayfanın sağ üstünde bulunan yazıcı sembolüyle sayfaya tanımlanan özel çıktı formatları ile farklı çıktılar alınabilir. 
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
 - Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel depolar arası transfer formu gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktı tasarımlarının  ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 ## Düzenleme 
@@ -95,21 +94,29 @@ Depolar arası transfer işlemimizde herhangi bir düzeltme ya da ekleme yapmak 
 
 ## Ek İşlemler
 
-Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Kopyala: Verilen teklifi kopyalamak için kullanılır.
 - Kur Güncelle: Kuru buradan güncelleyebiliriz.
-- Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
+- Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Depo Terminaline Aktar: 
-- Görev Oluştur: Teklif için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
+- Görev Oluştur: Teklif için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+- Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçip, *Kaydet* diyerek görevi bağlayabiliriz.
 - Siparişlerini Gör: 
-- Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
+- Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.
 
 # e-İrsaliye Gönderme
 
-- Oluşturduğumuz depolar arası transferi kontrol edelim.
+-Oluşturduğumuz depolar arası transferi kontrol edelim.
 - Senaryo: e-İrsaliye
 - Belge Tipi: Sevk
 - BelgeSeriNo: Seri No, Foriba tarafından otomatik olarak verilecektir.
@@ -121,8 +128,8 @@ Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme il
 - Kalem Açıklamalarını Gönder: Kalemlerde açıklama belirtmek istenilirse kutucuğu işaretleyerek açıklama ekleyebiliriz.
 - Stok Adı olarak Kalem Açıklamasını Kullan: Stok adı kalem açıklamasında kullanılmak istenilirse kutucuğu işaretleyebiliriz.
 - Not: İrsaliyeye ait açıklamayı belirtir.
-- Taşıyıcı VKN: Taşıyıcının firma ise vergi kimlik numarasını, şahıs ise tc girileceğini ifade eder.
-- Taşıyıcı Unvan: Taşıyıcı firma ise taşıyan kişinin ünvanı, şahıs ise adını girileceğini iafde eder.
+- Taşıyıcı VKN: Taşıyıcının firma ise vergi kimlik numarasını, şahıs ise TC Kimlik Numarasını ifade eder.
+- Taşıyıcı Unvan: Taşıyıcı firma ise taşıyan kişinin ünvanı, şahıs ise adını girileceğini ifade eder.
 - Plaka: Taşıma yapılan aracın plakasını ifade eder.
 
 **e-İrsaliye Önizle diyerek bilgilerimizi önizlemesi gerçekleşen irsaliyeyi kontrolünü sağlayalım, bilgilerimizi teyit edip doğruluğundan emin olduktan sonra e-İrsaliye Gönder diyerek işlemimizi tamamlayalım.**

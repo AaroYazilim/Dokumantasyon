@@ -9,9 +9,9 @@ SayfaTipi: Fatura
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "fatura" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Musteri/Satici -> Hareket Oluştur -> Satış Faturası şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Musteri/Satici -> Müşteri/Satıcı Hareketleri Listesi -> Yeni Hareket Ekle -> Satış Faturası şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "fatura" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Satış Faturası* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden *Musteri/Satici -> Müşteri/Satıcı Hareketleri Listesi -> Yeni Hareket Ekle -> Satış Faturası* şeklinde ulaşım sağlayabilirsiniz. 
 
 ### Tanım
 
@@ -22,12 +22,14 @@ Satıcı, KDV'yi tahsil etmez ve ihraç kayıtlı satışını belirli süreler 
 
 ## Aaro'da İhraç Kayıtlı Fatura Nasıl Kesilir ? 
 
-İhraç kayıtlı fatura kesme süreci, belirli kurallara ve adımlara göre yapılır. İşte ihraç kayıtlı fatura kesmenin aşamaları:
+İhraç kayıtlı fatura kesme süreci, belirli kurallara ve adımlara göre yapılır. 
+
+İşte ihraç kayıtlı fatura kesmenin aşamaları:
 - Alıcının Belirlenmesi: İhraç kayıtlı fatura, sadece ihracat yapan bir alıcıya kesilebilir. Bu alıcı, yurtdışına mal ihraç eden bir firma olmalıdır.
 - Gerekli İzinlerin Alınması: Satıcı, ihraç kayıtlı satış yapabilmek için vergi dairesinden gerekli izinleri almalıdır. 
 	Bu izinler genellikle KDV iadesi sürecinde kontrol edilir.
 - Faturanın Düzenlenmesi: Faturada "İhraç Kayıtlıdır" ibaresi açıkça belirtilmelidir.
-	Malın cinsi, miktarı, birim fiyatı, toplam tutarı ve KDV oranı (KDV'siz olarak) belirtilmelidir.
+	Malın cinsi, miktarı, birim fiyatı, toplam tutarı ve KDV Oranı (KDV'siz olarak) belirtilmelidir.
 	Faturada, ihracatın yapılacağı ülke, alıcının bilgileri ve gümrük beyannamesi numarası gibi ihracat detayları da yer almalıdır.
 - Gümrük Beyannamesi ve İhracat İşlemleri: Alıcı, satın aldığı malları ihracat işlemlerine tabi tutar ve gümrük beyannamesi düzenler.
 	İhracat işlemi tamamlandıktan sonra, alıcı bu işlemi belgelendirir ve satıcıya bildirir.
@@ -47,12 +49,27 @@ Bu adımlar, ihraç kayıtlı fatura kesmenin genel sürecini özetlemektedir.
 
 **Tarih:** İşlemin yapıldığı tarihi girelim. 
 
-**Belge No:** Sistemin otomatik vereceği atayacağı numarayı kullanabilir ya da belge bumarası girebiliriz.
+**Belge No:** Sistemin otomatik atayacağı numarayı kullanabilir ya da belge bumarası girebiliriz.
 
 **Müşteri:** İhracat faturamızı keseceğimiz firmayı seçelim. Kayıtlı değilse Detaylı ekle, Hızlı ekle seçenekleriyle kolayca cari ekleyebilirsiniz.
 
-**Döviz:** Bu banka hesabının çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
-Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
+**Döviz:**"Banka hesabının çalıştığı döviz cinsini belirtir. Türk lirası dışında bir döviz seçildiğinde, yalnızca o döviz cinsinden işlem yapılmasına izin verir. Banka hesabının bakiyesi, seçilen döviz cinsine göre takip edilir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Depo:** İhracat faturasını kestiğimiz ürünün hangi depodan temin edileceğini belirtir. 
 
@@ -70,11 +87,11 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 **Alt Tip:** Alt hareket tipini belirtir. [Alt Tip](../TemelOzellikler/AltTip.md)
 
-**Sözleşme:** İhracat faturamız hangi sözleşmeye ait olduğunu seçelim. [Sözleşme](../TemelOzellikler/Sozlesme.md)
+**Sözleşme:** İhracat faturamızın hangi sözleşmeye ait olduğunu seçelim. [Sözleşme](../TemelOzellikler/Sozlesme.md)
 
-**Proje:** İhracat faturamız hangi proje ait olduğunu seçelim. Kalemlerde değiştirilebilir. [Proje](../TemelOzellikler/Proje.md)
+**Proje:** İhracat faturamızın hangi proje ait olduğunu seçelim. Kalemlerde değiştirilebilir. [Proje](../TemelOzellikler/Proje.md)
 
-**Plasiyer:** İhracat faturamız hangi plasiyere ait olduğunu seçelim. Kalemlerde değiştirilebilir. [Plasiyer](../TemelOzellikler/Plasiyer.md)
+**Plasiyer:** İhracat faturamızın hangi plasiyere ait olduğunu seçelim. Kalemlerde değiştirilebilir. [Plasiyer](../TemelOzellikler/Plasiyer.md)
 
 **Cari Adres:** Hangi adrese gideceğini belirtir. Farklı adrese gönderilecekse seçilmelidir. Kalemlerde değiştirilebilir.
 
@@ -86,46 +103,46 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 ## Etiketler
 
-**Etiketler:** Bu işlemi gruplamak ve ileride gruplu rapor alabilmek için kullanılan hiyerarşik olmayan tanımlardır. Etiket kullanım detayları için linke tıklayınız. [Etiket](../TemelOzellikler/Etiket.md)
+**Etiketler:** Bu işlemi gruplamak ve sonrasında gruplu rapor alabilmek için kullanılan hiyerarşik olmayan tanımlardır. Etiket kullanım detayları için linke tıklayınız. [Etiket](../TemelOzellikler/Etiket.md)
 
 
-Gerekli bilgilerimizi doldurduktan sonra kaydet seçeneğine basalım.
+Gerekli bilgilerimizi doldurduktan sonra *Kaydet* seçeneğine basalım.
 
-Kalem stok ekleme ekranı çıkacak karşımıza;
+Karşımıza kalem stok ekleme ekranı çıkacaktır;
 
 İhracat yapacağımız ürünü seçelim, miktarını girelim;
 
 Kalemimizin hemen yanında büyüteç işaretine tıklayalım,
 
-Muafiyet eklememiz gerekmektedir, **Vergiler** kısmında KDV oranının altında **Muafiyet Ekle** linki yer almaktadır tıkladığımızda KDV Muafiyet seçeneği açılacaktır. 
+Muafiyet eklememiz gerekmektedir, **Vergiler** kısmında KDV Oranının altında **Muafiyet Ekle** linki yer almaktadır tıkladığımızda KDV Muafiyet seçeneği açılacaktır. 
 	3065 s. KDV Kanununun 11/1-c md. Kapsamındaki İhraç Kayıtlı Satış (701) muafiyetini seçelim.
 
-## Doldurmamız gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
+## Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
 
 - Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
-- Satış faturamızda satış yapacağımız işlem stok, gelir gider, demirbaş olabilir. En başta ki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
+- Satış faturamızda satış yapacağımız işlem stok, gelir gider, demirbaş olabilir. En baştaki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
 - Kart Adı: Stok, demirbaş ya da gelir gider satışını gerçekleştireceğimiz kartı belirtir.
 - Miktar: Satış yapacağımız stoğun miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
-- İskonto: Satışını yaptığımız işlemlerin iskonto oranını belirtir. Uyguladığımız iskonto var ise buraya oranı girebiliriz.
+- İskonto: Satışını yaptığımız işlemlerin iskonto oranını belirtir. Uyguladığımız bir iskonto var ise buraya oranı girebiliriz.
 - Net Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler hariç, sadece temel maliyetini ifade eden fiyatı belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
 - Tutar: Bir mal veya hizmetin toplam mali değerini ifade eden miktarı belirtir. 
-- KDV oran: KDV oranını ifade eder.
+- KDV Oran: KDV Oranını ifade eder.
 - Depo: Bu kalemin kullandığı depoyu belirtir.
 - Açıklama: Kaleme ait açıklamayı belirtir.
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 - Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 
-- Satış faturasında bir kalem belirtilecekse kaydet diyerek bir sonraki aşamaya geçebiliriz.
+- Satış faturasında bir kalem belirtilecekse *Kaydet* diyerek bir sonraki aşamaya geçebiliriz.
 - Başka kalemlerde mevcut ise yukarıda aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
-- Sağ üst köşede faturaya ait toplam fiyat kısımlarını içerir;
+- Sağ üst köşede faturaya ait toplam fiyat kısımları bulunur;
 	- Toplam: Satış faturasının KDV hariç toplam tutarını içerir.
 	- İskonto Sonrası: Satış faturasının KDV dahil fiyatından uygulanan iskonto tutarını ifade eder.
-	- KDV: Satış faturasının KDV oranının karşılık geldiği tutarı ifade eder.
+	- KDV: Satış faturasının KDV Oranının karşılık geldiği tutarı ifade eder.
 	- Genel Toplam: Satış faturasının tüm kalemlerin KDV dahil tutarının toplamını belirtir.
 
 ### Fatura Önizleme ve Gönderme
@@ -137,5 +154,5 @@ Fatura ekranımızdan da kaydedelim, e-Fatura Gönder kısmına tıklayarak öni
 - Senaryo kısmında e-Arşiv Fatura, 
 - Fatura Tipini İhraç Kayıtlı olarak seçmemiz gerekmektedir.
 - Fatura önizleme ekranımızda Senaryo kısmında TICARIFATURA, Fatura Tipi IHRACKAYITLI olması gerekmektedir.
-- Herhangi bir yanlışlık yoksa faturamınızı oluşturabiliriz. E-Fatura Gönder diyerek fatura oluşturma işlemimizi tamamlayalım.
+- Herhangi bir yanlışlık yoksa faturamızı oluşturabiliriz. E-Fatura Gönder diyerek fatura oluşturma işlemimizi tamamlayalım.
 

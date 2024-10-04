@@ -9,9 +9,9 @@ SayfaTipi: Irsaliye
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "satış irsaliyesi" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Musteri/Satici -> Hareket Oluştur -> Satış İrsaliyesi şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Satış & Pazarlama -> Listeler -> Satış İrsaliyesi Listesi -> Yeni Hareket Ekle üzerinden ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "satış irsaliyesi" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Satış İrsaliyesi* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden *Satış & Pazarlama -> Listeler -> Satış İrsaliyesi Listesi -> Yeni Hareket Ekle* üzerinden ulaşım sağlayabilirsiniz. 
 
 ## Genel
 
@@ -19,12 +19,27 @@ SayfaTipi: Irsaliye
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir. 
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 **Müşteri:** İşlemin yapıldığını cari kartını ifade eder. 
 
-**Döviz:** Bu banka hesabının çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
-Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
+**Döviz:**"Banka hesabının çalıştığı döviz cinsini belirtir. Türk lirası dışında bir döviz seçildiğinde, yalnızca o döviz cinsinden işlem yapılmasına izin verir. Banka hesabının bakiyesi, seçilen döviz cinsine göre takip edilir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Depo:** Bu işlemin kullandığı depoyu belirtir.
 
@@ -60,9 +75,9 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
-## Doldurmamız gereken bilgileri doldurduktan sonra kaydet butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
+## Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
 
 - Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
 - Satış irsaliyemizde sevk edilecek stok, gelir gider, demirbaş olabilir. En baştaki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
@@ -70,18 +85,18 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 - Miktar: Sevk edeceğimiz stoğun miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
-- İskonto: Satışını yaptığımız işlemlerin iskonto oranını belirtir. Uyguladığımız iskonto var ise buraya oranı girebiliriz.
+- İskonto: Satışını yaptığımız işlemlerin iskonto oranını belirtir. Uyguladığımız bir iskonto var ise buraya oranı girebiliriz.
 - Net Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler hariç, sadece temel maliyetini ifade eden fiyatı belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
 - Tutar: Bir mal veya hizmetin toplam mali değerini ifade eden miktarı belirtir. 
-- KDV oran: KDV oranını ifade eder.
+- KDV Oran: KDV Oranını ifade eder.
 - Depo: Bu kalemin kullandığı depoyu belirtir.
 - Açıklama: Kaleme ait açıklamayı belirtir.
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 - Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
 - Plasiyer: Bu kalemin hangi plasiyere ait olduğunu belirtir.
 
-- Satış irsaliyesinde 1 kalem belirtilecekse kaydet diyerek bir sonraki aşamaya geçebiliriz.
+- Satış irsaliyesinde 1 kalem belirtilecekse *Kaydet* diyerek bir sonraki aşamaya geçebiliriz.
 - Başka kalemlerde mevcut ise yukarıda aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
 
 - Sağ üst köşede irsaliyeye ait toplam fiyat kısımlarını içerir;
@@ -91,25 +106,25 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 	- Tonaj: Tonaj miktarını belirtir.
 
 
-Kaydet diyelim, notlar ve belgeler kısmı açılacaktır.
+*Kaydet* diyelim, notlar ve belgeler kısmı açılacaktır.
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlardaki belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> Belgeyi seç
+-> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seç -> Belgeyi ya da
+ belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
 
 ## e-Fatura 
 
@@ -124,8 +139,8 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
 
@@ -133,24 +148,32 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
 - Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel ekstre, dövizli ekstre gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Kopyala: Faturayı kopyalamak için kullanılır.
-- Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
+- Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Depo Terminaline Aktar: 
-- Görev Oluştur: İrsaliye için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
+- Görev Oluştur: İrsaliye için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+- Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçip, *Kaydet* diyerek görevi bağlayabiliriz.
 - Nakit Tahsilat: İrsaliyesini hazırladığımız ürünler için nakit tahsilata hızlı erişimdir. Buradan kasamızı, nakit tahsilat tutarını girerek, eklemek istediğimiz bilgileri ekleyerek, irsaliye ait nakit tahlisat tanımlayabiliriz.
 - Kredi Pos Tahsilat: İrsaliyesini hazırladığımız ürünler için pos tahsilata hızlı erişimdir. Buradan pos tahsilat işlemlerini gösterebiliriz, çekim yaptığım pos tahsilatın bankasını seçelim, tutarını girelim, taksit adedini girelim, eklemek istediğimiz bilgileri ekleyerek, irsaliye ait pos tahlisat tanımlayabiliriz. 
 - Siparişlerini Gör: Buradan irsaliye ait siparişi görüntüleyebiliriz. 
 - Faturalaştır: İrsaliyemizi faturalaştırmak için burayı kullanabiliriz.
-- Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
+- Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.
 
 # e-İrsaliye Gönderme
 
@@ -166,8 +189,8 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Kalem Açıklamalarını Gönder: Kalemlerde açıklama belirtmek istenilirse kutucuğu işaretleyerek açıklama ekleyebiliriz.
 - Stok Adı olarak Kalem Açıklamasını Kullan: Stok adı kalem açıklamasında kullanılmak istenilirse kutucuğu işaretleyebiliriz.
 - Not: İrsaliyeye ait açıklamayı belirtir.
-- Taşıyıcı VKN: Taşıyıcının firma ise vergi kimlik numarasını, şahıs ise tc girileceğini ifade eder.
-- Taşıyıcı Unvan: Taşıyıcı firma ise taşıyan kişinin ünvanı, şahıs ise adını girileceğini iafde eder.
+- Taşıyıcı VKN: Taşıyıcının firma ise vergi kimlik numarasını, şahıs ise TC Kimlik Numarası ifade eder.
+- Taşıyıcı Unvan: Taşıyıcı firma ise taşıyan kişinin ünvanı, şahıs ise adını girileceğini ifade eder.
 - Plaka: Taşıma yapılan aracın plakasını ifade eder.
 
 **e-İrsaliye Önizle diyerek bilgilerimizi önizlemesi gerçekleşen irsaliyeyi kontrolünü sağlayalım, bilgilerimizi teyit edip doğruluğundan emin olduktan sonra e-İrsaliye Gönder diyerek işlemimizi tamamlayalım.**

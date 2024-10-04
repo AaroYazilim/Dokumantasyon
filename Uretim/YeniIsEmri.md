@@ -1,8 +1,8 @@
 
 # İş Emri Ekleme
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "İş emri" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Listeler -> İş Emri Listesi -> Yeni İş Emri şeklinde yeni iş emri oluşturabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan **İş emri** şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *Üretim -> Listeler -> İş Emri Listesi -> Yeni İş Emri* şeklinde yeni iş emri oluşturabilirsiniz. 
 
 ### Genel
 
@@ -32,9 +32,10 @@
 
 **Şarj Kg:**
 
-Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna basarak işleminizi kaydebilirsiniz.
-İş emriniz oluşmuştur, sistem size otomatik planlama yapacaktır. Bu planlama üzerinden devam edebilir ya da değişiklik yapabilirsiniz.
+Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna basarak işleminizi kaydebilirsiniz.   
+
+***İş emriniz oluşmuştur, sistem size otomatik planlama yapacaktır. Bu planlama üzerinden devam edebilir ya da değişiklik yapabilirsiniz.***
 
 ### Değişiklik yapmak için;
 
-- Sol menüden Üretim -> Listeler -> Üretim Planı buradan işlem günleri sıralama gibi değişiklikler yapabilirsiniz.
+- Sol menüden *Üretim -> Listeler -> Üretim Planı* şeklinde işlem günleri sıralama gibi değişiklikler yapabilirsiniz.

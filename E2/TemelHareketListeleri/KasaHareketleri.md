@@ -21,7 +21,7 @@ Düzenli tutmamız hareket takibi yapabilmemiz için çok önemlidir.
 - Döviz işlem yapılan döviz birimini seçiniz.
 - Tutar: İşlem yapılacak tutarı giriniz.
 - Açıklama işleme ait açıklamayı belirtir.Doldurulması zorunlu alan değildir belirtmek istediğiniz açıklamalar için kullanım sağlayabilirsiniz.
-- Kaydet butonuna basarak işleminizi tamamlayabilirsiniz.
+- *Kaydet* butonuna basarak işleminizi tamamlayabilirsiniz.
 
 **Detay**
 - Beklenen Tahsilat

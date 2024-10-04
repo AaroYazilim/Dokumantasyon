@@ -10,15 +10,15 @@ SayfaTipi: Kart
 ### Ulaşım
 Aşağıdaki gibi birkaç farklı yoldan ulaşabilirsiniz:
 
-- Sol menüden Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "müşteri satıcı kartı" ifadesini aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Musteri/Satici -> Modül Sayfası -> Yeni Musteri/Satici Kartı şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden Musteri/Satici -> Kartlar -> Müşteri/Satıcı Kartı Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir ya da mevcutları düzenleyebilirsiniz.
+- Sol menüde, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "müşteri satıcı kartı" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *Musteri/Satici -> Modül Sayfası -> Yeni Musteri/Satici Kartı* şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden *Musteri/Satici -> Kartlar -> Müşteri/Satıcı Kartı Listesi* üzerinden ulaşım sağlayarak yeni kart ekleyebilir ya da mevcutları düzenleyebilirsiniz.
 
 ### Tanım
 
 Müşteri/Satıcı kartı, işletmenizin müşteri, satıcı, personel, kamu ve ortaklarla olan ilişkilerini yönetmek için kullanacağınız bir karttır. 
 Bu kart, kişiler hakkında genel bilgiler içerir ve işletmenin onlarla olan etkileşimlerini, ziyaretlerini, borç/alacak takibi gibi işlemleri izlemeyi sağlar.
-Aşağıdaki bilgiler doldurularak müşteri/satıcı kartınızı tanımlayabilirsiniz.
+Aşağıdaki bilgileri doldurarak müşteri/satıcı kartınızı tanımlayabilirsiniz.
 
 ### Genel
 
@@ -30,7 +30,7 @@ Aşağıdaki bilgiler doldurularak müşteri/satıcı kartınızı tanımlayabil
 
 **Vergi Dairesi:** Bu carinin vergi dairesini belirtir. Şahıslar için 'TC' giriniz. **Girilmesi zorunludur.**
 
-**Vergi No:** Tüzel kişiler için vergi numarasını. Gerçek kişiler için TC numarasını belirtir. **Girilmesi zorunludur.**
+**Vergi No:** Tüzel kişiler için vergi numarasını, gerçek kişiler için TC numarasını belirtir. **Girilmesi zorunludur.**
 
 >Sistem mükerrer vergi no girişini otomatik olarak engellemektedir. Yani aynı vergi numarası ile birden çok Müşteri/Satıcı kartı açılması engellenmektedir.
 Aynı vergi numarası ile birden çok kart açılması ek yetkilerle ayarlanabilmektedir. Belirli kullanıcılara yetki vererek onların mükerrer vergi no ile kart açmalarına izin verebilirsiniz. [Yetkiler](../TemelOzellikler/Yetkiler.md)
@@ -49,7 +49,7 @@ Aynı vergi numarası ile birden çok kart açılması ek yetkilerle ayarlanabil
 
 **Adres Adı:** Adres bilgisini adlandırabilirsiniz. Örn: Merkez, Şube vs.
 
-**İlçe:** Karta ait adres bilgisinin ilçe kısmını ifade eder.
+**İlçe:** Karta ait adresin ilçe kısmını ifade eder.
 
 **Sokak Adı:** Karta ait adresin sokak adını ifade eder.
 
@@ -59,7 +59,7 @@ Aynı vergi numarası ile birden çok kart açılması ek yetkilerle ayarlanabil
 
 **Kapı No:** Karta ait adres bilgisinin kapı numarasını ifade eder.
 
-**Posta Kodu:** Karta ait adresin posta kodunu belirtir.
+**Posta Kodu:** Karta ait adresin posta kodunu ifade eder.
 
 **Telefon:** Karta ait telefon numarasını ifade eder.
 
@@ -101,7 +101,7 @@ Aynı vergi numarası ile birden çok kart açılması ek yetkilerle ayarlanabil
 >
 >Cariye ait banka hesaplarına kartta bulunan ***Banka Hesapları Listesi*** linkinden ulaşabilirsiniz.
 
-**Iban No:** Cari kartın banka hesap iban bilgilerini belirtir. Iban nosunu kaydederek Havale/Eft gönderme işlemlerinde kolayca kullanabilirsiniz.
+**IBAN No:** Cari kartın banka hesap iban bilgilerini belirtir. Iban nosunu kaydederek Havale/EFT işlemlerinde kolayca kullanabilirsiniz.
 
 **Banka Şube:** Cari kartının banka hesap şube bilgilerini belirtir.
 
@@ -132,19 +132,19 @@ Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde o
 
 **Plasiyer:** Hareketin hangi plasiyere (kullanıcıya) ait olduğunu belirtir. Kalemlerde değiştirilir.
 
-**Muhtelif Cari:** Sadece muhtelif kart açılacağı zaman kullanılmalıdır. Kartın herhangi bir cariye ait olmadığını ortak hesap olduğunu belirtir. Detaylı tanım için linke tıklayınız. [Muhtelif Cari](../EkOzellikler/MuhtelifCari.md)
+**Muhtelif Cari:** Sadece muhtelif kart açılacağı zaman kullanılmalıdır. Kartın herhangi bir cariye ait olmadığını, ortak hesap olduğunu belirtir. Detaylı tanım için linke tıklayınız. [Muhtelif Cari](../EkOzellikler/MuhtelifCari.md)
 
 **Görüntülenme:** Kartın ve hareketlerinin hangi kullanıcılar tarafından görüntülenebileceğinin ayarlanması için kullanılır. Detaylı tanım için linke tıklayınız. [Görüntülenme](../EkOzellikler/Goruntulenme.md)
 
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Kısayollar
 
-Kartta bulunan kısayolları sekmesi ile cariye ait ilgili raporlara ve öncelikli sayfalara kolayca ulaşabilirsiniz.
+Kartta bulunan kısayollar sekmesi ile cariye ait ilgili raporlara ve öncelikli sayfalara kolayca ulaşabilirsiniz.
 
 - Sık Kullanılanlar
     - **Cari Hareketleri** linki ile carinin kartına ait tüm hareketlerine ve bakiye bilgisine ulaşabilirsiniz. Belirli bir tarihteki bakiyesini görüntüleyebilir, ilgili hareketin detaylarına ulaşabilirsiniz. Detaylı bilgi için [Müşteri / Satıcı Hareketleri](../MusteriSatici/MusteriSaticiHareketleriListesi.md)
@@ -178,32 +178,40 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
 - Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel ekstre, dövizli ekstre gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
+- Çıktı tasarımlarının her birine  ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
+- [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - ................
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlardaki belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım:
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> Bel
+geyi seç-> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seç -> Belgeyi ya da
+ belgeleri seç-> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
 
 ## Notlar
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
 

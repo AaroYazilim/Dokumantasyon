@@ -9,8 +9,8 @@ SayfaTipi: StokHareketleri
 
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'sayım' aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Stok -> Hareket Oluştur -> Diğerler -> Sayım Farkı İşleme şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'sayım' şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Stok -> Hareket Oluştur -> Diğerler -> Sayım Farkı İşleme* şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
 
@@ -31,11 +31,11 @@ Sayım fark işleme işlemi, bu farkların kaydedilmesi ve gerekli düzeltmeleri
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
 
-**Belge No:** Belge Numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
 **Depo:** Bu işlemin kullanıldığı depoyu belirtir.
 
-**Döviz:** Bu işlemin çalıştığı döviz cinisini belirtir.
+**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.
 
 **Vade:** İşlemin yapıldığı vadeyi belirtir.
 
@@ -53,23 +53,23 @@ Sayım fark işleme işlemi, bu farkların kaydedilmesi ve gerekli düzeltmeleri
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
+- **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belge
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlardaki belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> Belgeyi seç
+-> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seç -> Belgeyi ya da
+ belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
@@ -85,7 +85,9 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 	## Genel 
 
-	**Borç / Alacak:** Borç= Fiziksel sayımdan sonra kayıtlı stoklarımızdan fazla olan stokları ifade eder.
+	**Borç / Alacak:** 
+	
+	Borç= Fiziksel sayımdan sonra kayıtlı stoklarımızdan fazla olan stokları ifade eder.  
 	Alacak= Fiziksel sayımdan sonra kayıtlı stoklarımızdan az olan stokları ifade eder.
 
 	**Stok:** Sayımını yaptığımız stoğu ifade eder.
@@ -94,7 +96,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 	**Brüt Fiyat:** Sayımı yapılan stoğun brüt fiyatını ifade eder.
 
-	**İskonto Oranı:** Sayımı yapılan stoğun iskonko oranını ifade eder.
+	**İskonto Oranı:** Sayımı yapılan stoğun iskonto oranını ifade eder.
 
 	**Net Fiyat:** Sayımı yapılan stoğun net fiyatını ifade eder.
 
@@ -106,7 +108,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 	## Vergiler
 
-	**KDV:** Sayım farkı girilen stoğa ait KDV oranını ifade eder.
+	**KDV:** Sayım farkı girilen stoğa ait KDV Oranını ifade eder.
 
 	**Tevkifat:** Sayım farkı girilen stoğa ait olan tevfikatları ifade eder.
 
@@ -120,7 +122,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 	**Miktar:** Gelir giderin adetini ifade eder.
 
-	**Brüt Fiyat:** Gelir Gider kartının brüf fiyatı8nı ifade eder.
+	**Brüt Fiyat:** Gelir Gider kartının brüt fiyatını ifade eder.
 
 	**İskonto Oranı:** Gelir Gider kartının iskonto oranını ifade eder.
 
@@ -142,6 +144,6 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 	## Vergiler
 
-	**KDV:** Gelir Gider kartınına ait KDV oranını ifade eder.
+	**KDV:** Gelir Gider kartına ait KDV Oranını ifade eder.
 
 	**Tevkifat:** Gelir Gider kartınına ait olan tevfikatları ifade eder.

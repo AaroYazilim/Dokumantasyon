@@ -1,35 +1,35 @@
 
-# Mamül Ekle 
+# mamul Ekle 
 
-## Yeni Mamül Ekle / Düzenle
+## Yeni mamul Ekle / Düzenle
 
 ### Genel 
 
-**Mamül** Ekleme yapacağımız mamülü seçelim, yok ise detaylı ekle ya da hızlı ekle yaparak mamül eklemesini gerçekleştirebiliriz.
+**mamul** Ekleme yapacağımız mamulü seçelim, yok ise detaylı ekle ya da hızlı ekle yaparak mamul eklemesini gerçekleştirebiliriz.
 
-**Miktar** Mamülümüzün birim cinsine göre (adet, kg, litre vb.) mitarını ifade eder.
+**Miktar** mamulümüzün birim cinsine göre (adet, kg, litre vb.) miktarını ifade eder.
 
 **Ek Maliyet** Birim başı ek maliyeti gösterir.(Kargo, fason vb.)
 
-**Birim Fiyatı** Mamülün birim cinsine göre birim maliyetini ifade eder.
+**Birim Fiyatı** mamulün birim cinsine göre birim maliyetini ifade eder.
 
-**Açıklama** Mamül ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+**Açıklama** mamule ait detay açıklaması ve eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 **Hesap Açıklaması** Maliyet hesaplamaların yapıldığı formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
 
 ### Gelişmiş 
 
-**Hammadde Oran** Birden fazla mamül çıktığında hammaddelerin % kaç miktarda bu mamül için kullanıldığını belirtir.
+**Ham Madde Oran** Birden fazla mamul çıktığında Ham maddelerin % kaç miktarda bu mamul için kullanıldığını belirtir.
 
-**Operasyon Oran** Birden fazla mamül çıktığında operasyon üretim süresinin % kaçını bu mamül için kullanıldığını belirtir.
+**Operasyon Oran** Birden fazla mamul çıktığında operasyon üretim süresinin % kaçını bu mamul için kullanıldığını belirtir.
 
-**Depo** Mamül çıkış yapılacağı depoyu seçmemiz gerekmektedir.
+**Depo** mamul çıkışı yapılacak depoyu seçmemiz gerekmektedir.
 
-**Yapılan düzeltmeleri onayladıktan sonra, değişiklikleri sisteme kaydedin. Böylece, mamül bilgileri güncellenir/eklenir ve doğru bilgilerle işlem yapılabilir hale gelir.**
+**Yapılan düzeltmeleri onayladıktan sonra, değişiklikleri sisteme kaydedin. Böylece, mamul bilgileri güncellenir/eklenir ve doğru bilgilerle işlem yapılabilir hale gelir.**
 
-## Mamül Sil 
+## mamul Sil 
 
-Mamülü silmek işlemi, artık kullanılmayan veya yanlışlıkla kaydedilmiş bir mamül girdisini sistemden kaldırmak amacıyla yapılır.
+mamulü silme işlemi, artık kullanılmayan veya yanlışlıkla kaydedilmiş bir mamul girdisini sistemden kaldırmak amacıyla yapılır.
 
 ## Reçete Operasyon Ekle(Öncesi-Sonrası)
 
@@ -39,4 +39,4 @@ Detaylı bilgi için tıklayınız. [Operasyon Ekle](../Uretim/OperasyonEkle.md)
 
 ## Reçete Miktarı Değiştir
 
-Reçetenin sonucunda kaç miktarında ne kadar mamül çıkacağını adetini belirler buradan miktar değişikliği yapabiliriz.
+Reçetenin sonucunda hangi miktarda ne kadar mamul çıkacağını, mamul adetini belirler. Buradan miktar değişikliği yapabiliriz.

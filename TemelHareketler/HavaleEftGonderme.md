@@ -15,7 +15,7 @@ Havale veya EFT yapmak istiyorsanız, bankanızın mobil uygulaması, internet b
 Ayrıca, transferin hızı ve ücretleri gibi konular bankadan bankaya değişiklik gösterebilir, bu yüzden işlem yapmadan önce bankanızdan bilgi almanız önemlidir.
 
 Havale veya EFT göndermek sizin banka hesabınızdan başka bir hesaba havale/EFT yapmanız durumunda takip edebilmek banka hareketlerini görüntülemek adına 
-banka hesabımızdan gönderilen havale/EFT bilgilerini buradan işleyerek banka hesabımızın takibini kolayca sağlayabilmekteyiz.
+banka hesabımızdan gönderilen havale/EFT bilgilerini buradan işleyerek banka hesabımızın takibini kolayca sağlayabiliriz.
 
 ## Genel
 
@@ -23,7 +23,7 @@ banka hesabımızdan gönderilen havale/EFT bilgilerini buradan işleyerek banka
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir.
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 **Girilmesi Zorunludur.**
 
 **Banka Hesap:** Bu hareket işlemi için hangi banka şubesiyle işlem yapılacağını belirtir. 
@@ -57,19 +57,19 @@ banka hesabımızdan gönderilen havale/EFT bilgilerini buradan işleyerek banka
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belge
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlardaki belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> Belgeyi seç
+-> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seç -> Belgeyi ya da
+ belgeleri seç-> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
@@ -97,8 +97,8 @@ Sağ üst köşede yaptığımız işlemlerin toplam, genel toplam tutarlarını
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
 
@@ -106,7 +106,7 @@ Sağ üst köşede yaptığımız işlemlerin toplam, genel toplam tutarlarını
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
 - Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel banka tahsilat formu gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 ## Düzenleme 
@@ -115,11 +115,19 @@ Havale/EFT işlemimizde herhangi bir düzeltme yapmak için kalem işaretini se�
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Kopyala: Havale/EFT Gönderme işlemimizi kopyalamak için kullanılır.
-- Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
+- Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
-- Görev Oluştur: İşlem için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
-- Grid Sütunları Ayarla: Burada kartın detaylarının gözükmesinde değişiklikler yapabilirsiniz.
+- Görev Oluştur: İşlem için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+- Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçip, *Kaydet* diyerek görevi bağlayabiliriz.
+- Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.

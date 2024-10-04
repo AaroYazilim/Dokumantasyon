@@ -13,21 +13,22 @@ SayfaTipi: UretimPlaniToplam
 
 ### Tanım
 
-Üretim planı, belirli tarihlerde üretilecek ürünler için makinelerin iş gücü takvimini içerir. 
+Üretim planı, belirli tarihlerde üretilecek ürünler için makinelerin iş gücü takvimini içerir.  
 Amaç, makine verimliliğini artırmak, makine doluluk oranlarını dengelemek ve işlerin zamanında planlanmasını sağlamaktır.
 
-Makinedeki iş yoğunluğu ifade eder. Makinenin doluluk oranını % kısmından anlayabilir, makine yükünü azaltarak işleri hızlandırabiliriz.
-Çok dolu makineler kırmızı ile gösterilmektedir.
-Doluluk oranı artmaya başlayan yüzdelik oranını geçmiş makineler biraz daha açık kırmızı ile gösterilir.
-Dolmak üzere olan makineler yeşil renkle gösterilir.
-Dolulukları az olan normal seviyede olan makineler mavi renkle gösterilir.
-Doluluk oranları en az olan makineler ise açık mavi ile gösterilir.
+Makinedeki iş yoğunluğu ifade eder.   
+ Makinenin doluluk oranını % kısmından anlayabilir, makine yükünü azaltarak işleri hızlandırabiliriz.  
+- Çok dolu makineler kırmızı ile gösterilmektedir.
+- Doluluk oranı artmaya başlayan yüzdelik oranını geçmiş makineler biraz daha açık kırmızı ile gösterilir.  
+- Dolmak üzere olan makineler yeşil renkle gösterilir.  
+- Dolulukları az olan normal seviyede olan makineler mavi renkle gösterilir.  
+- Doluluk oranları en az olan makineler ise açık mavi ile gösterilir.
 
-Bu oranları görüntüleyerek kolayca makine doluluk oranlarımızı görüntüleyebiliriz. 
-Kutulara tıklayarak makinedeki operasyonları kolayca görüntüleyebiliriz.
+Bu oranları görüntüleyerek kolayca makine doluluk oranlarımızı görüntüleyebiliriz.   
+Kutulara tıklayarak makinedeki operasyonları kolayca görüntüleyebiliriz.  
 Yeniden düzenlemeler, planlamalar yaparak iş yükünü hafifletebilir, yetişmesi gereken işlere öncelik verebilir ya da alternatif makineleri kullanmayı tercih edebiliriz.
 
-K ile ifade edilen oranlar makine için ihtiyaç duyulan personeli,
+K ile ifade edilen oranlar makine için ihtiyaç duyulan personeli,  
 S ile ifade edilen oranlar makine için gerekenleri ifade eder.
 
 ### Ek Özellikler 

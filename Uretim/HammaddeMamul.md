@@ -1,37 +1,37 @@
 
-# Hammadde-Mamül (Yarı Mamül) Düzenleme
+# Ham madde-mamul (Yarı mamul) Düzenleme
 
-## Mamül-Hammadde Düzelt 
+## mamul-Ham madde Düzelt 
 
-**Stok:** Bir operasyondan çıkan mamül diğer operasyona aktarılacak hammaddedir.
+**Stok:** Bir operasyondan çıkan mamul diğer operasyona aktarılacak Ham maddedir.
 
-**Mamül Miktar:** Kaç adet mamül çıktığı miktarını ifade eder.
+**mamul Miktar:** Kaç adet mamul çıktığı miktarını ifade eder.
 
-**Birim Fiyatı:** Bir adet mamülün birim fiyatını gösterir.
+**Birim Fiyatı:** Bir adet mamulün birim fiyatını gösterir.
 
-**Hesap Açıklaması** Maliyet hesaplamaların yapıldığı formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
+**Hesap Açıklaması:** Maliyet hesaplamaların yapıldığı formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
 
-**Açıklama** Mamül ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+**Açıklama:** mamul ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
-**Depo:** Oluşan mamülün hangi depoya gireceğini belirtir.
+**Depo:** Oluşan mamulün hangi depoya gireceğini belirtir.
 
 **Ek Maliyet** Birim başı ek maliyeti gösterir.(Kargo, fason vb.)
 
-**Stok:** Bir operasyona giren hammaddeyi ifade eder.
+**Stok:** Bir operasyona giren ham maddeyi ifade eder.
 
-**Hammadde Miktar:** Operasyona, hammaddeden kaç adet kullanılacağı birimi ifade eder. 
+**Ham madde Miktar:** Operasyona, ham maddeden kaç adet kullanılacağı birimi ifade eder. 
 
-**Birim Fiyatı:** Bir adet hammaddenin birim fiyatını gösterir.
+**Birim Fiyatı:** Bir adet ham maddenin birim fiyatını gösterir.
 
 **Hesap Açıklaması** Maliyet hesaplamaların yapıldığı formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
 
-**Açıklama** Mamül ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+**Açıklama** mamule ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
-**Yapılan düzeltmeleri onayladıktan sonra, değişiklikleri sisteme kaydedin. Böylece, mamül bilgileri güncellenir/eklenir ve doğru bilgilerle işlem yapılabilir hale gelir.**
+**Yapılan düzeltmeleri onayladıktan sonra, değişiklikleri sisteme kaydedin. Böylece, mamul bilgileri güncellenir/eklenir ve doğru bilgilerle işlem yapılabilir hale gelir.**
 
-## Hammadde-Mamül Sil
+## Ham madde-mamul Sil
 
-Hammadde-mamülü silmek işlemi, artık kullanılmayan veya yanlışlıkla kaydedilmiş bir hammadde girdisini sistemden kaldırmak amacıyla yapılır.
+Ham madde-mamulü silmek işlemi, artık kullanılmayan veya yanlışlıkla kaydedilmiş bir ham madde girdisini sistemden kaldırmak amacıyla yapılır.
 
 ## Önceki Zinciri Sil
 

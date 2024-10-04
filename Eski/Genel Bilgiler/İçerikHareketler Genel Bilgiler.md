@@ -8,5 +8,5 @@
 ## [Turuncu Kalem Butonu](https://github.com/nkarabag/Dokumantasyon/blob/main/Genel%20Bilgiler/Turuncu%20Kalem%20Butonu%20.md) 
 ## [Üç Çizgi Butonu](https://github.com/nkarabag/Dokumantasyon/blob/main/Genel%20Bilgiler/%C3%9C%C3%A7%20%C3%87izgi%20Butonu.md)
 ## [Yenile Butonu](https://github.com/nkarabag/Dokumantasyon/blob/main/Genel%20Bilgiler/Yenile%20Butonu.md)
-## [Kaydet Butonu](https://github.com/nkarabag/Dokumantasyon/blob/main/Genel%20Bilgiler/Kaydet%20Butonu.md)
+## [*Kaydet* Butonu](https://github.com/nkarabag/Dokumantasyon/blob/main/Genel%20Bilgiler/*Kaydet*%20Butonu.md)
 ## [Mercek İşareti](https://github.com/nkarabag/Dokumantasyon/blob/main/Genel%20Bilgiler/Mercek%20%C4%B0%C5%9Fareti.md)

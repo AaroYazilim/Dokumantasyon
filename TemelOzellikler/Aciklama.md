@@ -1,13 +1,12 @@
 
 # Açıklama
 
-İşleme ait açıklamayı belirtir.
-Buraya işleme veya kayda ait özel açıklamalar; detaylarını ve niteliklerini açıklamak için kullanılan bir alan veya metin kutusudur. 
-Bu alana genellikle işlemin veya kaydın anlamını açıklayan, ek bilgiler sağlayan veya ilgili detayları içeren metinler yazılır.
-Açıklama kısmı, kullanıcıların belirli bir işlemi daha iyi anlamalarına, izlemelerine ve yönetmelerine yardımcı olur. 
-Genellikle bir fatura veya ödeme belgesinde, yapılan işlemin veya alınan hizmetin detaylı açıklamasını içeren bir bölümdür. 
-Bu bölümde, alıcıya yapılan satışın veya sağlanan hizmetin ne olduğu, miktarı, fiyatı ve diğer ilgili bilgiler yer alır. 
-Ayrıca, işlemle ilgili herhangi bir not veya açıklama da bu bölümde yer alabilir.
+İşleme ait açıklama kısmı, belirli bir işlem veya kayda dair önemli bilgilerin yer aldığı bir alan veya metin kutusudur. 
 
-Fatura açıklamaları, alıcıya yapılan işlem hakkında net bir anlayış sağlamak için detaylı olmalıdır. 
-Bu bölüm, ticari işlemlerde anlaşmazlıkları önlemek ve muhasebe kayıtlarını düzenlemek için önemlidir.
+Bu alanda, işlemin detaylarını, niteliğini ve anlamını açıklayan ek bilgiler yer alır.    Kullanıcılar, bu bölümdeki metinler sayesinde işlemi daha iyi anlayabilir, izleyebilir ve yönetebilir.
+
+Açıklama kısmı, genellikle bir fatura veya ödeme belgesinde, yapılan işlemin veya sunulan hizmetin detaylarını içerir. Bu bölümde, satılan ürün veya sağlanan hizmetin ne olduğu, miktarı, fiyatı ve ilgili diğer bilgiler bulunur. 
+
+Ayrıca, işlemlerle ilgili notlar veya açıklamalar da buraya eklenebilir.
+
+Fatura açıklamaları, alıcıya yapılan işlem hakkında net ve anlaşılır bir bilgi sağlamak amacıyla detaylı olmalıdır. Bu bölüm, ticari işlemlerde anlaşmazlıkları önlemek ve muhasebe kayıtlarını doğru tutmak açısından önemlidir.

@@ -1,24 +1,24 @@
 
-# Hammadde 
+# Ham madde 
 
-## Hammadde Düzelt / Ekle
+## Ham madde Düzelt / Ekle
 
 #### Genel
 
-**Hammadde** Hammaddeyi seçelim yok ise detaylı ekle yaparak istediğimiz hammadde kaydını oluşturabiliriz.
-**Miktar** Kaç adet,kg vs ne kadar hammadde kullanımı sağlanacaksa o miktarı giriniz. Örneğin; 1 adet sehpa için 2 m2 ahşap gidecektik o halde 2 m2 olarak seçim yapmamız gerekmektedir.
+**Ham madde** Ham maddeyi seçelim yok ise detaylı ekle yaparak istediğimiz Ham madde kaydını oluşturabiliriz.
+**Miktar** Kaç adet,kg vs ne kadar Ham madde kullanımı sağlanacaksa o miktarı giriniz. Örneğin; 1 adet sehpa için 2 m2 ahşap gidecektir o halde 2 m2 olarak seçim yapmamız gerekmektedir.
 **Birim Fiyatı** 1 adet, kg, m2 vs için birim fiyatlarını giriniz.
-**Açıklama** Hammaddeye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
-**Hesap Açıklaması** Maliyet hesaplamaların yapıldığı formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
+**Açıklama** Ham maddeye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+**Hesap Açıklaması** Maliyet hesaplamalarının yapıldığı formülü ifade eder. Özel hesaplamalar burada belirtilmelidir.
 
 #### Fiyat Listesi Fiyatları 
 
-Bu tabloda, son 3 ay içinde alınan hammadde ve mamül fiyatları, son alınan fiyatlar ve ortalama alınan fiyatlar yer almaktadır. 
+Bu tabloda, son 3 ay içinde alınan Ham madde ve mamul fiyatları, son alınan fiyatlar ve ortalama alınan fiyatlar yer almaktadır. 
 Bu bilgiler, işletmenin alım faturalarını analiz etmek ve fiyatlar üzerindeki değişiklikleri izleyerek verileri girmeniz için kullanılabilir.
 
 #### Gelişmiş
 
-**Depo** Hammaddenin çıkış yapılacağı depoyu seçiniz. 
+**Depo** Ham maddenin çıkış yapılacağı depoyu seçiniz. 
 
 #### Kısayollar
 
@@ -26,16 +26,16 @@ Bu bilgiler, işletmenin alım faturalarını analiz etmek ve fiyatlar üzerinde
 
 #### Belgeler 
 
-Buraya PDF, JPEG, PNG gibi belgeleri eklemek mümkündür. Bu belgelere erişim izni olanlar, belgelere ulaşabilir, indirebilir ve kontrol edebilirler. 
+Buraya pdf, jpg, png gibi belgeleri eklemek mümkündür. Bu belgelere erişim izni olanlar, belgelere ulaşabilir, indirebilir ve kontrol edebilirler. 
 
 #### Notlar 
 
-Hammaddeye ait not girilebilir. Hammadde ile ilgili dikkat edilmesi gereken püf noktalar gibi notlar eklenebilir.
+Ham maddeye ait not girilebilir. Ham madde ile ilgili dikkat edilmesi gereken püf noktalar gibi notlar eklenebilir.
 
 
-## Hammadde Sil
+## Ham madde Sil
 
-Hammaddeyi silmek işlemi, artık kullanılmayan veya yanlışlıkla kaydedilmiş bir hammadde girdisini sistemden kaldırmak amacıyla yapılır.
+Ham maddeyi silmek işlemi, artık kullanılmayan veya yanlışlıkla kaydedilmiş bir Ham madde girdisini sistemden kaldırmak amacıyla yapılır.
 
 ## Reçete Operasyon Ekle(Öncesi-Sonrası)
 
@@ -46,7 +46,7 @@ Detaylı bilgi için tıklayınız. [Operasyon Ekle](../Uretim/OperasyonEkle.md)
 ## Reçete Getir
 
 Bu özellik, belirli bir ürünün üretiminde kullanılacak olan reçeteyi sisteme çağırmak veya getirmek için kullanılır. 
-Bir ürünün reçetesinde, o ürünün üretiminde kullanılacak olan hammaddelerin ve malzemelerin listesi, miktarları, üretim prosedürleri ve diğer gerekli bilgiler bulunur.
+Bir ürünün reçetesinde, o ürünün üretiminde kullanılacak olan Ham maddelerin ve malzemelerin listesi, miktarları, üretim prosedürleri ve diğer gerekli bilgiler bulunur.
 
 
 

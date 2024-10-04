@@ -9,8 +9,8 @@ SayfaTipi: Cari
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "müşteri satıcı" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Musteri/Satici -> Hareket Oluştur -> Müşteri/Satıcı Hesapları Arası Transfer şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "müşteri satıcı" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Müşteri/Satıcı Hesapları Arası* Transfer şeklinde ulaşım sağlayabilirsiniz. 
 
 ### Tanım
 
@@ -29,7 +29,7 @@ Bu transferler, her iki tarafın da hesap hareketlerini düzenli ve şeffaf bir 
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir.
 
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 **Girilmesi Zorunludur.**
 
 #### Cari Alacak 
@@ -65,21 +65,21 @@ Cari Borç için etiket alanıdır. Bu işleme ait Borç carisine özel etiket t
 
 ## Belge
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlardaki belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> Belgeyi seç
+-> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seç -> Belgeyi ya da
+ belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
 
 ## Kayıt Bilgileri
 
@@ -89,8 +89,8 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
 
@@ -98,7 +98,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
 - Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel depolar arası transfer formu gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 ## Düzenleme 
@@ -107,8 +107,16 @@ Depolar arası transfer işlemimizde herhangi bir düzeltme ya da ekleme yapmak 
 
 ## Ek İşlemler
 
-Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Kopyala: Verilen teklifi kopyalamak için kullanılır.
 - Pos Tahsilatı: 
-- Görev Oluştur: Teklif için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+- Görev Oluştur: Teklif için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.

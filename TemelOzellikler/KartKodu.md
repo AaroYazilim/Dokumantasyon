@@ -4,8 +4,9 @@
 Kartın kendine özel kodudur. Seri takibi yapılabilir.
 İstediğiniz kodu verebilirsiniz ya da sistemin size vermiş olduğu kod ile kullanım sağlayabilirsiniz.
 
-Kart kodu, belirli bir kaydı veya varlığı benzersiz bir şekilde tanımlayan ve ayırt eden bir numaradır veya kodudur. 
+Kart kodu, belirli bir kaydı veya varlığı benzersiz bir şekilde tanımlayan ve ayırt eden bir numara veya koddur.
 Bu kodlar, genellikle işletmenin içinde kullanılan ve farklı kayıtları veya varlıkları tanımlamak için kullanılan alfasayısal veya sayısal bir dizedir.
+
 Kart kodları, işletme içindeki çeşitli kayıtları veya varlıkları (örneğin: müşteriler, tedarikçiler, ürünler, departmanlar...) tanımlamak için kullanılır. 
 Her bir kayıt veya varlık için benzersiz bir kart kodu atanır ve bu kodlar genellikle otomatik olarak veya elle oluşturulur.
 
