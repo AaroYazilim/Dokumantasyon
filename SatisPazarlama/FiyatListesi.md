@@ -21,7 +21,7 @@ Satış fiyat listesi, müşterilerin ve işletme personelinin fiyat bilgilerine
 
 **Kodu:** Fiyat listesinin kodunu ifade eder.
 
-**Tip:** Fiyat listemizin satış ya da alış listesi tipini seçelim.
+**Tip:** Fiyat listesinin satış ya da alış listesi tipi seçilir.
 
 **Bitiş Tarihi:** Fiyat listesi için geçerlilik bitiş tarihini ifade eder.
 
@@ -29,7 +29,7 @@ Satış fiyat listesi, müşterilerin ve işletme personelinin fiyat bilgilerine
 
 **Durum:** Aktif veya pasif durumunu ifade eder.
 
-**Kaydet diyerek fiyat listemizin kalemlerini ekleyebiliriz.**
+**Kaydet* diyerek fiyat listemizin kalemlerini ekleyebiliriz.*
 
 **Toplu Stok Kalem Ekle:** Stok listemizden seçim yapabiliriz.
 
@@ -38,9 +38,9 @@ Satış fiyat listesi, müşterilerin ve işletme personelinin fiyat bilgilerine
 ## Ek İşlemler
 
 - Toplu Fiyat Değiştirme Sayfası: Burada stokların fiyatlarında toplu değişiklik yapabilirsiniz. 
-- Listeyi Kopyala: Listeleyi kopylamak için kullanım sağlayabilirsiniz.
+- Listeyi Kopyala: Listeleyi kopyalamak için kullanım sağlayabilirsiniz.
 - Listeyi Taşı: Başka bir fiyat listesine taşımak için kullanım sağlayabilirsiniz.
-- Anasayfaya Kısayol Olarak Ekle: Anasayfamıza hızlı erişim sağlayabilmek için kısayollarımıza ekleyebiliriz. [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+- Ana Sayfaya Kısayol Olarak Ekle: Ana sayfamıza hızlı erişim sağlayabilmek için kısayollarımıza ekleyebiliriz. [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 
 
 

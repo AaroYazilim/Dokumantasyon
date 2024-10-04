@@ -12,8 +12,8 @@ SayfaTipi: KartListe
 Aşağıdaki gibi birkaç farklı yoldan ulaşabilirsiniz:
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "müşteri satıcı" ifadesini aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Musteri/Satici -> Modül Sayfası -> Müşteri/Satıcı Kartı Listesi üzerinden ulaşım sağlayabilirsiniz. 
-- Sol menüden Musteri/Satici -> Modül Sayfası -> Kartlar -> Müşteri/Satıcı Kartı Listesi üzerinden ulaşım sağlayabilirsiniz. 
+- Sol menüden *Musteri/Satici -> Modül Sayfası -> Müşteri/Satıcı Kartı Listesi* üzerinden ulaşım sağlayabilirsiniz. 
+- Sol menüden *Musteri/Satici -> Modül Sayfası -> Kartlar -> Müşteri/Satıcı Kartı Listesi* üzerinden ulaşım sağlayabilirsiniz. 
 
 ### Tanım 
 
@@ -22,8 +22,8 @@ Aşağıdaki gibi birkaç farklı yoldan ulaşabilirsiniz:
 - Müşteri/Satıcı kartlarının güncel bakiyelerini görüntüleyebilirsiniz.
 - Mevcut müşteri/satıcı kartlarını düzenleyebilir, silebilir veya yeni müşteri/satıcı kartlarını bu sayfadan ekleyebilirsiniz. 
     - Müşteri/Satıcı Kartını sayfanın sağ üstünde bulunan **Müşteri / Satıcı Ekle** linki ile [Musteri/Satici Kartı](../MusteriSatici/MusteriSaticiKarti.md) sayfasını açarak ekleyebilirsiniz.
-    - Sayfadaki listeden mevcut bir kartı solunda bulunan büyüteç işaretine tıklatarak açabilir, kartla ilgili bilgiler ulaşabilir, düzenleyebilir, veya silebilirsiniz.
-    - Müşteri satıcı kartında bulunan bilgiler ve özellikler için [Musteri/Satici Kartı](../MusteriSatici/MusteriSaticiKarti.md) dökümantasyonunu inceleyebilirsiniz.
+    - Sayfadaki listeden mevcut bir kartı solunda bulunan büyüteç işaretine tıklayarak açabilir, kartla ilgili bilgilere ulaşabilir, düzenleyebilir, veya silebilirsiniz.
+    - Müşteri satıcı kartında bulunan bilgiler ve özellikler için [Musteri/Satici Kartı](../MusteriSatici/MusteriSaticiKarti.md) dokümantasyonunu inceleyebilirsiniz.
  
 
 ### Ek Özellikler 
@@ -33,8 +33,16 @@ Aşağıdaki gibi birkaç farklı yoldan ulaşabilirsiniz:
 
 ### Ek İşlem Butonu
 
-- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-    - [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+- Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
+    - [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
     - [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
     - [Listeyi Excele Aktar](../TemelOzellikler/ListeyiExceleAktar.md)
 

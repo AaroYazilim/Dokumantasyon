@@ -24,7 +24,7 @@ Havale/EFT Alma
 Ek açıklamalar ekleyebilirsiniz.
 
 **Etiketler**
-Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanabilirsiniz.
+Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanabilirsiniz.
 
 Havale/EFT Gönderme
 
@@ -48,7 +48,7 @@ Havale/EFT Gönderme
 Ek açıklamalar ekleyebilirsiniz.
 
 **Etiketler**
-Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanabilirsiniz.
+Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanabilirsiniz.
 
 Bankadan Gider Hareketi
 
@@ -70,7 +70,7 @@ Bankadan Gider Hareketi
 Ek açıklamalar ekleyebilirsiniz.
 
 **Etiketler**
-Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanabilirsiniz.
+Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanabilirsiniz.
 
 Banka Gelir Hareketi
 
@@ -92,7 +92,7 @@ Banka Gelir Hareketi
 Ek açıklamalar ekleyebilirsiniz.
 
 **Etiketler**
-Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanabilirsiniz.
+Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanabilirsiniz.
 
 Banka Hesapları Arası Transfer
 
@@ -120,10 +120,10 @@ Banka Hesapları Arası Transfer
 Ek açıklamalar ekleyebilirsiniz.
 
 **Etiketler BankaHareketleri**
-Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanabilirsiniz.
+Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanabilirsiniz.
 
 **Etiketler BankaHareketleri**
-Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanabilirsiniz.
+Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanabilirsiniz.
 
 POS Tahsilat
 
@@ -159,7 +159,7 @@ POS Tahsilat
 Ek açıklamalar ekleyebilirsiniz.
 
 **Etiketler**
-Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanabilirsiniz.
+Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanabilirsiniz.
 
 ### **Diğer İşlemler**
 
@@ -176,7 +176,7 @@ Karma Transfer Hareketi
 
 Kartlar
 
-**Banka Hesap Kartı Listesi:** Burada sistemde kaydetmiş olduğumuz kasa kartlarının hepsini gösterir borç-alacaklı hesapları gösterir. 
+**Banka Hesap Kartı Listesi:** Burada sistemde *Kaydet*miş olduğumuz kasa kartlarının hepsini gösterir borç-alacaklı hesapları gösterir. 
 Verilerimiz çok olduğunda kod kısımlarına ekleme yaptığımız özel özelliklere göre filtreleme sağlayabiliriz.
 
 **POS Hesaba Geçiş Tanımı Listesi:** Burada POS hesabının banka kartları ile işlem hareketlerini görüntüleyebilmekteyiz.

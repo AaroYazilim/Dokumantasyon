@@ -41,5 +41,5 @@ Muh. Adı adını girebilirsiniz.
 **Tip** bu kısma Alış-Satış hareketi muhasebe hesabı bilgileri girilmelidir mevcuttan ya da yeni giriş yapılabilir.
 **Gelişmiş**
 Şirket-Şube, Durum, Çalışma Para Birimi, Vade, Fiyat Grup, Plasiyer, Muhtelif Cari, Görüntülenme Grubu bilgileri seçilmelidir. 
-**Bütün işlemler bittikten sonra kaydet butonuna basarak cari açma işleminizi tamamlayabilirsiniz.**
+**Bütün işlemler bittikten sonra *Kaydet* butonuna basarak cari açma işleminizi tamamlayabilirsiniz.**
 

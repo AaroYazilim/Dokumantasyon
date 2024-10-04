@@ -1,7 +1,7 @@
 
 # Kasa
 
-Şirketlerin nakit giriş ve çıkışını kaydettikleri hesaba denir. 
+Şirketlerin nakit giriş ve çıkışını *Kaydet*tikleri hesaba denir. 
 Kasadan çıkış yapılabilmesi için kasada nakit para bulunması gerekmektedir. 
 Kasada ne kadar nakit para varsa en fazla o kadar çıkış sağlanabilir.
 Banka, cari, çek/senet veya başka kasaya yapılan her nakit ödeme kasa üzerinden girilmektedir. 

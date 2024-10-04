@@ -9,17 +9,17 @@ SayfaTipi:
 
 ### Ulaşım
 
-- Sol menüden Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "işçilik" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Hareketler -> Hızlı Üretim Hareketi Girişi (Sadece İşçilik) şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüde, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "işçilik" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *Üretim -> Hareketler -> Hızlı Üretim Hareketi Girişi (Sadece İşçilik)* şeklinde ulaşım sağlayabilirsiniz.
 
 ### Tanım
 
-Reçetesiz hızlı hareket girmek için kullanılır.
+Reçetesiz hızlı hareket girmek için kullanılır.  
 Üretim hareketinin üretim süreçlerine, operasyon, makine, işçilik çalışma maliyetlerini, çalışan personelleri buradan girebiliriz.
 
 ### Genel 
 
-**Tarih** İşlemin yapıldığı tarihi girelim.
+**Tarih:** İşlemin yapıldığı tarihi girelim.
 
 **İş Emri No:** İş emrini sistem sırasıyla otomatik verir, kendi sıralamanızdan da iş emri numarası verebilirsiniz.
 
@@ -33,9 +33,9 @@ Reçetesiz hızlı hareket girmek için kullanılır.
 
 **Açıklama:** Üretime ait açıklamalar girebiliriz. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
-**İşçilik/Saat** Operasyonda çalışan işçinin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [İşçiliyet Maliyeti](../Uretim/IscilikMaliyeti.md)
+**İşçilik/Saat:** Operasyonda çalışan işçinin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [İşçiliyet Maliyeti](../Uretim/IscilikMaliyeti.md)
 
-**Çalışma Mal/Saat** Operasyonda çalışan işçi, makine, elektrik gibi giderlerin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [Birim Maliyeti](../Uretim/BirimMaliyeti.md)
+**Çalışma Mal/Saat:** Operasyonda çalışan işçi, makine, elektrik gibi giderlerin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [Birim Maliyeti](../Uretim/BirimMaliyeti.md)
 
 **Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
 	Üretim işleminin bakiyesi seçilen döviz cinsinden takip edilir.
@@ -43,7 +43,7 @@ Reçetesiz hızlı hareket girmek için kullanılır.
 ### Çalışan Personel Listesi
 
 Bu operasyonda çalışan personelleri seçelim. 
-Listede isimleri yok ise detaylı ekle diyerek personel ekleme ekranına erişim sağlanır buradan kaydını girebilirsiniz. 
+Listede isimleri yok ise detaylı ekle diyerek personel ekleme ekranına erişim sağlayıp buradan kaydını girebilirsiniz. 
 
 ### Üretim Süreçleri
 
@@ -55,24 +55,24 @@ Listede isimleri yok ise detaylı ekle diyerek personel ekleme ekranına erişim
 
 **Üretim Süre:** Başlangıç ve bitiş saati girildiğinde otomatik hesaplanır. Üretim süresine veri girdiğimizde başlangıç ve bitiş saati otomatik hesaplanır.
 
-**Duraklama Süre:** Makine arızaları gibi durumları ifade eder. Makinenin arızadı ne kadar sürdü girelim. 
+**Duraklama Süre:** Makine arızaları gibi durumları ifade eder. Makinenin arızasının ne kadar sürdüğünü girelim. 
 
-**Mola Süre:** Üretim sırasında ne kadar süre mola verildi girelim. 
+**Mola Süre:** Üretim sırasında ne kadar süre mola verildiğini girelim. 
 
 ### Duraklama Nedeni
 
-**Neden:** Duraklama nedeni neden durduk detaylarını gireceğimiz alan. Makine bozuldu, arızalandı vb. durumlarda kullanılır.
+**Neden:** Duraklama nedeni ve detaylarını gireceğimiz alan. Makine bozuldu, arızalandı vb. durumlarda kullanılır.
 Nedeni seçelim alt kısmına da açıklamasını girelim. Makine arıza detaylarını yazalım.
 
 ### Üretim Açıklama
 
-Üretime ait özel bir açıklamaları burada belirtebiliriz.
+Üretime ait özel açıklamaları burada belirtebiliriz.
 
-### Kaydet butonuna basarak kaydetme işlemimizi tamamlayabiliriz.
+### *Kaydet* butonuna basarak Kaydetme işlemimizi tamamlayabiliriz.
 
 Kaydetme işlemimizi tamamladıktan sonra iş emrimiz, reçetemiz, üretim planımız tamamlanmış olacaktır. 
-Karşımıza gelen ekranda kayıt ettiğimiz bilgilerden farklı olarak Atlandı seçeneği ve kayıt bilgileri bulunmaktadır.
-Üretim hareketimize belge ve not ekleyebiliriz. Üretim hareketine ait görseller, dokümantasyonlar var ise buraya ekleyebiliriz. 
+Karşımıza gelen ekranda kaydettiğimiz bilgilerden farklı olarak Atlandı seçeneği ve kayıt bilgileri bulunmaktadır.  
+Üretim hareketimize belge ve not ekleyebiliriz. Üretim hareketine ait görseller, dokümantasyonlar var ise buraya ekleyebiliriz.  
 Bu şekilde üretim hareketine giren herkes bu belgeleri görüntüleyereke erişim kolaylığı sağlayarak verilerin kaybolmasını önler.
 
 **Atlandı:** Üretim hareketi ekranında atlamak, üretim sürecinde belirli bir adıma geçişi ifade eder. 
@@ -81,21 +81,21 @@ Bu şekilde üretim hareketine giren herkes bu belgeleri görüntüleyereke eri�
 
 ### İş Emri 
 
-Üretim hareketimizi kaydettikten sonra karşımıza çıkan ekranın sağ üst köşesinden erişim sağlayabiliriz.
+Üretim hareketimizi Kaydettikten sonra karşımıza çıkan ekranın sağ üst köşesinden erişim sağlayabiliriz.
 İş emrimizi görüntüleyebilir, çıktı alabilir, hızlı düzeltmeler yapabilir, planını görebilir ve tekrardan planlayabiliriz.
 İş Emri kullanım detayları için tıklayınız. [İş Emri](../Uretim/IsEmri.md)
 
-### Reçete Diagramı
+### Reçete Diyagramı
 
-Üretim hareketimizde yaptığımız işlemlerin reçete diagram görüntüsüne sağ üst köşesinden erişim sağlayabiliriz.
-Reçete diagramımızı görüntüleyebilir, düzenlemeler yapabilir, operasyon, mamül, yarı mamül, hammadde ekleyebiliriz. 
-Yanlış olan hammadde, operasyon, yarı mamül, mamülleri silebiliriz.
+Üretim hareketimizde yaptığımız işlemlerin reçete Diyagram görüntüsüne sağ üst köşesinden erişim sağlayabiliriz.  
+Reçete Diyagramımızı görüntüleyebilir, düzenlemeler yapabilir, operasyon, mamul, yarı mamul, ham madde ekleyebiliriz.    
+Yanlış olan ham madde, operasyon, yarı mamul, mamulleri silebiliriz.
 Reçete düzenlemelerimizi buradan yapabiliriz.
-Reçete düzenleme kullanım detayları için tıklayınız. [Recete Diagramı](../Uretim/ReceteDiagrami.md)
+Reçete düzenleme kullanım detayları için tıklayınız. [Recete Diyagramı](../Uretim/ReceteDiyagrami.md)
 
 ### Üretim Planı 
 
-Üretim hareketimizde yaptığımız işlemlerin üretim planına sağ üst köşesinden erişim sağlayabiliriz.
+Üretim hareketimizde yaptığımız işlemlerin üretim planına sağ üst köşesinden erişim sağlayabiliriz.  
 Üretim planı ekranımızda makine işlerimizi, makine yoğunluklarımızı görüntüleyebilir, iş planlamamızı yapabiliriz.
 Üretim planı kullanım detayları için tıklayınız. [Üretim Planı](../Uretim/Planlama.md)
 
@@ -105,25 +105,25 @@ Reçete düzenleme kullanım detayları için tıklayınız. [Recete Diagramı](
 
 ### Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlardaki belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> Belgeyi seç
+-> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seç -> Belgeyi ya da
+ belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
 ### Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
 
 ## Kaydetme 
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak üretim hareketi girişi işlemimizi tamamlayabiliriz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak üretim hareketi girişi işlemimizi tamamlayabiliriz.
 
 ### Yazdır
 

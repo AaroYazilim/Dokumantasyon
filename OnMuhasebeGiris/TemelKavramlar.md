@@ -1,7 +1,7 @@
 
 ## Muhasebe Nedir? 
 
-Genel **muhasebe**, diğer adıyla finansal muhasebe; mali işlemleri kaydetme, sınıflandırma, raporlama ve analiz sürecidir.
+Genel **muhasebe**, diğer adıyla finansal muhasebe; mali işlemleri Kaydetme, sınıflandırma, raporlama ve analiz sürecidir.
 
 Firmaların hareketlerini denetleyip kayıt altına alarak ve borç-alacak takibini yaparak son durumlarını görüntüleyebilmektir.
 
@@ -16,11 +16,11 @@ Kısacası Borç-Alacak dengesinin kaydının yapılmasını sağlamaktadır.
 
 ## Borç - Alacak Dengesi
 
-**Borç:** Firmananın veya kişinin şirketten aldığı mebla sonucu aldığı miktar kadar şirkete borçlanmasıdır.
+**Borç:** Firmanın veya kişinin şirketten aldığı meblağ sonucu aldığı miktar kadar şirkete borçlanmasıdır.
 
 Örneğin bir satıcıya ödeme yapıldığında satıcının hesabına borç olarak işlenir.
 
-**Alacak:** Firmadan veya kişiden şirkete yapılan ödemeler sonucu ödeme miktarı kadar şirkete karşı alacaklı olmasıdıdır. 
+**Alacak:** Firmadan veya kişiden şirkete yapılan ödemeler sonucu ödeme miktarı kadar şirkete karşı alacaklı olmasıdır. 
 
 Örneğin bir müşteriden ödeme alındığında müşterinin hesabına alacak olarak işlenir.
 
@@ -34,15 +34,15 @@ Kısacası Borç-Alacak dengesinin kaydının yapılmasını sağlamaktadır.
 
 Yukarıdaki örnekte firmanın yaptığı satış sonucu **satış faturası**nda ürün değeri kadar alıcıya **borç** yazmıştır. Alıcı ödeme yaptığında ise **alış faturasında** ödeme yapılan miktar kadar **alacak** yazmıştır. Bunun sonucu **borç** ve **alacak** birbirine denk olmuş olup ürün satımıyla Alıcı Bakiyesinden Şirket Bakiyesine 1500TL kadar geçmiş olur.
 
-Kısacası bir yerden bir yere aktarılan mebla ya da mal değeri kadar çıktığı yere **alacak**, gittiği yere **borç** olarak yazılır.
+Kısacası bir yerden bir yere aktarılan meblağ ya da mal değeri kadar çıktığı yere **alacak**, gittiği yere **borç** olarak yazılır.
 
 Borç - alacak takibi iki taraf arasındaki alışverişin kayıt altına alınmasıdır. 
 
-Tüm evraklarda borçların ve alacakların denkleşmesi gerekmektedir. Çünkü mebla girişi olduysa **borç**, çıkışı olduysa **alacak** olarak kaydedilir. 
+Tüm evraklarda borçların ve alacakların denkleşmesi gerekmektedir. Çünkü meblağ girişi olduysa **borç**, çıkışı olduysa **alacak** olarak kaydedilir. 
 
 Cari borç - alacak takibinin düzenli tutulması çok büyük önem arz etmektedir.
 
-Sisteme girilen tüm kayıtlarda. Bir taraf borçlu olurken diğer taraf alacaklı olur. (**Borç** - **Alacak**) = 0 şeklinde olmalıdır. 
+Sisteme girilen tüm kayıtlarda bir taraf borçlu olurken diğer taraf alacaklı olur. (**Borç** - **Alacak**) = 0 şeklinde olmalıdır. 
 Örneğin sisteme bir nakit tahsilat girildiğinde Müşterinin hesabına 1000TL alacak girilir aynı zamanda Kasa 1000TL borçlanır. 
 Yani kasanın bakiyesi 1000TL artar.
 
@@ -71,7 +71,7 @@ hesapların borç ve alacak hareketlerinin takibinin yapıldığı hesaplardır.
 
 ## Kasa
 
-**Kasa:** Şirketlerin nakit giriş ve çıkışını kaydettikleri hesaba denir.
+**Kasa:** Şirketlerin nakit giriş ve çıkışını *Kaydet*tikleri hesaba denir.
 
 Kasadan çıkış yapılabilmesi için kasada nakit para bulunması gerekmektedir. 
 

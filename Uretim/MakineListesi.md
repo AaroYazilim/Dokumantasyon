@@ -9,43 +9,43 @@ SayfaTipi: KartListe
 
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "makine" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Kartlar -> Makine -> Makine Listesi şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "makine" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden *Üretim -> Kartlar -> Makine -> Makine Listesi* şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
 
-Makine, bir ürünün veya bileşenin üretiminde kullanılan herhangi bir ekipman olabilir. 
+Makine, bir ürünün veya bileşenin üretiminde kullanılan herhangi bir ekipman olabilir.  
 Üretim makineleri, üretim hattında farklı işlevlere sahip olabilir; 
-Bazıları hammaddeleri işleyebilir, bazıları montaj yapabilir, bazıları test edebilir ve diğerleri ise ambalajlama gibi son işlemleri gerçekleştirebilir.
+Bazıları ham maddeleri işleyebilir, bazıları montaj yapabilir, bazıları test edebilir ve diğerleri ise ambalajlama gibi son işlemleri gerçekleştirebilir.
 
-Üretimde makineler üretim aşamaların izlenmesi, takip edilmesi, iş emirleri akışı, planlamalar, işin maliyet hesaplamaları gibi detaylar için her verilerin girilmesi gereklidir. 
-Bunlar arasında, iş emirleri akışı, planlamalar, maliyet hesaplamaları, arıza süreleri, bakım süreleri, makine kullanımı ve üretim performansı gibi detaylar yer alır. 
+Üretimde makineler üretim aşamaların izlenmesi, takip edilmesi, iş emirleri akışı, planlamalar, işin maliyet hesaplamaları gibi detaylar için her verilerin girilmesi gereklidir.  
+Bunlar arasında, iş emirleri akışı, planlamalar, maliyet hesaplamaları, arıza süreleri, bakım süreleri, makine kullanımı ve üretim performansı gibi detaylar yer alır.  
 Bu verilerin doğru ve güncel olarak kaydedilmesi, işletmenin üretim sürecini etkili bir şekilde yönetmesine ve planlamasına yardımcı olur.
 
-Üretim makineleri, Aaro ile entegre edildiğinde, verilerin otomatik olarak çekilmesine ve kaydedilmesine olanak sağlar. 
-Bu entegrasyon sayesinde, manuel giriş gereksinimi ortadan kalkar ve verimlilik artar. 
+Üretim makineleri, Aaro ile entegre edildiğinde, verilerin otomatik olarak çekilmesine ve kaydedilmesine olanak sağlar.   
+Bu entegrasyon sayesinde, manuel giriş gereksinimi ortadan kalkar ve verimlilik artar.  
 Ayrıca, üretim makinelerine cihazlar takılarak, bu süreçlerin otomatikleştirilmesi ve verilerin gerçek zamanlı olarak izlenmesi mümkün hale gelir.
 
 ### Ek Özellikler 
 
 - Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
-- Sayfada ki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
+- Sayfadaki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) ile sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
 
-### Yemi Makine Ekle 
+### Yeni Makine Ekle 
 
 #### Genel
 
-**Makine Kodu:** Sistem otomatik kod atar bu kodu kullanabiliriz ya da kendimize özgü kodda verebiliriz.
+**Makine Kodu:** Sistem otomatik kod atar. Bu kodu kullanabilir ya da kendimize özgü kod verebiliriz.
 
-**Makine Adı:** Makinemizin adını giriniz.
+**Makine Adı:** Makinenin adını giriniz.
 
-**Kodlar** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Kodlar hakkında detaylı bilgiler için tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
+**Kodlar:** Reçeteyi gruplamak ve sonrasında gruplu rapor alabilmek için kullanabilirsiniz. Kodlar hakkında detaylı bilgiler için tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
 
-**Etiketler** Reçeteyi gruplamak ve ileride gruplu rapor alabilmek için kullanılanabilirsiniz. Etiketler hakkında detaylı bilgiler için tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
+**Etiketler:** Reçeteyi gruplamak ve sonrasında gruplu rapor alabilmek için kullanabilirsiniz. Etiketler hakkında detaylı bilgiler için tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 #### Konum 
 
-**Bölüm Adı:** Kayıtlardan seçebilirsiniz ya da detaylı ekle yaparak ekleme sağlayabilirsiniz.
+**Bölüm Adı:** Kayıtlardan seçebilir ya da detaylı ekle yaparak ekleme sağlayabilirsiniz.
 
 **X Konumu:** Fabrika da makinenin x eksenindeki konumunu giriniz.
 
@@ -73,37 +73,44 @@ Ayrıca, üretim makinelerine cihazlar takılarak, bu süreçlerin otomatikleşt
 
 **Plan Gösterim Sıra**
 
-## Kaydet butonuna basarak makine tanımalama işlemimimiz tamamlanır, belgeler ve notlar ekranına ulaşım sağlarız.
-## Görev oluşturabilir, görev bağlayabiliriz.
+### *Kaydet* butonuna basarak makine tanımlama işlemimiz tamamlanır, belgeler ve notlar ekranına ulaşım sağlarız.
+### Görev oluşturabilir, görev bağlayabiliriz.
 
 ### Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlardaki belgeleri buraya yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> Belgeyi seç
+-> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seç -> Belgeyi ya da belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
 ### Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
 
 ### Kayıt Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+Kartın hangi kullanıcı tarafından hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
 
 Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
-- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
+ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
+- [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
 - Görev Oluştur
 - Görev Bağla

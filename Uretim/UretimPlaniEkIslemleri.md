@@ -15,12 +15,12 @@ SayfaTipi: PlanDetay
 
 **Detay:**
 
-### Mamüller
+### Mamuller
 
-**Mamül Adı:** Mamül adına tıkladığımızda mamülün stok kartı açılacaktır. 
-	Stok detaylarını görüntüleyebiliriz birim1, stok kodu, kategori, alış, satış fiyatları, barkod ve ölçü birimlerinde değişiklik yapabiliriz.
+**Mamul Adı:** Mamul adına tıkladığımızda mamulün stok kartı açılacaktır. 
+	Stok detaylarını görüntüleyebilir; birim1, stok kodu, kategori, alış, satış fiyatları, barkod ve ölçü birimlerinde değişiklik yapabiliriz.
 
-**Miktar:** Mamülümüzün olması gereken miktarını girelim. 
+**Miktar:** Mamulümüzün olması gereken miktarını girelim. 
 
 **Birim:** Miktar birim cinsi, kg, adet, metrekare vb. burada yazar.
 
@@ -29,9 +29,9 @@ SayfaTipi: PlanDetay
 ### Ham maddeler
 
 **Ham madde Adı:** Ham madde adına tıkladığımızda ham maddenin stok kartı açılacaktır. 
-	Stok detaylarını görüntüleyebiliriz birim1, stok kodu, kategori, alış, satış fiyatları, barkod ve ölçü birimlerinde değişiklik yapabiliriz.
+	Stok detaylarını görüntüleyebilir; birim1, stok kodu, kategori, alış, satış fiyatları, barkod ve ölçü birimlerinde değişiklik yapabiliriz.
 
-**Miktar:** Hammaddemizin olması gereken miktarını girelim. 
+**Miktar:** Ham maddemizin olması gereken miktarını girelim. 
 
 **Birim:** Miktar birim cinsi, kg, adet, metrekare vb. burada yazar.
 
@@ -45,23 +45,23 @@ SayfaTipi: PlanDetay
 
 ### Üretim Süreçleri
 
-**Başlangıç** Operasyona başlama saatini giriniz.
+**Başlangıç:** Operasyona başlama tarihini giriniz.
 
-**Bitiş** Operasyonun bitiş tarihini giriniz.
+**Bitiş:** Operasyonun bitiş tarihini giriniz.
 
-**Hazırlık Süre** Operasyona hazırlık süresi, makine ne kadar sürede ısındı gibi operasyona başlamadan önce geçen süredir.
+**Hazırlık Süre:** Operasyona hazırlık süresi, makine ne kadar sürede ısındığı gibi operasyona başlamadan önce geçen süredir.
 
-**Üretim Süre** Operasyonun üretim süresi, ne kadar sürede yapıldığıdır.
+**Üretim Süre:** Operasyonun üretim süresi, ne kadar sürede yapıldığıdır.
 
-**Duraklama Süre** Makine bozulduğunda ya da makine arızaları gibi duraklamalar olduğunda ne kadar süre arıza verdi ise o süreyi gireceğimiz alandır.
+**Duraklama Süre:** Makine bozulduğunda ya da makine arızaları gibi duraklamalar olduğunda ne kadar süre arıza verdi ise o süreyi gireceğimiz alandır.
 
-**Mola Süre** Personel ne kadar süre mola verdi ise o süreyi gireceğimiz alandır. 
+**Mola Süre:** Personel ne kadar süre mola verdi ise o süreyi gireceğimiz alandır. 
 
 
 ### Duraklama Nedeni
 
-**Neden** Operasyonun neden duraklamaya uğradığının detayını girdiğimiz alandır. Makine bozuldu, arızalandı gibi nedenleri belirttiğimiz yerdir. 
-Kayıtlı nedenleri listeden seçebilirsiniz, yeni bir neden eklemek için detaylı ekle yaparak hızlıca ekleme yapabilirsiniz.
+**Neden:** Operasyonun neden duraklamaya uğradığının detayını girdiğimiz alandır. Makine bozuldu, arızalandı gibi nedenleri belirttiğimiz yerdir. 
+Kayıtlı nedenleri listeden seçebilir, yeni bir neden eklemek için detaylı ekle yaparak hızlıca ekleme yapabilirsiniz.
 
 ### Üretim Açıklama
 
@@ -77,7 +77,7 @@ Operasyona ait detayları ve özel açıklamalar burada belirtilmelidir.
 
 ## Üretilen 
 
-Burada İş emrinin ne kadarı gerçekleştirilen miktar görünür. Tıklayarak hareketlerine erişim sağlayabiliriz.
+Burada iş emrinin ne kadarı gerçekleştirildiği görünür. Tıklayarak hareketlerine erişim sağlayabiliriz.
 
 ## Parçala
 
@@ -87,15 +87,17 @@ Burada İş emrinin ne kadarı gerçekleştirilen miktar görünür. Tıklayarak
 
 Operasyonların iş emri çıktıları buradan alınarak ilgili kişilere iletilebilir. Bu sayede, her adımın takibi kolayca yapılabilir ve işlemlerin doğru kişilere ulaşması sağlanır.
 
-İş emri operasyon çıktıları sisteme tanımlayalım;
+İş emri operasyon çıktılarını sisteme tanımlayalım;
 
-İlk olarak iş emri operasyon alanımızdan çıktı tasarım ID numaramızı öğrenmemiz gerekmektedir.
+İlk olarak iş emri operasyon alanımızdan çıktı tasarım ID numaramızı öğrenmemiz gerekmektedir.   
+
 Üretim -> Listeler -> Üretim Planı -> Herhangi bir operasyonun üzerine tıklayalım -> Y.I. -> En üst arama çubuğunda ki linkte IsEmriPlanID= ... Burada yazan 5 haneli numara bizim tasarım ID'mizdir.
 
-ID'mizi öğrendikten bir sonra ki işlemimiz parametrelerden iş emri operasyon çıktısına tasarım ID tanımlamamız gerekmektedir.
-Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: Uretim_IsEmriPlanCiktisi (Üretim Planı) -> Değer=TasarımID -> Kaydet diyerek eşleştirmemizi tamamlayalım.
+ID'mizi öğrendikten bir sonra parametrelerden iş emri operasyon çıktısına tasarım ID tanımlamamız gerekmektedir.
 
-Tasarımlarımızda düzenleme yapmak istediğimizde;
+Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: Uretim_IsEmriPlanCiktisi (Üretim Planı) -> Değer=TasarımID -> *Kaydet* diyerek eşleştirmemizi tamamlayalım.
+
+Tasarımlarımızda düzenlemeyi;
 Ayarlar -> Çıktı Listesi -> İş Emri -> İlgili tasarımı seçelim -> Tasarla diyerek düzenleme yapabiliriz.
 
 Bir günün tüm operasyon çıktılarının tamamını almak istersek;
@@ -108,13 +110,15 @@ Siparişle üretimi birbirine bağlayan istifleme barkodudur.
 İş emrinde istifleme barkodu, üretim sürecinde kullanılan malzemelerin veya tamamlanmış ürünlerin izlenebilirliğini ve doğru şekilde istiflenmesini sağlamak amacıyla kullanılan bir barkod sistemidir. 
 Bu barkodlar, malzeme veya ürünlerin depolanması, taşınması ve takibi süreçlerinde büyük kolaylık sağlar.
 
-İstifleme Barkod çıktıları sisteme tanımlayalım;
+İstifleme Barkod çıktılarını sisteme tanımlayalım;
 
 İlk olarak iş emri operasyon alanımızdan çıktı tasarım ID numaramızı öğrenmemiz gerekmektedir.
+
 Üretim -> Listeler -> Üretim Planı -> Herhangi bir operasyonun üzerine tıklayalım -> Y.Br. -> En üst arama çubuğunda ki linkte IsEmriPlanID= ... Burada yazan 5 haneli numara bizim tasarım ID'mizdir.
 
-ID'mizi öğrendikten bir sonra ki işlemimiz parametrelerden iş emri operasyon çıktısına tasarım ID tanımlamamız gerekmektedir.
-Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: Uretim_IsEmriPlanCiktisi (Üretim Planı) -> Değer=TasarımID -> Kaydet diyerek eşleştirmemizi tamamlayalım.
+ID'mizi öğrendikten bir sonra, parametrelerden iş emri operasyon çıktısına tasarım ID tanımlamamız gerekmektedir.
+
+Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: Uretim_IsEmriPlanCiktisi (Üretim Planı) -> Değer=TasarımID -> *Kaydet* diyerek eşleştirmemizi tamamlayalım.
 
 Tasarımlarımızda düzenleme yapmak istediğimizde;
 Ayarlar -> Çıktı Listesi -> İş Emri -> İlgili tasarımı seçelim -> Tasarla diyerek düzenleme yapabiliriz.

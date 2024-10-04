@@ -9,7 +9,7 @@ SayfaTipi: KartListe
 
 ### Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Demirbaş kartı listesi" aratarak ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Demirbaş kartı listesi" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden Demirbaş -> Demirbaş Modülü -> Demirbaş Kartı Listesi şeklinde ulaşım sağlayabilirsiniz. 
 - Sol menüden Demirbaş -> Listeler -> Demirbaş Kartı Listesi üzerinden ulaşım sağlayabilirsiniz.
 
@@ -22,12 +22,20 @@ SayfaTipi: KartListe
 ### Ek Özellikler 
 
 - Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
-- Sayfada ki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
+- Sayfadaki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) ile sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
 
 
 ### Ek İşlem Butonu
 
-- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+- Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
+
+
+
+
+
+
+
+
 	- [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 	- [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
 	- [Listeyi Excele Aktar](../TemelOzellikler/ListeyiExceleAktar.md)

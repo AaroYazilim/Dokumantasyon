@@ -9,7 +9,7 @@ SayfaTipi: Modul
 
 Bu kısımda; Kasadan gerçekleşen her işlem için bu kısmı kullanmamız gerekmektedir. 
 Kasa ile ilgili kartları bu modül aracılığıyla ekleyebilir ve düzenleyebiliriz.
-Tahsilatlar, transferler, giriş, çıkışlar bütün hareketleri işlemleri işleyeceğimiz yerdir. 
+Tahsilatlar, transferler, giriş, çıkışlar bütün hareketleri ve işlemleri işleyeceğimiz yerdir. 
 Düzenli tutmamız hareket takibi yapabilmemiz için çok önemlidir.
 
 - İşletmenizin kasa hesabına yapılan nakit giriş ve çıkış işlemlerinizi kaydedebilirsiniz. Bu, nakit satışlar, nakit ödemeler, nakit tahsilatlar gibi işlemleri içerir.
@@ -70,5 +70,5 @@ Düzenli tutmamız hareket takibi yapabilmemiz için çok önemlidir.
 - Muhasebeleşme Parametreleri
 	- Muhasebelesme_KasaBorcMuhKodu (Muhasebeleşme Kartları): Hesap planında hangi ana hesabın altına otomatik olarak hesap açılacağını tanımlar. Kasa Borç için ön değeri 100'dür.
 	- Muhasebelesme_KasaAlacakMuhKodu (Muhasebeleşme Kartları): Hesap planında hangi ana hesabın altına otomatik olarak hesap açılacağını tanımlar. Kasa Alacak için ön değeri 100'dür.
-	- Muhasebelesme_KasaOtomatikYeniAc (Muhasebeleşme Kartları): Yeni Kasa Kartı açılırken otomatik Yeni Muhesebeleşme Kartımı yapılsın yoksa mevcut Muhesebeleşme Kartlarından mı seçsin onu belirtir.
-	- Muhasebelesme_KasaStandart (Muhasebeleşme Kartları): Yeni Kasa Kartı açılırken otomatik hangi Muhesebeleşme Kartı ile eşleştirilecegini belirtir. 'OtomatikYeniAc' parametresi 'Hayır' secildi ise çalışır.
+	- Muhasebelesme_KasaOtomatikYeniAc (Muhasebeleşme Kartları): Yeni Kasa Kartı açılırken otomatik Yeni Muhesebeleşme Kartı mı yapılsın yoksa mevcut Muhesebeleşme Kartlarından mı seçsini belirtir.
+	- Muhasebelesme_KasaStandart (Muhasebeleşme Kartları): Yeni Kasa Kartı açılırken otomatik olarak hangi Muhesebeleşme Kartı ile eşleştirileceğini belirtir. 'OtomatikYeniAc' parametresi 'Hayır' seçildi ise çalışır.
