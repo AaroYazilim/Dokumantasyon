@@ -108,14 +108,13 @@ Kart iş akışı süreçlerine dahil edildiğinde hangi kullanıcı tarafından
 
 ### Kalem Ekleme
 
-- Yeni Stok Kalemi Ekle: 
-- Yeni Gelirgider Kalemi Ekle: 
-- Yeni Demirbaş Kalemi Ekle: 
-- Yeni Demirbaş Kalemi Ekle: 
-- Yeni Vergi Kalem Ekle: 
-- Yeni Cari Kalemi Ekle: 
-- Yeni Kasa Kalemi Ekle: 
-- Yeni Banka Kalemi Ekle: 
+- Yeni Stok Kalemi Ekle: Karma transfer hareketi için stok kalemini ifade eder. 
+- Yeni Gelirgider Kalemi Ekle: Karma transfer hareketi için gelir gider kalemini ifade eder. 
+- Yeni Demirbaş Kalemi Ekle: Karma transfer hareketi için demirbaş kalemini ifade eder. 
+- Yeni Vergi Kalem Ekle: Karma transfer hareketi için vergi kalemini ifade eder. 
+- Yeni Cari Kalemi Ekle: Karma transfer hareketi için cari kalemini ifade eder. 
+- Yeni Kasa Kalemi Ekle: Karma transfer hareketi için kasa kalemini ifade eder. 
+- Yeni Banka Kalemi Ekle: Karma transfer hareketi için banka kalemini ifade eder. 
 
 
 ## Kaydetme ve Silme
@@ -138,12 +137,11 @@ Elbette, işte metindeki hataları düzeltilmiş hali:
 - Çıktılar program üzerinden e-mail olarak gönderilebilir.
 
 ## Düzenleme 
-## Düzenleme 
 
+Karma transfer hareketine ekleme yapmak ya da herhangi bir düzeltme yapmak için kalem işaretini seçerek açılan ekranda düzenlemeleri yapabiliriz.
 Verilen siparişimize ekleme yapmak ya da herhangi bir düzeltme yapmak için kalem işaretini seçerek açılan ekranda düzenlemeleri yapabiliriz.
 Verilen siparişimize ekleme yapmak ya da herhangi bir düzeltme yapmak için kalem işaretini seçerek açılan ekranda düzenlemeleri yapabiliriz.
 
-## Ek İşlemler
 ## Ek İşlemler
 
 Sayfanın sağ üstünde bulunan, üst üste üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.

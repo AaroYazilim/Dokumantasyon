@@ -3,7 +3,7 @@ SayfaID: VerilenSiparis
 SayfaTipi: Siparis
 ---
 
-# Verilen Teklif
+# Verilen Sipariş
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaVerilenSiparis](erp.aaro.com.tr/FaturaVerilenSiparis)
 
