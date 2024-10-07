@@ -6,7 +6,7 @@ Sayım farkını nasıl silebilirim?
 
 **Cevap:**
 
- **Stok modülü -> Stok Haraketleri Listesi -> stok Hareketleri** adımlarını izleyerek işlem sayfasına ulaşabilirsiniz.  
+**Stok modülü -> Stok Haraketleri Listesi -> Stok Hareketleri** adımlarını izleyerek işlem sayfasına ulaşabilirsiniz.  
 Stok sayım farkımıza gelelim, büyütece basarak ya da çift tıklayarak detayına girelim.
 Kalem işaretine tıklayalım, sol alt köşedeki sil butonundan silelim.
 
@@ -14,7 +14,7 @@ Kalem işaretine tıklayalım, sol alt köşedeki sil butonundan silelim.
 
 **Cevap:**  
 
- **Stok Modülü -> Hareket Oluştur -> Devir -> İlgili Depo -> Yeni Stok Kalemi Ekle -> Stok Seçimi** adımlarını izleyip miktar girişini gerçekleştirebilirsiniz.
+**Stok Modülü -> Hareket Oluştur -> Devir -> İlgili Depo -> Yeni Stok Kalemi Ekle -> Stok Seçimi** adımlarını izleyip miktar girişini gerçekleştirebilirsiniz.
 Ardından *Kaydet*e tıklayıp işlemi tamamlayın.
 
 **Soru:** Kesilen faturada stok kodu nasıl görüntülenir?
@@ -27,20 +27,21 @@ Sonrasında "eDonusum_KalemdeStokKoduBilgisiGonderilsin (E-Fatura)" parametresin
 **Soru:** Yanlış açılan stok ve cari kayıtlarının düzeltilmesi ve hareketlerinin taşınması nasıl yapılır?
 
 **Cevap:** 
-**Soru:** Fiyat listesi düzenleme şablonları ve bu şablonların tekrar yüklenmesi nasıl yapılır?
-
 Yanlış açılan stok kartına hareket eklenmişse, ilgili hareketin bulunduğu yere gidip kartı değiştirmeniz gerekir.
 Örneğin, bir satış faturasında yanlış stok kalemini düzeltmek için:   
 Faturanın yevmiye fişinden muhasebeleştirme onayı ve kilidini kaldırın.
 Faturanın içeriğine gidip, yanlış kalemleri doğru kalemlerle değiştirin.
 Yanlış kalemin hareketi kalmadığında, ilgili stok kartını listeden çıkarabilirsiniz.
-**Cevap:** Rapor -> Stok -> Fiyat -> Fiyat Listesi Aktarım/Düzeltme Şablonu kısmına gidelim ve sistemde yer alan fiyat listelerini indirip düzenleyelim,
-Ayarlar -> Modül Sayfası -> Dışarıdan Aktarma -> Stok -> Fiyat Listesi Aktarma şeklinde tekrardan yükleyebiliriz.
+
+**Soru:** Fiyat listesi düzenleme şablonları ve bu şablonların tekrar yüklenmesi nasıl yapılır?
+
+**Cevap:** *Rapor -> Stok -> Fiyat -> Fiyat Listesi Aktarım/Düzeltme Şablonu* kısmından mevcut fiyat listelerini indirip düzenleyin.  
+*Ayarlar -> Modül Sayfası -> Dışarıdan Aktarma -> Stok -> Fiyat Listesi Aktarma* yolunu izleyerek tekrar yükleyin.
 
 **Soru:** Stok sayımı nasıl yapılır ?
-**Soru:** Fiyat listesi düzenleme şablonları nasıl düzenlenip tekrar yüklenir?
 
-**Cevap:** Stoklarımızın sayımlarını yaptıktan sonra birden çok kalem var ise excel doldurarak aktarmak bizler için kolaylık sağlayacaktır.
+**Cevap:** 
+Stoklarımızın sayımlarını yaptıktan sonra birden çok kalem var ise excel doldurarak aktarmak bizler için kolaylık sağlayacaktır.
 Öncelikle stok sayım girişi kaydı oluşturmamız gerekmektedir; 
 Stok -> Stok Sayım Listesi -> Yeni Stok Sayım Girişi Ekle -> Sayım yapılan depomuzu seçelim -> Gerekli alanları doldurduktan sonra "Kaydet" diyerek stok sayım girişi kaydımızı tamamlayabiliriz.
 Açılan ekranda ürünleri tek tek girerek veya "Sayılmayan stoklardan ekle" seçeneğini kullanarak toplu bir seçim yapabiliriz. 
@@ -56,31 +57,6 @@ Excelimizi doldurduktan sonra sistemimize sayım girişimizi yapabiliriz;
 Stok Sayım Dışarıdan Aktarma ekranına gelerek, Dosya Seç -> Dosyamızı seçelim -> Sayım Giriş Listesi -> Açtığımız sayım girişi listemizi seçelim -> Şablonu Yükle diyelim.
 Sayım girişimizi sisteme excel ile toplu aktarım sağlamış olduk, sayım girişimizi stoklarımıza işleyelim;
 Stok -> Stok Sayım Listesi -> Sayım girişimize girelim -> Stoğa İşle diyerek stoklarımıza işleyerek sayım girişimizi tamamlayalım.
-**Cevap:**
-
-**Soru:** Elimde tek bir ürün farkı var bunu nasıl işleyeceğim ?
-*Rapor -> Stok -> Fiyat -> Fiyat Listesi Aktarım/Düzeltme Şablonu* kısmından mevcut fiyat listelerini indirip düzenleyin.  
-*Ayarlar -> Modül Sayfası -> Dışarıdan Aktarma -> Stok -> Fiyat Listesi Aktarma* yolunu izleyerek tekrar yükleyin.
-
-**Cevap:** Ters kayıt girerek işleyeceğiz, Stok -> Hareket Oluştur -> Devir -> Depomuzu seçelim -> 
-Yeni Stok Kalemi Ekle -> Borç-Alacak seçelim -> Stok kartını seçelim -> İlgili alanları doldurarak işlemimizi kaydedelim.
-**Soru:** Stok sayımı nasıl yapılır?
-
-**Cevap:**
-
-Yöntem 1:
-
-Stok -> Stok Sayım Girişi kısmına gidin.
-Depoyu seçin, açıklama, proje, plasiyer bilgilerini girip kaydedin.
-Stokları, miktarları ve (varsa) seri/lot ve raf kodlarını ekleyin.
-Gerekli alanları doldurup kaydedin.
-
-Yöntem 2:
-
-Excel dosyası ile stok adı, miktar ve açıklama bilgilerini aktarabilirsiniz.
-*Ayarlar -> Dışarıdan Aktarma -> Stok Aktarmaları -> Stok Sayım Aktarma -> Excel Şablonu İndir* yolunu izleyin.
-Şablonu doldurup kaydedin, ardından dosyayı seçip yükleyin.
-Sayım giriş listesi seçerek detaylı bir liste de oluşturabilirsiniz.
 
 **Soru:** Elimde tek bir ürün farkı var bunu nasıl işleyeceğim ?
 
@@ -93,8 +69,6 @@ Yeni Stok Kalemi Ekle -> Borç-Alacak seçelim -> Stok kartını seçelim ->* İ
 
 **Cevap:** Reçeteler işlem yapıldıkça hammadde, yarı mamül ve mamüller üretilip üretim hareketi girildikçe sistemden otomatik olarak düşmektedir.
 
-
-
 ## Satış&Pazarlama Soruları
 
 **Soru:** Siparişin açık kaleminin ne kadar olduğunu ve ne kadarının sevkedildiğini nasıl görebilirim ?
@@ -103,23 +77,22 @@ Yeni Stok Kalemi Ekle -> Borç-Alacak seçelim -> Stok kartını seçelim ->* İ
 
 Satış&Pazarlama modülünden -> Alınan Sipariş Listesi -> Siparişimizi seçelim -> Kısayollar -> Sevkiyat Detayları şeklinde ulaşım sağlayabiliriz.
 
+Tüm siparişlerin sevkiyat detaylarını görmek için sevkiyat detaylarındayken kalem işaretinde düzenle diyerek filtreleme yaparak istediğiniz aralıktaki 
+siparişlerinizin sevkiyat detaylarına erişim sağlayabilirsiniz.
 
-Tüm siparişlerin sevkiyat detaylarını görmek için sevkiyat detaylarındayken kalem işaretinde düzenle diyerek filtreleme yaparak istediğiniz aralıktaki siparişlerinizin sevkiyat detaylarına erişim sağlayabilirsiniz.
+Bir diğer yöntem ise Rapor -> Sipariş/Teklif -> Hareket -> Sipariş Sevkiyat Detayları (Arama kısmına sevkiyat yazarak da erişim sağlayabilirsiniz) -> 
+Tarih aralığını seçelim -> Cari seçelim -> Sadece Açık Siparişler seçili olmalı -> Raporla -> Yazdır/İndir şeklindedi listelemektir.
 
 **Soru:** Cari siparişlerin sevkiyatlarını nasıl görüntüleyebilirim, liste yapmak istiyorum.
 
 **Cevap:** Alınan sipariş hareketlerini -> Cariyi seçelim -> Tarih aralığını seçelim -> Üç işlem butonundan Listeyi Excele Aktar diyerek listeyi excel formatında indirebilirsiniz. 
 
-Excele indir gelmiyor ise yetkiniz olmayabilir kontrol edelim.  
+*Excele indir gelmiyor ise yetkiniz olmayabilir kontrol edelim.*  
 
 **Soru:** Verilen teklifi siparişleştir dediğimde geçerlilik tarihi geçmiştir diye uyarı veriyor ne yapmam gerekiyor ?
-Bir diğer yöntem ise Rapor -> Sipariş/Teklif -> Hareket -> Sipariş Sevkiyat Detayları (Arama kısmına sevkiyat yazarak da erişim sağlayabilirsiniz) -> 
-Tarih aralığını seçelim -> Cari seçelim -> Sadece Açık Siparişler seçili olmalı -> Raporla -> Yazdır/İndir şeklindedi listelemektir.
 
-**Cevap:** Verilen teklifimizi açalım, detay kısmında geçerlilik tarihi yer almaktadır tarihi güncel tarihle değiştirdiğimizde siparişleştirme yapabiliriz.
-**Soru:** Verilen teklifi siparişleştir dediğimde geçerlilik tarihi geçmiştir diye uyarı veriyor ne yapmam gerekiyor ?
-
-**Cevap:** Verilen teklifimizi açalım, detay kısmında geçerlilik tarihi yer almaktadır tarihi güncel tarihle değiştirdiğimizde siparişleştirme yapabiliriz.
+**Cevap:** 
+Verilen teklifimizi açalım, detay kısmında geçerlilik tarihi yer almaktadır tarihi güncel tarihle değiştirdiğimizde siparişleştirme yapabiliriz.
 
 ## Çek Senet Soruları
 
@@ -140,11 +113,10 @@ Buradan çeki ciro edeceğimiz cariyi seçelim, döviz türünü seçelim *Kayde
 
 ## Müşteri/Satıcı Soruları 
 
-**Soru:** Carini açık siparişlerinin sevkiyat listesini nasıl görüntüleyebilirim nasıl indirebilirim?
+**Soru:** Carinin açık siparişlerinin sevkiyat listesini nasıl görüntüleyebilirim nasıl indirebilirim?
 
 **Cevap:** Siparişlerin sevkiyatlarını görüntülemek için; 
 Satış&Pazarlama -> Listeler -> Alınan Sipariş Hareketleri -> Cariyi seçelim -> Tarihi seçelim -> Listeyi Excele Aktar diyerek listeyi excele aktarımını gerçekleştirebiliriz.
-**Cevap:** Siparişlerin sevkiyatlarını görüntülemek için; Satış&Pazarlama -> Listeler -> Alınan Sipariş Hareketleri -> Cariyi seçelim -> Tarihi seçelim -> Listeyi Excele Aktar diyerek listeyi excele aktarımını gerçekleştirebiliriz.
 
 Bir diğer yöntem ise;
 Rapor -> Sipariş/Teklif -> Hareket -> Sipariş Sevkiyat Detayları -> Alınan Sipariş -> Cariyi seçelim -> Sadece Açık Siparişler seçeneğini seçelim -> Raporla şeklinde erişim sağlamaktır.
@@ -168,18 +140,14 @@ Banka hesapları arası transfer detayları için lütfen linke tıklayınız. [
 **Cevap:** Kasadan ve bankadan gelir/gider hareketi seçeneği ile cari kaydı yapılmadan işlem yapılabilir.  
 Örneğin; Bim marketinden alınan ürünü banka kartı ile ödeme yapılarak alındığını düşünelim bankadan gider hareketi seçilerek ilgili 
 banka hesabı seçilip kayıt işleminden sonra gider kartı (Temizlik Giderleri, Mutfak Giderleri, Yemek Giderleri vb.) 
-eklenip tutar girilir.    
-Gerekirse açıklama da eklenerek raporlardan alınabilir.
 eklenip tutar girilir, açıklama kısmında detay belirtilir bu da raporlama da kolaylık sağlar.
-
 
 **Soru:** Personel maaşlarını bankadan nasıl gösterebilirim?
 
- **Cevap:** Bankalar içerisinde maaş ödeme hesabına para aktarıp personel maaş ödemesi çıkabilirsiniz.
+**Cevap:** Bankalar içerisinde maaş ödeme hesabına para aktarıp personel maaş ödemesi çıkabilirsiniz.
     
 	 Banka -> Hareket -> Yeni Banka Hesap Kartı -> 
 
-**Soru:** Kredi kartını nasıl takip ediyoruz,ödemelerini nasıl yapacağız?
 	**Soru:** Personel maaşlarını bankadan nasıl gösterebilirim?
 	
 	?? **Cevap:** Bankalar içerisinde maaş ödeme hesabına para aktarıp personel maaş ödemesi çıkabilirsiniz.
@@ -188,6 +156,8 @@ eklenip tutar girilir, açıklama kısmında detay belirtilir bu da raporlama da
 	**Soru:** Kredi kartını nasıl takip ediyoruz ödemelerini nasıl yapacağız?
 	
 	??? **Cevap:** Ödeme zamanı geldiğinde kredi carisine diğer bankadan transfer yapıyoruz.
+
+**Soru:** Kredi kartını nasıl takip ediyoruz,ödemelerini nasıl yapacağız?
 
 **Cevap:** Ödeme zamanı geldiğinde kredi carisine diğer bankadan transfer yapıyoruz.
 
@@ -282,7 +252,8 @@ Fatura kalemlerinin tutarını, toplam tutarını kontrol edelim, fatura tipi: �
 
 **Soru:** İhraç kayıtlı e-arşiv fatura nasıl kesilir?
 
-**Cevap:** Normal satış faturası kaydı girilir burada dikkat edilmesi gereken hususlar; stok kartında GTIP kodu belirtilmelidir, KDV istisnası KDV de belirtilmelidir.(KDV girilerek sıfırlanmamalıdır)
+**Cevap:** Normal satış faturası kaydı girilir burada dikkat edilmesi gereken hususlar; stok kartında GTIP kodu belirtilmelidir, 
+KDV istisnası KDV de belirtilmelidir.(KDV girilerek sıfırlanmamalıdır)
 Fatura tamamlandıktan sonra e-Arşiv fatura gönder seçeneğinden sonra karşımıza çıkan ekranda ihraç kayıtlı seçeneği seçmemiz gerekmektedir.
 
 ## Fatura Soruları 
@@ -315,11 +286,13 @@ Entegratör firma ya evraklar,sözleşme ve istenilen kontör miktarı ile birli
 
 **Soru:** Muafiyetli fatura nasıl kesilir ? Faturalara nasıl muafiyet eklenir ?
 
-
 **Cevap:** Satış Faturası hareketi normal olarak girilir.  
 Bu harekette girilen her kart açılarak (Satış faturası alanında her kalemin yanında bulunan büyüteçten erişim sağlayabilirsiniz) 
 KDV'nin altında yer alan muafiyet ekleme seçeneği ile açılan bölümden ilgili muafiyet nedeni seçilir ve kaydedilir. 
-Eğer birden fazla kart ekli ise her kart için aynı şekilde muafiyet eklenir.
+Eğer birden fazla kart ekli ise her kart için aynı şekilde muafiyet eklenir. 
+Eğer tüm kalemlerin muafiyetleri aynıysa, örneğin hepsi 17/1 Kültür ve Eğitim Amacı Taşıyan İşlemler (201) kapsamındaysa, bu muafiyetten muafiyet eklenecek ise;
+Üç işlem butonu -> Tüm Kalemde Değiştir -> Vergi Muafiyeti seçelim: 17/1 Kültür ve Eğitim Amacı Taşıyan İşlemler  (201) muafiyet kodumuzu seçelim -> Vergileri Yenile seçelim -> 
+Kaydet diyerek tüm kalemlere aynı muafiyet kodunu tanımlama işlemimizi tamamlayabiliriz.
 
 **Soru:** Bir faturayı iptal ettik Aaro'dan ve foriba'dan tekrar fatura kesmek istediğimizde foribada numara gözüktüğü için tekrar kesemiyoruz ne yapmamız lazım ?
 
@@ -399,10 +372,6 @@ Avukat gideri kartımızı açtık, alış faturamızı girebiliriz;
 Müşteri&Satıcı -> Hareket Oluştur -> Alış Faturası -> Avukata açtığımız cariyi seçelim -> *Kaydet* -> Kalemimizi dolduralım;
 GelirGider seçelim -> Avukat gideri olarak açtığımız kartı seçelim -> Miktar 1 seçelim -> 
 Tutarı girelim -> Depomuzu GelirGider Depomuzu seçelim -> Ekleyeceğimiz detaylar ekleyip tutarı kontrol edip *Kaydet* diyelim.
-
-
-
-
 
 **Soru:** Tek bir hareket için KDV oranı nasıl değiştirilir?
 
@@ -570,7 +539,7 @@ seçip ilgili diğer hesabı ise borç olarak seçiyoruz ve karma transfer harek
 
 ## Devir
 
-**Soru:** Belli bir tarihten önceki işlemlerin devir olarak görünmesi??????????
+**Soru:** Belli bir tarihten önceki işlemlerin devir olarak görünüyor, firmaların geçmiş hareketlerini nasıl görüntüleyebiliriz ?
 
 **Cevap:** Sistemde otomatik  olarak hareketler listesinde belirli bir tarihten öncesini devir olarak toplam tutarını getirir.   
 Firmalarımız bu olayda hareketlerini göremiyor. Hareketlerin detayını görebilmesi için filtreleme bölümünde yer alan başlangıç tarihi kısıtını 
@@ -595,7 +564,7 @@ Rapor -> Stok -> Toplam -> Stok Hareketleri Miktar Toplamları (StokAdına göre
 
 **Cevap:** Rapor -> Üretim -> Planlama -> Operasyon Bazında Planlama (Makine,Mamül) şeklinde raporlarına erişim sağlayabiliriz. 
 
-**Soru:** Depoya göre malzeme mevcudu raporlarına nasıl alabilirim ?
+**Soru:** Depoya göre malzeme mevcudu raporlarını nasıl alabilirim ?
 
 **Cevap:** Rapor -> Stok -> Toplam -> Malzeme Mevcudu -> Depo kısmında rapor almak istediğimiz depoyu seçelim -> Raporla diyerek, raporumuza ulaşım sağlayabiliriz.
 
@@ -619,7 +588,8 @@ Müşteri/Satıcı -> Müşteri/Satıcı Kartlar Listesi -> Carimizi açalım ->
 
 ## POS Tahsilat Soruları 
 
-**Soru:** PayTR, iyzico, MokaPos vs. gibi aracı bir entegratör firmayla çalışıyoruz. Yapılan tahsilatları ve faturaları sisteme nasıl işlemeliyiz? Komisyon faturalarını, ve kalan fatura tutarını nasıl takip ederiz?  Kalan alacağımızı nasıl takip ederiz?
+**Soru:** PayTR, iyzico, MokaPos vs. gibi aracı bir entegratör firmayla çalışıyoruz. Yapılan tahsilatları ve faturaları sisteme nasıl işlemeliyiz? 
+Komisyon faturalarını, ve kalan fatura tutarını nasıl takip ederiz?  Kalan alacağımızı nasıl takip ederiz?
 
 **Cevap:** İki yöntem ile takip edebiliriz;
 
@@ -636,18 +606,18 @@ Kalan 195 tl'yi EFT/Havale olarak banka hesabımıza gönderdi.
 	Müşteri/Satıcı -> Hareket Oluştur -> Müsteri / Satıcı hesapları arası transfer -> 
 		1. Alacaklı seçelim -> Bize ödeme yapan carimizi seçelim -> Tutarı örneğin 200 tl girelim.
 		2. Borçlu seçelim -> Bu karıtını açtığımız entegratör firması olacak. Örneğin "Pos Entegratör". 
-		Bu şekilde pos çeken müşterimiz bizden 200mtl alacaklandı ve entegratör firma 200tl borçlandı.
+		Bu şekilde pos çeken müşterimiz bizden 200 ₺ alacaklandı ve entegratör firma 200 ₺ borçlandı.
 		
 3. Entegratör firmasi bize Komisyon faturası kestiğinde Alış faturası olarak girelim;
-	Müşteri/Satıcı -> Hareket Oluştur -> Alış Faturası -> Carimizi açtığımız entegratör carisi seçelim -> GelirGider seçelim -> Pos Komisyon olarak tanımlayabiliriz -> Miktar 1 -> Tutar 5 tl -> *Kaydet* diyerek tamamlayalım.
-	Bu şekilde entegratör firmanın bize olan borcu 5tl azalarak 195tl oldu.
+	Müşteri/Satıcı -> Hareket Oluştur -> Alış Faturası -> Carimizi açtığımız entegratör carisi seçelim -> GelirGider seçelim -> Pos Komisyon olarak tanımlayabiliriz -> Miktar 1 -> Tutar 5 ₺ -> *Kaydet* diyerek tamamlayalım.
+	Bu şekilde entegratör firmanın bize olan borcu 5 ₺ azalarak 195 ₺ oldu.
 
 4. Entegratör firmadan bize ödeme geldiğinde, EFT/Havale alma girişini yapalım;
-	Banka -> Hareket Oluştur -> Havale/EFT Alma -> Hangi bankamıza geldiğini seçelim -> Cari -> Açtığımız entegratör carisini seçelim -> Tutar 195 tl -> *Kaydet* diyerek işlemi tamamlayalım.
+	Banka -> Hareket Oluştur -> Havale/EFT Alma -> Hangi bankamıza geldiğini seçelim -> Cari -> Açtığımız entegratör carisini seçelim -> Tutar 195 ₺ -> *Kaydet* diyerek işlemi tamamlayalım.
 	Bu şekilde entegratör firmanın bize bir borcu kalmamış oldu. 
-	Hesabımızda 195 tl oldu.
-	5Tl komisyon giderimiz oldu.
-	POS Ödeme yapan müşterimizin 200tl alacağı oldu.
+	Hesabımızda 195 ₺ oldu.
+	5 ₺ komisyon giderimiz oldu.
+	POS Ödeme yapan müşterimizin 200 ₺ alacağı oldu.
 
 Bu şekilde carimiz ile beklenen ödeme, yapılan ödeme toplam tutarlarını kalem kalem takip edebiliriz.  
 Fakat bu yöntemde kesilecek faturaların takibini yapamayız. Faturaların ve havale eft alacağımızın ayrı ayrı takibini yapabilmek için ikinci yöntemi tercih edebilirsiniz.
@@ -655,30 +625,30 @@ Fakat bu yöntemde kesilecek faturaların takibini yapamayız. Faturaların ve h
 **2. Yöntem:** Aracı firma ile olan borç alacak takibini komisyon faturaları ve havale eft alacağı şeklinde detaylı takip edilmek isteniyorsa kullanılabilir. 
 
 Aracı Sanal Pos hesabı iki hesap üzerinden takip edilir. Gelen faturaları bir cari hesapta tutulur. EFT/Havale ödemeleri ve alacaklar başka bir cari hesapta tutulur.
-Örneğin, bize müşterimiz sanal pos aracılığıyla 200 tl ödeme gerçekleştirdi, entegratör firma bu işlem için bize 5 tl komisyon kesti ve faturalandırdı.
-Kalan 195 tl'yi EFT/Havale olarak banka hesabımıza gönderdi.
+Örneğin, bize müşterimiz sanal pos aracılığıyla 200 ₺ ödeme gerçekleştirdi, entegratör firma bu işlem için bize 5 ₺ komisyon kesti ve faturalandırdı.
+Kalan 195 ₺'yi EFT/Havale olarak banka hesabımıza gönderdi.
 
 1. İlk olarak Aracı Sanal Pos hesabımıza iki cari hesap açalım. Örneğin birinin adı "Pos Entegratör Komisyon" olsun. Diğeri cari hesabın adı "Pos Entegratör Havale" olsun.
 	Müşteri/Satıcı -> Modül Sayfası -> Hareket -> Yeni Müşteri/Satıcı Kartı Ekle buradan gerekli bilgileri doldurarak cari açma işlemimizi yapalım.
 
 2. Bize sanal pos aracılığı ile ödeme yapan carimizin ödemesini Karma Transfer Hareketi ile girelim.;
-	Müşteri/Satıcı -> Hareket Oluştur -> Diğerleri -> Karma Transfer Hareketi -> İşlem Tarihini girelim 
-		1. Kaleme -> Cari seçelim -> Alacak seçelim -> Bize ödeme yapan carimizi seçelim -> 200tl girelim 
-		2. Kaleme -> Cari seçelim -> Borç seçelim -> "Pos Entegratör Havale" hesabımını seçelim -> 195 tl hesabımıza yatacak ödeme tutarını girelim.
-		3. Kaleme -> Cari seçelim -> Borç seçelim -> "Pos Entegratör Komisyon" hesabını seçelim -> 5 tl işlem için bizden kesilecek olan komisyon tutarını girelim.
-		Bu şekilde pos çeken müşterimiz bizden 200tl alacaklandı ve entegratör firma 200tl borçlandı.
+	Müşteri/Satıcı -> Hareket Oluştur -> Diğerleri -> Karma Transfer Hareketi -> İşlem Tarihini girelim. 
+		1. Kaleme -> Cari seçelim -> Alacak seçelim -> Bize ödeme yapan carimizi seçelim -> 200 ₺ girelim. 
+		2. Kaleme -> Cari seçelim -> Borç seçelim -> "Pos Entegratör Havale" hesabımını seçelim -> 195 ₺ hesabımıza yatacak ödeme tutarını girelim.
+		3. Kaleme -> Cari seçelim -> Borç seçelim -> "Pos Entegratör Komisyon" hesabını seçelim -> 5 ₺ işlem için bizden kesilecek olan komisyon tutarını girelim.
+		Bu şekilde pos çeken müşterimiz bizden 200 ₺ alacaklandı ve entegratör firma 200 ₺ borçlandı.
 		İlk senaryodan farklı olarak burada komisyon ödeme tutarlarımızı ve Havale alacağımızı ayrı ayrı takip edebiliyoruz.
 		
-3. Entegratör firmasi bize Komisyon faturası kestiğinde Alış faturası olarak girelim;
-	Müşteri/Satıcı -> Hareket Oluştur -> Alış Faturası -> Carimizi açtığımız "Pos Entegratör Komisyon" carisi seçelim -> GelirGider seçelim -> Pos Komisyon olarak tanımlayabiliriz -> Miktar 1 -> Tutar 5 tl -> *Kaydet* diyerek tamamlayalım.
-	Bu şekilde entegratör firmanın bize olan borcu 5tl azalarak toplamda 195tl oldu. "Pos Entegratör Komisyon" carisinde borç kalmadı fakat "Pos Entegratör Havale" hesabında 195tl borcu kaldı.
+3. Entegratör firması bize Komisyon faturası kestiğinde Alış faturası olarak girelim;
+	Müşteri/Satıcı -> Hareket Oluştur -> Alış Faturası -> Carimizi açtığımız "Pos Entegratör Komisyon" carisi seçelim -> GelirGider seçelim -> Pos Komisyon olarak tanımlayabiliriz -> Miktar 1 -> Tutar 5 ₺ -> *Kaydet* diyerek tamamlayalım.
+	Bu şekilde entegratör firmanın bize olan borcu 5 ₺ azalarak toplamda 195 ₺ oldu. "Pos Entegratör Komisyon" carisinde borç kalmadı fakat "Pos Entegratör Havale" hesabında 195 ₺ borcu kaldı.
 
 4. Entegratör firmadan bize ödeme geldiğinde, EFT/Havale alma girişini yapalım;
-	Banka -> Hareket Oluştur -> Havale/EFT Alma -> Hangi bankamıza geldiğini seçelim -> Cari -> Açtığımız "Pos Entegratör Havale" carisini seçelim -> Tutar 195 tl -> *Kaydet* diyerek işlemi tamamlayalım.
+	Banka -> Hareket Oluştur -> Havale/EFT Alma -> Hangi bankamıza geldiğini seçelim -> Cari -> Açtığımız "Pos Entegratör Havale" carisini seçelim -> Tutar 195 ₺ -> *Kaydet* diyerek işlemi tamamlayalım.
 	Bu şekilde entegratör firmanın bize bir borcu kalmamış oldu. 
-	Hesabımızda 195tl oldu.
-	5Tl komisyon giderimiz oldu.
-	POS Ödeme yapan müşterimizin 200tl alacağı oldu.
+	Hesabımızda 195 ₺ oldu.
+	5 ₺ komisyon giderimiz oldu.
+	POS Ödeme yapan müşterimizin 200 ₺ alacağı oldu.
 
 Bu şekilde carimiz ile beklenen ödeme, yapılan ödeme, tahakkuk eden komisyon ve faturalandırılmış komisyon toplam tutarlarını kalem kalem takip edebiliriz.
 
@@ -690,11 +660,8 @@ Kalan hesabımız ne kadar, ne kadar daha ödeme almam gerekiyor aynı zamanda k
 
 **Soru:** Dışarıdan aktarma yapmak istiyorum 1000 adetten fazla yüklenemez uyarısı veriyor ne yapmam gerekiyor?
 
-**Cevap:** Dışarıdan toplu aktarım yapmak istediğinizde sistem 995 adet olacak şekilde aktarılmaktadır. Kendimiz excel dosyası hazırladığımızda ilk 5 satır boş bırakılmadır.   
+**Cevap:** Dışarıdan toplu aktarım yapmak istediğinizde sistem 995 adet olacak şekilde aktarılmaktadır. Kendimiz excel dosyası hazırlayacak isek ilk 5 satır boş bırakılmadır.   
 Aaro'nun hazır şablonlarında ilk 5 satır yüklemeye hazır şekilde ayarlanmıştır. Verilerimizi doldurup aktarımı gerçekleştirebiliriz.
-
-**Cevap:** Dışarıdan toplu aktarım yapmak istediğinizde sistem 995 adet olacak şekilde aktarılmaktadır.  
-2500 adet verimiz var ise bunu 995 olarak dosyalara bölmemiz gerekmektedir. Bu şekilde aktarımı gerçekleştirebiliriz.
 
 **Soru:** Grid sütunlarını nasıl ayarlayabilirim ve grid sütunlarımı excele nasıl aktarabilirim ?
 
@@ -708,12 +675,6 @@ Not: Listeyi excele aktar seçeneği gelmiyorsa indirme yetkiniz kapalıdır.
 Excel dosyamızı hazırlayalım zorunlu alanlar Stok Adı - Stok Kodu - KDV - Birim -> Sistemde Var Olan Stok Kayıtlarını Güncelle bu seçeneği kaldıralım -> 
 Dosya seç -> Dosyamızı seçelim -> Şablonu Yükle stok kartı toplu yükleme işlemimiz gerçekleşti.
 
-**Soru:** Cari kartı açmak için excel ile cari kartları dosyası hazırlayıp toplu yükleme yapabilir miyiz ?
-
-**Cevap:** Evet, toplu yükleme yapabiliriz. Ayarlar -> Modül Sayfası -> Dışarıdan Aktarma -> Müşteri Satıcı Aktarmaları -> Müşteri/Satıcı Kartı Aktarma -> Excel Şablonu İndir -> 
-Excel dosyamızı hazırlayalım zorunlu alanlar Cari Kodu - Cari Adı - Cari Tipi - Vergi Dairesi Adı - Vergi No -> Sistemde Var Olan Cari Kayıtlarını Güncelle bu seçeneği kaldıralım -> 
-Dosya seç -> Dosyamızı seçelim -> Şablonu Yükle stok kartı toplu yükleme işlemimiz gerçekleşecektir.
-
 **Soru:** Excele aktarılan kayıt sınırını nasıl düzeltebilirim ?
 
 **Cevap:** Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: DisariExcelAktarMaxSatirSayisi (Genel) -> Değer: rakam değerleri değiştirilerek kaydet seçeneği ile işlem tamamlanır.
@@ -723,7 +684,7 @@ Dosya seç -> Dosyamızı seçelim -> Şablonu Yükle stok kartı toplu yükleme
 
 **Soru:** Gelir Gider kalemleriyle aylık rapor almak istiyorum nasıl alabilirim ?
 
-**Cevap:** Rapor -> Gelir Gider -> Toplam -> Gelir Gider Hareketleri Toplamları şeklinde ulaşım sağladıktan sonra tarih filtremesi yaparak 1 aylık kalem detaylı rapor alabilirsiniz
+**Cevap:** Rapor -> Gelir Gider -> Toplam -> Gelir Gider Hareketleri Toplamları şeklinde ulaşım sağladıktan sonra tarih filtremesi yaparak bir aylık kalem detaylı rapor alabilirsiniz.
 
 
 ## Çıktı Tasarım Soruları 
