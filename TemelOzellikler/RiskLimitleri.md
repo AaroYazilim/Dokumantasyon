@@ -4,6 +4,7 @@ SayfaTipi: CariListe
 ---
 
 # Risk Limitleri
+
 Risk limitleri, finansal riskleri yönetmek amacıyla belirlenen maksimum risk seviyelerini ifade eder. Bu limitler, riskleri kontrol altında tutmayı ve olası zararlardan korunmayı hedefler. Risk limitleri, potansiyel risklere karşı hazırlıklı olmayı ve bu riskleri etkin bir şekilde yönetmeyi sağlar.
 
 Belirlenen limitler, büyük finansal kayıpların veya operasyonel aksaklıkların önüne geçmek için kullanılır. Risk limitleri, yöneticilere risk toleransını belirleme ve stratejik kararlar alma konusunda rehberlik eder. Finansal risk toleransı, yani kabul edilebilir risk seviyesi belirlenir. Bu tolerans, organizasyonun risklere ne kadar dayanabileceğini ve hangi seviyede riski kabul edebileceğini gösterir.
