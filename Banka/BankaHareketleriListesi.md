@@ -7,7 +7,8 @@ SayfaTipi: HareketListe
 
 **Erişim Linki :** [erp.aaro.com.tr/BankaHareketleri/Liste](https://erp.aaro.com.tr/BankaHareketleri/Liste)
 
-### Ulaşım 
+### Ulaşım
+
 Aşağıdaki yollarla ulaşım sağlayabilirsiniz:
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "**Banka Hareket Listesi**" ifadesini aratarak ulaşım sağlayabilirsiniz.
