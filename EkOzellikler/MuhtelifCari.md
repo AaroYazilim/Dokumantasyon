@@ -1,33 +1,33 @@
 
 ## Muhtelif Cari
 
-Muhtelif cari, işletmenin belirli bir müşteri veya tedarikçi ile düzenli ilişki kurmadan gerçekleştirdiği tek seferlik veya düzensiz işlemleri takip etmek için kullanılan bir hesap türüdür. 
-Belirli bir kişi veya kurum adına açılmamış genel cari hesap olarak da düşünülebilir. 
-Bu hesap, genellikle küçük tutarlı işlemler, geçici kayıtlar veya kimliği net olmayan işlemlerin takibi için kullanılır.
+Muhtelif cari, iÅŸletmenin belirli bir mÃ¼ÅŸteri veya tedarikÃ§i ile dÃ¼zenli iliÅŸki kurmadan gerÃ§ekleÅŸtirdiÄŸi tek seferlik veya dÃ¼zensiz iÅŸlemleri takip etmek iÃ§in kullanÄ±lan bir hesap tÃ¼rÃ¼dÃ¼r. 
+Belirli bir kiÅŸi veya kurum adÄ±na aÃ§Ä±lmamÄ±ÅŸ genel cari hesap olarak da dÃ¼ÅŸÃ¼nÃ¼lebilir. 
+Bu hesap, genellikle kÃ¼Ã§Ã¼k tutarlÄ± iÅŸlemler, geÃ§ici kayÄ±tlar veya kimliÄŸi net olmayan iÅŸlemlerin takibi iÃ§in kullanÄ±lÄ±r.
 
-Muhtelif cari kullanımları;
-	- Tek Seferlik İşlemler: Düzenli çalışılmayan müşterilerle veya tedarikçilerle yapılan işlemler.
-	- Geçici Kayıtlar: İşlem detayları daha sonra netleştirilecek ödemeler veya tahsilatlar.
-	- Toplu İşlemler: Birden fazla kişi veya kurumdan gelen küçük tutarlı tahsilatlar.
+Muhtelif cari kullanÄ±mlarÄ±;
+	- Tek Seferlik Ä°ÅŸlemler: DÃ¼zenli Ã§alÄ±ÅŸÄ±lmayan mÃ¼ÅŸterilerle veya tedarikÃ§ilerle yapÄ±lan iÅŸlemler.
+	- GeÃ§ici KayÄ±tlar: Ä°ÅŸlem detaylarÄ± daha sonra netleÅŸtirilecek Ã¶demeler veya tahsilatlar.
+	- Toplu Ä°ÅŸlemler: Birden fazla kiÅŸi veya kurumdan gelen kÃ¼Ã§Ã¼k tutarlÄ± tahsilatlar.
 
-Örneğin;
-E-ticaret sitelerinde firmamızın ürünlerini satıyoruz herhangi bir kişi ürünümüzü satın aldı ve bu döngü sürekli halde devam ediyor. 
-Bir ürünü birden fazla kişi bir kereliğine alabilir ve biz bu kişileri müşterimiz olarak açmak istemeyebiliriz. 
-Çünkü; ödemelerini biz asıl anlaşmalı firmamız olan e-ticaret sitelerinden almaktayız. 
-O yüzden e-ticaret firmasını muhtelif cari olarak açabiliriz. Cari kartı içeriğinde yer alan muhtelif cari özelliğimizi aktif ederek.
-(Müşteri/Satıcı kartının içine girelim Muhtelif Cari özelliğini aktif edelim.) 
+Ã–rneÄŸin;
+E-ticaret sitelerinde firmamÄ±zÄ±n Ã¼rÃ¼nlerini satÄ±yoruz herhangi bir kiÅŸi Ã¼rÃ¼nÃ¼mÃ¼zÃ¼ satÄ±n aldÄ± ve bu dÃ¶ngÃ¼ sÃ¼rekli halde devam ediyor. 
+Bir Ã¼rÃ¼nÃ¼ birden fazla kiÅŸi bir kereliÄŸine alabilir ve biz bu kiÅŸileri mÃ¼ÅŸterimiz olarak aÃ§mak istemeyebiliriz. 
+Ã‡Ã¼nkÃ¼; Ã¶demelerini biz asÄ±l anlaÅŸmalÄ± firmamÄ±z olan e-ticaret sitelerinden almaktayÄ±z. 
+O yÃ¼zden e-ticaret firmasÄ±nÄ± muhtelif cari olarak aÃ§abiliriz. Cari kartÄ± iÃ§eriÄŸinde yer alan muhtelif cari Ã¶zelliÄŸimizi aktif ederek.
+(MÃ¼ÅŸteri/SatÄ±cÄ± kartÄ±nÄ±n iÃ§ine girelim Muhtelif Cari Ã¶zelliÄŸini aktif edelim.) 
 
-Muhtelif Cari Kullanımının Avantajları;
+Muhtelif Cari KullanÄ±mÄ±nÄ±n AvantajlarÄ±;
 
-- Tek seferlik veya düzensiz işlemleri kayıt altına almak için yeni bir cari hesap açmaya gerek kalmadan işlem sürecini hızlandırarak pratik bir takip sağlar.
-- Cari hesap yapısında düzenlilik ve temiz bir kayıt sistemi oluşturur.
-- Aracı firmalarla çalışıldığında, aramızdaki finansal ilişkilerin kolay ve pratik takip edilmesini sağlayarak tahsilatların toplu şekilde takip edilmesine olanak sağlar.
+- Tek seferlik veya dÃ¼zensiz iÅŸlemleri kayÄ±t altÄ±na almak iÃ§in yeni bir cari hesap aÃ§maya gerek kalmadan iÅŸlem sÃ¼recini hÄ±zlandÄ±rarak pratik bir takip saÄŸlar.
+- Cari hesap yapÄ±sÄ±nda dÃ¼zenlilik ve temiz bir kayÄ±t sistemi oluÅŸturur.
+- AracÄ± firmalarla Ã§alÄ±ÅŸÄ±ldÄ±ÄŸÄ±nda, aramÄ±zdaki finansal iliÅŸkilerin kolay ve pratik takip edilmesini saÄŸlayarak tahsilatlarÄ±n toplu ÅŸekilde takip edilmesine olanak saÄŸlar.
 
-### Muhtelif cari kartı nasıl açılır ?
+### Muhtelif cari kartÄ± nasÄ±l aÃ§Ä±lÄ±r ?
 
-Müşteri/Satıcı kartı açarkan Muhtelif Cari özelliğini seçerek aktif ederek muhtelif cari kartımızı tanımlayabiliriz.
-Muhtelif cari kartlarında giriş yaparken carinin bilgilerini girmemiz gerekmektedir. 
-(Muhtelif Vergi numarası, muhtelif cari adı, muhtelif adres, muhtelif tel bilgilerinin doldurulması gerekmektedir.)
+MÃ¼ÅŸteri/SatÄ±cÄ± kartÄ± aÃ§arkan Muhtelif Cari Ã¶zelliÄŸini seÃ§erek aktif ederek muhtelif cari kartÄ±mÄ±zÄ± tanÄ±mlayabiliriz.
+Muhtelif cari kartlarÄ±nda giriÅŸ yaparken carinin bilgilerini girmemiz gerekmektedir. 
+(Muhtelif Vergi numarasÄ±, muhtelif cari adÄ±, muhtelif adres, muhtelif tel bilgilerinin doldurulmasÄ± gerekmektedir.)
 
 
 

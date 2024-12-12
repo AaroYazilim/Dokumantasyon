@@ -3,30 +3,30 @@ SayfaID: SiparisListe
 SayfaTipi: Liste
 ---
 
-# Bayi Sipariş Listesi
+# Bayi SipariÅŸ Listesi
 
-**Erişim Linki :** [erp.aaro.com.tr/SiparisListe/Liste](https://erp.aaro.com.tr/SiparisListe/Liste?BayiMi=true&Kapali=false&TarihBas=!AyBasi(-3))
+**EriÅŸim Linki :** [erp.aaro.com.tr/SiparisListe/Liste](https://erp.aaro.com.tr/SiparisListe/Liste?BayiMi=true&Kapali=false&TarihBas=!AyBasi(-3))
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol menüden Bayi -> Sipariş Listesi şeklinde ulaşım sağlayabilirsiniz.
+- Sol menÃ¼den Bayi -> SipariÅŸ Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-## Tanım
+## TanÄ±m
 
-Bayi sipariş listesi, bayilerinizin vermiş olduğu siparişlerin detaylarını içerir. 
-Bu liste, siparişin tarihini, tutarını ve sipariş durumunu (alınan sipariş, verilen teklif) görmenizi sağlar.
+Bayi sipariÅŸ listesi, bayilerinizin vermiÅŸ olduÄŸu sipariÅŸlerin detaylarÄ±nÄ± iÃ§erir. 
+Bu liste, sipariÅŸin tarihini, tutarÄ±nÄ± ve sipariÅŸ durumunu (alÄ±nan sipariÅŸ, verilen teklif) gÃ¶rmenizi saÄŸlar.
 
-Her bir siparişin içerisine girerek, siparişin tüm detaylarını inceleyebilirsiniz. 
-Bayi siparişleri eşleştirilen cari hesaplarına göre görüntüleme imkanı sunar, böylece hangi bayinin hangi ürünleri sipariş ettiğini ve ilgili tutarları kolayca takip edebilirsiniz.
+Her bir sipariÅŸin iÃ§erisine girerek, sipariÅŸin tÃ¼m detaylarÄ±nÄ± inceleyebilirsiniz. 
+Bayi sipariÅŸleri eÅŸleÅŸtirilen cari hesaplarÄ±na gÃ¶re gÃ¶rÃ¼ntÃ¼leme imkanÄ± sunar, bÃ¶ylece hangi bayinin hangi Ã¼rÃ¼nleri sipariÅŸ ettiÄŸini ve ilgili tutarlarÄ± kolayca takip edebilirsiniz.
 
-Bayi sipariş listesi, süreçlerinizi daha verimli yönetmenize yardımcı olurken, aynı zamanda ödeme ve faturalama süreçlerinin de hızlanmasını sağlar.
+Bayi sipariÅŸ listesi, sÃ¼reÃ§lerinizi daha verimli yÃ¶netmenize yardÄ±mcÄ± olurken, aynÄ± zamanda Ã¶deme ve faturalama sÃ¼reÃ§lerinin de hÄ±zlanmasÄ±nÄ± saÄŸlar.
 
-## Ek Özellikler 
+## Ek Ã–zellikler 
 
-- Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğimiz şekilde sınırlandırabiliriz.
+- SayfanÄ±n Ã¼st kÄ±smÄ±nda bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) Ã¶zelliÄŸi ile gelen veriyi istediÄŸimiz ÅŸekilde sÄ±nÄ±rlandÄ±rabiliriz.
 
-- Anasayfaya Kısayol Olarak Ekle: Anasayfaya kısayol olarak ekleyebilirsiniz. Detaylarına linklerine tıklayarak erişim sağlayabilirsiniz.
-- Toplu Değiştir: Burada cari hareketlerinde toplu değişiklik yapabilirsiniz. [Toplu Değiştir](../TemelOzellikler/TopluDegistir.md)
+- Anasayfaya KÄ±sayol Olarak Ekle: Anasayfaya kÄ±sayol olarak ekleyebilirsiniz. DetaylarÄ±na linklerine tÄ±klayarak eriÅŸim saÄŸlayabilirsiniz.
+- Toplu DeÄŸiÅŸtir: Burada cari hareketlerinde toplu deÄŸiÅŸiklik yapabilirsiniz. [Toplu DeÄŸiÅŸtir](../TemelOzellikler/TopluDegistir.md)
 
 
 

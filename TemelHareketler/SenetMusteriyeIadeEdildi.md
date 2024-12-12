@@ -3,99 +3,99 @@ SayfaID: CekSenetCariyeIadeEdildi
 SayfaTipi: SenetCariyeIadeEdildi
 ---
 
-# Senet Müşteriye İade Edildi 
+# Senet MÃ¼ÅŸteriye Ä°ade Edildi 
 
-**Erişim Linki :** [erp.aaro.com.tr/CekSenetCariyeIadeEdildi?TipID=SenetCariyeIadeEdildi](https://erp.aaro.com.tr/CekSenetCariyeIadeEdildi?TipID=SenetCariyeIadeEdildi&)
+**EriÅŸim Linki :** [erp.aaro.com.tr/CekSenetCariyeIadeEdildi?TipID=SenetCariyeIadeEdildi](https://erp.aaro.com.tr/CekSenetCariyeIadeEdildi?TipID=SenetCariyeIadeEdildi&)
 
-### Ulaşım
+### UlaÅŸÄ±m
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *ÇekSenet -> Hareket Oluştur -> Senet -> Senet Müşteriye İade Edildi* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "senet" ÅŸeklinde aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den *Ã‡ekSenet -> Hareket OluÅŸtur -> Senet -> Senet MÃ¼ÅŸteriye Ä°ade Edildi* ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 
-### Tanım 
+### TanÄ±m 
 
-Senet müşteriye iade edildi, daha önce bir müşteriden alınan senedin geri verildiğini belirtir. 
-Bu işlem, senedin iptali, anlaşmazlık ya da başka bir nedenle müşteriye iade edilmesi durumunda gerçekleşir.
+Senet mÃ¼ÅŸteriye iade edildi, daha Ã¶nce bir mÃ¼ÅŸteriden alÄ±nan senedin geri verildiÄŸini belirtir. 
+Bu iÅŸlem, senedin iptali, anlaÅŸmazlÄ±k ya da baÅŸka bir nedenle mÃ¼ÅŸteriye iade edilmesi durumunda gerÃ§ekleÅŸir.
 
 ## Genel
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
+**Åirket-Åube:** KartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](../TemelOzellikler/SirketSubeKart.md)
 
-**Tarih:** İşlemin yapıldığı tarihi belirtir. 
+**Tarih:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ± tarihi belirtir. 
 
-**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
+**Belge No:** Belge numarasÄ±nÄ± ifade eder. Otomatik olarak sÄ±radaki numara gelir. Ä°stenilirse seri kullanÄ±labilir.
 
-**Cari:** İşlemin yapıldığını cari kartını ifade eder. 
+**Cari:** Ä°ÅŸlemin yapÄ±ldÄ±ÄŸÄ±nÄ± cari kartÄ±nÄ± ifade eder. 
 
-**Döviz:** Bu senedin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
-Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
+**DÃ¶viz:** Bu senedin Ã§alÄ±ÅŸtÄ±ÄŸÄ± dÃ¶viz cinsini belirtir.TÃ¼rk lirasÄ± haricinde baÅŸka bir dÃ¶viz seÃ§ildiÄŸinde sadece o dÃ¶viz cinsinden hareket iÅŸlenmesine izin verir. 
+Banka hesabÄ±nÄ±n bakiyesi seÃ§ilen dÃ¶viz cinsinden takip edilir.
 
-**Kur:** Para biriminin başka bir para birimi cinsinden değerini ifade eder. 
+**Kur:** Para biriminin baÅŸka bir para birimi cinsinden deÄŸerini ifade eder. 
 
-**Açıklama** İşleme ait açıklamayı belirtir. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+**AÃ§Ä±klama** Ä°ÅŸleme ait aÃ§Ä±klamayÄ± belirtir. AÃ§Ä±klama kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
 ## Detay
 
-**Sözleşme:** Bu hareketin hangi sözleşmeye ait olduğunu gösterir. Sözleşme kullanım detayları için linke tıklayınız.[Sözleşme](../TemelOzellikler/Sozlesme.md)
+**SÃ¶zleÅŸme:** Bu hareketin hangi sÃ¶zleÅŸmeye ait olduÄŸunu gÃ¶sterir. SÃ¶zleÅŸme kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[SÃ¶zleÅŸme](../TemelOzellikler/Sozlesme.md)
 
-**Proje:** Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir. Proje kullanım detayları için linke tıklayınız.[Proje](../TemelOzellikler/Proje.md)
+**Proje:** Bu hareketin hangi projeye ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir. Proje kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[Proje](../TemelOzellikler/Proje.md)
 
-**Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir. Plasiyer kullanım detayları için linke tıklayınız.[Plasiyer](../TemelOzellikler/Plasiyer.md)
+**Plasiyer:** Bu hareketin hangi plasiyere ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir. Plasiyer kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z.[Plasiyer](../TemelOzellikler/Plasiyer.md)
 
 **Alt Tip:** Alt hareket tipini belirtir.
 
-### Açıklamalar
+### AÃ§Ä±klamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. İade nedeni burada belirtilebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")	
+- **AÃ§Ä±klamalar:** Ek aÃ§Ä±klamalarÄ± belirtir. Ä°ade nedeni burada belirtilebilir. [AÃ§Ä±klama](/TemelOzellikler/Aciklama.md "AÃ§Ä±klama")	
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartÄ± gruplamak ve sonrasÄ±nda gruplu rapor alabilmek iÃ§in kullanÄ±lÄ±r. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
 
-**Bilgilerimizi doldurduktan sonra *Kaydet* diyerek kalem ekleme ekranımıza erişim sağlamaktayız.**
+**Bilgilerimizi doldurduktan sonra *Kaydet* diyerek kalem ekleme ekranÄ±mÄ±za eriÅŸim saÄŸlamaktayÄ±z.**
 
 ### Kalem Ekleme 
 
-- **Çek Senet Ekle:** Cariye iade edilen senedi seçelim.
+- **Ã‡ek Senet Ekle:** Cariye iade edilen senedi seÃ§elim.
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+Ä°ÅŸleme ait Ã¶zel notlar ekleyebiliriz. Ã–nemli bir detay varsa, bu ayrÄ±ntÄ±larÄ± burada belirtebiliriz. NotlarÄ±n kullanÄ±m detaylarÄ± iÃ§in lÃ¼tfen baÄŸlantÄ±ya tÄ±klayÄ±nÄ±z.[Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belge
 
-Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlardaki belgeleri buraya yükleyebiliriz.
-Buraya işlem esnasındaki görselleri yükleyebiliriz.
+YapacaÄŸÄ±mÄ±z iÅŸlem iÃ§in elimizde belgeler var ise jpg, png, pdf vb. formatlardaki belgeleri buraya yÃ¼kleyebiliriz.
+Buraya iÅŸlem esnasÄ±ndaki gÃ¶rselleri yÃ¼kleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek iÃ§in tÄ±klayalÄ±m ;
 
-- *Daha önce yüklediklerimden seç -> Belgeyi seç
--> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- *Yüklenecek belge veya resimleri seç -> Belgeyi ya da
- belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha Ã¶nce yÃ¼klediklerimden seÃ§ -> Belgeyi seÃ§
+-> Ä°liÅŸkilendir* ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- *YÃ¼klenecek belge veya resimleri seÃ§ -> Belgeyi ya da
+ belgeleri seÃ§ -> YÃ¼kle* ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
-Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+Belge kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Belge](../TemelOzellikler/Belgeler.md)
 
-## Kayıt Bilgileri
+## KayÄ±t Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+KartÄ±n hangi kullanÄ±cÄ± tarafÄ±ndan ve hangi tarihlerde oluÅŸturulduÄŸu ve deÄŸiÅŸtirildiÄŸi bilgisini iÃ§erir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir.  
+Kart iÅŸ akÄ±ÅŸ sÃ¼reÃ§lerine dahil edildiÄŸinde hangi kullanÄ±cÄ± tarafÄ±ndan hangi tarihte onaylandÄ±ÄŸÄ± bilgilerini iÃ§erir.  
 
 
-## Ek İşlemler
+## Ek Ä°ÅŸlemler
 
- Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
-- Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Senet müşteriye iade edildi işlemini kopyalamak için kullanılır.
-- Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.
-- Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
-- Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.
-- Görev Oluştur: İade faturası için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçip, *Kaydet* diyerek görevi bağlayabiliriz.
+ SayfanÄ±n saÄŸ Ã¼st kÃ¶ÅŸesinde bulunan, alt alta Ã¼Ã§ Ã§izgi ÅŸeklindeki dÃ¼ÄŸme ile ek iÅŸlemlere eriÅŸebilirsiniz.
+- Yevmiye FiÅŸ: Yevmiye fiÅŸi, iÅŸletmelerde gerÃ§ekleÅŸen her tÃ¼rlÃ¼ mali iÅŸlemin tarih, miktar ve aÃ§Ä±klama bilgileri ile birlikte kaydedildiÄŸi muhasebe belgesidir.
+- Kopyala: Senet mÃ¼ÅŸteriye iade edildi iÅŸlemini kopyalamak iÃ§in kullanÄ±lÄ±r.
+- TÃ¼m Kalemlerde DeÄŸiÅŸtir: Buradan depo, proje, sÃ¶zleÅŸme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranÄ±, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tÃ¼m kalemler iÃ§in toplu olarak deÄŸiÅŸtirebilirsiniz.
+- DÃ¶viz TÃ¼rÃ¼ DeÄŸiÅŸtir: DÃ¶viz tÃ¼rÃ¼ deÄŸiÅŸikliÄŸi yapabiliriz.
+- Grid SÃ¼tunlarÄ± Ayarla: Burada kartÄ±n detaylarÄ±nÄ±n gÃ¶rÃ¼nÃ¼mÃ¼nde deÄŸiÅŸiklikler yapabilirsiniz.
+- GÃ¶rev OluÅŸtur: Ä°ade faturasÄ± iÃ§in gÃ¶rev oluÅŸturup, kiÅŸi atayabiliriz. AÃ§Ä±klama, tarih bitiÅŸ, hatÄ±rlatma sÃ¼resi, yÃ¶netici, kullanÄ±cÄ±, tamamlanma tipi, tekrar ÅŸekli bilgilerini ekleyerek gÃ¶rev tanÄ±mlama iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- GÃ¶rev BaÄŸla: AÃ§Ä±lan listedeki gÃ¶revlerden baÄŸlayacaÄŸÄ±mÄ±z, birleÅŸtireceÄŸimiz gÃ¶revi seÃ§ip, *Kaydet* diyerek gÃ¶revi baÄŸlayabiliriz.
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
+- DoldurulmasÄ± gereken alanlar girildikten sonra saÄŸ alt kÃ¶ÅŸede bulunan *Kaydet* butonuna tÄ±klayarak MÃ¼ÅŸteri/SatÄ±cÄ± kartÄ± aÃ§ma iÅŸleminizi tamamlayabilirsiniz.
+- KayÄ±tlÄ± bir kartÄ± silmek iÃ§in sol altta bulunan sil butonuna tÄ±klayabilirsiniz.
 
