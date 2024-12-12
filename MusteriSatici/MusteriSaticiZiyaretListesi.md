@@ -1,101 +1,66 @@
 ---
-SayfaID: CariZiyaret
-SayfaTipi: Liste
+SayfaID: FiyatListesi
+SayfaTipi: CariGruplari
 ---
 
-# Yeni Müþteri/Satýcý Ziyareti 
+# Cari Fiyat Grubu
 
-**Eriþim Linki :** [erp.aaro.com.tr/CariZiyaret/Liste](erp.aaro.com.tr/CariZiyaret/Liste/)
+**EriÅŸim Linki :** [erp.aaro.com.tr/FiyatListesiCariGruplari/Kalem](erp.aaro.com.tr/FiyatListesiCariGruplari/Kalem)
 
-## Ulaþým 
+## UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanýcý bilgilerinin hemen altýnda yer alan arama motorundan "müþteri ziyaret" aratarak ulaþým saðlayabilirsiniz.
-- Sol menüden Müþteri/Satici -> Listeler -> Müþteri/Satýcý Ziyaret Listesi þeklinde ulaþým saðlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "fiyat" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den SatÄ±n Alma -> Kartlar -> Fiyat Listeleri(AlÄ±ÅŸ) -> Bir Fiyat Listesi(bÃ¼yÃ¼teÃ§e ya da Ã§ift tÄ±klayarak) -> Cari GruplarÄ± Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den SatÄ±ÅŸ Pazarlama -> Kartlar -> Fiyat Listeleri(SatÄ±ÅŸ) -> Bir Fiyat Listesi(bÃ¼yÃ¼teÃ§e ya da Ã§ift tÄ±klayarak) -> Cari GruplarÄ± Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den MÃ¼ÅŸteri&SatÄ±cÄ± -> Kartlar -> MÃ¼ÅŸteri/SatÄ±cÄ± KartÄ± Listesi -> Herhangi bir Cari KartÄ± (bÃ¼yÃ¼teÃ§e ya da Ã§ift tÄ±klayarak) -> GeliÅŸmiÅŸ -> Fyat Grup ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-## Taným
+## TanÄ±m
 
-Müþteri satýcý ziyareti, bir satýcýnýn belirli bir müþteriyi ziyaret ederek yüz yüze görüþme gerçekleþtirdiði, 
-ürün ve hizmetlerin tanýtýldýðý ve müþteri ihtiyaçlarýnýn deðerlendirildiði bir süreçtir. 
-Ziyarette gerçekleþen görüþme detaylarý buraya kaydedilir. 
-Firma ziyaretlerini takip etmek, görüþme detaylarý hakkýnda bilgi sahibi olmanýzý saðlar ve müþteri-satýcý iliþkilerinizi güçlendirir. 
-Firmalarla ticari bir alýþveriþ gerçekleþmediðinde ziyaret edilen firmalarýn detaylarýný girerek karmaþayý önleyebilirsiniz. 
-Ayrýca, firma görüþme detaylarýný kaydederek ilerleyen zamanlarda önceki görüþmelere ulaþabilir ve iþlerinizi kolaylaþtýrabilirsiniz.
+Cari fiyat grubu, mÃ¼ÅŸterilere veya mÃ¼ÅŸteri segmentlerine Ã¶zel fiyatlandÄ±rma yapma imkanÄ± saÄŸlayan bir Ã¶zelliktir. 
+Bu Ã¶zellik, her bir mÃ¼ÅŸterinin alÄ±ÅŸveriÅŸ davranÄ±ÅŸÄ±na, satÄ±n alma geÃ§miÅŸine veya anlaÅŸmalara gÃ¶re farklÄ± fiyat listeleri oluÅŸturulmasÄ±na olanak tanÄ±r.
 
-## Yeni Müþteri/Satýcý Ziyareti Ekle 
+Cari fiyat gruplarÄ± sayesinde iÅŸletmeler, farklÄ± mÃ¼ÅŸteri gruplarÄ±na, Ã¼rÃ¼n kategorilerine veya satÄ±ÅŸ dÃ¶nemlerine gÃ¶re esnek fiyatlandÄ±rma stratejileri uygulayabilir. 
+Bu durum, rekabetÃ§i fiyatlar sunarak mÃ¼ÅŸteri memnuniyetini artÄ±rÄ±r ve satÄ±ÅŸlarÄ± destekler.
 
-### Genel 
+- MÃ¼ÅŸteri bazÄ±nda farklÄ± fiyatlandÄ±rma uygulama imkanÄ±.
+- FarklÄ± mÃ¼ÅŸteri gruplarÄ± (Ã¶rneÄŸin, toptan alÄ±cÄ±lar, perakende mÃ¼ÅŸteriler) iÃ§in Ã¶zel fiyatlar.
+- Pazar koÅŸullarÄ±na gÃ¶re dinamik fiyatlandÄ±rma yapabilme.
+- MÃ¼ÅŸteri sadakatini artÄ±rmak iÃ§in Ã¶zel kampanya ve indirimler yapabilme.
 
-**Tarih:** Ziyaretin gerçekleþtiði tarihi ifade eder.
+## Fiyat Listesi Cari GruplarÄ± 
 
-**Ziyaret Saati:** Ziyaretin gerçekleþtiði saati ifade eder.
+- Fiyat Listeleri kÄ±smÄ±nda cariler iÃ§in geÃ§erli olacak fiyat listelerini ve iskonto oranlarÄ± gÃ¶rÃ¼ntÃ¼lenir.
+- Cari Listesi kÄ±smÄ±nda ise fiyat listelerinde gÃ¶zÃ¼ken listeler ve iskonto oranlarÄ±nÄ±n geÃ§erli olacaÄŸÄ± cariler gÃ¶rÃ¼ntÃ¼lenir. 
 
-**Cari:** Ziyaretin gerçekleþtiði cariyi ifade eder.
+### Yeni Fiyat Listesi Cari Grubu 
 
-**Ýlgili:** Ziyarette görüþülen ilgili kiþiyi ifade eder.
+**Kodu:** Fiyat listesi cari grubun kodunu ifade eder. Bir kod oluÅŸturabilir ya da sistemin verdiÄŸi otomatik kodu kullanabilirsiniz.
 
-**Adres:** Ziyaretin gerçekleþtiði adresi ifade eder.
+**AdÄ±:** Fiyat listesi cari grubun adÄ±nÄ± ifade eder. 
 
-**Konu:** Görüþmenin konusunu ifade eder.
+**Durum:** Fiyat listesi cari grubunun aktif veya pasif durumunu ifade eder. Pasif hale getirmek istediÄŸinizde, buradan "Durum: Pasif" seÃ§eneÄŸini kullanarak iÅŸlemi gerÃ§ekleÅŸtirebilirsiniz.
 
-### Açýklamalar
 
-**Açýklamalar:** Ek açýklamalarý belirtir. [Açýklama](../TemelOzellikler/Aciklama.md)
+### Fiyat Listesi Ekleme 
 
-### Geliþmiþ
+**Durum:** Fiyat listesinin aktif veya pasif durumunu ifade eder. Pasif hale getirmek istediÄŸinizde, buradan "Durum: Pasif" seÃ§eneÄŸini kullanarak iÅŸlemi gerÃ§ekleÅŸtirebilirsiniz.
 
-**Þirket-Þube:** Kartýn ait olduðu þirket ve þubeyi belirtir. Þirket-Þube kullaným detaylarý için linke týklayýnýz. [Þirket-Þube](../TemelOzellikler/SirketSubeKart.md)
+**Fiyat Listesi Cari Grubu:** Ãœzerinde Ã§alÄ±ÅŸtÄ±ÄŸÄ±mÄ±z fiyat cari grubu otomatik seÃ§ili gelir.
 
-**Proje: Bu hareketin hangi projeye ait olduðunu belirtir. Kalemlerde deðiþtirilebilir.
+**Liste:** Fiyat cari grubunda kullanacaÄŸÄ±m fiyat listesini ifade eder, fiyat listesi seÃ§imi yapmamÄ±z gerekmektedir.
 
-**Plasiyer:** Bu hareketin hangi plasiyere ait olduðunu belirtir. Kalemlerde deðiþtirilebilir.
 
-## Kaydetme ve Silme
 
-- Doldurulmasý gereken alanlar girildikten sonra sað alt köþede bulunan Kaydet butonuna týklayarak Verilen sipariþ iþlemimizi tamamlayabilirsiniz.
-- Kayýtlý bir kartý silmek için sol altta bulunan sil butonuna týklayarak silebilirsiniz.
 
-- ### Belgeler
 
-Yapacaðýmýz iþlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya iþlem gerçekleþirken ki görselleri yükleyebiliriz.
 
-Belge eklemek için týklayalým ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> Ýliþkilendir þeklinde belge yükleme iþlemimizi gerçekleþtirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle þeklinde belge yükleme iþlemimizi gerçekleþtirebiliriz.
 
-Belge kullaným detaylarý için linke týklayýnýz. [Belge](../TemelOzellikler/Belgeler.md)
 
-### Notlar 
 
-Ýþleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detaylarý burada belirtebiliriz.
-Notlar kullaným detaylarý için linke týklayýnýz. [Notlar](../TemelOzellikler/Notlar.md)
 
-### Kýsayollar 
 
-**Geçmiþ Ziyaretleri** Cari ile gerçekleþen geçmiþ ziyaretleri görüntüleyebilirsiniz.
 
-**Müþteri/Satýcý Özet:** Carinin ekstresini ifade eder. Buradan carini ekstresine eriþim saðlayarak detaylarýný görüntüleyebilirsiniz.
-
-### Kayýt Bilgileri
-
-Kartýn hangi kullanýcý tarafýndan ve hangi tarihlerde oluþturulduðu ve deðiþtirildiði bilgisini içerir.
-
-Kart iþ akýþ süreçlerine dahil edildiðinde hangi kullanýcý tarafýndan hangi tarihte onaylandýðý bilgilerini içerir. 
-
-## Yazdýr
-
-- Sayfanýn sað üstünde bulunan yazýcý sembolü ile sayfaya tanýmlanan özel çýktý formatlarý ile farklý çýktýlar alýnabilir. 
-- Kartta bulunan bilgilerin kullanýcýnýn isteðine baðlý olarak özel tasarým ile yazdýrýlmasýný saðlar.
-- Birden çok çýktý tasarým yapýlabilir ve deðiþtirilebilir.
-- Kullanýcýya özel teklif formu gibi farklý tasarýmlar yapýlabilir.
-- Çýktý tasarýmlarýnýn herbirine ayrý ayrý yetkiler verilerek sadece istenilen kullanýcýnýn belirli çýktýlara ulaþmasý saðlanabilir.
-- Çýktýlar program üzerinden e-mail olarak gönderilebilir. 
-
-- ## Düzenleme 
-
-Müþteri/Satýcý ziyaretine ekleme yapmak ya da herhangi bir düzeltme yapmak için kalem iþaretini seçerek açýlan ekranda düzenlemeleri yapabiliriz.
 
 
 

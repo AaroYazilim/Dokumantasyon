@@ -3,143 +3,143 @@ SayfaID: BayiModulu
 SayfaTipi: Modul
 ---
 
-# Bayi Modülü
+# Bayi ModÃ¼lÃ¼
 
-**Erişim Linki :** [erp.aaro.com.tr/Kullanicilar/BayiKalem](erp.aaro.com.tr/Kullanicilar/BayiKalem)
+**EriÅŸim Linki :** [erp.aaro.com.tr/Kullanicilar/BayiKalem](erp.aaro.com.tr/Kullanicilar/BayiKalem)
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "bayi" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Bayi -> Yeni Bayi Ekle şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Bayi -> Bayi Kullanıcı Lİstesi -> Yeni Bayi Ekle şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "bayi" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Bayi -> Yeni Bayi Ekle ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
+- Sol menÃ¼den Bayi -> Bayi KullanÄ±cÄ± LÄ°stesi -> Yeni Bayi Ekle ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-## Tanım
+## TanÄ±m
 
-Bayi, bir ürün veya hizmeti üreticiden veya tedarikçiden satın alarak, kendi adını kullanarak son tüketiciye satan işletmedir. 
-Bayiler, genellikle belirli bir bölge veya pazarda faaliyet gösterir ve ürünleri doğrudan müşterilere ulaştırma işlevini üstlenir. 
-Bayi, üreticinin ürünlerini tanıtmak, satmak ve dağıtmak için yetkilendirilmiştir.
+Bayi, bir Ã¼rÃ¼n veya hizmeti Ã¼reticiden veya tedarikÃ§iden satÄ±n alarak, kendi adÄ±nÄ± kullanarak son tÃ¼keticiye satan iÅŸletmedir. 
+Bayiler, genellikle belirli bir bÃ¶lge veya pazarda faaliyet gÃ¶sterir ve Ã¼rÃ¼nleri doÄŸrudan mÃ¼ÅŸterilere ulaÅŸtÄ±rma iÅŸlevini Ã¼stlenir. 
+Bayi, Ã¼reticinin Ã¼rÃ¼nlerini tanÄ±tmak, satmak ve daÄŸÄ±tmak iÃ§in yetkilendirilmiÅŸtir.
 
-- Bayiler, üreticilerin ürünlerini daha geniş bir kitleye ulaştırmak için önemli bir dağıtım ağı oluşturur.
-- Bayi, kendi envanterini yönetir ve gerektiğinde yeniden sipariş verir.
-- Bayiler, son kullanıcılarla doğrudan etkileşimde bulunarak müşteri hizmetlerini sağlar ve geri bildirim toplar.
-- Bayiler, ürünlerin tanıtımını yapmak ve satışını artırmak için çeşitli pazarlama stratejileri uygular.
-- Bayiler, ürünleri satın alırken toptan fiyat üzerinden alır ve perakende satış fiyatını belirleyerek kar elde eder.
-- Bayiler, işletmelerin pazar payını artırmalarına ve müşteri tabanını genişletmelerine yardımcı olan önemli birer iş ortaklarıdır.
+- Bayiler, Ã¼reticilerin Ã¼rÃ¼nlerini daha geniÅŸ bir kitleye ulaÅŸtÄ±rmak iÃ§in Ã¶nemli bir daÄŸÄ±tÄ±m aÄŸÄ± oluÅŸturur.
+- Bayi, kendi envanterini yÃ¶netir ve gerektiÄŸinde yeniden sipariÅŸ verir.
+- Bayiler, son kullanÄ±cÄ±larla doÄŸrudan etkileÅŸimde bulunarak mÃ¼ÅŸteri hizmetlerini saÄŸlar ve geri bildirim toplar.
+- Bayiler, Ã¼rÃ¼nlerin tanÄ±tÄ±mÄ±nÄ± yapmak ve satÄ±ÅŸÄ±nÄ± artÄ±rmak iÃ§in Ã§eÅŸitli pazarlama stratejileri uygular.
+- Bayiler, Ã¼rÃ¼nleri satÄ±n alÄ±rken toptan fiyat Ã¼zerinden alÄ±r ve perakende satÄ±ÅŸ fiyatÄ±nÄ± belirleyerek kar elde eder.
+- Bayiler, iÅŸletmelerin pazar payÄ±nÄ± artÄ±rmalarÄ±na ve mÃ¼ÅŸteri tabanÄ±nÄ± geniÅŸletmelerine yardÄ±mcÄ± olan Ã¶nemli birer iÅŸ ortaklarÄ±dÄ±r.
 
 
-Ürettiğimiz veya stoğumuzda bulunan ürünlerin satışını gerçekleştirmek için bayilerimize AARO platformu üzerinde bayi hesabı açıyoruz. 
-Bu sayede bayilerimiz, belirlediğimiz izinler çerçevesinde stoklarımızı görüntüleyebilir, sipariş oluşturabilir ve fatura kesebilirler.
+ÃœrettiÄŸimiz veya stoÄŸumuzda bulunan Ã¼rÃ¼nlerin satÄ±ÅŸÄ±nÄ± gerÃ§ekleÅŸtirmek iÃ§in bayilerimize AARO platformu Ã¼zerinde bayi hesabÄ± aÃ§Ä±yoruz. 
+Bu sayede bayilerimiz, belirlediÄŸimiz izinler Ã§erÃ§evesinde stoklarÄ±mÄ±zÄ± gÃ¶rÃ¼ntÃ¼leyebilir, sipariÅŸ oluÅŸturabilir ve fatura kesebilirler.
 
-**Bayi Hesabı Oluşturma:** Bayiler için AARO üzerinde özel bir hesap açarak, her bayinin kendi ihtiyaçlarına göre özelleştirilmiş erişim sağlıyoruz.
+**Bayi HesabÄ± OluÅŸturma:** Bayiler iÃ§in AARO Ã¼zerinde Ã¶zel bir hesap aÃ§arak, her bayinin kendi ihtiyaÃ§larÄ±na gÃ¶re Ã¶zelleÅŸtirilmiÅŸ eriÅŸim saÄŸlÄ±yoruz.
 
-**Stok Görünürlüğü:** Bayiler, açılan hesap üzerinden izin verilen ürünleri görebilirler. Bu, onların hangi ürünlerin mevcut olduğunu ve hangi ürünleri sipariş etmeleri gerektiğini bilmesini sağlar.
+**Stok GÃ¶rÃ¼nÃ¼rlÃ¼ÄŸÃ¼:** Bayiler, aÃ§Ä±lan hesap Ã¼zerinden izin verilen Ã¼rÃ¼nleri gÃ¶rebilirler. Bu, onlarÄ±n hangi Ã¼rÃ¼nlerin mevcut olduÄŸunu ve hangi Ã¼rÃ¼nleri sipariÅŸ etmeleri gerektiÄŸini bilmesini saÄŸlar.
 
-**Sipariş Oluşturma:** Bayiler, ihtiyaç duydukları ürünler için kolayca sipariş oluşturabilir. Bu süreç, hızlı ve etkili bir şekilde stok taleplerini yönetmelerine yardımcı olur.
+**SipariÅŸ OluÅŸturma:** Bayiler, ihtiyaÃ§ duyduklarÄ± Ã¼rÃ¼nler iÃ§in kolayca sipariÅŸ oluÅŸturabilir. Bu sÃ¼reÃ§, hÄ±zlÄ± ve etkili bir ÅŸekilde stok taleplerini yÃ¶netmelerine yardÄ±mcÄ± olur.
 
-**Fatura Kesme:** Bayiler, sipariş verdikleri ürünler için fatura kesme işlemlerini de AARO üzerinden gerçekleştirebilir. 
-Bu, işlemlerin kayıt altında tutulmasını ve finansal süreçlerin düzenli bir şekilde yürütülmesini sağlar.
+**Fatura Kesme:** Bayiler, sipariÅŸ verdikleri Ã¼rÃ¼nler iÃ§in fatura kesme iÅŸlemlerini de AARO Ã¼zerinden gerÃ§ekleÅŸtirebilir. 
+Bu, iÅŸlemlerin kayÄ±t altÄ±nda tutulmasÄ±nÄ± ve finansal sÃ¼reÃ§lerin dÃ¼zenli bir ÅŸekilde yÃ¼rÃ¼tÃ¼lmesini saÄŸlar.
 
-İzin verilen erişim sayesinde, her bayinin görebileceği ve yapabileceği işlemler üzerinde tam kontrol sağlarız.
-Bayi hesapları sayesinde sipariş süreçleri hızlanır, böylece işletmemiz ve bayilerimiz için zaman tasarrufu sağlanır.
+Ä°zin verilen eriÅŸim sayesinde, her bayinin gÃ¶rebileceÄŸi ve yapabileceÄŸi iÅŸlemler Ã¼zerinde tam kontrol saÄŸlarÄ±z.
+Bayi hesaplarÄ± sayesinde sipariÅŸ sÃ¼reÃ§leri hÄ±zlanÄ±r, bÃ¶ylece iÅŸletmemiz ve bayilerimiz iÃ§in zaman tasarrufu saÄŸlanÄ±r.
 
 
 ### Yeni Bayi Ekle 
 
 #### Genel
 
-**Kullanıcı Kodu:** Bayinin kullanıcı kodunu ifade eder.
+**KullanÄ±cÄ± Kodu:** Bayinin kullanÄ±cÄ± kodunu ifade eder.
 
-**Kullanıcı Adı:** Bayinin kullanıcı adını ifade eder.
+**KullanÄ±cÄ± AdÄ±:** Bayinin kullanÄ±cÄ± adÄ±nÄ± ifade eder.
 
-**Aaro Hesabı:** AARO bayi giriş ekranındaki "Kullanıcı Adı" alanını ifade eder.
+**Aaro HesabÄ±:** AARO bayi giriÅŸ ekranÄ±ndaki "KullanÄ±cÄ± AdÄ±" alanÄ±nÄ± ifade eder.
 
-**Telefon:** Kullanıcıya ait telefon numarasını ifade eder.
+**Telefon:** KullanÄ±cÄ±ya ait telefon numarasÄ±nÄ± ifade eder.
 
-**e-Posta:** Kullanıcıya ait e-posta adresini ifade eder.
+**e-Posta:** KullanÄ±cÄ±ya ait e-posta adresini ifade eder.
 
-**Şifre:** Bayi hesabına giriş yaparken kullanacağını şifreyi ifade eder. 8 karakterden fazla olacak şekilde şifre belirleyiniz.
+**Åifre:** Bayi hesabÄ±na giriÅŸ yaparken kullanacaÄŸÄ±nÄ± ÅŸifreyi ifade eder. 8 karakterden fazla olacak ÅŸekilde ÅŸifre belirleyiniz.
 
-**Depo:** Bayinin kullanacağı depoyu belirtir. Stok miktarlarını bu depodan görür, siparişleri bu depoya işlenir.
+**Depo:** Bayinin kullanacaÄŸÄ± depoyu belirtir. Stok miktarlarÄ±nÄ± bu depodan gÃ¶rÃ¼r, sipariÅŸleri bu depoya iÅŸlenir.
 
-**Cari:** Bayinin hangi Cari hesabıyla işlem yapacağını belirtir. Siparişleri ve ödemeleri bu Cari hesabına işlenir.
+**Cari:** Bayinin hangi Cari hesabÄ±yla iÅŸlem yapacaÄŸÄ±nÄ± belirtir. SipariÅŸleri ve Ã¶demeleri bu Cari hesabÄ±na iÅŸlenir.
 
-**Etiketler:** Bu kartı gruplamak ve ileride gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
+**Etiketler:** Bu kartÄ± gruplamak ve ileride gruplu rapor alabilmek iÃ§in kullanÄ±lÄ±r. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 #### Yetkiler
 
-**Oturum Açma Yetkisi:** Bayinin oturum açabileceği Şirket-Şubeyi belirtir. Siparişler ve ödemeleri bu Şirket-Şubeye işlenir.
+**Oturum AÃ§ma Yetkisi:** Bayinin oturum aÃ§abileceÄŸi Åirket-Åubeyi belirtir. SipariÅŸler ve Ã¶demeleri bu Åirket-Åubeye iÅŸlenir.
 
-**Yetkiler:** Bayi kullanıcılarının yapabileceği işlemleri ifade eder. 
-	- **Bakiye Görebilme:** 
-	- **Sipariş Oluşturabilir:** Bayi kullanıcı için sipariş oluşturabilme yetkisini ifade eder. Aktif edildiğinde bayi kullanıcısı sipariş oluşturabilir.
-	- **Hareketlerini Görebilir:** Bayi kullanıcı yaptığı işlemleri görebilmesini ifade eder. Böylece geriye dönül işlemleri görerek kontrolünü sağlayabilir.
+**Yetkiler:** Bayi kullanÄ±cÄ±larÄ±nÄ±n yapabileceÄŸi iÅŸlemleri ifade eder. 
+	- **Bakiye GÃ¶rebilme:** 
+	- **SipariÅŸ OluÅŸturabilir:** Bayi kullanÄ±cÄ± iÃ§in sipariÅŸ oluÅŸturabilme yetkisini ifade eder. Aktif edildiÄŸinde bayi kullanÄ±cÄ±sÄ± sipariÅŸ oluÅŸturabilir.
+	- **Hareketlerini GÃ¶rebilir:** Bayi kullanÄ±cÄ± yaptÄ±ÄŸÄ± iÅŸlemleri gÃ¶rebilmesini ifade eder. BÃ¶ylece geriye dÃ¶nÃ¼l iÅŸlemleri gÃ¶rerek kontrolÃ¼nÃ¼ saÄŸlayabilir.
 
-#### Oturum Açma Saatleri
+#### Oturum AÃ§ma Saatleri
 
-Günler bazında başlangıç ve bitiş saatlerini belirleyerek bayi kullanıcı sisteme erişim sağlayabilecekleri zaman aralığını belirtir.
+GÃ¼nler bazÄ±nda baÅŸlangÄ±Ã§ ve bitiÅŸ saatlerini belirleyerek bayi kullanÄ±cÄ± sisteme eriÅŸim saÄŸlayabilecekleri zaman aralÄ±ÄŸÄ±nÄ± belirtir.
 
-#### Gelişmiş
+#### GeliÅŸmiÅŸ
 
-Bayi kullanıcı hesabının aktif ya da pasiflik durumunu ifade eder, buradan bayi kullanıcısının hesabını pasif ya da aktif edebilirsiniz.
+Bayi kullanÄ±cÄ± hesabÄ±nÄ±n aktif ya da pasiflik durumunu ifade eder, buradan bayi kullanÄ±cÄ±sÄ±nÄ±n hesabÄ±nÄ± pasif ya da aktif edebilirsiniz.
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Verilen sipariş işlemimizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+- DoldurulmasÄ± gereken alanlar girildikten sonra saÄŸ alt kÃ¶ÅŸede bulunan Kaydet butonuna tÄ±klayarak Verilen sipariÅŸ iÅŸlemimizi tamamlayabilirsiniz.
+- KayÄ±tlÄ± bir kartÄ± silmek iÃ§in sol altta bulunan sil butonuna tÄ±klayarak silebilirsiniz.
 
-#### Kayıt Bilgileri
+#### KayÄ±t Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+KartÄ±n hangi kullanÄ±cÄ± tarafÄ±ndan ve hangi tarihlerde oluÅŸturulduÄŸu ve deÄŸiÅŸtirildiÄŸi bilgisini iÃ§erir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kart iÅŸ akÄ±ÅŸ sÃ¼reÃ§lerine dahil edildiÄŸinde hangi kullanÄ±cÄ± tarafÄ±ndan hangi tarihte onaylandÄ±ÄŸÄ± bilgilerini iÃ§erir. 
 
 #### Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+YapacaÄŸÄ±mÄ±z iÅŸlem iÃ§in elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yÃ¼kleyebiliriz.
+Buraya iÅŸlem gerÃ§ekleÅŸirken ki gÃ¶rselleri yÃ¼kleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek iÃ§in tÄ±klayalÄ±m ;
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Daha Ã¶nce yÃ¼klediklerimden seÃ§ -> belgeyi seÃ§elim -> Ä°liÅŸkilendir ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- YÃ¼klenecek belge veya resimleri seÃ§in -> belgeyi ya da belgeleri seÃ§elim -> YÃ¼kle ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
-Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+Belge kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Belge](../TemelOzellikler/Belgeler.md)
 
 #### Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+Ä°ÅŸleme ait Ã¶zel notlar belirtebiliriz. 
+Ã–nemli bir detay var ise bu detaylarÄ± burada belirtebiliriz.
+Notlar kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Notlar](../TemelOzellikler/Notlar.md)
 
-## Yazdır
+## YazdÄ±r
 
-- Sayfanın sağ üstünde bulunan yazıcı sembolü ile sayfaya tanımlanan özel çıktı formatları ile farklı çıktılar alınabilir. 
-- Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
-- Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
-- Kullanıcıya özel teklif formu gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
-- Çıktılar program üzerinden e-mail olarak gönderilebilir. 
+- SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan yazÄ±cÄ± sembolÃ¼ ile sayfaya tanÄ±mlanan Ã¶zel Ã§Ä±ktÄ± formatlarÄ± ile farklÄ± Ã§Ä±ktÄ±lar alÄ±nabilir. 
+- Kartta bulunan bilgilerin kullanÄ±cÄ±nÄ±n isteÄŸine baÄŸlÄ± olarak Ã¶zel tasarÄ±m ile yazdÄ±rÄ±lmasÄ±nÄ± saÄŸlar.
+- Birden Ã§ok Ã§Ä±ktÄ± tasarÄ±m yapÄ±labilir ve deÄŸiÅŸtirilebilir.
+- KullanÄ±cÄ±ya Ã¶zel teklif formu gibi farklÄ± tasarÄ±mlar yapÄ±labilir.
+- Ã‡Ä±ktÄ± tasarÄ±mlarÄ±nÄ±n herbirine ayrÄ± ayrÄ± yetkiler verilerek sadece istenilen kullanÄ±cÄ±nÄ±n belirli Ã§Ä±ktÄ±lara ulaÅŸmasÄ± saÄŸlanabilir.
+- Ã‡Ä±ktÄ±lar program Ã¼zerinden e-mail olarak gÃ¶nderilebilir. 
 
-### Ek İşlemler
+### Ek Ä°ÅŸlemler
 
-- Anasayfaya Kısayol Olarak Ekle: Anasayfaya kısayol olarak ekleyebilirsiniz. Detaylarına linklerine tıklayarak erişim sağlayabilirsiniz.
-- Görev Oluştur: Sipariş için görev oluşturup, kişi atayabiliriz, açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listede ki görevlerden görevi bağlayacağımız, birleştireceğimiz görevi seçelim, kaydet diyerek görevi bağlayabiliriz.
-- Şifre: Kullanıcıya şifre belirlemek için burayı kullanabilirsiniz.
-- Şifre Sıfırla ve SMS Gönder: Bayi kullanıcı hesabının şifresini sıfırlayarak SMS göndererek yeni şifre belirlemesine yardımcı olur.
-- Yetkiler(Tümü): Kullanıcı hesabının tüm yetkilerini ifade eder, buradan bayi kullanıcı hesabının yetkileri düzenlenir.
-- Yetkiler(Bayi): Kullanıcı hesabının bayi yetkilerini ifade eder. buradan bayi kullanıcı hesabının bayi yetkileri düzenlenir.
-- Alt Yetkiler(Tümü): Kullanıcı hesabının tüm alt yetkilerini ifade eder, buradan bayi kullanıcısının alt yetkileri düzenlenir.
-- Alt Yetkiler(Bayi): Kullanıcı hesabının bayi alt yetkilerini ifade eder, buradan bayi kullanıcısının alt yetkileri düzenlenir.
+- Anasayfaya KÄ±sayol Olarak Ekle: Anasayfaya kÄ±sayol olarak ekleyebilirsiniz. DetaylarÄ±na linklerine tÄ±klayarak eriÅŸim saÄŸlayabilirsiniz.
+- GÃ¶rev OluÅŸtur: SipariÅŸ iÃ§in gÃ¶rev oluÅŸturup, kiÅŸi atayabiliriz, aÃ§Ä±klama, tarih bitiÅŸ, hatÄ±rlatma sÃ¼resi, yÃ¶netici, kullanÄ±cÄ±, tamamlanma tipi, tekrar ÅŸekli bilgilerini ekleyerek gÃ¶rev tanÄ±mlama iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- GÃ¶rev BaÄŸla: AÃ§Ä±lan listede ki gÃ¶revlerden gÃ¶revi baÄŸlayacaÄŸÄ±mÄ±z, birleÅŸtireceÄŸimiz gÃ¶revi seÃ§elim, kaydet diyerek gÃ¶revi baÄŸlayabiliriz.
+- Åifre: KullanÄ±cÄ±ya ÅŸifre belirlemek iÃ§in burayÄ± kullanabilirsiniz.
+- Åifre SÄ±fÄ±rla ve SMS GÃ¶nder: Bayi kullanÄ±cÄ± hesabÄ±nÄ±n ÅŸifresini sÄ±fÄ±rlayarak SMS gÃ¶ndererek yeni ÅŸifre belirlemesine yardÄ±mcÄ± olur.
+- Yetkiler(TÃ¼mÃ¼): KullanÄ±cÄ± hesabÄ±nÄ±n tÃ¼m yetkilerini ifade eder, buradan bayi kullanÄ±cÄ± hesabÄ±nÄ±n yetkileri dÃ¼zenlenir.
+- Yetkiler(Bayi): KullanÄ±cÄ± hesabÄ±nÄ±n bayi yetkilerini ifade eder. buradan bayi kullanÄ±cÄ± hesabÄ±nÄ±n bayi yetkileri dÃ¼zenlenir.
+- Alt Yetkiler(TÃ¼mÃ¼): KullanÄ±cÄ± hesabÄ±nÄ±n tÃ¼m alt yetkilerini ifade eder, buradan bayi kullanÄ±cÄ±sÄ±nÄ±n alt yetkileri dÃ¼zenlenir.
+- Alt Yetkiler(Bayi): KullanÄ±cÄ± hesabÄ±nÄ±n bayi alt yetkilerini ifade eder, buradan bayi kullanÄ±cÄ±sÄ±nÄ±n alt yetkileri dÃ¼zenlenir.
 
-### Bayi Ekranı Stok 
+### Bayi EkranÄ± Stok 
 
-Bayide gözükmesini istediğiniz ürünleri, adetlerini stok kartlarının içerisinde düzenlemeniz gerekmektedir.
+Bayide gÃ¶zÃ¼kmesini istediÄŸiniz Ã¼rÃ¼nleri, adetlerini stok kartlarÄ±nÄ±n iÃ§erisinde dÃ¼zenlemeniz gerekmektedir.
 
-Stok kartının içerisine gidelim "Bayi Tanımları" kısmında;
-- Bayide Göster : Tüm stoklarınız bayilerinize gösterilmez. Bayi sisteminiz aktif ise göstermek istediğiniz bir stok ise bu seneçeği işaretleyerek aktif etmeniz gerekmektedir.
-- Bayi Maks. Miktar: Bayileriniz, belirleyeceğiniz sayının üzerindeki stok miktarını göremez. Örneğin; Deponuzda 100 birim ABC stoğu var.
-Bu alana 50 girilirse, bayileriniz bu stoğunun miktarını 50+ şeklinde görecektir. 0 girerseniz sadece 'Stokta Var' ya da 'Stokta Yok' şeklinde görürler.
+Stok kartÄ±nÄ±n iÃ§erisine gidelim "Bayi TanÄ±mlarÄ±" kÄ±smÄ±nda;
+- Bayide GÃ¶ster : TÃ¼m stoklarÄ±nÄ±z bayilerinize gÃ¶sterilmez. Bayi sisteminiz aktif ise gÃ¶stermek istediÄŸiniz bir stok ise bu seneÃ§eÄŸi iÅŸaretleyerek aktif etmeniz gerekmektedir.
+- Bayi Maks. Miktar: Bayileriniz, belirleyeceÄŸiniz sayÄ±nÄ±n Ã¼zerindeki stok miktarÄ±nÄ± gÃ¶remez. Ã–rneÄŸin; Deponuzda 100 birim ABC stoÄŸu var.
+Bu alana 50 girilirse, bayileriniz bu stoÄŸunun miktarÄ±nÄ± 50+ ÅŸeklinde gÃ¶recektir. 0 girerseniz sadece 'Stokta Var' ya da 'Stokta Yok' ÅŸeklinde gÃ¶rÃ¼rler.
 
 
 

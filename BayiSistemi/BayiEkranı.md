@@ -3,52 +3,52 @@ SayfaID: BayiAnasayfa
 SayfaTipi: Anasayfa
 ---
 
-# Bayi Hesabı
+# Bayi HesabÄ±
 
-**Erişim Linki :** [erp.aaro.com.tr/Bayi](erp.aaro.com.tr/Bayi)
+**EriÅŸim Linki :** [erp.aaro.com.tr/Bayi](erp.aaro.com.tr/Bayi)
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- erp.aaro.com.tr adresine giderek bayi kullanıcı bilgileri ile giriş yaparak bayi hesabınıza girebilirsiniz.
+- erp.aaro.com.tr adresine giderek bayi kullanÄ±cÄ± bilgileri ile giriÅŸ yaparak bayi hesabÄ±nÄ±za girebilirsiniz.
 
-## Tanım
+## TanÄ±m
 
-Bayi hesabınızdan, bayisi olduğunuz firmaların sizler için tanımladıkları ürünleri görüntüleyebilir, sipariş oluşturabilir ve sipariş takibinizi yapabilirsiniz.
-Ayrıca, verdiğiniz siparişlerin takibini yaparak süreçleri yönetebilirsiniz. Bu yöntem, ana firmanızla olan işlemlerinizi hızlandırır ve daha verimli hale getirir.
+Bayi hesabÄ±nÄ±zdan, bayisi olduÄŸunuz firmalarÄ±n sizler iÃ§in tanÄ±mladÄ±klarÄ± Ã¼rÃ¼nleri gÃ¶rÃ¼ntÃ¼leyebilir, sipariÅŸ oluÅŸturabilir ve sipariÅŸ takibinizi yapabilirsiniz.
+AyrÄ±ca, verdiÄŸiniz sipariÅŸlerin takibini yaparak sÃ¼reÃ§leri yÃ¶netebilirsiniz. Bu yÃ¶ntem, ana firmanÄ±zla olan iÅŸlemlerinizi hÄ±zlandÄ±rÄ±r ve daha verimli hale getirir.
 
-## Bayi Ekranı Tanıtım
+## Bayi EkranÄ± TanÄ±tÄ±m
 
-- Aaro logosuna tıklandığında anasayfaya erişim sağlar.
-- Kategoriler kısmından ürün kategorilerine göre filtreleme sağlayarak ürünleri daha kolay bulabilirsiniz.
-- Arama butonu: Ürüne ait tüm özellikleri arayabilirsiniz. Ürün Adı, Kodu, Barkod numarası vs. bilgisinde geçen aramak istediğiniz terimleri arasında boşluk bırakarak arayınız.
-- Bayisi olduğunuz firmanı iletişim bilgilerini görüntüleyebilirsiniz.
-- Siparişlerim; Siparişlerinizi burada görüntüleyerek, sipariş durumunu, tutarları, tedarik durumunun takibini sağlayabilirsiniz.
-	Filtreleme özelliğini kullanarak istediğiniz verilere görele filtreleme yapabilirsiniz.
-- Sepete Git; Sepette ürünler için açıklama ekleyebilir, ürün çıkarabilir, ürün ekleyebilir, siparişinizi onaylabilir veya ekleyebilirsiniz.
-	Siparişiniz yazdırarak detaylarını inceleyebilir veya elinizde belge bulundurmak için çıktı alabilirsiniz.
-- Ödemelerim; Geçmiş ödemelerinizi görüntüleyebilir, filtreleme yaparak istediğiniz ödeme verilerine ulaşım sağlayabilirsiniz.
-- Ödeme Yap; Siparişleriniz için bayinize ödeme yapabilirsiniz.
-	Kart Tipi: Bayisi olduğunuz firmanı POS cihazını ifade eder.
-	Taksit Adedi: Ödeme için taksit adedini ifade eder.
-	Tutar: Ödemenin tutarını ifade eder.
-- Izgara görünüme tıklayarak ürünlerin liste veya ızgara görünürlüğünü değiştirebilirsiniz.
+- Aaro logosuna tÄ±klandÄ±ÄŸÄ±nda anasayfaya eriÅŸim saÄŸlar.
+- Kategoriler kÄ±smÄ±ndan Ã¼rÃ¼n kategorilerine gÃ¶re filtreleme saÄŸlayarak Ã¼rÃ¼nleri daha kolay bulabilirsiniz.
+- Arama butonu: ÃœrÃ¼ne ait tÃ¼m Ã¶zellikleri arayabilirsiniz. ÃœrÃ¼n AdÄ±, Kodu, Barkod numarasÄ± vs. bilgisinde geÃ§en aramak istediÄŸiniz terimleri arasÄ±nda boÅŸluk bÄ±rakarak arayÄ±nÄ±z.
+- Bayisi olduÄŸunuz firmanÄ± iletiÅŸim bilgilerini gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
+- SipariÅŸlerim; SipariÅŸlerinizi burada gÃ¶rÃ¼ntÃ¼leyerek, sipariÅŸ durumunu, tutarlarÄ±, tedarik durumunun takibini saÄŸlayabilirsiniz.
+	Filtreleme Ã¶zelliÄŸini kullanarak istediÄŸiniz verilere gÃ¶rele filtreleme yapabilirsiniz.
+- Sepete Git; Sepette Ã¼rÃ¼nler iÃ§in aÃ§Ä±klama ekleyebilir, Ã¼rÃ¼n Ã§Ä±karabilir, Ã¼rÃ¼n ekleyebilir, sipariÅŸinizi onaylabilir veya ekleyebilirsiniz.
+	SipariÅŸiniz yazdÄ±rarak detaylarÄ±nÄ± inceleyebilir veya elinizde belge bulundurmak iÃ§in Ã§Ä±ktÄ± alabilirsiniz.
+- Ã–demelerim; GeÃ§miÅŸ Ã¶demelerinizi gÃ¶rÃ¼ntÃ¼leyebilir, filtreleme yaparak istediÄŸiniz Ã¶deme verilerine ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Ã–deme Yap; SipariÅŸleriniz iÃ§in bayinize Ã¶deme yapabilirsiniz.
+	Kart Tipi: Bayisi olduÄŸunuz firmanÄ± POS cihazÄ±nÄ± ifade eder.
+	Taksit Adedi: Ã–deme iÃ§in taksit adedini ifade eder.
+	Tutar: Ã–demenin tutarÄ±nÄ± ifade eder.
+- Izgara gÃ¶rÃ¼nÃ¼me tÄ±klayarak Ã¼rÃ¼nlerin liste veya Ä±zgara gÃ¶rÃ¼nÃ¼rlÃ¼ÄŸÃ¼nÃ¼ deÄŸiÅŸtirebilirsiniz.
 
-** İşlemlerden birini gerçekleştiremiyorsanız bayisi olduğunuz firma ile iletişime geçerek yetki talebinde bulunabilirsiniz.**
+** Ä°ÅŸlemlerden birini gerÃ§ekleÅŸtiremiyorsanÄ±z bayisi olduÄŸunuz firma ile iletiÅŸime geÃ§erek yetki talebinde bulunabilirsiniz.**
 
-## Nasıl Sipariş Oluşturulur ?
+## NasÄ±l SipariÅŸ OluÅŸturulur ?
 
-Bayisi olduğunuz firmadan ürün talebinde bulunmak için;
-- Talepte bulunacağınız ürünleri sepete ekleyin.
-- Sepete giderek eklediğiniz ürünlerin kontrolünü sağlayın.
-- Sepetinizi onaylayarak siparişinizi tamamlayabilirsiniz.
-- Siparişiniz satıcıya düşecek, siparişlerim kısmından siparişinizin takibini sağlayabilirsiniz.
+Bayisi olduÄŸunuz firmadan Ã¼rÃ¼n talebinde bulunmak iÃ§in;
+- Talepte bulunacaÄŸÄ±nÄ±z Ã¼rÃ¼nleri sepete ekleyin.
+- Sepete giderek eklediÄŸiniz Ã¼rÃ¼nlerin kontrolÃ¼nÃ¼ saÄŸlayÄ±n.
+- Sepetinizi onaylayarak sipariÅŸinizi tamamlayabilirsiniz.
+- SipariÅŸiniz satÄ±cÄ±ya dÃ¼ÅŸecek, sipariÅŸlerim kÄ±smÄ±ndan sipariÅŸinizin takibini saÄŸlayabilirsiniz.
 
-### Menü Butonları 
+### MenÃ¼ ButonlarÄ± 
 
-- Alışveriş Sepeti: Sepete yönlendirir, kolayca sipariş oluşturabilir sepetinizde ki ürünleri görüntüleyebilirsiniz.
-- Üç İşlem Butonu: Siparişlerim ekranına yönlendirir, siparişlerinizi ve siparişlerinizin durumlarını buradan takip edebilir.
-- Hareket Dökümü: Hareketler sayfasına yönlendirme sağlar hareketlerinizi buradan takip edebilirsiniz.
-- Çıkış Butonu: Aaro bayi ekranından çıkış yapmak için kullanılır.
+- AlÄ±ÅŸveriÅŸ Sepeti: Sepete yÃ¶nlendirir, kolayca sipariÅŸ oluÅŸturabilir sepetinizde ki Ã¼rÃ¼nleri gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
+- ÃœÃ§ Ä°ÅŸlem Butonu: SipariÅŸlerim ekranÄ±na yÃ¶nlendirir, sipariÅŸlerinizi ve sipariÅŸlerinizin durumlarÄ±nÄ± buradan takip edebilir.
+- Hareket DÃ¶kÃ¼mÃ¼: Hareketler sayfasÄ±na yÃ¶nlendirme saÄŸlar hareketlerinizi buradan takip edebilirsiniz.
+- Ã‡Ä±kÄ±ÅŸ Butonu: Aaro bayi ekranÄ±ndan Ã§Ä±kÄ±ÅŸ yapmak iÃ§in kullanÄ±lÄ±r.
 
 
 

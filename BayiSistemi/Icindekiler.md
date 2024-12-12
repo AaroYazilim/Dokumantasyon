@@ -3,34 +3,34 @@ SayfaID: BayiModulu
 SayfaTipi: Modul
 ---
 
-# Bayi Modülü
+# Bayi ModÃ¼lÃ¼
 
-**Erişim Linki :** [erp.aaro.com.tr/BayiModulu](erp.aaro.com.tr/BayiModulu)
+**EriÅŸim Linki :** [erp.aaro.com.tr/BayiModulu](erp.aaro.com.tr/BayiModulu)
 
-Bayi modülü, bir işletmenin bayi ağıyla olan ilişkilerini yönetmek için kullanılan bir yazılım sistemidir. 
-Bu modül ile bayilerin performansını izlemek, sipariş süreçlerini yönetmek, stok takibi yapmak ve satış raporları oluşturmak gibi işlevler sunar. 
-Ayrıca, bayi iletişimini güçlendirir, kolayca yönetmenize olanak sağlar ve müşteri hizmetlerini iyileştirir. 
-Bayi modülü, işletmenin pazardaki varlığını artırmasına ve bayi ağının etkinliğini maksimize etmesine yardımcı olur.
+Bayi modÃ¼lÃ¼, bir iÅŸletmenin bayi aÄŸÄ±yla olan iliÅŸkilerini yÃ¶netmek iÃ§in kullanÄ±lan bir yazÄ±lÄ±m sistemidir. 
+Bu modÃ¼l ile bayilerin performansÄ±nÄ± izlemek, sipariÅŸ sÃ¼reÃ§lerini yÃ¶netmek, stok takibi yapmak ve satÄ±ÅŸ raporlarÄ± oluÅŸturmak gibi iÅŸlevler sunar. 
+AyrÄ±ca, bayi iletiÅŸimini gÃ¼Ã§lendirir, kolayca yÃ¶netmenize olanak saÄŸlar ve mÃ¼ÅŸteri hizmetlerini iyileÅŸtirir. 
+Bayi modÃ¼lÃ¼, iÅŸletmenin pazardaki varlÄ±ÄŸÄ±nÄ± artÄ±rmasÄ±na ve bayi aÄŸÄ±nÄ±n etkinliÄŸini maksimize etmesine yardÄ±mcÄ± olur.
 
-## Bu modülde yer alan işlemler;
+## Bu modÃ¼lde yer alan iÅŸlemler;
 
 ### Hareket
 
-- [Yeni Bayi Ekle](../Bayi/BayiModülü.md)
+- [Yeni Bayi Ekle](../Bayi/BayiModÃ¼lÃ¼.md)
 
 ### Liste
 
 - [Hareket Listesi](../Bayi/HareketListesi.md)
-- [Sipariş Listesi](../Bayi/SiparisListesi.md)
-- [Bayi Kullanıcı Listesi](../Bayi/BayiKullaniciListesi.md)
+- [SipariÅŸ Listesi](../Bayi/SiparisListesi.md)
+- [Bayi KullanÄ±cÄ± Listesi](../Bayi/BayiKullaniciListesi.md)
 
 ### Parametreler
 
-- Genel_BayiFiyatGozuksun (Genel): Bayilerinizin , sipariş kaydederken , stoklara ait fiyatları görmesini istiyorsanız -Evet- olarak kaydedin.
-- Genel_BayiUrunlerListeGozuksun : Bayilerinizin ürünlerinizi resim olarak değil liste olarak gösterilmesini istiyorsanız -Evet- olarak kaydedin.
-- Genel_BayiFiyatVergiDahilGelsin : Bayilerinizin ürünlerin fiyatlarının listelerde vergi dahil mi hariç mi geleceğiniz ayarlanız içindir. Vergi dahil gelmesi için -Evet- olarak kaydedin.
-- Genel_BayiEtiketlerGozuksun (Genel) : Bayilerinizin ürünlerin Etiket tanımlamlarınızı görmesini sağlar.Görmesini istiyorsanız -Evet- olarak kaydedin.
-- Genel_BayiTumDepolardakiStokBakiyeleriniGorsun (Genel) : Bayilerinizin sadece kendilerine tanımlanmış Şirketin, Şube ve deponun değil tüm depolardaki stok miktar toplamını görmesini sağlar. Görmesini istiyorsanız -Evet- olarak kaydedin.
+- Genel_BayiFiyatGozuksun (Genel): Bayilerinizin , sipariÅŸ kaydederken , stoklara ait fiyatlarÄ± gÃ¶rmesini istiyorsanÄ±z -Evet- olarak kaydedin.
+- Genel_BayiUrunlerListeGozuksun : Bayilerinizin Ã¼rÃ¼nlerinizi resim olarak deÄŸil liste olarak gÃ¶sterilmesini istiyorsanÄ±z -Evet- olarak kaydedin.
+- Genel_BayiFiyatVergiDahilGelsin : Bayilerinizin Ã¼rÃ¼nlerin fiyatlarÄ±nÄ±n listelerde vergi dahil mi hariÃ§ mi geleceÄŸiniz ayarlanÄ±z iÃ§indir. Vergi dahil gelmesi iÃ§in -Evet- olarak kaydedin.
+- Genel_BayiEtiketlerGozuksun (Genel) : Bayilerinizin Ã¼rÃ¼nlerin Etiket tanÄ±mlamlarÄ±nÄ±zÄ± gÃ¶rmesini saÄŸlar.GÃ¶rmesini istiyorsanÄ±z -Evet- olarak kaydedin.
+- Genel_BayiTumDepolardakiStokBakiyeleriniGorsun (Genel) : Bayilerinizin sadece kendilerine tanÄ±mlanmÄ±ÅŸ Åirketin, Åube ve deponun deÄŸil tÃ¼m depolardaki stok miktar toplamÄ±nÄ± gÃ¶rmesini saÄŸlar. GÃ¶rmesini istiyorsanÄ±z -Evet- olarak kaydedin.
 
 
 

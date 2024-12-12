@@ -5,59 +5,59 @@ SayfaTipi: Liste
 
 # Takvim
 
-**Erişim Linki :** [erp.aaro.com.tr/Takvim/Liste](erp.aaro.com.tr/Takvim/Liste/)
+**EriÅŸim Linki :** [erp.aaro.com.tr/Takvim/Liste](erp.aaro.com.tr/Takvim/Liste/)
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "takvim" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Personel -> Modül Sayfası -> Takvimler şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "takvim" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Personel -> ModÃ¼l SayfasÄ± -> Takvimler ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 
-## Tanım 
+## TanÄ±m 
 
-İşletmenin planlama ve zaman yönetimini optimize etmek için oluşturulan bir araçtır. 
-Takvim, yıllık, aylık, haftalık ve günlük bazda işlemleri takip etmeye olanak tanır. 
-Takvim sayesinde planlamalar için tarih, saat, gibi temel bileşenlerle detaylandırılır. 
-Ayrıca, takvimi diğer modüllerde tanımlama yaparak üretim planlamada, insan kaynakları gibi alanlarla uyumlu çalışır. 
-Belirli zaman aralıklarında geçerli olacak takvim tanımlamaları, değişken plan durumlarını etkili bir şekilde yönetmenize olanak tanır. 
+Ä°ÅŸletmenin planlama ve zaman yÃ¶netimini optimize etmek iÃ§in oluÅŸturulan bir araÃ§tÄ±r. 
+Takvim, yÄ±llÄ±k, aylÄ±k, haftalÄ±k ve gÃ¼nlÃ¼k bazda iÅŸlemleri takip etmeye olanak tanÄ±r. 
+Takvim sayesinde planlamalar iÃ§in tarih, saat, gibi temel bileÅŸenlerle detaylandÄ±rÄ±lÄ±r. 
+AyrÄ±ca, takvimi diÄŸer modÃ¼llerde tanÄ±mlama yaparak Ã¼retim planlamada, insan kaynaklarÄ± gibi alanlarla uyumlu Ã§alÄ±ÅŸÄ±r. 
+Belirli zaman aralÄ±klarÄ±nda geÃ§erli olacak takvim tanÄ±mlamalarÄ±, deÄŸiÅŸken plan durumlarÄ±nÄ± etkili bir ÅŸekilde yÃ¶netmenize olanak tanÄ±r. 
 
-## Takvim Tanımlama 
+## Takvim TanÄ±mlama 
 
-**Kodu:** Takvim için geçerli olan kodu ifade eder.
+**Kodu:** Takvim iÃ§in geÃ§erli olan kodu ifade eder.
 
-**Adı:** Takvimin adını ifade eder.
+**AdÄ±:** Takvimin adÄ±nÄ± ifade eder.
 
 **Durum:** Takvimin aktif ya da pasiflik durumunu ifade eder.
 
 **Tip:** Takvimin tipini ifade eder.
 
-### Günleri Hızlı Ayarla 
+### GÃ¼nleri HÄ±zlÄ± Ayarla 
 
-**Takvim** Günlerini ayarlacağımız takvimin seçimini ifade eder.
+**Takvim** GÃ¼nlerini ayarlacaÄŸÄ±mÄ±z takvimin seÃ§imini ifade eder.
 
-**Başlangıç Tarihi** Takvimin geçerli olacağı başlangıç tarihini ifade eder.
+**BaÅŸlangÄ±Ã§ Tarihi** Takvimin geÃ§erli olacaÄŸÄ± baÅŸlangÄ±Ã§ tarihini ifade eder.
 
-**Bitiş Tarihi:** Takvimin geçerli olacağı bitiş tarihini ifade eder.
+**BitiÅŸ Tarihi:** Takvimin geÃ§erli olacaÄŸÄ± bitiÅŸ tarihini ifade eder.
 
-Günlerin yanındaki kutucuklardan "Resmi tatil", "Hafta sonu" ve "Normal gün" seçeneklerini seçerek, günlerin mesai saatlerini belirleyebilirsiniz. Sistem, dakika bazında çalışmaktadır.
+GÃ¼nlerin yanÄ±ndaki kutucuklardan "Resmi tatil", "Hafta sonu" ve "Normal gÃ¼n" seÃ§eneklerini seÃ§erek, gÃ¼nlerin mesai saatlerini belirleyebilirsiniz. Sistem, dakika bazÄ±nda Ã§alÄ±ÅŸmaktadÄ±r.
 
-**Baş. Saat:** Mesainin başlayacağı saati ifade eder.
+**BaÅŸ. Saat:** Mesainin baÅŸlayacaÄŸÄ± saati ifade eder.
 
-Bilgileri doldurduktan sonra "Kaydet" diyerek takvim kaydınınızı tamamlayabilirsiniz.
+Bilgileri doldurduktan sonra "Kaydet" diyerek takvim kaydÄ±nÄ±nÄ±zÄ± tamamlayabilirsiniz.
 
-### Takvim Üzerinden Günleri Ayarla
+### Takvim Ãœzerinden GÃ¼nleri Ayarla
 
-Hafta, ay, yıl ve tarih filtrelemeleri yaparak takvimi açabilirsiniz; yıl seçeneğinden istediğiniz yılı seçebilirsiniz. 
-Çalışma saatlerini dakika bazında yazarak, günler için geçerli olan dakikayı girebilirsiniz. 
-"Resmi Tatil", "Normal" ve "Hafta Sonu" seçeneklerden seçim yaparak, günlerin üzerine tıklandığında günün özelliği tanımlanır.
-Örneğin; Normal günler belirtilmek istendiğinde;
-Normal Gün 540 dk seçeneği seçildikten sonra takvim üzerinden Pazartesi, Salı, Çarşamba, Perşembe, Cuma günlerine tıklayarak normal gün, 540 dk çalışma saati olarak tanımlanır.
+Hafta, ay, yÄ±l ve tarih filtrelemeleri yaparak takvimi aÃ§abilirsiniz; yÄ±l seÃ§eneÄŸinden istediÄŸiniz yÄ±lÄ± seÃ§ebilirsiniz. 
+Ã‡alÄ±ÅŸma saatlerini dakika bazÄ±nda yazarak, gÃ¼nler iÃ§in geÃ§erli olan dakikayÄ± girebilirsiniz. 
+"Resmi Tatil", "Normal" ve "Hafta Sonu" seÃ§eneklerden seÃ§im yaparak, gÃ¼nlerin Ã¼zerine tÄ±klandÄ±ÄŸÄ±nda gÃ¼nÃ¼n Ã¶zelliÄŸi tanÄ±mlanÄ±r.
+Ã–rneÄŸin; Normal gÃ¼nler belirtilmek istendiÄŸinde;
+Normal GÃ¼n 540 dk seÃ§eneÄŸi seÃ§ildikten sonra takvim Ã¼zerinden Pazartesi, SalÄ±, Ã‡arÅŸamba, PerÅŸembe, Cuma gÃ¼nlerine tÄ±klayarak normal gÃ¼n, 540 dk Ã§alÄ±ÅŸma saati olarak tanÄ±mlanÄ±r.
 
-### Üretim Planlamada Takvim
+### Ãœretim Planlamada Takvim
 
-Üretim planlamada geçerli olacak takvimi tanımlamamız gerekmektedir.
+Ãœretim planlamada geÃ§erli olacak takvimi tanÄ±mlamamÄ±z gerekmektedir.
 
-Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: Uretim_UretimPlanTakvimi -> Değer: Geçerli olacak takvimi ifade eder.
-Kaydet diyerek üretim için geçerli olacak takvimin tanımlaması tamamlanır.
+Ayarlar -> Parametre Listesi -> Yeni Parametre Ekle -> Parametre: Uretim_UretimPlanTakvimi -> DeÄŸer: GeÃ§erli olacak takvimi ifade eder.
+Kaydet diyerek Ã¼retim iÃ§in geÃ§erli olacak takvimin tanÄ±mlamasÄ± tamamlanÄ±r.
 
 
 

@@ -3,32 +3,32 @@ SayfaID: Kullanicilar
 SayfaTipi: BayiListe
 ---
 
-# Bayi Modülü
+# Bayi ModÃ¼lÃ¼
 
-**Erişim Linki :** [erp.aaro.com.tr/Kullanicilar/BayiListe](erp.aaro.com.tr/Kullanicilar/BayiListe)
+**EriÅŸim Linki :** [erp.aaro.com.tr/Kullanicilar/BayiListe](erp.aaro.com.tr/Kullanicilar/BayiListe)
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "bayi" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Bayi -> Bayi Kullanıcı Lİstesi şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "bayi" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den Bayi -> Bayi KullanÄ±cÄ± LÄ°stesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-## Tanım
+## TanÄ±m
 
-Bayi kullanıcı listesi, işletmenizin bayi ağındaki tüm kullanıcıların kayıtlı bilgilerini içeren bir veritabanıdır. 
-Bu liste, her bayinin erişim yetkileri, iletişim bilgileri ve sistemdeki rolü gibi bilgileri içerir. 
-Bayi kullanıcı listesi, bayi ilişkilerini yönetmek, performans izlemek ve iletişimi kolaylaştırmak için önemli bir araçtır.
+Bayi kullanÄ±cÄ± listesi, iÅŸletmenizin bayi aÄŸÄ±ndaki tÃ¼m kullanÄ±cÄ±larÄ±n kayÄ±tlÄ± bilgilerini iÃ§eren bir veritabanÄ±dÄ±r. 
+Bu liste, her bayinin eriÅŸim yetkileri, iletiÅŸim bilgileri ve sistemdeki rolÃ¼ gibi bilgileri iÃ§erir. 
+Bayi kullanÄ±cÄ± listesi, bayi iliÅŸkilerini yÃ¶netmek, performans izlemek ve iletiÅŸimi kolaylaÅŸtÄ±rmak iÃ§in Ã¶nemli bir araÃ§tÄ±r.
 
-- **Kullanıcı Bilgileri:** Bayi adı, kullanıcı adı, iletişim bilgileri ve yetki seviyeleri gibi detayları içerir.
-- **Erişim Yetkileri:** Hangi kullanıcıların sisteme ne zaman ve hangi yetkilerle erişim sağlayacağını gösterir.
-- **Performans İzleme:** Bayi kullanıcılarının aktiviteleri ve sistem kullanımları hakkında veri sunar, böylece performans analizi yapılabilir.
-- **Kolay Yönetim:** İşletmenin bayi kullanıcılarını güncelleme, ekleme veya silme işlemlerini basit bir şekilde gerçekleştirmesine olanak tanır.
+- **KullanÄ±cÄ± Bilgileri:** Bayi adÄ±, kullanÄ±cÄ± adÄ±, iletiÅŸim bilgileri ve yetki seviyeleri gibi detaylarÄ± iÃ§erir.
+- **EriÅŸim Yetkileri:** Hangi kullanÄ±cÄ±larÄ±n sisteme ne zaman ve hangi yetkilerle eriÅŸim saÄŸlayacaÄŸÄ±nÄ± gÃ¶sterir.
+- **Performans Ä°zleme:** Bayi kullanÄ±cÄ±larÄ±nÄ±n aktiviteleri ve sistem kullanÄ±mlarÄ± hakkÄ±nda veri sunar, bÃ¶ylece performans analizi yapÄ±labilir.
+- **Kolay YÃ¶netim:** Ä°ÅŸletmenin bayi kullanÄ±cÄ±larÄ±nÄ± gÃ¼ncelleme, ekleme veya silme iÅŸlemlerini basit bir ÅŸekilde gerÃ§ekleÅŸtirmesine olanak tanÄ±r.
 
 ## Yeni Bayi Ekle 
 
-Yeni bayi ekleme, mevcut bayi ağını genişletmek amacıyla yeni bir bayi kaydının oluşturulması işlemidir. 
-Bu süreç, bayi bilgilerinin toplanması, onay süreci, sistem kaydı ve eğitim aşamalarını içerir.
+Yeni bayi ekleme, mevcut bayi aÄŸÄ±nÄ± geniÅŸletmek amacÄ±yla yeni bir bayi kaydÄ±nÄ±n oluÅŸturulmasÄ± iÅŸlemidir. 
+Bu sÃ¼reÃ§, bayi bilgilerinin toplanmasÄ±, onay sÃ¼reci, sistem kaydÄ± ve eÄŸitim aÅŸamalarÄ±nÄ± iÃ§erir.
 
-Bayi kullanıcı ekleme detayları için buraya tıklayın. [Yeni Bayi Ekle](../Bayi/BayiModulu.md)
+Bayi kullanÄ±cÄ± ekleme detaylarÄ± iÃ§in buraya tÄ±klayÄ±n. [Yeni Bayi Ekle](../Bayi/BayiModulu.md)
 
 
 
