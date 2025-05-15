@@ -3,14 +3,16 @@ SayfaID: PosHesaptanHesabaGeçiş
 SayfaTipi: Banka
 ---
 
-# Satış Faturası
+# POS Hesaptan Hesaba Geçiş
 
 **Erişim Linki :** [erp.aaro.com.tr/KrediPosBankadanTahsilat](https://erp.aaro.com.tr/KrediPosBankadanTahsilat)
 
+[![Image](../TemelHareketler/poshesaptanhesabagecis.png)](TemelHareketler)
+
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "pos hesap" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Banka -> Hareket Oluştur -> Diğer İşlemler -> POS Hesaptan Hesaba Geçiş* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "pos hesap" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Banka -> Hareket Oluştur -> Diğer İşlemler -> POS Hesaptan Hesaba Geçiş* şeklinde ulaşabilirsiniz. 
 
 ## Tanım 
 
@@ -66,13 +68,13 @@ Kur, dövizin güncel piyasa değerini yansıtır ve bu oran üzerinden işlemle
 
 ### Açıklamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")	
+- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md "Açıklama")	
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md "Etiketler")
 
-## Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
+## Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamasına geçebiliriz.
 
 ## Notlar 
 
@@ -111,9 +113,9 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Faturayı kopyalamak için kullanılır.
+- Kopyala: POS hesaptan hesaba geçiş işlemini kopyalamak için kullanılır.
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
-- Görev Oluştur: Satış Faturası için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+- Görev Oluştur: POS hesaptan hesaba geçiş için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
 - Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçip, *Kaydet* diyerek görevi bağlayabiliriz.
-- Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz. 
+- Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.

@@ -7,12 +7,15 @@ SayfaTipi: BankaHareketleri
 
 **Erişim Linki :** [erp.aaro.com.tr/BankaAlacakDekontu](erp.aaro.com.tr/BankaAlacakDekontu)
 
+![Bankadan Gider](bankadan-gider.png "Bankadan Gider")
+
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Banka gider'  şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Banka -> Hareket Oluştur -> Bankadan Gider Hareketi* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Banka gider'  şeklinde aratarak ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Banka -> Hareket Oluştur -> Bankadan Gider Hareketi* şeklinde ulaşabilirsiniz.
 
 ## Tanım
+
 
 Banka hesabından yapılan harcamaları veya ödemeleri ifade eder. 
 Bu terim, bir işletmenin veya bireyin banka hesabından çekilen parayla gerçekleştirilen herhangi bir finansal işlemi kapsar.
@@ -68,14 +71,14 @@ Bu nedenle, işletmeler genellikle bu tür harcamaları dikkatle izler ve kayded
 
 ## Etiketler
 
-İşleme ait detaylar açıklamaya eklenebilir. [Etiket](../TemelOzellikler/Etiketler.md)
+Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 **Kaydet** butonuna tıklayarak belge ve notlar ekleme sayfasına ulaşabilirsiniz. 
 Bu sayfada, ilgili işlemle ilgili belgeleri yükleyebilir ve açıklayıcı notlar ekleyebilirsiniz.
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belgeler
 
@@ -102,7 +105,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Yeni Gelirgider Kalemi Ekle: Bankadan yapılan gelir gider kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
 	
 - Kart Adı: Gelir gider kartını belirtir.
-- Miktar: İşlemi gerçekleşen giderin miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
+- Miktar: İşlemi gerçekleşen giderin miktarını belirtir, bu alanın doldurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
 - İskonto: Giderimizin iskonto oranını belirtir. Uygulanan bir iskonto var ise buraya oranı girebiliriz.
@@ -116,7 +119,6 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Masraf Merkezi: Giderin hangi birim veya departman için yapıldığını belirtir.
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 - Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
-- Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 
 - Banka hareketinde bir kalem belirtilecekse **Kaydet** diyerek bir sonraki aşamaya geçebiliriz.
 - Başka kalemlerde mevcut ise yukarıda aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.

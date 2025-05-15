@@ -7,6 +7,9 @@ SayfaTipi: HareketListe
 
 **Erişim Linki :** [erp.aaro.com.tr/BankaHareketleri/Liste](https://erp.aaro.com.tr/BankaHareketleri/Liste)
 
+[![Image](../Banka/bankahareketlerilistesi.png)](bankahareketlerilistesi)
+
+
 ### Ulaşım
 
 Aşağıdaki yollarla ulaşım sağlayabilirsiniz:

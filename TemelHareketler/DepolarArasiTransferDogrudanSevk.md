@@ -9,9 +9,9 @@ SayfaTipi: Fatura
 
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "depo" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Stok -> Hareket Oluştur -> Diğerleri -> Depolar Arası Transfer* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Satış & Pazarlama -> Hareket Oluştur -> Depoalar Arası Transfer* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "depo" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Stok -> Hareket Oluştur -> Diğerleri -> Depolar Arası Transfer* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Satış & Pazarlama -> Hareket Oluştur -> Depolar Arası Transfer* şeklinde ulaşabilirsiniz. 
 
 ## Tanım
 
@@ -42,7 +42,7 @@ Bu yöntem, özellikle yüksek hacimli veya acil ihtiyaç duyulan ürünlerin ta
 
 **Hedef Depo:** Transferin gerçekleşeceği depoyu ifade eder. Hangi depoya malzeme gönderimi yapılacak ise o depoyu seçelim.
 
-***Kaydet* diyerek transeferi gerçekleşecek malzemeler için kalem ekleme ekranına geçerek Kaydetme işleminizi tamamlayabilirsiniz.**
+***Kaydet* diyerek transferi gerçekleşecek malzemeler için kalem ekleme ekranına geçerek Kaydetme işleminizi tamamlayabilirsiniz.**
 
 ## Kalem Ekleme
 
@@ -60,13 +60,13 @@ Belge eklemek için tıklayalım ;
 
 - *Daha önce yüklediklerimden seç -> Belgeyi seç
 -> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- *Yüklenecek belge veya resimleri seçi- belgeyi ya da belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seç -> Belgeyi ya da belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Kayıt Bilgileri
 
@@ -76,7 +76,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak depolar arası transfer doğrudan sevk işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
@@ -85,7 +85,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
 - Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel depolar arası transfer formu gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının  ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktı tasarımlarının  ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 ## Düzenleme 

@@ -7,6 +7,8 @@ SayfaTipi: Kart
 
 **Erişim Linki :** [erp.aaro.com.tr/Cari/Kalem](https://erp.aaro.com.tr/Cari/Kalem)
 
+![Müşteri Satıcı Hareket](musteri-satici-karti.png "Müşteri Satıcı Hareket")
+
 ### Ulaşım
 Aşağıdaki gibi birkaç farklı yoldan ulaşabilirsiniz:
 
@@ -15,6 +17,7 @@ Aşağıdaki gibi birkaç farklı yoldan ulaşabilirsiniz:
 - Sol menüden *Musteri/Satici -> Kartlar -> Müşteri/Satıcı Kartı Listesi* üzerinden ulaşım sağlayarak yeni kart ekleyebilir ya da mevcutları düzenleyebilirsiniz.
 
 ### Tanım
+
 
 Müşteri/Satıcı kartı, işletmenizin müşteri, satıcı, personel, kamu ve ortaklarla olan ilişkilerini yönetmek için kullanacağınız bir karttır. 
 Bu kart, kişiler hakkında genel bilgiler içerir ve işletmenin onlarla olan etkileşimlerini, ziyaretlerini, borç/alacak takibi gibi işlemleri izlemeyi sağlar.
@@ -203,15 +206,13 @@ Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım:
 
-- *Daha önce yüklediklerimden seç -> Bel
-geyi seç-> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> Belgeyi seç -> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 - *Yüklenecek belge veya resimleri seç -> Belgeyi ya da
- belgeleri seç-> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+ belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
 
 ## Notlar
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
-
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)

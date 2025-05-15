@@ -1,6 +1,0 @@
-
-## PARAMETRE LİSTESİ 
-
-Parametreler sistemin özelleşmesini sağlar. E-faturaları manuel takip ederken seri numarasının XXX olarak başlaması parametre aracılığıyla sağlanmaktadır. Stok kartında bulunan kodları ve etiketleri buradan açarak stok ile ilgili hiyerarşik gruplandırma kod ile, özelliklerini tanımlama etiketler ile sağlanabilmektedir.
-
-Parametre eklemek için öncelikle solda bulunan paneldeki **‘Modüller’** sekmesinden **‘Ayarlar’** modülü seçilmektedir. Ayarlar modülü seçildikten sonra ‘Modül Sayfası’, ‘Kartlar’ bölümleri açılmaktadır. Bu bölümlerin içinden **‘Modül Sayfası’** seçilir. Çıkan ekranda **‘Ayarlar’** başlığından **‘Parametre Listesi’** butonu seçilir. Açılan sayfada sağ üstte bulunan **‘Yeni Parametre Ekle’** butonuna tıklanılarak **‘Şirket-Şube’** açılır kutusundan şirket veya şube seçilmektedir. Parametre açılır kutusundan sistemde daha önceden tanımlanan parametre seçilmektedir. Örneğin **‘Tasarim_Kodlar (Genel)’** seçildiğinde **‘Değer’** bölümünde ‘Evet’ ve ‘Hayır’ seçenekleri bulunan açılır kutu gelir. Tanım kısmında ise **‘Liste ekranlarında ve kart ekranlarında Kodlar seçeneğini kapatmak için’** şeklinde parametreyi tanımladığınızda ne yapabileceğinize dair açıklama yer almaktadır. Bu parametre ile stok kartında tanımlı olan bölümlere ek olarak eklenmek istenen bölümler eklenebilmektedir.

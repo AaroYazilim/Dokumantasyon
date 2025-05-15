@@ -1,22 +1,18 @@
 ---
-SayfaID: Cek
-senedicrayaKonuldu
-SayfaTipi: 
-senedicrayaKonuldu
+SayfaID: CekSenetIcrayaKonuldu
+SayfaTipi: SenetIcrayaKonuldu
 ---
 
 # Senet İcraya Konuldu
 
-**Erişim Linki :** [erp.aaro.com.tr/Cek
-senedicrayaKonuldu?TipID=
-senedicrayaKonuldu](https://erp.aaro.com.tr/Cek
-senedicrayaKonuldu?TipID=
-senedicrayaKonuldu)
+**Erişim Linki :** [erp.aaro.com.tr/CekSenetIcrayaKonuldu?TipID=SenetIcrayaKonuldu](https://erp.aaro.com.tr/CekSenetIcrayaKonuldu?TipID=SenetIcrayaKonuldu)
+
+[![Image](../TemelHareketler/seneticra.png)](TemelHareketler)
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *ÇekSenet -> Hareket Oluştur -> Senet -> Senet İcraya Konuldu* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Senet -> Senet İcraya Konuldu* şeklinde ulaşabilirsiniz. 
 
 ### Tanım 
 
@@ -51,11 +47,11 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 ### Açıklamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. İade nedeni burada belirtilebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")	
+- **Açıklamalar:** Ek açıklamaları belirtir. İade nedeni burada belirtilebilir. [Açıklama](../TemelOzellikler/Aciklama.md "Açıklama")	
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md "Etiketler")
 
 **Bilgilerimizi doldurduktan sonra *Kaydet* diyerek kalem ekleme ekranımıza erişim sağlamaktayız.**
 
@@ -103,6 +99,5 @@ senedi kopyalamak için kullanılır.
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak senet icraya konuldu işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
-

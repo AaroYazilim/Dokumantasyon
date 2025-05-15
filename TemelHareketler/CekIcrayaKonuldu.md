@@ -1,20 +1,18 @@
 ---
-SayfaID: Cek
-senedicrayaKonuldu
+SayfaID: CekSenetIcrayaKonuldu
 SayfaTipi: CekIcrayaKonuldu
 ---
 
 # Çek İcraya Konuldu
 
-**Erişim Linki :** [erp.aaro.com.tr/Cek
-senedicrayaKonuldu?TipID=CekIcrayaKonuldu](https://erp.aaro.com.tr/Cek
-senedicrayaKonuldu?TipID=CekIcrayaKonuldu)
+**Erişim Linki :** [erp.aaro.com.tr/CekSenetIcrayaKonuldu?TipID=CekIcrayaKonuldu](https://erp.aaro.com.tr/CekSenetIcrayaKonuldu?TipID=CekIcrayaKonuldu)
 
 ### Ulaşım
+![Çek İşlemler](cek-islemler.png "Çek İşlemler")
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "çek" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek İcraya Konuldu* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Müşteri/Satıcı -> Hareket Oluştur -> Çek -> Çek İcraya Konuldu* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "çek" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek İcraya Konuldu* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Müşteri/Satıcı -> Hareket Oluştur -> Çek -> Çek İcraya Konuldu* şeklinde ulaşabilirsiniz. 
 
 ### Tanım 
 
@@ -63,7 +61,7 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belge
 
@@ -102,12 +100,10 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.
-- Görev Oluştur: İade faturası için görev oluşturup, kişi atayabiliri. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+- Görev Oluştur: İade faturası için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
 - Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçelim, *Kaydet* diyerek görevi bağlayalım.
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak çek icraya konuldu işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
-
-

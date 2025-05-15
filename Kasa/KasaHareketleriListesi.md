@@ -7,6 +7,9 @@ SayfaTipi: HareketListe
 
 **Erişim Linki :** [erp.aaro.com.tr/KasaHareketleri/Liste](erp.aaro.com.tr/KasaHareketleri/Liste)
 
+[![Image](../Kasa/kasahareketlerilistesi.png)](kasahareketlerilistesi)
+
+
 ### Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "kasa hareket listesi" şeklinde ulaşım sağlayabilirsiniz.

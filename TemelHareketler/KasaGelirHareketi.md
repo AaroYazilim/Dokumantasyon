@@ -9,10 +9,11 @@ SayfaTipi: KasaHareketleri
 
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'kasa gider' şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Kasa -> Hareket Oluştur -> Kasadan Gelir Hareketi* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'kasa gelir' şeklinde aratarak ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Kasa -> Hareket Oluştur -> Kasadan Gelir Hareketi* şeklinde ulaşabilirsiniz.
 
 ## Tanım
+![Kasa İşlem](kasa-islem.png "Kasa İşlem")
 
 Kasadan gelir hareketi, bir işletmenin kasa hesabına yapılan mali girişleri temsil eder. 
 Bu, ürün satışları, hizmet bedelleri, alacak tahsilatları veya diğer gelir kaynaklarından gelen nakit akışını ifade eder.
@@ -62,7 +63,7 @@ Belge eklemek için tıklayalım ;
 
 - **Daha önce yüklediklerimden seç -> Belgeyi seç
 -> İlişkilendir** şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- *Yüklenecek belge veya resimleri seç-> Belgeyi ya da
+- *Yüklenecek belge veya resimleri seç -> Belgeyi ya da
  belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
@@ -78,7 +79,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Yeni Gelirgider Kalemi Ekle: Kasadan yapılan gelir gider kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
 
 - Kart Adı: Gelir gider kartını belirtir.
-- Miktar: İşlemi gerçekleşen gelirin miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
+- Miktar: İşlemi gerçekleşen gelirin miktarını belirtir, bu alanın doldurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
 - İskonto: Gelirimizin iskonto oranını belirtir. Uygulanan iskonto var ise buraya oranı girebiliriz.
@@ -92,7 +93,6 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Masraf Merkezi: Gelirin hangi birim veya departman için yapıldığını belirtir.
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 - Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
-- Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 
 - Kasa hareketinde bir kalem belirtilecekse *Kaydet* diyerek bir sonraki aşamaya geçebiliriz.
 - Başka kalemlerde mevcut ise yukarıda aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
@@ -119,5 +119,3 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.
 - Görev Oluştur: Kasa hareketi için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
 - Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçip, *Kaydet* diyerek görevi bağlayabiliriz.
-
-

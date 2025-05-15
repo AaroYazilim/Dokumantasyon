@@ -8,9 +8,10 @@ SayfaTipi: CekCaridenIadeAlindi
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetCaridenIadeAlindi?TipID=CekCaridenIadeAlindi](https://erp.aaro.com.tr/CekSenetCaridenIadeAlindi?TipID=CekCaridenIadeAlindi)
 
 ### Ulaşım
+![Çek İşlemler](cek-islemler.png "Çek İşlemler")
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "çek" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek -> Çek Satıcıdan İade*  şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "çek" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek -> Çek Satıcıdan İade*  şeklinde ulaşabilirsiniz. 
 
 ### Tanım 
 
@@ -74,7 +75,7 @@ Buraya işlem esnasındaki görselleri yükleyebiliriz.
 Belge eklemek için tıklayalım ;
 
 - *Daha önce yüklediklerimden seç -> Belgeyi seç
--> İlişkilendi*r şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+-> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 - *Yüklenecek belge veya resimleri seç -> Belgeyi ya da
  belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
@@ -108,6 +109,5 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak çek satıcıdan iade alındı işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
-

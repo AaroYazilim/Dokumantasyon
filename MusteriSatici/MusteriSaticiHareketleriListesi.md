@@ -7,6 +7,8 @@ SayfaTipi: HareketListe
 
 **Erişim Linki :** [erp.aaro.com.tr/CariHareketleri/Liste](https://erp.aaro.com.tr/CariHareketleri/Liste)
 
+[![Image](../MusteriSatici/musterisaticihareketlerilistesi.png)](musterisaticihareketlerilistesi)
+
 ### Ulaşım 
 Aşağıdaki şekillerde ulaşım sağlayabilirsiniz:
 
@@ -26,9 +28,8 @@ Aşağıdaki şekillerde ulaşım sağlayabilirsiniz:
 
 ### Ek İşlem Butonu
 
-- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşabilirsiniz.
+- Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşabilirsiniz.
 - [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - [Toplu Değiştir](../TemelOzellikler/TopluDegistir.md)
 - [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
 - [Listeyi Excele Aktar](../TemelOzellikler/ListeyiExceleAktar.md)
-

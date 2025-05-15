@@ -7,10 +7,12 @@ SayfaTipi: UrFireNeden/Liste
 
 **Erişim Linki :** [erp.aaro.com.tr/UrFireNeden/Liste](erp.aaro.com.tr/UrFireNeden/Liste)
 
+[![Image](../Uretim/fireneden.png)](Uretim)
+
 ### Ulaşım 
 
-- Sol menüde, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "fire" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Kartlar -> Fire Neden Listesi* şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüde, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "fire" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Üretim -> Kartlar -> Fire Neden Listesi* şeklinde ulaşabilirsiniz.
 
 ### Tanım
 
@@ -83,4 +85,3 @@ Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler
 ### Notlar 
 
 İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
-

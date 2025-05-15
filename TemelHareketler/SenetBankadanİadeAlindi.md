@@ -5,13 +5,16 @@ SayfaTipi: SenetBankadanIadeAlindi
 
 # Senet Bankadan İade Alındı
 
-**Erişim Linki :** [erp.aaro.com.tr/CekSenetBankadanIadeAlindi?TipID=SenetBankadanIadeAlindi](erp.aaro.com.tr/CekSenetBankadanIadeAlindi?TipID=SenetBankadanIadeAlindi)
+**Erişim Linki :** [erp.aaro.com.tr/CekSenetBankadanIadeAlindi?
+TipID=SenetBankadanIadeAlindi](erp.aaro.com.tr/CekSenetBankadanIadeAlindi?TipID=SenetBankadanIadeAlindi)
+
+[![Image](../TemelHareketler/senetbankadaniade.png)](TemelHareketler)
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Senet" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *ÇekSenet -> Hareket Oluştur -> Senet Bankadan İade Alındı* üzerinden ulaşım sağlayabilirsiniz. 
-- Sol menüden *Banka -> Hareket Oluştur -> Senet Bankadan İade Alındı* üzerinden ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Senet" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Senet Bankadan İade Alındı* üzerinden ulaşabilirsiniz. 
+- Sol menüden *Banka -> Hareket Oluştur -> Senet Bankadan İade Alındı* üzerinden ulaşabilirsiniz. 
 
 ### Tanım 
 
@@ -52,8 +55,7 @@ Bu, işlemin farklı bir işlem hareket türü içinde yer aldığını gösteri
 
 ### Senet Kalemi Ekleme 
 
-- **Çek Senet Ekle:** Bankaya iade edilecek 
-senedi seçelim.
+- **Çek Senet Ekle:** Bankadan iade alınacak senedi seçelim.
 
 ## Notlar 
 
@@ -99,6 +101,3 @@ senedi kopyalamak için kullanılır.
 - Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.
 - Görev Oluştur: Sipariş için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
 - Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçip, *Kaydet* diyerek görevi bağlayabiliriz.
-
-
-

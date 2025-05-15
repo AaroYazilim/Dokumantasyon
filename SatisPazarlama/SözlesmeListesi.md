@@ -7,6 +7,8 @@ SayfaTipi: Liste
 
 **Erişim Linki :** [erp.aaro.com.tr/SiparisListe/Liste?TipID=10013,10016&TarihBas=!AyBasi(-3)&Kapali=false](erp.aaro.com.tr/SiparisListe/Liste?TipID=10013,10016&TarihBas=!AyBasi(-3)&Kapali=false)
 
+[![Image](../SatisPazarlama/sozlesmelistesi.png)](sozlesmelistesi)
+
 **Satış sözleşme listesi**, bir işletmenin müşterileriyle yaptığı tüm satış sözleşmelerini gösteren bir dokümandır. Bu listede; sözleşme numaraları, sözleşme tarihleri, müşteri bilgileri, satılan ürün veya hizmetler ve sözleşme şartları bulunmaktadır.
 
 
@@ -59,21 +61,20 @@ Eşleştirme yapacağımız sözleşmeyi seçelim, fiyat listesini seçelim, isk
 Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlardaki belgeleri buraya yükleyebiliriz.
 Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek için tıklayalım:
 
-- *Daha önce yüklediklerimden seç -> Bel
-geyi seç-> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- *Yüklenecek belge veya resimleri seç-> Belgeyi ya da
+- *Daha önce yüklediklerimden seç -> Belgeyi seç -> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Yüklenecek belge veya resimleri seç -> Belgeyi ya da
  belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Kayıt Bilgileri
 
 Kartın hangi kullanıcı tarafından, hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir.

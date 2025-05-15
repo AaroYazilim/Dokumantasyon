@@ -4,7 +4,7 @@ SayfaTipi: CariListe
 ---
 
 # Risk Limitleri
-
+![Risk Limitleri](risk-limitleri.png "Risk Limitleri")
 Risk limitleri, finansal riskleri yönetmek amacıyla belirlenen maksimum risk seviyelerini ifade eder. Bu limitler, riskleri kontrol altında tutmayı ve olası zararlardan korunmayı hedefler. Risk limitleri, potansiyel risklere karşı hazırlıklı olmayı ve bu riskleri etkin bir şekilde yönetmeyi sağlar.
 
 Belirlenen limitler, büyük finansal kayıpların veya operasyonel aksaklıkların önüne geçmek için kullanılır. Risk limitleri, yöneticilere risk toleransını belirleme ve stratejik kararlar alma konusunda rehberlik eder. Finansal risk toleransı, yani kabul edilebilir risk seviyesi belirlenir. Bu tolerans, organizasyonun risklere ne kadar dayanabileceğini ve hangi seviyede riski kabul edebileceğini gösterir.
@@ -28,7 +28,7 @@ Burada cari ile risk limitleri grafiği görüntülenir;
 		Tıklayarak açılan sayfada risk limitleri detayları görüntülenir. Kullanılabilir limit, aşan miktar, mevcutta tanımlı risk limitini görüntülenir.
 	- **Yeni Risk Ekle:** Risk tanımlama sayfası görüntülenir;
 		- Başlangıç Tarihi - Bitiş Tarihi: Risk limiti için geçerli tarih aralığını belirtir.
-		- Cari Hesap: Risk Limitleri  açık hesap ?
+		- Cari Hesap: Risk Limitleri  açık hesap 
 
 
 		- Kendi Senedi: Kendi senedi ile ilgili risk limitleri, kendi senetleri üzerindeki riskleri kontrol etmek ve yönetmek amacıyla belirlenir.  

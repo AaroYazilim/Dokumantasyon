@@ -7,6 +7,8 @@ SayfaTipi: HareketListe
 
 **Erişim Linki :** [erp.aaro.com.tr/KrediPosKosul/Liste](erp.aaro.com.tr/KrediPosKosul/Liste)
 
+[![Image](../Banka/poshesabagecistanimi.png)](poshesabagecistanimi)
+
 ### Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "pos" şeklinde aratarak ulaşım sağlayabilirsiniz.
@@ -33,15 +35,15 @@ Bu süreç, pos cihazı ile yapılan ödemelerin işletme hesaplarına güvenli 
 
 ## Yeni POS Hesaba Geçiş Tanımı Ekle
 
-**Kodu:**
+**Kodu:** Banka için geçerli olan kodu ifade eder. 
 
-**Adı:**
+**Adı:** Bankanın adını ifade eder.
 
-**Şirket-Şube:**
+**Şirket-Şube:** Şirket-Şube tanımlıysa hangi şirker-şube olacağını ifade eder.
 
-**Durum:**
+**Durum:** Bankanın aktif ya da pasif olma durumunu ifade eder. 
 
-**Tip:**
+**Tip:** Bankanın tipini ifade eder. 
 
 **Kredi Hesap:**
 
@@ -79,8 +81,8 @@ Bu süreç, pos cihazı ile yapılan ödemelerin işletme hesaplarına güvenli 
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Pos Hesabı kartı açma işleminizi tamamlayabilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan belge sil butonuna tıklayabilirsiniz.
 
 ### Ek İşlem Butonu
 

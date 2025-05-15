@@ -7,10 +7,11 @@ SayfaTipi: BankaHareketleri
 
 **Erişim Linki :** [erp.aaro.com.tr/BankaVirman](erp.aaro.com.tr/BankaVirman)
 
+![Image](../TemelHareketler/bankahesaplariarasitransfer.png "Banka Hesapları Arası Transfer")
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'banka transfer' şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Banka -> Hareket Oluştur -> Banka Hesapları Arası Transfer* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'banka transfer' şeklinde aratarak ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Banka -> Hareket Oluştur -> Banka Hesapları Arası Transfer* şeklinde ulaşabilirsiniz.
 
 ## Tanım
 
@@ -81,7 +82,7 @@ Bu sayfada, ilgili işlemle ilgili belgeleri yükleyebilir ve açıklayıcı not
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belgeler
 
@@ -117,5 +118,3 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Kopyala: Banka hareketini işlemini kopyalamak için kullanılır.
 - Görev Oluştur: Banka hareketi için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-
-

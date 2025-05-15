@@ -15,5 +15,5 @@ Fatura kesildikten sonra bir onay süreci olmaz, fatura iptal etmek için iade f
 Ticari fatura, işletmeler arasında gerçekleştirilen ticari işlemleri belgeleyen resmi bir belgedir. 
 Satıcı tarafından alıcıya gönderilir ve mal veya hizmet satışının detaylarını içerir. 
 Ticari fatura, ticari faaliyetlerin kayıt altına alınmasında ve muhasebe kayıtlarının tutulmasında önemli bir rol oynar.
-Fatura kesildikten sonra karşı tarafın onaylanarak sisteme işlenmesi ya da reddedilmesi gereken fatura türüdür. 
+Fatura, kesildikten sonra alıcı tarafından onaylanarak sisteme işlenmesi veya reddedilmesi gereken bir fatura türüdür.
 Onaylanması ya da reddedilmesi için 7 gün süresi vardır, herhangi bir işlem yapılmadığı takdirde 7 gün sonra otomatik onaylanır.

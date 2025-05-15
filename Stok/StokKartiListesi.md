@@ -7,6 +7,8 @@ SayfaTipi: KartListe
 
 **Erişim Linki :** [erp.aaro.com.tr/Stok/Liste](erp.aaro.com.tr/Stok/Liste)
 
+![Stok](stok.png "Stok")
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "stok kartı listesi" şeklinde aratarak ulaşım sağlayabilirsiniz.
@@ -14,6 +16,7 @@ SayfaTipi: KartListe
 - Sol menüden *Stok -> Stok Modülü -> Kartlar -> Stok Kartı Listesi* şeklinde ulaşım sağlayabilirsiniz. 
 
 ### Tanım 
+
 
 - Stok kartlarının genel bilgilerini bu sayfadan görüntüleyebilirsiniz.[Stok Kartı](../Stok/StokKarti.md)
 - Stok kartlarının güncel bakiyelerini görüntüleyebilirsiniz.

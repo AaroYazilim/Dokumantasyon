@@ -7,10 +7,12 @@ SayfaTipi:
 
 **Erişim Linki :** [erp.aaro.com.tr/UretimdenMamulGirisi](erp.aaro.com.tr/UretimdenMamulGirisi)
 
+[![Image](../Uretim/uretimmamul.png)](Uretim)
+
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "mamul giriş" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Hareketler -> Üretimden mamul Giriş* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "mamul giriş" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Üretim -> Hareketler -> Üretimden mamul Giriş* şeklinde ulaşabilirsiniz. 
 
 ### Tanım
 
@@ -206,4 +208,4 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Tüm Kalemlerde Değiştir
 - Görev Oluştur
 - Görev Bağla
-- Grid Sütunları Ayarla 
+- Grid Sütunları Ayarla

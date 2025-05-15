@@ -23,7 +23,7 @@ Mesela; bir muhasebe yöneticisi, belirli bir döneme ait tüm faturaları toplu
 
 **Hareketler:** Değiştirilecek hareket satırlarını seçiniz.
 
-Değiştirmek istediğiniz bilginin değerini girip değiştirmek isteiğinizi belirten kutuyu işaretleyiniz.
+Değiştirmek istediğiniz bilginin değerini girip değiştirmek istediğinizi belirten kutuyu işaretleyiniz.
 
 **Depo:** Depo değişikliği yapılacak ise yeni depoyu ifade eder.
 
@@ -46,4 +46,4 @@ Seçilmezse, sadece hareketlerde değişiklik yapılır; dekontta ve dekontun di
 Belgenin tüm kalemlere uygula seçeneği bulunmaktadır.
 
 
-#### *Kaydet* diyerek işlemimizi tamamlayabiliriz.
+#### *_Kaydet_* diyerek işlemimizi tamamlayabiliriz.

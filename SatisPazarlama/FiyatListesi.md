@@ -7,6 +7,8 @@ SayfaTipi: FiyatListe
 
 **Erişim Linki :** [erp.aaro.com.tr/FiyatListeleri/Liste?TipID=136001](erp.aaro.com.tr/FiyatListeleri/Liste?TipID=136001)
 
+![Fiyat Listesi](fiyat-listesi.png "Fiyat Listesi")
+
 Satış fiyat listesi, bir işletmenin sattığı ürün veya hizmetlerin güncel fiyatlarını gösteren bir listedir. 
 Bu liste, ürün veya hizmet adı, birim fiyatı ve varsa indirimler gibi bilgileri içerir. 
 Satış fiyat listesi, müşterilerin ve işletme personelinin fiyat bilgilerine kolayca ulaşmasını sağlar.
@@ -29,7 +31,7 @@ Satış fiyat listesi, müşterilerin ve işletme personelinin fiyat bilgilerine
 
 **Durum:** Aktif veya pasif durumunu ifade eder.
 
-**Kaydet* diyerek fiyat listemizin kalemlerini ekleyebiliriz.*
+***Kaydet** diyerek fiyat listemizin kalemlerini ekleyebiliriz.
 
 **Toplu Stok Kalem Ekle:** Stok listemizden seçim yapabiliriz.
 
@@ -38,11 +40,6 @@ Satış fiyat listesi, müşterilerin ve işletme personelinin fiyat bilgilerine
 ## Ek İşlemler
 
 - Toplu Fiyat Değiştirme Sayfası: Burada stokların fiyatlarında toplu değişiklik yapabilirsiniz. 
-- Listeyi Kopyala: Listeleyi kopyalamak için kullanım sağlayabilirsiniz.
+- Listeyi Kopyala: Listeyi kopyalamak için kullanım sağlayabilirsiniz.
 - Listeyi Taşı: Başka bir fiyat listesine taşımak için kullanım sağlayabilirsiniz.
 - Ana Sayfaya Kısayol Olarak Ekle: Ana sayfamıza hızlı erişim sağlayabilmek için kısayollarımıza ekleyebiliriz. [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
-
-
-
-
-

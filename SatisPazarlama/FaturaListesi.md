@@ -7,6 +7,8 @@ SayfaTipi: Fatura
 
 **Erişim Linki :** [erp.aaro.com.tr/Fatura/Liste?TipID=10005,10007,10011,10009&TarihBas=!AyBasi(-3)](erp.aaro.com.tr/Fatura/Liste?TipID=10005,10007,10011,10009&TarihBas=!AyBasi(-3))
 
+[![Image](../SatisPazarlama/faturalistesi.png)](faturalistesi)
+
 Satış fatura listesi, bir işletmenin belirli bir dönemde düzenlediği tüm faturaları içeren, fatura numaraları, tarihleri, müşteri bilgileri ve tutarları gibi bilgileri içeren bir dökümdür. 
 Bu liste, mali kayıtların takibi ve denetimi için kullanılır.
 

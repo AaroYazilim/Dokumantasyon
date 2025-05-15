@@ -9,9 +9,9 @@ SayfaTipi: Fatura
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "fatura" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Satış Faturası* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Musteri/Satici -> Müşteri/Satıcı Hareketleri Listesi -> Yeni Hareket Ekle -> Satış Faturası* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "fatura" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Satış Faturası* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Musteri/Satici -> Müşteri/Satıcı Hareketleri Listesi -> Yeni Hareket Ekle -> Satış Faturası* şeklinde ulaşabilirsiniz. 
 
 ### Tanım
 
@@ -49,7 +49,7 @@ Bu adımlar, ihraç kayıtlı fatura kesmenin genel sürecini özetlemektedir.
 
 **Tarih:** İşlemin yapıldığı tarihi girelim. 
 
-**Belge No:** Sistemin otomatik atayacağı numarayı kullanabilir ya da belge bumarası girebiliriz.
+**Belge No:** Sistemin otomatik atayacağı numarayı kullanabilir ya da belge numarası girebiliriz.
 
 **Müşteri:** İhracat faturamızı keseceğimiz firmayı seçelim. Kayıtlı değilse Detaylı ekle, Hızlı ekle seçenekleriyle kolayca cari ekleyebilirsiniz.
 
@@ -122,7 +122,7 @@ Muafiyet eklememiz gerekmektedir, **Vergiler** kısmında KDV Oranının altınd
 - Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
 - Satış faturamızda satış yapacağımız işlem stok, gelir gider, demirbaş olabilir. En baştaki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
 - Kart Adı: Stok, demirbaş ya da gelir gider satışını gerçekleştireceğimiz kartı belirtir.
-- Miktar: Satış yapacağımız stoğun miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
+- Miktar: Satış yapacağımız stoğun miktarını belirtir, bu alanın doldurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
 - İskonto: Satışını yaptığımız işlemlerin iskonto oranını belirtir. Uyguladığımız bir iskonto var ise buraya oranı girebiliriz.
@@ -155,4 +155,3 @@ Fatura ekranımızdan da kaydedelim, e-Fatura Gönder kısmına tıklayarak öni
 - Fatura Tipini İhraç Kayıtlı olarak seçmemiz gerekmektedir.
 - Fatura önizleme ekranımızda Senaryo kısmında TICARIFATURA, Fatura Tipi IHRACKAYITLI olması gerekmektedir.
 - Herhangi bir yanlışlık yoksa faturamızı oluşturabiliriz. E-Fatura Gönder diyerek fatura oluşturma işlemimizi tamamlayalım.
-

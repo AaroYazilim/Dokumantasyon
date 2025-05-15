@@ -7,11 +7,14 @@ SayfaTipi: PlanDetay
 
 **Erişim Linki :** [erp.aaro.com.tr/UrIsEmriPlan/PlanDetay](erp.aaro.com.tr/UrIsEmriPlan/PlanDetay)
 
+[![Image](../Uretim/uretimplani.png)](Uretim)
+
+
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Üretim Planı" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Listeler -> İş Emri Listesi -> İş Emrini Aç -> Plan Göster* şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Listeler -> Üretim Planı* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "Üretim Planı" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Üretim -> Listeler -> İş Emri Listesi -> İş Emrini Aç -> Plan Göster* şeklinde ulaşabilirsiniz.
+- Sol menüden *Üretim -> Listeler -> Üretim Planı* şeklinde ulaşabilirsiniz.
 
 ### Tanım
 
@@ -109,5 +112,3 @@ Alternatif makineleri değerlendirerek en uygun üretim planını hazırlar.
 **Minimum Bir Güne Planlanabilecek Süre Dk:** Bir gün için en az ne kadar sürede planlama yapılmasını istiyorsak minimum süreyi girelim.
 
 *Kaydet* butonuna basarak planlamamızı gerçekleştirebiliriz.
-
-

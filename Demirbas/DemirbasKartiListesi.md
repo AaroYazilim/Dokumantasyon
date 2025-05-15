@@ -7,6 +7,8 @@ SayfaTipi: KartListe
 
 **Erişim Linki :** [erp.aaro.com.tr/Demirbas/Liste](erp.aaro.com.tr/Demirbas/Liste)
 
+[![Image](../Demirbas/demirbaslistesi.png)](demirbaslistesi)
+
 ### Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Demirbaş kartı listesi" şeklinde aratarak ulaşım sağlayabilirsiniz.

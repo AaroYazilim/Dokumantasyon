@@ -5,31 +5,34 @@ SayfaTipi: Liste
 
 # Bayi Hareket Listesi
 
-**Erişim Linki :** [erp.aaro.com.tr/CariHareketleri/Liste](https://erp.aaro.com.tr/CariHareketleri/Liste?BayiMi=true&DevirGetir=true&TarihBas=2024-09-01)
+**EriÅŸim Linki :** [erp.aaro.com.tr/CariHareketleri/Liste](https://erp.aaro.com.tr/CariHareketleri/Liste?BayiMi=true&DevirGetir=true&TarihBas=2024-09-01)
 
-## Ulaşım 
+[![Image](../BayiSistemi/bayihareketlerilistesi.png)](bayihareketlerilistesi)
 
-- Sol menüden Bayi -> Hareket Listesi şeklinde ulaşım sağlayabilirsiniz.
+## UlaÅŸÄ±m 
 
-## Tanım
+- Sol menÃ¼den Bayi -> Hareket Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-Bayi hareketleri listesi, bayilerinizle gerçekleştirdiğiniz tüm ticari işlemleri ve hareketleri gösteren bir kayıttır. 
-Bu liste, her bir bayinin yaptığı alışverişler, iadeler, ödeme durumları ve işlem tarihleri gibi önemli bilgileri içerir.
+## TanÄ±m
 
-Her bir hareketin içerisine girerek, hareketin tüm detaylarını inceleyebilirsiniz. 
-Hareketler, bayilerin toplam satışları, ödemeleri ve alınan irsaliyelerin detaylarını açık bir şekilde sunarak, performans takibini kolaylaştırır. 
-Bu sayede, bayilerin iş süreçlerini daha iyi analiz edebilir ve gerektiğinde stratejik kararlar alabilirsiniz.
+Bayi hareketleri listesi, bayilerinizle gerÃ§ekleÅŸtirdiÄŸiniz tÃ¼m ticari iÅŸlemleri ve hareketleri gÃ¶steren bir kayÄ±ttÄ±r. 
+Bu liste, her bir bayinin yaptÄ±ÄŸÄ± alÄ±ÅŸveriÅŸler, iadeler, Ã¶deme durumlarÄ± ve iÅŸlem tarihleri gibi Ã¶nemli bilgileri iÃ§erir.
 
-Bayi hareket listesi, süreçlerinizi daha verimli yönetmenize yardımcı olurken, aynı zamanda ödeme ve faturalama süreçlerinin de hızlanmasını sağlar.
+Her bir hareketin iÃ§erisine girerek, hareketin tÃ¼m detaylarÄ±nÄ± inceleyebilirsiniz. 
+Hareketler, bayilerin toplam satÄ±ÅŸlarÄ±, Ã¶demeleri ve alÄ±nan irsaliyelerin detaylarÄ±nÄ± aÃ§Ä±k bir ÅŸekilde sunar ve performans takibini kolaylaÅŸtÄ±rÄ±r. 
+Bu sayede, bayilerin iÅŸ sÃ¼reÃ§lerini daha iyi analiz edebilir ve gerektiÄŸinde stratejik kararlar alabilirsiniz.
 
-## Ek Özellikler 
+Bayi hareket listesi, sÃ¼reÃ§lerinizi daha verimli yÃ¶netmenize yardÄ±mcÄ± olurken, aynÄ± zamanda Ã¶deme ve faturalama sÃ¼reÃ§lerinin de hÄ±zlanmasÄ±nÄ± saÄŸlar.
 
-- Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğimiz şekilde sınırlandırabiliriz.
+## Ek Ã–zellikler 
 
-- Anasayfaya Kısayol Olarak Ekle: Anasayfaya kısayol olarak ekleyebilirsiniz. Detaylarına linklerine tıklayarak erişim sağlayabilirsiniz.
-- Toplu Değiştir: Burada cari hareketlerinde toplu değişiklik yapabilirsiniz. [Toplu Değiştir](../TemelOzellikler/TopluDegistir.md)
+- SayfanÄ±n Ã¼st kÄ±smÄ±nda bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) Ã¶zelliÄŸi ile gelen veriyi istediÄŸimiz ÅŸekilde sÄ±nÄ±rlandÄ±rabiliriz.
 
-- Listeyi Excele Aktar: Bayi hareketleri listesini excele aktarım sağlayarak verileri düzenleyebilir, rapor oluşturabilirsiniz. [Listeyi Excele Aktar](../TemelOzellikler/ListeyiExceleAktar.md)
+- **Anasayfaya KÄ±sayol Olarak Ekle**: Anasayfaya kÄ±sayol olarak ekleyebilirsiniz. Detaylara, ilgili baÄŸlantÄ±lara tÄ±klayarak eriÅŸebilirsiniz.
+
+- **Toplu DeÄŸiÅŸtir**: Burada cari hareketlerinde toplu deÄŸiÅŸiklik yapabilirsiniz. [Toplu DeÄŸiÅŸtir](../TemelOzellikler/TopluDegistir.md)
+
+- **Listeyi Excele Aktar**: Bayi hareketleri listesini excele aktarÄ±m saÄŸlayarak verileri dÃ¼zenleyebilir, rapor oluÅŸturabilirsiniz. [Listeyi Excele Aktar](../TemelOzellikler/ListeyiExceleAktar.md)
 
 
 

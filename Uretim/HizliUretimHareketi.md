@@ -7,10 +7,13 @@ SayfaTipi: HizliUretimKalem
 
 **Erişim Linki :** [erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem](erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem)
 
+
+[![Image](../Uretim/hizliuretim.png)](Uretim)
+
 ### Ulaşım
 
-- Sol menüde, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Uretim Hareketi" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Hareketler -> Hızlı Üretim Hareketi Girişi* şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüde, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Uretim Hareketi" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Üretim -> Hareketler -> Hızlı Üretim Hareketi Girişi* şeklinde ulaşabilirsiniz.
 
 ### Tanım
 

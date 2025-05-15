@@ -7,11 +7,13 @@ SayfaTipi: Siparis
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaVerilenSiparis](erp.aaro.com.tr/FaturaVerilenSiparis)
 
+[![Image](../TemelHareketler/verilensiparis.png)](TemelHareketler)
+
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'sipariş' şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Verilen Sipariş* şeklinde ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Satış&Pazarlama -> Hareket Oluştur -> Verilen Sipariş* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'sipariş' şeklinde aratarak ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Verilen Sipariş* şeklinde ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Satış&Pazarlama -> Hareket Oluştur -> Verilen Sipariş* şeklinde ulaşabilirsiniz.
 
 ## Tanım
 
@@ -66,12 +68,12 @@ Verilen siparişte siparişin kim tarafından onaylandığı ve sipariş numaras
 
 - **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
 
-## Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
+## Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamasına geçebiliriz.
 
 - Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
 - Verilen siparişimiz stok, gelir gider, demirbaş olabilir. En başta ki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
 - Kart Adı: Stok, demirbaş ya da gelir gider satışını gerçekleştireceğimiz kartı belirtir.
-- Miktar: Teklifte belirtilmesi istenilen stoğun miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
+- Miktar: Teklifte belirtilmesi istenilen stoğun miktarını belirtir, bu alanın doldurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
 - İskonto: Teklifimizde girdiğimiz kalem için iskonto oranını belirtir. Uyguladığımız bir iskonto var ise buraya oranı girebiliriz.

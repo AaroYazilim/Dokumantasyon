@@ -1,9 +1,8 @@
-﻿
-## İrsaliye Nedir?
+﻿## İrsaliye Nedir?
 
 Mal ya da hizmet satışı yapıldığında bir yerden bir yere taşınması gerektiği durumlarda oluşturulan belgedir.
 
-### İrsaliyede bulunması gereken detaylar;
+### İrsaliyede bulunması gereken detaylar:
 
 -İrsaliye fatura ibaresi
 
@@ -195,14 +194,14 @@ Satış siparişi genellikle belirli bir ürün veya hizmetin miktarını, fiyat
 
 İşletmeler, satılan ve alınan siparişleri müşterilerinden veya diğer işletmelerden alabilirler.
 
-### Verilen Teklif → Satış Teklifi**
+### Verilen Teklif → Satış Teklifi
 
 İşletmenin potansiyel müşterilere belirli bir ürün veya hizmetin satışını yapmayı teklif ettiği yazılı bir taleptir. 
 
 Bu teklif genellikle müşterinin ihtiyaçlarına yönelik olarak hazırlanır ve sunulan ürün veya hizmetin özelliklerini, 
 fiyatını ve diğer önemli detayları içerir.
 
-### Teklif**
+### Teklif
 
 İşletmenin mal veya hizmet satışını veya sunumunu içeren yazılı bir öneridir. 
 
@@ -210,7 +209,7 @@ fiyatını ve diğer önemli detayları içerir.
 
 Teklif; ürün veya hizmetin detaylarını, fiyatını, teslimat koşullarını ve diğer önemli bilgileri içerir.
 
-### Teklifin içerdiği bilgiler;
+### Teklifin içerdiği bilgiler:
 
 Başlık: Teklifin amacını açıklayan bir başlık veya açıklama.
 

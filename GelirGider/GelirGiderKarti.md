@@ -7,6 +7,9 @@ SayfaTipi: Kart
 
 **Erişim Linki :** [erp.aaro.com.tr/GelirGider/Kalem](erp.aaro.com.tr/GelirGider/Kalem)
 
+[![Image](../GelirGider/gelirgiderkarti.png)](gelirgiderkarti)
+
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Gelir Gider Kartı" şeklinde aratarak ulaşım sağlayabilirsiniz.
@@ -15,8 +18,8 @@ SayfaTipi: Kart
 
 ### Tanım
 
-Gelir-gider kartından, işletmenizin gelir ve giderlerini izleyebilir, kaydedebilir ve raporlayabilirsiniz. 
-Gelir-gider kartından, işletmenin finansal performansını izleyebilir ve yönetebilirsiniz. 
+Gelir-gider kartı ile işletmenizin gelir ve giderlerini izleyebilir, kaydedebilir ve raporlayabilirsiniz. 
+Bu kart sayesinde işletmenin finansal performansını izleyebilir ve yönetebilirsiniz. 
 Gelir-gider kartı, işletmenin gelir ve giderlerini detaylı bir şekilde takip edebilmesine ve finansal durumunu değerlendirmesine yardımcı olur. 
 Ayrıca, gelir-gider kartları, işletmenin bütçeleme, planlama ve karar verme süreçlerinde önemli bir rol oynar.
 
@@ -39,9 +42,9 @@ Ayrıca, gelir-gider kartları, işletmenin bütçeleme, planlama ve karar verme
 
 **Birim 3:** Bu kart için üçüncü ölçü birimidir.Kolay hesap yapmak ve raporlarda farklı cins rapor alabilmek için kullanılır.
 
-**Çevrimiçi Birim2:** Birim-1 cinsinden kaç Birim-2 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-2:Deste ise bu değer = 0,1(1/10) olur.
+**Çevrim Birim2:** Birim-1 cinsinden kaç Birim-2 cinsinden olduğunu belirtir. Örneğin; Birim-1:Adet ve Birim-2:Deste ise bu değer = 0,1(1/10) olur.
 
-**Çevrimiçi Birim3:** Birim-1 cinsinden kaç Birim-3 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-3:Düzine ise bu değer = 0,083(1/12) olur.
+**Çevrim Birim3:** Birim-1 cinsinden kaç Birim-3 cinsinden olduğunu belirtir. Örneğin; Birim-1:Adet ve Birim-3:Düzine ise bu değer = 0,083(1/12) olur.
 
 
 ### Vergi Oranları
@@ -77,7 +80,7 @@ Tanımlar: **[Muhasebeleşme Tanımları](../TemelOzellikler/MuhasebelesmeTaniml
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Gelir Gider kartı açma işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Kısayollar
@@ -136,4 +139,3 @@ Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler
 ## Notlar
 
 İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
-

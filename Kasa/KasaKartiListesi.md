@@ -7,6 +7,8 @@ SayfaTipi: KartListe
 
 **Erişim Linki :** [erp.aaro.com.tr/Kasa/Liste](erp.aaro.com.tr/Kasa/Liste)
 
+[![Image](../Kasa/kasakartilistesi.png)](kasakartilistesi)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "kasa kartı listesi" şeklinde aratarak ulaşım sağlayabilirsiniz.

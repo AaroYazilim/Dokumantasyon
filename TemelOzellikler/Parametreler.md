@@ -7,6 +7,8 @@ SayfaTipi: Parametre
 
 **Erişim Linki :** [erp.aaro.com.tr/ParametrelerSirketSube/Liste](erp.aaro.com.tr/ParametrelerSirketSube/Liste)
 
+[![Image](../TemelOzellikler/parametreler.png)](TemelOzellikler)
+
 ### Tanım
 
 Parametreler, sistemin davranışlarını ve işleyişini kontrol eden değişkenlerdir.

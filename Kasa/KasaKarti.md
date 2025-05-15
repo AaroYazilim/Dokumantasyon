@@ -7,6 +7,8 @@ SayfaTipi: Kart
 
 **Erişim Linki :** [erp.aaro.com.tr/Kasa/Kalem](erp.aaro.com.tr/Kasa/Kalem)
 
+[![Image](../Kasa/kasakarti.png)](kasakarti)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Kasa Kartı" şeklinde aratarak ulaşım sağlayabilirsiniz.
@@ -25,7 +27,7 @@ Kasa kartı, işletmenin günlük nakit akışını izleyebilir, kasadaki para m
 
 **Kasa Kodu:** Kasa kartının kendine özel kodudur.Seri takibi yapılabilir. [Kart Kodu](../TemelOzellikler/KartKodu.md)
 
-**Kodlar:** Bu kartın kendine özel kodudur.Seri takibi yapılabilir. Detaylı tanım için linke tıklayınız. [Kart Kodu](../TemelOzellikler/KartKodu.md)
+**Kodlar:** Kartları hiyerarşik olarak gruplamak için kullanılır. Detaylı tanım için linke tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
 
 **Çalışma Para Birimi(Döviz):** Bu kartın çalıştığı döviz cinsini belirtir. Bilgi amaçlıdır.
 
@@ -34,7 +36,7 @@ Kasa kartı, işletmenin günlük nakit akışını izleyebilir, kasadaki para m
 
 ### Muhasebe Tanımları: 
 
-Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde otomatik olarak belirli muhasebe hesaplarında gerekli kayıtların oluşmasını sağlayabilirsiniz.
+Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde otomatik olarak belirli muhasebe hesaplarına gerekli kayıtların oluşmasını sağlayabilirsiniz.
 	Detaylı açıklama için linke tıklayınız. [Muhasebeleşme Tanımları](../TemelOzellikler/MuhasebelesmeTanimlari.md)
 
 ### Gelişmiş
@@ -45,15 +47,15 @@ Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde o
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Kasa kartı açma işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Kısayollar
 
-Kartta bulunan kısayollar sekmesi ile cariye ait ilgili raporlara ve öncelikli sayfalara kolayca ulaşabilirsiniz.
+Kartta bulunan kısayollar sekmesi ile kasaya ait ilgili raporlara ve öncelikli sayfalara kolayca ulaşabilirsiniz.
 
 - Liste
-    - **Hareketleri** linki ile kasa kartına ait tüm hareketlere ve bakiye bilgisine ulaşabilirsiniz. Belirli bir tarihteki bakiyeyi görüntüleyebilir, ilgili hareketin detaylarına ulaşabilirsiniz. Detaylı bilgi için [Müşteri / Satıcı Hareketleri](../MusteriSatici/MusteriSaticiHareketleriListesi.md)
+    - **Hareketleri** linki ile kasa kartına ait tüm hareketlere ve bakiye bilgisine ulaşabilirsiniz. Belirli bir tarihteki bakiyeyi görüntüleyebilir, ilgili hareketin detaylarına ulaşabilirsiniz. Detaylı bilgi için [Kasa Hareketleri](../Kasa/KasaHareketleriListesi.md)
 
 ## Kayıt Bilgileri
 
@@ -104,4 +106,3 @@ Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler
 ## Notlar
 
 İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
-

@@ -22,6 +22,6 @@ Ancak, kredi kartı veya banka kartı işlemleri doğrudan Cari hesabına geçme
 Dolayısıyla, Pos hesaplarının işlem yapabilmesi için bir Cari hesap gereklidir.
 
 **Kredi Tipi Banka Hesabı:**
-Kredi hesapları, işletmelerce bankadan kredi almak veya kredi kartı üzerinden kredi kullanmak için kullanılır. 
+Kredi hesapları, işletmelerin bankalardan kredi veya kredi kartı yoluyla finansman sağlamak amacıyla kullanılır.
 Bu tür hesaplar, işletmenin finansal ihtiyaçlarını karşılamak için ek bir kaynak sağlar. 
 Kredi hesaplarının işlem yapabilmesi için bir cari hesap gereklidir.

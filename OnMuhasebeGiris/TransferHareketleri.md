@@ -1,8 +1,8 @@
 ## Transferler 
 
-Transfer işlem yapılacak hizmetin (banka-para, depo-ürün, kasa-nakit para vb.) bir yerden bir yere taşınmasını veya değiştirilmesine denir.
+Transfer işlem yapılacak hizmetin (banka-para, depo-ürün, kasa-nakit para vb.) bir yerden bir yere taşınmasını veya değiştirilmesi işlemine denir.
 
-## Kasalar Arası Transferler*
+## Kasalar Arası Transferler
 
 Bir işletmenin kendi kasasında bulunan nakit parasını başka bir kasasına aktarmasıdır. 
 
@@ -18,7 +18,7 @@ Alıcı kasa ise aldığı miktar kadar borçlu hâle gelir.
 
 Böylece bir kasadan diğerine yapılan transferlerde; gönderici kasa alacaklı olurken, alıcı kasa borçlu hâle gelir.
 
-## Bankalar Arası Transferler**
+## Bankalar Arası Transferler
 
 Bankalar arasında yapılan bir işlemdir. Bir bankadan başka bir bankaya para gönderme işlemidir.
 
@@ -36,7 +36,7 @@ müşterisinin hesabından çıkarır ve kendi hesabında bu miktarı alacak ola
 Alıcı banka ise, aldığı miktarı alıcı müşterisinin hesabına ekler ve kendi hesabında 
 bu miktarı borç olarak kaydeder. Böylece, gönderici banka alacaklı durumuna gelirken, alıcı banka borçlu durumuna geçer. 
 
-## Cariler Arası Transferler***
+## Cariler Arası Transferler
  Bir işletmenin veya kurumun müşteri hesapları arasında yapılan para veya varlık transferlerini ifade eder.
 
  Bu terim genellikle muhasebe ve finansal işlemler bağlamında kullanılır ve işletmenin cari hesapları arasındaki para akışını yönetmek için kullanılır.
@@ -68,5 +68,3 @@ Gönderici depo; başka bir depoya malzeme veya envanter transfer ettiğinde, tr
 Alıcı depo ise aldığı miktar kadar borçlu hâle gelir. 
 
 Böylece bir depodan diğerine yapılan transferlerde; gönderici depo alacaklı olurken, alıcı depo borçlu hâle gelir.
-
-

@@ -7,10 +7,12 @@ SayfaTipi: Kart
 
 **Erişim Linki :** [erp.aaro.com.tr/UrOperasyonMakine/Liste](erp.aaro.com.tr/UrOperasyonMakine/Liste)
 
+[![Image](../Uretim/operasyonmakine.png)](Uretim)
+
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon makine" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Kartlar -> Operasyon ile Makine Eşleştirme Listesi -> Yeni Operasyon-Makine Eşleştirme* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon makine" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Üretim -> Kartlar -> Operasyon ile Makine Eşleştirme Listesi -> Yeni Operasyon-Makine Eşleştirme* şeklinde ulaşabilirsiniz. 
 
 ### Tanım
 
@@ -39,4 +41,3 @@ Bu süreç genellikle üretim planlaması ve iş emri yönetimi süreçleriyle e
  Eşleştirilmiş makine ve operasyonlar listesini görüntüleyebiliriz.
 - [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - ................
-

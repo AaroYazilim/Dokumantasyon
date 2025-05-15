@@ -8,6 +8,7 @@ SayfaTipi: CekCariyeIadeEdildi
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetCariyeIadeEdildi?TipID=CekCariyeIadeEdildi](https://erp.aaro.com.tr/CekSenetCariyeIadeEdildi?TipID=CekCariyeIadeEdildi)
 
 ### Ulaşım
+![Çek İşlemler](cek-islemler.png "Çek İşlemler")
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "çek" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek Müşteriye İade Edildi* şeklinde ulaşım sağlayabilirsiniz. 

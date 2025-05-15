@@ -2,7 +2,7 @@
 # Reçete
 
 ## Tanım
-
+![Reçete](../Uretim/recete.png "Reçete")
 Üretim sürecinin başlangıçını reçete oluşturmaktadır.   
 Reçete bir ürünün yapımında kullanılan malzemenin ve bu malzemlerin hangi oranlarda ve nasıl kullanılacağının belirtildiği bir belgedir.  
 Üretim endüstrisinde ürünlerin seri üretiminde, restoran ve yemekhane gibi yerlerde yemeklerin hazırlanmasında, ilaç endüstrisinde ilaçların formülasyonunda ve daha birçok alanda reçeteler kullanılır.

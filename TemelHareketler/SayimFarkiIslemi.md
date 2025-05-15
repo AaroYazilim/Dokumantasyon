@@ -7,10 +7,12 @@ SayfaTipi: StokHareketleri
 
 **Erişim Linki :** [erp.aaro.com.tr/SayimdanStokHareketleriIsleme](erp.aaro.com.tr/SayimdanStokHareketleriIsleme)
 
+[![Image](../TemelHareketler/sayimfarki.png)](TemelHareketler)
+
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'sayım' şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Stok -> Hareket Oluştur -> Diğerler -> Sayım Farkı İşleme* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'sayım' şeklinde aratarak ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Stok -> Hareket Oluştur -> Diğerler -> Sayım Farkı İşleme* şeklinde ulaşabilirsiniz.
 
 ## Tanım
 

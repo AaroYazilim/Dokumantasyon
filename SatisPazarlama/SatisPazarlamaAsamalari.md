@@ -3,7 +3,8 @@ SayfaID: SatisPazarlamaModulu
 SayfaTipi: Modul
 ---
 
-# Satış Pazarlama Aşamaları;
+# Satış Pazarlama Aşamaları:
+![Satış Pazarlama](satis-pazarlama.png "Satış Pazarlama")
 
 Satış ve pazarlama aşamaları, bir ürün veya hizmetin pazara sunulmasından önceki ve sonraki tüm adımları kapsar. Bu süreç, teklif aşamasıyla başlar. İşte bu aşamanın detayları:
 
@@ -56,7 +57,7 @@ Burada açılan ekranda vade, belge tarihi ve belge numarası girebiliriz.
 
 İrsaliye oluşturmak için;
 	*Satış ve Pazarlama -> Hareket Oluştur -> Satış İrsaliyesi* şeklinde ilerleyebiliriz.
-Sipariş ekleme detaylarına linkten erişim sağlayabilirsiniz. [İrsaliye Oluşturma](../TemelOzellikler/Satisİrsaliyesi.md)
+Sipariş ekleme detaylarına linkten erişim sağlayabilirsiniz. [İrsaliye Oluşturma](../TemelOzellikler/SatisIrsaliyesi.md)
 
 Faturalandırma Süreci:
 
@@ -77,7 +78,7 @@ Satış iade irsaliyesi oluşturmak için şu adımları izleyebilirsiniz:
 **Satış İade İrsaliyesi** seçeneğini tıklayarak irsaliye oluşturun.
 Fatura oluşturmak için;
 	- *Satış ve Pazarlama -> Hareket Oluştur -> Satış Faturası Listesi -> Yeni Hareket Ekle* şeklinde ilerleyebiliriz.
-Sipariş ekleme detaylarına linkten erişim sağlayabilirsiniz. [Fatura Oluşturma](../TemelOzellikler/SatisFaturasi.md)
+Fatura oluşturma detaylarına linkten erişim sağlayabilirsiniz. [Fatura Oluşturma](../TemelOzellikler/SatisFaturasi.md)
 
 İrsaliyeden fatura oluşturmak istersek;
 İrsaliye detaylarına girerek üç işlem butonundan siparişim faturalaştır seçeneğini seçerek faturalaştırma işlemini başarıyla gerçekleştirebiliriz.
@@ -103,5 +104,5 @@ Bu fatura, ilk satış faturasındaki hataları düzeltir ve müşterinin ödeme
 
 Satış iade faturası oluşturmak için:
 
-*Satış ve Pazarlama->Hareket Oluştur->
+*Satış ve Pazarlama -> Hareket Oluştur ->
 Satış İade Faturası* şeklinde ilerleyebilirsiniz.

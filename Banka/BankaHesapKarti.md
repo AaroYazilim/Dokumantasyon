@@ -7,6 +7,8 @@ SayfaTipi: Kart
 
 **Erişim Linki :** [erp.aaro.com.tr/BankaHesap/Kalem](erp.aaro.com.tr/BankaHesap/Kalem)
 
+[![Image](../Banka/bankahesapkartilistesi.png)](bankahesapkartilistesi)
+
 ### Ulaşım
 Aşağıdaki gibi ulaşım sağlayabilirsiniz:
 
@@ -33,7 +35,7 @@ Banka hesap kartları ile farklı bankalarda ve hesaplarda bulunan finansal duru
 **Döviz:** Bu banka hesabının çalıştığı döviz cinsini belirtir. Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
 Banka hesabının bakiyesi, seçilen döviz cinsinden takip edilir.
 
-**Banka Şube:** Banka Hesap kartın kayıtlı olduğu banka şubesini belirtir.
+**Banka Şube:** Banka Hesap kartının kayıtlı olduğu banka şubesini belirtir.
 
 **Iban No:** Kartın banka hesap iban bilgilerini belirtir.
 
@@ -65,7 +67,7 @@ Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde o
 ## Kaydetme ve Silme
 
 - Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan belge sil butonuna tıklayabilirsiniz.
 
 ## Kısayollar
 
@@ -77,15 +79,15 @@ Kartta bulunan kısayollar sekmesi ile cariye ait ilgili raporlara ve öncelikli
 
 ## Kayıt Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+Kartın hangi kullanıcı tarafından, hangi tarihte oluşturulduğu ve sonrasında ne zaman değiştirildiği bilgilerini içerir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Ayrıca, kart iş akış sürecine dahil edildiğinde, kim tarafından ve hangi tarihte onaylandığı bilgileri de bu alanda yer alır."
 
 ## Yazdır
 
 - Sayfanın sağ üstünde bulunan yazıcı sembolüyle, sayfaya tanımlanan özel çıktı formatları ile farklı çıktılar alınabilir. 
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
-- Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
+- Birden çok çıktı tasarımı yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel ekstre, dövizli ekstre gibi farklı tasarımlar yapılabilir.
 - Çıktı tasarımlarının her birine  ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
@@ -97,18 +99,12 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 
 
-
-
-
-
-
 - [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlardaki belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirkenki görselleri yükleyebiliriz.
+Yapılacak işlemle ilgili elimizde bulunan JPG, PNG, PDF gibi formatlardaki belgeleri buraya yükleyebiliriz. Ayrıca işlem sırasında alınan görseller de bu alana eklenebilir.
 
 Belge eklemek için tıklayalım ;
 

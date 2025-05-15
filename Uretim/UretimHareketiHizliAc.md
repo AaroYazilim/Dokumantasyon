@@ -7,10 +7,12 @@ SayfaTipi:
 
 **Erişim Linki :**[erp.aaro.com.tr/UrAkisOperasyon/HizliAkis](erp.aaro.com.tr/UrAkisOperasyon/HizliAkis)
 
+[![Image](../Uretim/uretimhizli.png)](Uretim)
+
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "hızlı aç" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Hareketler -> Üretim Hareketi Hızlı Aç* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "hızlı aç" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Üretim -> Hareketler -> Üretim Hareketi Hızlı Aç* şeklinde ulaşabilirsiniz. 
 
 ### Tanım
 

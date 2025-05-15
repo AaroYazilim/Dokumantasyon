@@ -7,6 +7,8 @@ SayfaTipi: Anasayfa
 
 **Erişim Linki :** [erp.aaro.com.tr/?](erp.aaro.com.tr/?)
 
+[![Image](../Dokumantasyon/anasayfa.png)](Dokumantasyon)
+
 ## Tanım 
 
 Göstergeler, ERP sisteminizin ana sayfasında işletmenizin performansını hızlı ve kolay bir şekilde gözlemlemenizi sağlar. 

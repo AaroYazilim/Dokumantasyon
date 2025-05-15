@@ -1,7 +1,6 @@
-
 ## Muhasebe Nedir? 
 
-Genel **muhasebe**, diğer adıyla finansal muhasebe; mali işlemleri Kaydetme, sınıflandırma, raporlama ve analiz sürecidir.
+Genel **muhasebe**, diğer adıyla finansal muhasebe; mali işlemleri kaydetme, sınıflandırma, raporlama ve analiz sürecidir.
 
 Firmaların hareketlerini denetleyip kayıt altına alarak ve borç-alacak takibini yaparak son durumlarını görüntüleyebilmektir.
 
@@ -10,7 +9,7 @@ Firmaların hareketlerini denetleyip kayıt altına alarak ve borç-alacak takib
 Ön muhasebe, bir şirketin ilk evrak kayıtlarının yapıldığı aşamadır. Cari, fatura, stok takipleri, 
 nakit akışı yönetimi ve banka hesapları gibi işlemlerin yönetimini içermektedir. 
 
-Kısacası Borç-Alacak dengesinin kaydının yapılmasını sağlamaktadır. 
+Kısacası, Borç-Alacak dengesinin kaydının yapılmasını sağlamaktadır. 
 
 Ödeme yapan taraf alacaklı olurken, ödeme alan taraf borçludur.
 
@@ -34,7 +33,7 @@ Kısacası Borç-Alacak dengesinin kaydının yapılmasını sağlamaktadır.
 
 Yukarıdaki örnekte firmanın yaptığı satış sonucu **satış faturası**nda ürün değeri kadar alıcıya **borç** yazmıştır. Alıcı ödeme yaptığında ise **alış faturasında** ödeme yapılan miktar kadar **alacak** yazmıştır. Bunun sonucu **borç** ve **alacak** birbirine denk olmuş olup ürün satımıyla Alıcı Bakiyesinden Şirket Bakiyesine 1500TL kadar geçmiş olur.
 
-Kısacası bir yerden bir yere aktarılan meblağ ya da mal değeri kadar çıktığı yere **alacak**, gittiği yere **borç** olarak yazılır.
+Kısacası, bir yerden bir yere aktarılan meblağ ya da mal değeri kadar çıktığı yere **alacak**, gittiği yere **borç** olarak yazılır.
 
 Borç - alacak takibi iki taraf arasındaki alışverişin kayıt altına alınmasıdır. 
 
@@ -71,7 +70,7 @@ hesapların borç ve alacak hareketlerinin takibinin yapıldığı hesaplardır.
 
 ## Kasa
 
-**Kasa:** Şirketlerin nakit giriş ve çıkışını *Kaydet*tikleri hesaba denir.
+**Kasa:** Şirketlerin nakit giriş ve çıkışını *kaydet*tikleri hesaba denir.
 
 Kasadan çıkış yapılabilmesi için kasada nakit para bulunması gerekmektedir. 
 

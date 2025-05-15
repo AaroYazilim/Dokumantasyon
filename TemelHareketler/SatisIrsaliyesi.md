@@ -7,11 +7,13 @@ SayfaTipi: Irsaliye
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaSatisIrsaliyesi](erp.aaro.com.tr/FaturaSatisIrsaliyesi)
 
+[![Image](../TemelHareketler/satisirsaliyesi.png)](TemelHareketler)
+
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "satış irsaliyesi" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Satış İrsaliyesi* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Satış & Pazarlama -> Listeler -> Satış İrsaliyesi Listesi -> Yeni Hareket Ekle* üzerinden ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "satış irsaliyesi" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Satış İrsaliyesi* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Satış & Pazarlama -> Listeler -> Satış İrsaliyesi Listesi -> Yeni Hareket Ekle* üzerinden ulaşabilirsiniz. 
 
 ## Genel
 
@@ -71,18 +73,18 @@ SayfaTipi: Irsaliye
 
 ### Açıklamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")	
+- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md "Açıklama")	
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md "Etiketler")
 
-## Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamamıza geçebiliriz.
+## Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamasına geçebiliriz.
 
 - Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
 - Satış irsaliyemizde sevk edilecek stok, gelir gider, demirbaş olabilir. En baştaki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
 - Kart Adı: Stok, demirbaş ya da gelir gider satışını gerçekleştireceğimiz kartı belirtir.
-- Miktar: Sevk edeceğimiz stoğun miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
+- Miktar: Sevk edeceğimiz stoğun miktarını belirtir, bu alanın doldurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
 - İskonto: Satışını yaptığımız işlemlerin iskonto oranını belirtir. Uyguladığımız bir iskonto var ise buraya oranı girebiliriz.
@@ -139,7 +141,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak satış irsaliyesi işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
@@ -148,7 +150,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
 - Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel ekstre, dövizli ekstre gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 ## Ek İşlemler

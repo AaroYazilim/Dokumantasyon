@@ -7,6 +7,8 @@ SayfaTipi: KartListe
 
 **Erişim Linki :** [erp.aaro.com.tr/BankaHesap/Liste](erp.aaro.com.tr/BankaHesap/Liste)
 
+[![Image](https://i.hizliresim.com/rsrzw1d.png)](https://hizliresim.com/rsrzw1d)
+
 ### Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Banka hareket listesi" şeklinde aratarak ulaşım sağlayabilirsiniz.

@@ -9,9 +9,9 @@ SayfaTipi: Fatura
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "fatura" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Satış Faturası* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Musteri/Satici -> Müşteri/Satıcı Hareketleri Listesi -> Yeni Hareket Ekle -> Satış Faturası* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "fatura" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Satış Faturası* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Musteri/Satici -> Müşteri/Satıcı Hareketleri Listesi -> Yeni Hareket Ekle -> Satış Faturası* şeklinde ulaşabilirsiniz. 
 
 ### Tanım
 
@@ -197,7 +197,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak ihracat faturası işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
@@ -206,7 +206,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
 - Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel ekstre, dövizli ekstre gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 ## Ek İşlemler
@@ -234,4 +234,3 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Siparişlerini Gör: Faturasını oluşturduğumuz satışımızın siparişini görmek için hızlı erişim sağlar.
 - Sipariş Detayları: Sipariş detaylarına hızlı erişim sağlayabiliriz.
 - Alış - Satış Analiz: Faturasını oluşturduğumuz ürünlerin alış-satış fiyatlarını görerek kar-zarar analizi yapabiliriz.
-

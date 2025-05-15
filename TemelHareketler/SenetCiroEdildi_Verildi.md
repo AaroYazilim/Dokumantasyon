@@ -7,11 +7,13 @@ SayfaTipi: SenetCiroEdildi
 
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetCiroEdildi?TipID=SenetCiroEdildi](https://erp.aaro.com.tr/CekSenetCiroEdildi?TipID=SenetCiroEdildi)
 
+[![Image](../TemelHareketler/senetciroedildi.png)](TemelHareketler)
+
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *ÇekSenet -> Hareket Oluştur -> Senet Ciro Edildi/Verildi* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Müşteri/Satıcı -> Hareket Oluştur -> Senet -> Senet Ciro Edildi/Verildi* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Senet Ciro Edildi/Verildi* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Müşteri/Satıcı -> Hareket Oluştur -> Senet -> Senet Ciro Edildi/Verildi* şeklinde ulaşabilirsiniz. 
 
 ### Tanım 
 
@@ -52,11 +54,11 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 ### Açıklamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. İade nedeni burada belirtilebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")	
+- **Açıklamalar:** Ek açıklamaları belirtir. İade nedeni burada belirtilebilir. [Açıklama](../TemelOzellikler/Aciklama.md "Açıklama")	
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md "Etiketler")
 
 **Bilgilerimizi doldurduktan sonra *Kaydet* diyerek kalem ekleme ekranımıza erişim sağlamaktayız.**
 
@@ -117,7 +119,5 @@ senedi kopyalamak için kullanılır.
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak senet ciro edildi/verildi işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
-
-

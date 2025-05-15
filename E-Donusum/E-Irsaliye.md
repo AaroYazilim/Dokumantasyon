@@ -6,7 +6,7 @@ e-İrsaliye, kağıt formatındaki fiziksel irsaliyelerin elektronik ortama taş
 Türkiye'de e-İrsaliye uygulaması, Vergi Usul Kanunu'nda yapılan değişikliklerle başlamıştır. 
 Düzenlemelerin temel amacı, kağıt irsaliye kullanımını azaltmak ve işlemleri daha hızlı ve verimli hale getirmektir.
 Aaro, kullanıcıların e-İrsaliye oluşturmasını, göndermesini, saklamasını ve raporlamasını sağlayan bir araç olarak kullanılabilmektedir.
-Oluşturulan e-İrsaliyenin onaylanması ve dijital olarak imzalanması gerekebilir. 
+Düzenlenen e-İrsaliyenin geçerli sayılabilmesi için alıcı tarafından onaylanması ve dijital olarak imzalanması gerekebil
 Aaro, bu süreçleri kolaylaştırır ve kullanıcılarına güvenli bir şekilde e-İrsaliye oluşturma imkanı sunar.
 Oluşturulan ve onaylanan e-İrsaliyeler, genellikle e-posta veya diğer elektronik iletişim yöntemleriyle alıcıya gönderilir. 
 Aaro, bu iletişim sürecini otomatikleştirir ve izlenebilir hale getirir.

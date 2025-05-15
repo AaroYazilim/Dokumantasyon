@@ -9,12 +9,12 @@ Fatura oluşturulduktan sonra, birkaç aşamalı onay süreci olabilir. Bu süre
 Onay süreci tamamlandıktan sonra fatura resmi olarak geçerli hale gelir.
 Yanlışlıkla oluşturulan veya hatalı faturalar düzeltilebilir veya iptal edilebilir.
 Açılan liste ekranında fatura satırlarında tik veya çarpı işareti yer almaktadır. 
-Tik işareti var ise bu faturanın onaylanmış olduğunu gösterir.
-Çarpı işareti var ise bu faturanın işlem yapılması gerektiğini işlenmesi ya da iptal edilmesi gerektiğini belirtir.
+Tik işareti var ise bu faturanın onaylanmış olduğunu gösterir.Ççarpı işareti bulunuyorsa, bu durum faturayla ilgili bir işlem yapılması gerektiğini; faturanın işlenmesi ya da iptal edilmesi gerektiğini belirtir."
 
 ## Fatura Reddetme Seçenekleri
 
 **Sadece Aaro'da Reddet** Bu seçeneği seçtiğimizde oluşturulan faturayı onaylar fakat sistemde gözükmez. 
+
 **e-Fatura Reddet** Bu seçeneği seçtiğimizde e-Faturayı reddetmiş oluruz.
 
 ## İşlem yapmak için eşleştirme seçeneklerimiz mevcutttur.

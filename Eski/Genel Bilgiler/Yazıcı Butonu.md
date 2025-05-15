@@ -1,2 +1,0 @@
-## Yazıcı Butonu
-Yazıcı butonu ile var olan çıktıyı yazdırabilir, yanında bulunan ok tuşuyla yeni tasarım ekleyebilir, tasarımı indirebilir, düzenleyebilir ve mail olarak gönderebiliriz. Tasarım oluşturulan hareketin firmalara özgü halde sunulmasını sağlamaktadır. Örneğin herhangi bir tasarımda firmanın logosu, kalem bilgileri, kalemlerin fotoğrafları, firmanının gizlilik bilgileri, sözleşmeleri gibi bölümler de eklenebilir. 

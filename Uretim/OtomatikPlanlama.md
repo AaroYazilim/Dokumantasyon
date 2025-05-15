@@ -1,4 +1,5 @@
 
+![Üretim Planlama](../Uretim/uretim-plani-ozet.png "Üretim Planlama")
 # Otomatik Planlama
 
 Otomatik planlama istem tarafından kullanılacak olan verilerin toplanmasıyla başlar.

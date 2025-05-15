@@ -40,6 +40,5 @@ SayfaTipi: Hareket Olustur
 - [Senet Kasadan Tahsil Edildi](../TemelHareketler/SenetKasadanTahsiledildi.md)
 - [Senet Satıcıdan İade Alındı](../TemelHareketler/SenetSaticidanIadeAlindi.md)
 - [Senet Müşteriye İade Edildi](../TemelHareketler/SenetCariyeIadeEdildi.md)
-- [Senet İcraya Konuldu](../TemelHareketler/
-senedicrayaKonuldu.md)
+- [Senet İcraya Konuldu](../TemelHareketler/SenetIcrayaKonuldu.md)
 

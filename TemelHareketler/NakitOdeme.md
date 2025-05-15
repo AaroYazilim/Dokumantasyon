@@ -8,11 +8,12 @@ SayfaTipi: KasaHareketleri
 **Erişim Linki :** [erp.aaro.com.tr/KasaNakitOdeme](erp.aaro.com.tr/KasaNakitOdeme)
 
 ## Ulaşım 
+![Kasa İşlem](kasa-islem.png "Kasa İşlem")
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'kasa' şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Kasa -> Hareket Oluştur -> Nakit Ödeme* şeklinde ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Müşteri/Satıcı -> Hareket Oluştur -> Kasa -> Nakit Ödeme* şeklinde ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Satın Alma -> Hareket Oluştur -> Nakit Ödeme İşleme* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'kasa' şeklinde aratarak ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Kasa -> Hareket Oluştur -> Nakit Ödeme* şeklinde ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Müşteri/Satıcı -> Hareket Oluştur -> Kasa -> Nakit Ödeme* şeklinde ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Satın Alma -> Hareket Oluştur -> Nakit Ödeme İşleme* şeklinde ulaşabilirsiniz.
 
 ## Tanım
 
@@ -117,4 +118,4 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Kopyala: Nakit ödeme işlemini kopyalamak için kullanılır.
-- Görev Oluştur: Sipariş için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+- Görev Oluştur: Nakit ödeme için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.

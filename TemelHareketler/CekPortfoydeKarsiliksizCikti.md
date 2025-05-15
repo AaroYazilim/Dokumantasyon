@@ -8,9 +8,10 @@ SayfaTipi: CekKarsiliksizPortfoyde
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetKarsiliksizPortfoyde?TipID=CekKarsiliksizPortfoyde](https://erp.aaro.com.tr/CekSenetKarsiliksizPortfoyde?TipID=CekKarsiliksizPortfoyde)
 
 ### Ulaşım
+![Çek İşlemler](cek-islemler.png "Çek İşlemler")
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "çek karşılıksız" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek -> Çek Portföyde Karşılıksız Çıktı* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "çek karşılıksız" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek -> Çek Portföyde Karşılıksız Çıktı* şeklinde ulaşabilirsiniz. 
 
 ### Tanım 
 
@@ -54,7 +55,7 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belge
 
@@ -89,8 +90,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: 
-senedi kopyalamak için kullanılır.
+- Kopyala: Çeki kopyalamak için kullanılır.
 - Kur Güncelle: Döviz kurunda değişiklik yapmak için kullanılır.
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
@@ -100,6 +100,5 @@ senedi kopyalamak için kullanılır.
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak çek portföyde karşılıksız çıktı işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
-

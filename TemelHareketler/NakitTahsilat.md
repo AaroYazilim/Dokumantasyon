@@ -9,12 +9,13 @@ SayfaTipi: Kasa
 
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "nakit tahsilat" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Kasa -> Nakit Tahsilat* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Satış & Pazarlama -> Hareket Oluştur -> Nakit Tahsilat* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Kasa -> Hareket Oluştur -> Nakit Tahsilat* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "nakit tahsilat" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Kasa -> Nakit Tahsilat* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Satış & Pazarlama -> Hareket Oluştur -> Nakit Tahsilat* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Kasa -> Hareket Oluştur -> Nakit Tahsilat* şeklinde ulaşabilirsiniz. 
 
 ## Tanım
+![Kasa İşlem](kasa-islem.png "Kasa İşlem")
 
 Nakit tahsilat, bir işletmenin müşterilerinden yaptığı satışlar karşılığında nakit para olarak aldığı ödemeleri ifade eder. 
 Bu tür tahsilatlar, işletmenin günlük faaliyetlerinde nakit akışını sağlamak ve işletme sermayesini yönetmek için önemlidir. 
@@ -97,7 +98,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak nakit tahsilat işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
@@ -106,7 +107,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
 - Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel nakit tahsilat formu gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 ## Düzenleme  

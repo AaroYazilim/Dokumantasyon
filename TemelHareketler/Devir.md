@@ -9,14 +9,14 @@ SayfaTipi: Devir
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "devir" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Diğerleri -> Devir* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Banka -> Hareket Oluştur -> Diğer İşlemler -> Devir* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *ÇekSenet -> Hareket Oluştur -> Diğer İşlemler -> Devir* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Demirbaş -> Hareket Oluştur -> Diğerleri -> Devir* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Gelir Gider -> Hareket Oluştur -> Diğerleri -> Devir* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Kasa -> Hareket Oluştur -> Diğer İşlemler -> Devir* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Stok -> Hareket Oluştur -> Devir* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "devir" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Diğerleri -> Devir* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Banka -> Hareket Oluştur -> Diğer İşlemler -> Devir* şeklinde ulaşabilirsiniz. 
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Diğer İşlemler -> Devir* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Demirbaş -> Hareket Oluştur -> Diğerleri -> Devir* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Gelir Gider -> Hareket Oluştur -> Diğerleri -> Devir* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Kasa -> Hareket Oluştur -> Diğer İşlemler -> Devir* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Stok -> Hareket Oluştur -> Devir* şeklinde ulaşabilirsiniz. 
 
 ### Tanım
 
@@ -71,13 +71,13 @@ Belge eklemek için tıklayalım ;
 - *Daha önce yüklediklerimden seç -> Belgeyi seç
 -> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 - *Yüklenecek belge veya resimleri seç -> Belgeyi ya da
- belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi *gerçekleştirebiliriz.
+ belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
 ### Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ### Kayıt Bilgileri
 
@@ -101,7 +101,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Verilen sipariş işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak devir işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
@@ -115,7 +115,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Düzenleme 
 
-Verilen siparişimize ekleme yapmak ya da herhangi bir düzeltme yapmak için kalem işaretini seçerek açılan ekranda düzenlemeleri yapabiliriz.
+Devir işlemimize ekleme yapmak ya da herhangi bir düzeltme yapmak için kalem işaretini seçerek açılan ekranda düzenlemeleri yapabiliriz.
 
 ## Ek İşlemler
 
@@ -129,14 +129,10 @@ Verilen siparişimize ekleme yapmak ya da herhangi bir düzeltme yapmak için ka
 
 
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Verilen siparişi kopyalamak için kullanılır.
+- Kopyala: Devir işlemini kopyalamak için kullanılır.
 - Kur Güncelle: Döviz kurunda değişiklik yapmak için kullanılır.
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
-- Görev Oluştur: Sipariş için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+- Görev Oluştur: Devir işlemi için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
 - Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçip, *Kaydet* diyerek görevi bağlayabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.
-
-
-
-

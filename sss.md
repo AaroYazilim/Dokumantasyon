@@ -709,3 +709,7 @@ Tasarla diyerek tasarım düzenleme alanımız açılacak -> Buradan istediğimi
 **Cevap:** Gelir Gider -> Hareket Oluştur -> Alış Faturası -> Gelir Gider Hizmet depomuzu seçelim -> Taşıt Giderleri -> Hangi Demirbaş ekle -> 
 Gerekli alanları doldurduktan sonra *Kaydet* diyelim. 
 Yevmiye Fişini açarak gelir giderimize uygun olacak şekilde değişikliklerimizi yapalım.
+
+**Soru:** Şifremi nasıl yenileyebilirim? 
+
+**Cevap:** Sol üstte bulunan isminizin üzerine tıklayarak şifre, telefon numarası bilgilerinizi değiştirebilir, iki aşamalı kimlik doğrulamanızı açabilirsiniz. 

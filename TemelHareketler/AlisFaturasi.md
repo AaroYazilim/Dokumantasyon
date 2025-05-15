@@ -7,13 +7,15 @@ SayfaTipi: Fatura
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaAlisFaturasi](erp.aaro.com.tr/FaturaAlisFaturasi)
 
+![Alış Faturası](alis-faturasi.png "Alış Faturası")
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Alış' şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Musteri/Satici -> Hareket Oluştur -> Alış Faturası* şeklinde ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Satın Alma -> Hareket Oluştur -> Alış Faturası* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Alış' şeklinde aratarak ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Musteri/Satici -> Hareket Oluştur -> Alış Faturası* şeklinde ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Satın Alma -> Hareket Oluştur -> Alış Faturası* şeklinde ulaşabilirsiniz.
 
 ## Tanım
+
 
 ### Alış Faturası:
 
@@ -25,6 +27,7 @@ SayfaTipi: Fatura
 - Satın alınan mal veya hizmetin tanımı, miktarı, birim fiyatı, toplam tutarı ve vergiler
 
  Alış faturası, işletmenin mali durumunu izlemek, vergi ödemelerini hesaplamak ve tedarikçilerle olan ticari ilişkileri düzenlemek için önemlidir. Ayrıca, iade veya değişim işlemlerini yönetmek için de kullanılabilir.
+![Alış Faturası](alis-faturasi-islem.png "Alış Faturası")
 
 ### Ek İşlem Butonu:
 Bu işlemi sıkça kullanıyorsanız, anasayfanıza kısayol ekleyerek hızlı erişim sağlayabilirsiniz. Kısayol eklemek, işleminizi daha hızlı ve pratik bir şekilde gerçekleştirmenize yardımcı olur. Ana sayfaya kısayol eklemek için "Ana Sayfaya Kısayol Olarak Ekle" seçeneğini kullanabilirsiniz.
@@ -93,7 +96,7 @@ Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Kayıt Bilgileri
 
@@ -106,7 +109,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
 - Alış faturamızda kalemimiz stok, gelir gider, demirbaş olabilir. En baştaki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
 - Kart Adı: Stok, demirbaş ya da gelir gider satışını gerçekleştireceğimiz kartı belirtir.
-- Miktar: Alış faturasında belirtilmesi istenilen stoğun miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
+- Miktar: Alış faturasında belirtilmesi istenilen stoğun miktarını belirtir, bu alanın doldurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatları görüntülenebilir.
 - İskonto: Alış faturamızda kalem için iskonto oranını belirtir. Uyguladığımız bir iskonto var ise buraya oranı girebiliriz.
@@ -140,7 +143,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan **Kaydet** butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan **Kaydet** butonuna tıklayarak alış faturası işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır

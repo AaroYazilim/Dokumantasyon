@@ -7,10 +7,12 @@ SayfaTipi:
 
 **Erişim Linki :** [erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem?SadeceIscilik=true](erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem?SadeceIscilik=true)
 
+[![Image](../Uretim/hizliuretim.png)](Uretim)
+
 ### Ulaşım
 
-- Sol menüde, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "işçilik" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Hareketler -> Hızlı Üretim Hareketi Girişi (Sadece İşçilik)* şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüde, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "işçilik" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Üretim -> Hareketler -> Hızlı Üretim Hareketi Girişi (Sadece İşçilik)* şeklinde ulaşabilirsiniz.
 
 ### Tanım
 
@@ -128,4 +130,3 @@ Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler
 ### Yazdır
 
 .............
-

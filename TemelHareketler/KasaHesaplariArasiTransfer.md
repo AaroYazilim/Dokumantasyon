@@ -9,8 +9,8 @@ SayfaTipi: KasaHareketleri
 
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'kasa transfer' şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Kasa -> Hareket Oluştur -> Kasa Hesapları Arası Transfer* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'kasa transfer' şeklinde aratarak ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Kasa -> Hareket Oluştur -> Kasa Hesapları Arası Transfer* şeklinde ulaşabilirsiniz.
 
 ## Tanım
 
@@ -29,7 +29,7 @@ Transfer işlemi her iki kasa hesabında da muhasebe kayıtlarına yansıtılır
 
 **Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
-## Kasa Alacak için;
+## Kasa Alacak için:
 
 - **Kasa Alacak:** Nakit çıkışının yapılacağı kasa hesabını belirtir.
 
@@ -39,7 +39,7 @@ Transfer işlemi her iki kasa hesabında da muhasebe kayıtlarına yansıtılır
 
 - **Açıklama:** Kasa alacak için ek detaylar burada belirtilebilir. 
 
-## Kasa Borç için;
+## Kasa Borç için:
 
 - **Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
 
@@ -63,13 +63,11 @@ Transfer işlemi her iki kasa hesabında da muhasebe kayıtlarına yansıtılır
 
 - **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md)
 
-### Etiketler KasaHareketleri
-	Kasa Alacak
+### Etiketler - Kasa Alacak
 
 - **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
 
-### Etiketler KasaHareketleri
-	Kasa Borç
+### Etiketler - Kasa Borç
 
 - **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
 
@@ -114,5 +112,3 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Kopyala: Kasa hareketini işlemini kopyalamak için kullanılır.
 - Görev Oluştur: Kasa hareketi için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-
-

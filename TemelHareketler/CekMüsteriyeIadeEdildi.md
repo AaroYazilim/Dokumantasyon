@@ -8,10 +8,11 @@ SayfaTipi: CekCariyeIadeEdildi
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetCariyeIadeEdildi?TipID=CekCariyeIadeEdildi](https://erp.aaro.com.tr/CekSenetCariyeIadeEdildi?TipID=CekCariyeIadeEdildi)
 
 ### Ulaşım
+![Çek İşlemler](cek-islemler.png "Çek İşlemler")
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "çek" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek Müşteriye İade Edildi* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Müşteri/Satıcı -> Hareket Oluştur -> Çek -> Çek Müşteriye İade Edildi* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "çek" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek Müşteriye İade Edildi* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Müşteri/Satıcı -> Hareket Oluştur -> Çek -> Çek Müşteriye İade Edildi* şeklinde ulaşabilirsiniz. 
 
 ### Tanım 
 
@@ -63,7 +64,7 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belge
 
@@ -107,7 +108,5 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak çek müşteriye iade edildi işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
-
-

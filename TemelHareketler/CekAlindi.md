@@ -8,11 +8,12 @@ SayfaTipi: CekAlindi
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetAlindi?TipID=CekAlindi](https://erp.aaro.com.tr/CekSenetAlindi?TipID=CekAlindi)
 
 ### Ulaşım
+![Çek İşlemler](cek-islemler.png "Çek İşlemler")
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "çek alındı" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek -> Çek Alındı* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Satış & Pazarlama -> Hareket Oluştur -> Çek Alındı* üzerinden ulaşım sağlayabilirsiniz. 
-- Sol menüden *Müşteri/Satıcı -> Hareket Oluştur -> Çek -> Çek Alındı* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "çek alındı" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek -> Çek Alındı* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Satış & Pazarlama -> Hareket Oluştur -> Çek Alındı* üzerinden ulaşabilirsiniz. 
+- Sol menüden *Müşteri/Satıcı -> Hareket Oluştur -> Çek -> Çek Alındı* şeklinde ulaşabilirsiniz. 
 
 ### Tanım 
 
@@ -60,7 +61,7 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belge
 
@@ -123,6 +124,5 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak çek alındı işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
-

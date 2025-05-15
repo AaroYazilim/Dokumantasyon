@@ -3,18 +3,17 @@ SayfaID: FaturaAlisIadeIrsaliyesi
 SayfaTipi: IadeIrsaliye
 ---
 
-# Alış İade Faturası
+# Alış İade İrsaliyesi
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaAlisIadeIrsaliyesi](erp.aaro.com.tr/FaturaAlisIadeIrsaliyesi)
 
-
-# Alış İade İrsaliyesi
+![Image](../TemelHareketler/alisiadeir.png "Alış İade İrsaliyesi")
 
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Alış iade irsaliyesi' şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Alış İade İrsaliyesi* şeklinde ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Satış&Pazarlama -> Hareket oluştur -> Alış İade İrsaliyesi* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Alış iade irsaliyesi' şeklinde aratarak ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Alış İade İrsaliyesi* şeklinde ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Satış&Pazarlama -> Hareket oluştur -> Alış İade İrsaliyesi* şeklinde ulaşabilirsiniz.
 
 ## Tanım
 
@@ -82,7 +81,7 @@ Kısayol eklemek, işleminizi daha hızlı ve pratik bir şekilde gerçekleştir
 
 - **Cari Adres:** Carinin adresini belirtir. Farklı adrese gönderilecekse seçilmelidir. Kalemlerde değiştirilebilir.
 
-- **Ref. İthalat İhracat:** Bu hareket bir ithalat ya da ihracat ise seçilmelidir. Hangi ithalata veya ihracata ait olduğunu belirtir. Kalemlerde değiştirilebilir.- **Teslim Tarihi:** Bu siparişin teslim edildiği tarihi belirtir.
+- **Ref. İthalat İhracat:** Bu hareket bir ithalat ya da ihracat ise seçilmelidir. Hangi ithalata veya ihracata ait olduğunu belirtir. Kalemlerde değiştirilebilir.
 
 - **Teslim Tarihi:** Bu siparişin teslim edildiği tarihi belirtir.
 
@@ -111,7 +110,7 @@ Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ### Kayıt Bilgileri
 
@@ -124,7 +123,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
 - Alış iade irsaliyesinde kalemimiz stok, gelir gider, demirbaş olabilir. En baştaki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
 - Kart Adı: Stok, demirbaş ya da gelir gider satışını gerçekleştireceğimiz kartı belirtir.
-- Miktar: Alış iade irsaliyesinde belirtilmesi istenilen stoğun miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
+- Miktar: Alış iade irsaliyesinde belirtilmesi istenilen stoğun miktarını belirtir, bu alanın doldurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatları görüntülenebilir.
 - İskonto: Alış iade irsaliyesinde kalem için iskonto oranını belirtir. Uyguladığımız bir iskonto var ise buraya oranı girebiliriz.
@@ -156,7 +155,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan **Kaydet** butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan **Kaydet** butonuna tıklayarak alış iade irsaliyesi işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
@@ -191,4 +190,3 @@ Alış iade irsaliyemizde ekleme ya da herhangi bir düzeltme yapmak için kalem
 - Görev Oluştur: İrsaliye için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
 - Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçip **Kaydet** diyerek görevi bağlayabiliriz.
 - Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.
-

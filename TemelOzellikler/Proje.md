@@ -7,6 +7,8 @@ SayfaTipi: Liste
 
 **Erişim Linki :** [erp.aaro.com.tr/Proje/Liste](erp.aaro.com.tr/Proje/Liste)
 
+[![Image](../TemelOzellikler/projelistesi.png)](TemelOzellikler)
+
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "proje" aratarak ulaşım sağlayabilirsiniz.
@@ -35,7 +37,7 @@ Bu entegre sistem, proje süreçlerinin şeffaflığını artırır, raporlama s
 
 ### Genel 
 
-**Proje Kodu:** Projenini kodunu ifade eder. Sistem otomatik kod verir kullanabilir ya da manuel proje kodu tanımlanabilir.
+**Proje Kodu:** Projenin kodunu ifade eder. Sistemin  otomatik kodu kullanabilir ya da manuel proje kodu tanımlanabilir.
 
 **Proje Adı:** Proje adını ifade eder.
 
@@ -53,6 +55,5 @@ Bu entegre sistem, proje süreçlerinin şeffaflığını artırır, raporlama s
 
 **Durum:** Projenin aktiflik ya da pasiflik durumu ifade eder.
 
-**Vade:** Proje kapsamında vade, belirli bir işin veya görevin tamamlanması gereken son tarih anlamına gelir. 
-Bu tarih, projenin belirli aşamalarının veya tüm projenin teslim edilmesi gereken zamanı ifade eder. 
-Vade, projenin planlanan süre içinde bitirilmesi için bir zaman çizelgesi oluşturur ve tarafların sorumluluklarını zamanında yerine getirmelerini sağlar.
+**Vade:** Projenin planlanan süre içinde tamamlanabilmesi için bir zaman çizelgesi oluşturur ve tarafların sorumluluklarını zamanında yerine getirmelerini sağlar. Bu, proje yönetiminin etkin bir şekilde yapılmasını ve kaynakların verimli bir biçimde kullanılmasını sağlar.
+

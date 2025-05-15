@@ -7,11 +7,13 @@ SayfaTipi: CekSenetBankayaTahsilataVerildi
 
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetBankayaTahsilataVerildi?TipID=SenetBankayaTahsilataVerildi](erp.aaro.com.tr/CekSenetBankayaTahsilataVerildi?TipID=SenetBankayaTahsilataVerildi)
 
+[![Image](../TemelHareketler/senetbankayatahsilata.png)](TemelHareketler)
+
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *ÇekSenet -> Hareket Oluştur -> Senet Bankaya Tahsile Verildi* üzerinden ulaşım sağlayabilirsiniz. 
-- Sol menüden *Banka -> Hareket Oluştur -> Senet Bankaya Tahsile Verildi* üzerinden ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Senet Bankaya Tahsile Verildi* üzerinden ulaşabilirsiniz. 
+- Sol menüden *Banka -> Hareket Oluştur -> Senet Bankaya Tahsile Verildi* üzerinden ulaşabilirsiniz. 
 
 ### Tanım 
 
@@ -53,8 +55,7 @@ Bu, işlemin farklı bir işlem hareket türü içinde yer aldığını gösteri
 
 ### Senet Kalemi Ekleme 
 
-- **Çek Senet Ekle:** Bankadan tahsil edilecek 
-senedi seçelim.
+- **Çek Senet Ekle:** Bankaya tahsile verilecek senedi seçelim.
 
 ## Notlar 
 
@@ -86,7 +87,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
 - Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel sipariş formu gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 ## Ek İşlemler
@@ -109,6 +110,3 @@ senedi kopyalamak için kullanılır.
 - Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.
 - Görev Oluştur: Sipariş için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
 - Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçip, *Kaydet* diyerek görevi bağlayabiliriz.
-
-
-

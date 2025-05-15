@@ -3,99 +3,96 @@ SayfaID: CariZiyaret
 SayfaTipi: Liste
 ---
 
-# Yeni Müşteri/Satıcı Ziyareti 
+# Yeni MÃ¼ÅŸteri/SatÄ±cÄ± Ziyareti 
 
-**Erişim Linki :** [erp.aaro.com.tr/CariZiyaret/Liste](erp.aaro.com.tr/CariZiyaret/Liste/)
+**EriÅŸim Linki :** [erp.aaro.com.tr/CariZiyaret/Liste](erp.aaro.com.tr/CariZiyaret/Liste/)
 
-## Ulaşım 
+## UlaÅŸÄ±m 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "müşteri ziyaret" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Müşteri/Satici -> Listeler -> Müşteri/Satıcı Ziyaret Listesi şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "mÃ¼ÅŸteri ziyaret" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den MÃ¼ÅŸteri/Satici -> Listeler -> MÃ¼ÅŸteri/SatÄ±cÄ± Ziyaret Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz. 
 
-## Tanım
+## TanÄ±m
 
-Müşteri satıcı ziyareti, bir satıcının belirli bir müşteriyi ziyaret ederek yüz yüze görüşme gerçekleştirdiği, 
-ürün ve hizmetlerin tanıtıldığı ve müşteri ihtiyaçlarının değerlendirildiği bir süreçtir. 
-Ziyarette gerçekleşen görüşme detayları buraya kaydedilir. 
-Firma ziyaretlerini takip etmek, görüşme detayları hakkında bilgi sahibi olmanızı sağlar ve müşteri-satıcı ilişkilerinizi güçlendirir. 
-Firmalarla ticari bir alışveriş gerçekleşmediğinde ziyaret edilen firmaların detaylarını girerek karmaşayı önleyebilirsiniz. 
-Ayrıca, firma görüşme detaylarını kaydederek ilerleyen zamanlarda önceki görüşmelere ulaşabilir ve işlerinizi kolaylaştırabilirsiniz.
+MÃ¼ÅŸteri satÄ±cÄ± ziyareti, bir satÄ±cÄ±nÄ±n belirli bir mÃ¼ÅŸteriyi ziyaret ederek yÃ¼z yÃ¼ze gÃ¶rÃ¼ÅŸme gerÃ§ekleÅŸtirdiÄŸi, 
+Ã¼rÃ¼n ve hizmetlerin tanÄ±tÄ±ldÄ±ÄŸÄ± ve mÃ¼ÅŸteri ihtiyaÃ§larÄ±nÄ±n deÄŸerlendirildiÄŸi bir sÃ¼reÃ§tir. 
+Ziyarette gerÃ§ekleÅŸen gÃ¶rÃ¼ÅŸme detaylarÄ± buraya kaydedilir. 
+Firma ziyaretlerini takip etmek, gÃ¶rÃ¼ÅŸme detaylarÄ± hakkÄ±nda bilgi sahibi olmanÄ±zÄ± saÄŸlar ve mÃ¼ÅŸteri-satÄ±cÄ± iliÅŸkilerinizi gÃ¼Ã§lendirir. 
+Firmalarla ticari bir alÄ±ÅŸveriÅŸ gerÃ§ekleÅŸmediÄŸinde ziyaret edilen firmalarÄ±n detaylarÄ±nÄ± girerek karmaÅŸayÄ± Ã¶nleyebilirsiniz. 
+AyrÄ±ca, firma gÃ¶rÃ¼ÅŸme detaylarÄ±nÄ± kaydederek ilerleyen zamanlarda Ã¶nceki gÃ¶rÃ¼ÅŸmelere ulaÅŸabilir ve iÅŸlerinizi kolaylaÅŸtÄ±rabilirsiniz.
 
-## Yeni Müşteri/Satıcı Ziyareti Ekle 
+## Yeni MÃ¼ÅŸteri/SatÄ±cÄ± Ziyareti Ekle 
 
 ### Genel 
 
-**Tarih:** Ziyaretin gerçekleştiği tarihi ifade eder.
+**Tarih:** Ziyaretin gerÃ§ekleÅŸtiÄŸi tarihi ifade eder.
 
-**Ziyaret Saati:** Ziyaretin gerçekleştiği saati ifade eder.
+**Ziyaret Saati:** Ziyaretin gerÃ§ekleÅŸtiÄŸi saati ifade eder.
 
-**Cari:** Ziyaretin gerçekleştiği cariyi ifade eder.
+**Cari:** Ziyaretin gerÃ§ekleÅŸtiÄŸi cariyi ifade eder.
 
-**İlgili:** Ziyarette görüşülen ilgili kişiyi ifade eder.
+**Ä°lgili:** Ziyarette gÃ¶rÃ¼ÅŸÃ¼len ilgili kiÅŸiyi ifade eder.
 
-**Adres:** Ziyaretin gerçekleştiği adresi ifade eder.
+**Adres:** Ziyaretin gerÃ§ekleÅŸtiÄŸi adresi ifade eder.
 
-**Konu:** Görüşmenin konusunu ifade eder.
+**Konu:** GÃ¶rÃ¼ÅŸmenin konusunu ifade eder.
 
-### Açıklamalar
+### AÃ§Ä±klamalar
 
-**Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md)
+**AÃ§Ä±klamalar:** Ek aÃ§Ä±klamalarÄ± belirtir. [AÃ§Ä±klama](../TemelOzellikler/Aciklama.md)
 
-### Gelişmiş
+### GeliÅŸmiÅŸ
 
-**Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
+**Åirket-Åube:** KartÄ±n ait olduÄŸu ÅŸirket ve ÅŸubeyi belirtir. Åirket-Åube kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Åirket-Åube](../TemelOzellikler/SirketSubeKart.md)
 
-**Proje: Bu hareketin hangi projeye ait olduğunu belirtir. Kalemlerde değiştirilebilir.
+**Proje:** Bu hareketin hangi projeye ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir.
 
-**Plasiyer:** Bu hareketin hangi plasiyere ait olduğunu belirtir. Kalemlerde değiştirilebilir.
+**Plasiyer:** Bu hareketin hangi plasiyere ait olduÄŸunu belirtir. Kalemlerde deÄŸiÅŸtirilebilir.
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Verilen sipariş işlemimizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+- DoldurulmasÄ± gereken alanlar girildikten sonra saÄŸ alt kÃ¶ÅŸede bulunan Kaydet butonuna tÄ±klayarak Verilen sipariÅŸ iÅŸlemimizi tamamlayabilirsiniz.
+- KayÄ±tlÄ± bir kartÄ± silmek iÃ§in sol altta bulunan sil butonuna tÄ±klayarak silebilirsiniz.
 
-- ### Belgeler
+### Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+YapacaÄŸÄ±mÄ±z iÅŸlem iÃ§in elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yÃ¼kleyebiliriz.
+Buraya iÅŸlem gerÃ§ekleÅŸirken gÃ¶rselleri yÃ¼kleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek iÃ§in tÄ±klayalÄ±m:
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- Daha Ã¶nce yÃ¼klediklerimden seÃ§ -> belgeyi seÃ§elim -> Ä°liÅŸkilendir ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
+- YÃ¼klenecek belge veya resimleri seÃ§ -> belgeyi ya da belgeleri seÃ§elim -> YÃ¼kle ÅŸeklinde belge yÃ¼kleme iÅŸlemimizi gerÃ§ekleÅŸtirebiliriz.
 
-Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
+Belge kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Belge](../TemelOzellikler/Belgeler.md)
 
 ### Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+Ä°ÅŸleme ait Ã¶zel notlar belirtebiliriz. 
+Ã–nemli bir detay var ise bu detaylarÄ± burada belirtebiliriz.
+Notlar kullanÄ±m detaylarÄ± iÃ§in linke tÄ±klayÄ±nÄ±z. [Notlar](../TemelOzellikler/Notlar.md)
 
-### Kısayollar 
+### KÄ±sayollar 
 
-**Geçmiş Ziyaretleri** Cari ile gerçekleşen geçmiş ziyaretleri görüntüleyebilirsiniz.
+**GeÃ§miÅŸ Ziyaretleri** Cari ile gerÃ§ekleÅŸen geÃ§miÅŸ ziyaretleri gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
 
-**Müşteri/Satıcı Özet:** Carinin ekstresini ifade eder. Buradan carini ekstresine erişim sağlayarak detaylarını görüntüleyebilirsiniz.
+**MÃ¼ÅŸteri/SatÄ±cÄ± Ã–zet:** Carinin ekstresini ifade eder. Buradan carinin ekstresine eriÅŸim saÄŸlayarak detaylarÄ±nÄ± gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
 
-### Kayıt Bilgileri
+### KayÄ±t Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
+KartÄ±n hangi kullanÄ±cÄ± tarafÄ±ndan ve hangi tarihlerde oluÅŸturulduÄŸu ve deÄŸiÅŸtirildiÄŸi bilgisini iÃ§erir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kart iÅŸ akÄ±ÅŸ sÃ¼reÃ§lerine dahil edildiÄŸinde hangi kullanÄ±cÄ± tarafÄ±ndan hangi tarihte onaylandÄ±ÄŸÄ± bilgilerini iÃ§erir. 
 
-## Yazdır
+## YazdÄ±r
 
-- Sayfanın sağ üstünde bulunan yazıcı sembolü ile sayfaya tanımlanan özel çıktı formatları ile farklı çıktılar alınabilir. 
-- Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
-- Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
-- Kullanıcıya özel teklif formu gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
-- Çıktılar program üzerinden e-mail olarak gönderilebilir. 
+- SayfanÄ±n saÄŸ Ã¼stÃ¼nde bulunan yazÄ±cÄ± sembolÃ¼ ile sayfaya tanÄ±mlanan Ã¶zel Ã§Ä±ktÄ± formatlarÄ± ile farklÄ± Ã§Ä±ktÄ±lar alÄ±nabilir. 
+- Kartta bulunan bilgilerin kullanÄ±cÄ±nÄ±n isteÄŸine baÄŸlÄ± olarak Ã¶zel tasarÄ±m ile yazdÄ±rÄ±lmasÄ±nÄ± saÄŸlar.
+- Birden Ã§ok Ã§Ä±ktÄ± tasarÄ±m yapÄ±labilir ve deÄŸiÅŸtirilebilir.
+- KullanÄ±cÄ±ya Ã¶zel teklif formu gibi farklÄ± tasarÄ±mlar yapÄ±labilir.
+- Ã‡Ä±ktÄ± tasarÄ±mlarÄ±nÄ±n herbirine ayrÄ± ayrÄ± yetkiler verilerek sadece istenilen kullanÄ±cÄ±nÄ±n belirli Ã§Ä±ktÄ±lara ulaÅŸmasÄ± saÄŸlanabilir.
+- Ã‡Ä±ktÄ±lar program Ã¼zerinden e-mail olarak gÃ¶nderilebilir. 
 
-- ## Düzenleme 
+## DÃ¼zenleme 
 
-Müşteri/Satıcı ziyaretine ekleme yapmak ya da herhangi bir düzeltme yapmak için kalem işaretini seçerek açılan ekranda düzenlemeleri yapabiliriz.
-
-
-
+MÃ¼ÅŸteri/SatÄ±cÄ± ziyaretine ekleme yapmak ya da herhangi bir dÃ¼zeltme yapmak iÃ§in kalem iÅŸaretini seÃ§erek aÃ§Ä±lan ekranda dÃ¼zenlemeleri yapabiliriz.

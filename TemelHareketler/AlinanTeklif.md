@@ -7,13 +7,15 @@ SayfaTipi: Teklif
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaAlinanTeklif](erp.aaro.com.tr/FaturaAlinanTeklif)
 
+![Alınan Teklif](alinan-teklif.png "Alınan Teklif")
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Alınan teklif' şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Alınan Teklif* şeklinde ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Satın Alma -> Hareket Oluştur -> Alınan teklif* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Alınan teklif' şeklinde aratarak ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Alınan Teklif* şeklinde ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Satın Alma -> Hareket Oluştur -> Alınan teklif* şeklinde ulaşabilirsiniz.
 
 ## Tanım
+
 
 Alınan teklif, bir müşterinin veya işletmenin belirli koşullar altında bir ürünü veya hizmeti satın almak amacıyla başka bir işletmeden aldığı yazılı öneridir. Teklif genellikle ticari bir ilişki içinde bulunan iki taraf arasında yapılır. Teklif genellikle şu unsurları içerir:
 
@@ -70,7 +72,7 @@ Vade, teklifin kabul edilmesinden itibaren geçerli olan ve ödemelerin yapılma
 
 - **Cari Adres:** Carinin adresini belirtir. Farklı adrese gönderilecekse seçilmelidir. Kalemlerde değiştirilebilir.
 
-- **Ref. İthalat İhracat:** Bu hareket bir ithalat ya da ihracat ise seçilmelidir. Hangi ithlata veya ihracata ait olduğunu belirtir. Kalemlerde değiştirilebilir.
+- **Ref. İthalat İhracat:** Bu hareket bir ithalat ya da ihracat ise seçilmelidir. Hangi ithalata veya ihracata ait olduğunu belirtir. Kalemlerde değiştirilebilir.
 
 - **Teslim Tarihi:** Teklif onaylandığında teslim edileceği tarihi belirtir.
 
@@ -82,12 +84,12 @@ Vade, teklifin kabul edilmesinden itibaren geçerli olan ve ödemelerin yapılma
 
 - **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
 
-#### Doldurmamız gereken bilgileri doldurduktan sonra *Kaydet* butonuna basarak bir sonraki kalem ekleme aşamasına geçebilirsiniz.
+#### Doldurmamız gereken bilgileri doldurduktan sonra **Kaydet** butonuna basarak bir sonraki kalem ekleme aşamasına geçebiliriz.
 
 - Açılan ekranda kalem(kart) ekleme alanımız açılacaktır. 
 - Alınan teklifte firmamızın talebi olan stok, gelir gider, demirbaş olabilir. En baştaki kutucuktan seçim yapılabilir, sistem otomatik stok olarak getirir.
 - Kart Adı: Stok, demirbaş ya da gelir gider satışını gerçekleştireceğimiz kartı belirtir.
-- Miktar: Teklifte belirtilmesi istenilen stoğun miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
+- Miktar: Teklifte belirtilmesi istenilen stoğun miktarını belirtir, bu alanın doldurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatlarını gösterir.
 - İskonto: Teklifimizde girdiğimiz kalem için iskonto oranını belirtir. Uyguladığımız bir iskonto var ise buraya oranı girebiliriz.
@@ -120,14 +122,14 @@ Belge eklemek için tıklayalım ;
 
 - **Daha önce yüklediklerimden seç -> Belgeyi seç
 -> İlişkilendir** şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- *Yüklenecek belge veya resimleri seç -> Belgeyi ya da
- belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- **Yüklenecek belge veya resimleri seç -> Belgeyi ya da
+ belgeleri seç -> Yükle** şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Kayıt Bilgileri
 
@@ -143,7 +145,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan **Kaydet** butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan **Kaydet** butonuna tıklayarak alınan teklif işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
@@ -170,7 +172,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergileri yenile, iskonto oranı, ref. ithalat ihracat, plasiyer, Ref. teslim tarihi bilgilerini tüm kalemlerde değiştirebiliriz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Görev Oluştur: Teklif için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
-- Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçip *Kaydet* diyerek görevi bağlayabiliriz.
+- Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçip **Kaydet** diyerek görevi bağlayabiliriz.
 - Kapat: Teklifi açmak ya da kapatmak için kullanılır.
 - Paylaş: Alınan teklifin hangi şirket veya şubelerde gözükeceğini buradan seçebiliriz.
 - Siparişleştir: Karşı taraf teklifimizi onayladığında buradan siparişleştir yaparak, siparişimizi oluşturabiliriz.

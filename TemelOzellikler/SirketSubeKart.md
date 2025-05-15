@@ -31,15 +31,15 @@ ERP sisteminde tanımlayacağımız 2 şirket ve 2 şube olduğunu düşünelim;
 
 -A şirketinde kalem satışı yapıyoruz, B şirketinde defter satışı yapıyoruz 
 
-**diyelim ki;** 
+**Diyelim ki;** 
 - Her iki şirkette mevcut olan ürünlerimizi diğer şirketlerin görmesini istemiyoruz, 
 	- Stok, cari gibi kartlarımızın girişlerini yaparken kart açılış ekranında Şirket-Şube seçimlerimizi yapmamız gerekir.  
 	Kalem stoklarının girişinde, tedarikçilerinde, müşterilerinde A şirketini seçmemiz gerekmektedir. Böylece A şirketine tanımladığımız kartlar ve hareketler A şirketinde ve şubelerinde görünür.  
 	Defter stoklarının girişinde, tedarikçilerinde, müşterilerinde B şirketini seçmemiz gerekmektedir. Böylece B şirketine tanımladığımız kartlar ve hareketler B şirketinde ve şubelerinde görünür.
 
-	**diyelim ki;**
+	**Diyelim ki;**
 
- - Her iki şirketin ortak carileri var bazı tedarikçi ve müşterileri ortak
+ - Her iki şirketin ortak carileri var, bazı tedarikçi ve müşterileri ortak
  
   
 

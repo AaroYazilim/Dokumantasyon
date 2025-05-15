@@ -7,6 +7,8 @@ SayfaTipi: HareketListe
 
 **Erişim Linki :** [erp.aaro.com.tr/DemirbasHareketleri/Liste](erp.aaro.com.tr/DemirbasHareketleri/Liste)
 
+[![Image](../Demirbas/demirbashareketlerilistesi.png)](demirbashareketlerilistesi)
+
 ### Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Demirbaş hesap kartı" şeklinde aratarak ulaşım sağlayabilirsiniz.

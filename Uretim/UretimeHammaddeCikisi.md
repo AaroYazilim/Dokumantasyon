@@ -5,12 +5,14 @@ SayfaTipi: Hareket
 
 # Üretime Ham Madde Çıkışı
 
-**Erişim Linki :** [erp.aaro.com.tr/UretimeHam maddeCikisi](erp.aaro.com.tr/UretimeHam maddeCikisi)
+**Erişim Linki :** [erp.aaro.com.tr/UretimeHammaddeCikisi](erp.aaro.com.tr/UretimeHammaddeCikisi)
+
+[![Image](../Uretim/uretimhammadde.png)](Uretim)
 
 ## Ulaşım
 
-- Sol menüde, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Ham madde" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Hareketler -> Üretime Ham madde Çıkışı* şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüde, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Ham madde" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Üretim -> Hareketler -> Üretime Ham madde Çıkışı* şeklinde ulaşabilirsiniz.
 
 ### Tanım
 **Üretimden ham madde çıkışı**, üretimde kullanılacak ham maddelerin üretim yapılacak depoya transfer edilmesi için kullanılır. Bu süreç, ham maddelerin depodan çıkarılarak üretim hattına veya ilgili üretim birimine teslim edilmesini ifade eder.

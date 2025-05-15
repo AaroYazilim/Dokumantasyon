@@ -8,10 +8,11 @@ SayfaTipi: CekBankadanTahsilEdildi
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetBankadanTahsilEdildi?TipID=CekBankadanTahsilEdildi&](erp.aaro.com.tr/CekSenetBankadanTahsilEdildi?TipID=CekBankadanTahsilEdildi&)
 
 ### Ulaşım
+![Çek İşlemler](cek-islemler.png "Çek İşlemler")
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Çek" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek Bankadan Tahsil Edildi* üzerinden ulaşım sağlayabilirsiniz. 
-- *Sol menüden Banka -> Hareket Oluştur -> Çek Bankadan Tahsil Edildi* üzerinden ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Çek" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek Bankadan Tahsil Edildi* üzerinden ulaşabilirsiniz. 
+- *Sol menüden Banka -> Hareket Oluştur -> Çek Bankadan Tahsil Edildi* üzerinden ulaşabilirsiniz. 
 
 ### Tanım 
 
@@ -60,7 +61,7 @@ Bu, işlemin farklı bir işlem hareket türü içinde yer aldığını gösteri
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belgeler
 
@@ -109,6 +110,3 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.
 - Görev Oluştur: Sipariş için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
 - Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçelim, *Kaydet* diyerek görevi bağlayalım.
-
-
-

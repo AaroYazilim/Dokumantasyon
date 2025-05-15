@@ -7,10 +7,12 @@ SayfaTipi: Modul
 
 **Erişim Linki :** [erp.aaro.com.tr/StokModulu](https://erp.aaro.com.tr/StokModulu)
 
+[![Image](../Stok/icindekiler.png)](stok)
+
 Stok ve depoda gerçekleşen her işlem için bu kısmı kullanmanız gerekmektedir. 
 Stok ve Depo ile ilgili kartları bu modül aracılığıyla ekleyebilir ve düzenleyebilirsiniz.
 Sayım girişleri, sayım farkı işleme, giriş-çıkışlar, stok kartı kod ağacı, stok vergi tanımları gibi bütün hareketleri ve işlemleri işleyeceğiniz yerdir. 
-Düzenli tutmanız hareket takibi yapabilmeniz için çok önemlidir.
+Düzenli tutmanız ve hareket takibi yapabilmeniz için çok önemlidir.
 işletmenizin satın alma, üretim ve satış süreçlerini yönetirken stoklarını etkin bir şekilde izleyebilir ve kontrol edebilirsiniz.
 
 - İşletmenizin sahip olduğu tüm ürünlerin detaylı kayıtlarını tutar. Ürün adı, kodu, birim fiyatı, stok miktarı gibi bilgileri içerir.
@@ -38,7 +40,7 @@ Bu modül; doğru stok seviyelerinizi korumak, müşteri taleplerinize zamanınd
 
 ### Listeler 
 
-- [Stok Hareketleri Listesi](../Stok/KasaHareketleriListesi.md)
+- [Stok Hareketleri Listesi](../Stok/StokHareketleriListesi.md)
 - [Sipariş Hareketleri Listesi]()
 - [Stok Sayım Listesi]()
 - [Stok Depo Miktar Listesi]()
@@ -48,7 +50,7 @@ Bu modül; doğru stok seviyelerinizi korumak, müşteri taleplerinize zamanınd
 
 ### Hareketler
 
-- [Hareket Oluştur](../Banka/HareketOlustur.md)
+- [Hareket Oluştur](../Stok/HareketOlustur.md)
 
 ### İşlemler
 

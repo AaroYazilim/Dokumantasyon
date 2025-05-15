@@ -1,4 +1,6 @@
 
+![Üretim Planlama](../Uretim/uretim-plani.png "Üretim Planlama")
+
 # İş Emri Planla
 
 İş emri planlama, üretim sürecinde belirli görevlerin ve aktivitelerin zamanında ve verimli bir şekilde gerçekleştirilmesini sağlamak için kullanılan bir yönetim ve organizasyon sürecidir. 

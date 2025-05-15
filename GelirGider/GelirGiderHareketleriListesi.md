@@ -7,6 +7,9 @@ SayfaTipi: HareketListe
 
 **Erişim Linki :** [erp.aaro.com.tr/GelirGiderHareketleri/Liste](erp.aaro.com.tr/GelirGiderHareketleri/Liste)
 
+[![Image](../GelirGider/gelirgiderhareketlerilistesi.png)](gelirgiderhareketlerilistesi)
+
+
 ### Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Gelir Gider Hesap Kartı" şeklinde aratarak ulaşım sağlayabilirsiniz.

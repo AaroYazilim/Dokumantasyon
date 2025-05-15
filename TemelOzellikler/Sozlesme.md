@@ -1,11 +1,13 @@
 ---
 SayfaID: Sozlesme/Liste
-SayfaTipi: Lıste
+SayfaTipi: Liste
 ---
 
 # Sözleşme
 
 **Erişim Linki :** [erp.aaro.com.tr/Sozlesme/Liste](erp.aaro.com.tr/Sozlesme/Liste)
+
+[![Image](../TemelOzellikler/sozlesme.png)](TemelOzellikler)
 
 ## Ulaşım 
 

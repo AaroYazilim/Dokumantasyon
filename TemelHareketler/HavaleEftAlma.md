@@ -7,12 +7,14 @@ SayfaTipi: Banka
 
 **Erişim Linki :** [erp.aaro.com.tr/BankaTahsilat](https://erp.aaro.com.tr/BankaTahsilat)
 
+![Image](../TemelHareketler/havaleeftalma.png "Havale EFT Alma")
+
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "havale eft" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Banka -> Havale/EFT Alma* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Satış & Pazarlama -> Hareket Oluştur -> Havale/EFT Alma* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Banka -> Hareket Oluştur -> Havale/EFT Alma* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "havale eft" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Banka -> Havale/EFT Alma* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Satış & Pazarlama -> Hareket Oluştur -> Havale/EFT Alma* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Banka -> Hareket Oluştur -> Havale/EFT Alma* şeklinde ulaşabilirsiniz. 
 
 ## Tanım
 
@@ -66,7 +68,7 @@ banka hesabımıza gelen havale/EFT bilgilerini buradan işleyerek banka hesabı
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belge
 
@@ -106,7 +108,7 @@ Sağ üst köşede yaptığımız işlemlerin toplam, genel toplam tutarlarını
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak havale/EFT alma işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
@@ -115,7 +117,7 @@ Sağ üst köşede yaptığımız işlemlerin toplam, genel toplam tutarlarını
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
 - Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel banka tahsilat formu gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 ## Düzenleme 

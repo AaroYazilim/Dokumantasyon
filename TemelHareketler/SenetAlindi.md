@@ -7,16 +7,18 @@ SayfaTipi: SenetAlindi
 
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetAlindi?TipID=SenetAlindi](https://erp.aaro.com.tr/CekSenetAlindi?TipID=SenetAlindi)
 
+[![Image](../TemelHareketler/senetalindi.png)](TemelHareketler)
+
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *ÇekSenet -> Hareket Oluştur -> Senet -> Senet Alındı* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Müşteri/Satıcı -> Hareket Oluştur -> Senet -> Senet Alındı* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Senet -> Senet Alındı* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Müşteri/Satıcı -> Hareket Oluştur -> Senet -> Senet Alındı* şeklinde ulaşabilirsiniz.
 
 ### Tanım 
 
-Senet ciro edilerek verildi, bir senedin alacaklı tarafından başka bir kişiye ödeme veya teminat amacıyla devredildiğini ifade eder. 
-Ciro işlemi, senedin arkasına yapılan imza ile gerçekleştirilir ve senet, yeni sahibine verilerek borç veya alacak devri sağlanır. 
+Senet alındı, bir borçludan alacaklıya verilen, belirli bir tutarın belirli bir tarihte ödeneceğini taahhüt eden yazılı bir belgedir. 
+Senet, borçlunun imzasını taşır ve yasal olarak bağlayıcıdır. 
 Bu işlem, ticari işlemlerde veya borçların ödenmesinde yaygın olarak kullanılır.
 
 ## Genel
@@ -51,11 +53,11 @@ Banka hesabının bakiyesi seçilen döviz cinsinden takip edilir.
 
 ### Açıklamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. İade nedeni burada belirtilebilir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")	
+- **Açıklamalar:** Ek açıklamaları belirtir. İade nedeni burada belirtilebilir. [Açıklama](../TemelOzellikler/Aciklama.md "Açıklama")	
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md "Etiketler")
 
 **Bilgilerimizi doldurduktan sonra *Kaydet* diyerek kalem ekleme ekranımıza erişim sağlamaktayız.**
 
@@ -142,6 +144,5 @@ senedi kopyalamak için kullanılır.
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak senet alındı işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
-

@@ -7,11 +7,13 @@ SayfaTipi: Fatura
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaDepolarArasiTransfer](erp.aaro.com.tr/FaturaDepolarArasiTransfer)
 
+![Image](../TemelHareketler/depolararasitransfer.png "Depolar Arası Transfer")
+
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "depo" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Stok -> Hareket Oluştur -> Diğerleri -> Depolar Arası Transfer* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Satış & Pazarlama -> Hareket Oluştur -> Depolar Arası Transfer* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "depo" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Stok -> Hareket Oluştur -> Diğerleri -> Depolar Arası Transfer* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Satış & Pazarlama -> Hareket Oluştur -> Depolar Arası Transfer* şeklinde ulaşabilirsiniz. 
 
 ## Tanım
 
@@ -75,7 +77,7 @@ Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Kayıt Bilgileri
 
@@ -85,7 +87,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak depolar arası transfer işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır

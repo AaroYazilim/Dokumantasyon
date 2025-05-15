@@ -7,10 +7,12 @@ SayfaTipi: KartListe
 
 **Erişim Linki :** [erp.aaro.com.tr/UrMakine/Liste](erp.aaro.com.tr/UrMakine/Liste)
 
+[![Image](../Uretim/makinelistesi.png)](Uretim)
+
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "makine" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Kartlar -> Makine -> Makine Listesi* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "makine" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Üretim -> Kartlar -> Makine -> Makine Listesi* şeklinde ulaşabilirsiniz.
 
 ## Tanım
 

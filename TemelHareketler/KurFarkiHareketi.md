@@ -9,11 +9,11 @@ SayfaTipi:
 
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "kur farkı" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Müşteri/Satıcı -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Demirbaş -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Gelir/Gider -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Stok -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "kur farkı" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Müşteri/Satıcı -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Demirbaş -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Gelir/Gider -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Stok -> Hareket Oluştur -> Diğerler -> Kur Farkı Hareketi* şeklinde ulaşabilirsiniz. 
 
 ## Tanım
 
@@ -58,11 +58,11 @@ Aradaki 1.000 TL’lik fark (26.000 TL - 25.000 TL) kur farkı olarak kaydedilir
 
 ### Açıklamalar
 
-- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](/TemelOzellikler/Aciklama.md "Açıklama")	
+- **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md "Açıklama")	
 
 ### Etiketler
 
-- **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](/TemelOzellikler/Etiketler.md "Etiketler")
+- **Etiketler:** Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md "Etiketler")
 
 ## Notlar 
 
@@ -112,7 +112,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
 - Kopyala: Faturayı kopyalamak için kullanılır.
-- Kur Güncelle:Döviz kurunda değişiklik yapmak için kullanılır.
+- Kur Güncelle: Döviz kurunda değişiklik yapmak için kullanılır.
 - Tüm Kalemlerde Değiştir: Buradan depo, proje, sözleşme, vergi muafiyeti, vergilerin yenilenmesi, iskonto oranı, referans ithalat/ihracat, plasiyer ve referans teslim tarihi gibi bilgileri tüm kalemler için toplu olarak değiştirebilirsiniz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabiliriz.
 - Görev Oluştur: Satış Faturası için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.

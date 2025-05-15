@@ -7,11 +7,13 @@ SayfaTipi: Liste
 
 **Erişim Linki :** [erp.aaro.com.tr/UrIsEmri/Liste](erp.aaro.com.tr/UrIsEmri/Liste)
 
+[![Image](../Uretim/isemrilistesi.png)](Uretim)
+
 ### Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "İş emri" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Listeler -> İş Emri Listesi* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Üretim -> Modül Sayfası -> Liste -> İş Emri Listesi* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "İş emri" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Üretim -> Listeler -> İş Emri Listesi* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Üretim -> Modül Sayfası -> Liste -> İş Emri Listesi* şeklinde ulaşabilirsiniz. 
 
 ### Tanım
 

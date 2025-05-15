@@ -7,12 +7,14 @@ SayfaTipi: Banka
 
 **Erişim Linki :** [erp.aaro.com.tr/KasaNakitTahsilat](https://erp.aaro.com.tr/KasaNakitTahsilat)
 
+[![Image](../TemelHareketler/nakittahsilat.png)](TemelHareketler)
+
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "nakit tahsilat" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Kasa -> Nakit Tahsilat* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Satış & Pazarlama -> Hareket Oluştur -> Nakit Tahsilat* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Kasa -> Hareket Oluştur -> Nakit Tahsilat* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "nakit tahsilat" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Kasa -> Nakit Tahsilat* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Satış & Pazarlama -> Hareket Oluştur -> Nakit Tahsilat* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Kasa -> Hareket Oluştur -> Nakit Tahsilat* şeklinde ulaşabilirsiniz. 
 
 ## Tanım
 
@@ -76,10 +78,9 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
 - Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel pos tahsilat formu gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 ## Düzenleme 
 
 Pos tahsilat işlemimizde herhangi bir düzeltme yapmak için kalem işaretini seçerek açılan ekranda düzenlemeleri yapabiliriz.
-

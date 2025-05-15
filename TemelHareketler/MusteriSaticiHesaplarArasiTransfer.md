@@ -7,10 +7,11 @@ SayfaTipi: Cari
 
 **Erişim Linki :** [erp.aaro.com.tr/CariVirman](erp.aaro.com.tr/CariVirman)
 
+![Image](../TemelHareketler/musterisaticihesaplariarasitransfer.png "Müşteri/Satıcı Hesapları Arası Transfer")
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "müşteri satıcı" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Müşteri/Satıcı Hesapları Arası* Transfer şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "müşteri satıcı" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Musteri/Satici -> Hareket Oluştur -> Müşteri/Satıcı Hesapları Arası* Transfer şeklinde ulaşabilirsiniz. 
 
 ### Tanım
 
@@ -89,7 +90,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı hesapları arası transfer işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
@@ -97,13 +98,13 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Sayfanın sağ üstünde bulunan yazıcı sembolü ile sayfaya tanımlanan özel çıktı formatları ile farklı çıktılar alınabilir. 
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
 - Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
-- Kullanıcıya özel depolar arası transfer formu gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Kullanıcıya özel Müşteri/Satıcı hesapları arası transfer formu gibi farklı tasarımlar yapılabilir.
+- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 ## Düzenleme 
 
-Depolar arası transfer işlemimizde herhangi bir düzeltme ya da ekleme yapmak için kalem işaretini seçerek açılan ekranda ekleme ve düzenlemeleri yapabiliriz.
+Müşteri/Satıcı hesapları arası transfer işlemimizde herhangi bir düzeltme ya da ekleme yapmak için kalem işaretini seçerek açılan ekranda ekleme ve düzenlemeleri yapabiliriz.
 
 ## Ek İşlemler
 
@@ -117,6 +118,6 @@ Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğm
 
 
 - Yevmiye Fiş: Yevmiye fişi, işletmelerde gerçekleşen her türlü mali işlemin tarih, miktar ve açıklama bilgileri ile birlikte kaydedildiği muhasebe belgesidir.
-- Kopyala: Verilen teklifi kopyalamak için kullanılır.
+- Kopyala: Müşteri/Satıcı hesapları arası transfer işlemini kopyalamak için kullanılır.
 - Pos Tahsilatı: 
-- Görev Oluştur: Teklif için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
+- Görev Oluştur: Müşteri/Satıcı hesapları arası transfer için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.

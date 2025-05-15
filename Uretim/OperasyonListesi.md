@@ -7,10 +7,12 @@ SayfaTipi: KartListe
 
 **Erişim Linki :** [erp.aaro.com.tr/UrOperasyon/Liste](erp.aaro.com.tr/UrOperasyon/Liste)
 
+[![Image](../Uretim/operasyon.png)](Uretim)
+
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Kartlar -> Operasyon -> Operasyon Listesi -> Yeni Operasyon Ekle* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Üretim -> Kartlar -> Operasyon -> Operasyon Listesi -> Yeni Operasyon Ekle* şeklinde ulaşabilirsiniz.
 
 ### Tanım
 

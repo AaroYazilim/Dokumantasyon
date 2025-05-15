@@ -2,12 +2,14 @@
 # Kısayollara Ekleme
 
 ## Tanım
+![Kısayollar 1](kisayol1.png "Kısayollar 1")
 
 **Kısayollarım**a ekle özelliği, kullanıcıların sık kullandıkları işlevleri veya sayfaları kişiselleştirilmiş bir menüye ekleyerek kolayca erişmelerini sağlar. 
-Bu özellik, kullanıcılarınızın belirli işlem veya sayfalara hızlı bir şekilde bulmalarını ve erişmelerini sağlayarak iş verimliliğini artırır.
+Bu özellik, kullanıcıların belirli işlem veya sayfalara hızlı bir şekilde ulaşmalarını sağlayarak iş verimliliğini artırır.
 Bu menü, ekranın kenar çubuğunda yer almaktadır.
 Eklediğiniz kısayolları istediğiniz sıraya göre düzenleyebilir ve yeniden sıralayabilirsiniz. 
-Bu, kısayol menüsünün kişisel tercihlere ve kullanım alışkanlıklarına göre özelleştirmenizi sağlar.
+Bu, kısayol menüsünün kişisel tercihlere ve kullanım alışkanlıklarına göre özelleştirilmesini sağlar.
+![Kısayollar 2](kisayol2.png "Kısayollar 2")
 
 ## Ulaşım
 
@@ -18,7 +20,7 @@ Aşağıdaki gibi yollarla ulaşabilirsiniz:
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan **Kısayollarım -> Kısayol Listesi -> Yeni Hızlı Erişim Ekle** ile kısayol ekleme ekranına ulaşım sağlayabilirsiniz.
 - **Kısayollarım**a eklemek istediğiniz modülün sayfasını açınız. 
 
-Örneğin, Banka hesap kartı listesini **Kısayollarım**a eklemek istiyorsunuz bunun için:
+Örneğin, Banka hesap kartı listesini **Kısayollarım**a eklemek istiyorsanız bunun için:
 **Modüller -> Banka -> Banka Hesap Kartı Listesi -> Üç işlem butonu -> Ana Sayfaya Kısayol Olarak Ekle**; 
 
 Örneğin, Satış faturasını **Kısayollarım**a eklemek istiyorsunuz:

@@ -7,6 +7,8 @@ SayfaTipi: Lıste
 
 **Erişim Linki :** [erp.aaro.com.tr/Yetkiler/Liste](erp.aaro.com.tr/Yetkiler/Liste)
 
+[![Image](../TemelOzellikler/yetkilistesi.png)](TemelOzellikler)
+
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "yetki" şeklinde aratarak ulaşım sağlayabilirsiniz.

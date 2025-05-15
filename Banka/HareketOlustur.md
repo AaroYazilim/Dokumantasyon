@@ -7,6 +7,8 @@ SayfaTipi: Hareket Olustur
 
 ### Genel
 
+[![Image](../Banka/hareketolustur.png)](hareketolustur)
+
 - [Havale EFT Alma](../TemelHareketler/HavaleEftAlma.md)
 - [Havale EFT Gönderme](TemelHareketler/HavaleEftGonderme.md)
 - [Bankadan Gider Hareketi](../TemelHareketler/BankadanGiderHareketi.md)

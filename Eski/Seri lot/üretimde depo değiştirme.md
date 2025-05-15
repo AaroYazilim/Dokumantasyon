@@ -1,2 +1,0 @@
-## ÜRETİMDE DEPO DEĞİŞTİRME
-Üretim yapılırken ham madde, yarı mamul ve mamullerin hangi depolarda takip edileceği parametre üzerinden ayarlanmaktadır. Stokların birden fazla depoda bulunabilmesi veya başka depoda birkaç seferlik takip edilmek istenmesi gibi durumlarda **taslak reçete** oluştururken, **iş emri** verirken veya iş emri içerisinden diyagrama ulaşarak ham madde, mamul ve yarı mamul düzenleme ekranlarından **’Gelişmiş’** başlığından depo değişimi yapılabilmektedir. 

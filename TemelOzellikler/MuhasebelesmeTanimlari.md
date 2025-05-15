@@ -1,30 +1,31 @@
 
-## Muhasebeleşme Tanımları 
+## MuhasebeleÅŸme TanÄ±mlarÄ± 
+![MuhasebeleÅŸme](muhasebelesme-tanimlari.png "MuhasebeleÅŸme")
 
-Muhasebeleşme, işletme içinde gerçekleşen finansal faaliyetlerin doğru bir şekilde kaydedilmesi, sınıflandırılması ve raporlanması sürecidir. 
-Bu işlemler, gelirler, giderler, alacaklar ve borçlar gibi finansal unsurların düzenli bir şekilde takip edilmesi ve yasal mevzuata uygun bir şekilde oluşturulmasını sağlar. 
-ERP sistemlerinin muhasebeleşme modülü, Bu büyümeyi otomatikleştirerek finansal operasyonlarını daha verimli ve hatasız bir şekilde yürütülmesine yardımcı olur.
+MuhasebeleÅŸme, iÅŸletme iÃ§inde gerÃ§ekleÅŸen finansal faaliyetlerin doÄŸru bir ÅŸekilde kaydedilmesi, sÄ±nÄ±flandÄ±rÄ±lmasÄ± ve raporlanmasÄ± sÃ¼recidir. Bu sÃ¼reÃ§, gelirler, giderler, alacaklar ve borÃ§lar gibi finansal unsurlarÄ±n dÃ¼zenli bir ÅŸekilde takip edilmesini saÄŸlar. AynÄ± zamanda, yasal mevzuata uygun bir ÅŸekilde oluÅŸturulmasÄ±na da yardÄ±mcÄ± olur.
 
-**Stok kartlarında** muhabeleşme tanımları, stok hareketlerinin muhasebe kayıtlarına nasıl yansıyacağını; mal alımı, satışı, hammadde, yarı mamül, mamül, iade veya iskonto gibi tamamlama muhasebe hesaplarına doğru bir şekilde işlenmesini sağlar.
-Sistemleri her bir stok hareketi otomatik olarak ilgili muhasebe hesabına yönlendirilir, farklı olan muhasebeleşme kodları manuel olarak değiştirilebilir.
-**Bu kodlar üzerinde hesap plan atamaları yaparken mutlaka Mali Müşavirinizden destek alınız.** 
+AARO ERP sisteminin muhasebeleÅŸme modÃ¼lÃ¼, bu sÃ¼reci otomatikleÅŸtirerek finansal operasyonlarÄ±n daha verimli ve hatasÄ±z bir ÅŸekilde yÃ¼rÃ¼tÃ¼lmesine katkÄ± saÄŸlar.
 
-**Demirbaş kartlarında** muhasebeleşme tanımları, sahip olduğu demirbaşların finansal muhasebe kayıtlarına doğru bir şekilde çalışmasını sağlayan kayıtların belirlenmesidir.
+**Stok kartlarÄ±nda** muhasebeleÅŸme tanÄ±mlarÄ±, stok hareketlerinin muhasebe kayÄ±tlarÄ±na nasÄ±l yansÄ±yacaÄŸÄ±nÄ± belirler. Bu, mal alÄ±mÄ±, satÄ±ÅŸÄ±, ham madde, yarÄ± mamul, mamul, iade veya iskonto gibi iÅŸlemlerin doÄŸru muhasebe hesaplarÄ±na iÅŸlenmesini saÄŸlar. 
 
-**Müşteri/Satıcı cari kartlarında** cariye ait muhabeleşme kodları alış veya satış hareketleri için geçerli olacak finansal muhasebe kayıtlarını ifade eder.
-Yeni Müşteri/Satıcı kartı açarken sistem bize carinin müşteri ya da satıcı durumuna göre otomatik hesap kodlarına atama yapar;
-Alacak Hesapları: Müşteri borçlarını takip etmek için kullanılır. (Örneğin: 120 - Alıcılar)
-Borç Hesapları: Tedarikçilere olan borçları izlemek için kullanılır. (Örneğin: 320 - Satıcılar)
-Bu kodlar özel muhasebeleşme kodlarına uygun olacak şekilde revize edilebilir.
-**Bu kodlar üzerinde hesap plan atamaları yaparken mutlaka Mali Müşavirinizden destek alınız.**
+Sistemde her bir stok hareketi, otomatik olarak ilgili muhasebe hesabÄ±na yÃ¶nlendirilir. Ancak, farklÄ± muhasebeleÅŸme kodlarÄ± gerektiÄŸinde manuel olarak deÄŸiÅŸtirilebilir.
+**Bu kodlar Ã¼zerinde hesap plan atamalarÄ± yaparken mutlaka Mali MÃ¼ÅŸavirinizden destek alÄ±nÄ±z.** 
 
-**Banka Hesap Kartlarında** muhasebeleşme tanımları, banka hesapları üzerinden gerçekleşen finansal işlemlerin muhasebe kayıtlarının doğru ve eksiksiz bir şekilde yansıtılmasını sağlar. 
-Banka hesap hareketlerinin ilgili muhasebe hesaplarına otomatik olarak kaydolma olanağı tanınır.
-Banka borç, alacak, tahsilde çek ve tahsildeki senet hesabı gibi otomatik hesap kodlarına atama yapar.
+**DemirbaÅŸ kartlarÄ±nda** muhasebeleÅŸme tanÄ±mlarÄ±, sahip olunan demirbaÅŸlarÄ±n finansal muhasebe kayÄ±tlarÄ±na doÄŸru bir ÅŸekilde yansÄ±yabilmesi iÃ§in gerekli kayÄ±tlarÄ±n belirlenmesidir. Bu tanÄ±mlar, demirbaÅŸlarÄ±n alÄ±mÄ±, satÄ±mÄ±, amortismanÄ± ve diÄŸer finansal iÅŸlemlerinin muhasebe sistemine doÄŸru bir ÅŸekilde aktarÄ±lmasÄ±nÄ± saÄŸlar.
+
+**MÃ¼ÅŸteri/SatÄ±cÄ± cari kartlarÄ±nda** cariye ait muhabeleÅŸme kodlarÄ± alÄ±ÅŸ veya satÄ±ÅŸ hareketleri iÃ§in geÃ§erli olacak finansal muhasebe kayÄ±tlarÄ±nÄ± ifade eder.
+Yeni MÃ¼ÅŸteri/SatÄ±cÄ± kartÄ± aÃ§arken sistem bize carinin mÃ¼ÅŸteri ya da satÄ±cÄ± durumuna gÃ¶re otomatik hesap kodlarÄ±na atama yapar;
+Alacak HesaplarÄ±: MÃ¼ÅŸteri borÃ§larÄ±nÄ± takip etmek iÃ§in kullanÄ±lÄ±r. (Ã–rneÄŸin: 120 - AlÄ±cÄ±lar)
+BorÃ§ HesaplarÄ±: TedarikÃ§ilere olan borÃ§larÄ± izlemek iÃ§in kullanÄ±lÄ±r. (Ã–rneÄŸin: 320 - SatÄ±cÄ±lar)
+Bu kodlar Ã¶zel muhasebeleÅŸme kodlarÄ±na uygun olacak ÅŸekilde revize edilebilir.
+**Bu kodlar Ã¼zerinde hesap plan atamalarÄ± yaparken mutlaka Mali MÃ¼ÅŸavirinizden destek alÄ±nÄ±z.**
+
+**Banka Hesap KartlarÄ±nda** muhasebeleÅŸme tanÄ±mlarÄ±, banka hesaplarÄ± Ã¼zerinden gerÃ§ekleÅŸen finansal iÅŸlemlerin muhasebe kayÄ±tlarÄ±nÄ±n doÄŸru ve eksiksiz bir ÅŸekilde yansÄ±tÄ±lmasÄ±nÄ± saÄŸlar. 
+Banka hesap hareketlerinin ilgili muhasebe hesaplarÄ±na otomatik olarak kaydolma olanaÄŸÄ± tanÄ±nÄ±r.
+Banka borÃ§, alacak, tahsilde Ã§ek ve tahsildeki senet hesabÄ± gibi otomatik hesap kodlarÄ±na atama yapar.
 
 
-**Mevcuttan Seç** Mevcuttan seç diyerek Muhabeleşme kartını seçerek onun muhasebeleşme kartlarını sisteme otomatik tanımlayabiliriz.
+ **Mevcuttan SeÃ§** diyerek, mevcut muhasebeleÅŸme kartÄ±nÄ± seÃ§ebilir ve ilgili muhasebeleÅŸme kartlarÄ±nÄ±n sistemde otomatik olarak tanÄ±mlanmasÄ±nÄ± saÄŸlayabilirsiniz.
 
-**Yeni Aç** Yeni aç diyerek yeni muhabeleşme tanımları oluşturabiliriz.
-
+**Yeni AÃ§** Yeni aÃ§ diyerek yeni muhabeleÅŸme tanÄ±mlarÄ± oluÅŸturabiliriz.
 

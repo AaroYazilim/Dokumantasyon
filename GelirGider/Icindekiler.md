@@ -7,8 +7,11 @@ SayfaTipi: Modul
 
 **Erişim Linki :** [erp.aaro.com.tr/GelirGiderModulu](erp.aaro.com.tr/GelirGiderModulu)
 
+[![Image](../GelirGider/Icindekiler.png)](Icindekiler)
+
+
 Gelir-Gider Kartı, bir işletmenin veya bireyin gelirlerini ve giderlerini kaydederek takip etmesine yardımcı olan bir muhasebe aracıdır. 
-Düzenli tutmamız hareket takibi yapabilmemiz için çok önemlidir.
+Düzenli tutmamız ve hareket takibi yapabilmemiz için çok önemlidir.
 
 - İşletmenizin elde ettiği gelirleri kaydedebilirsiniz. Bu, satış gelirleri, kira gelirleri, faiz gelirleri gibi çeşitli gelir kalemlerini içerir.
 - İşletmenizin gerçekleştirdiği harcamaları kaydedebilirsiniz. Bu, personel maaşları, kira giderleri, fatura ödemeleri, tedarik maliyetleri gibi çeşitli gider kalemlerini içerir.
@@ -97,5 +100,3 @@ Düzenli tutmamız hareket takibi yapabilmemiz için çok önemlidir.
 	- Tasarim_GelirGiderYedekS3Baslik (Gelir/Gider Kartı): Gelir/Gider sayfalarında Ek Metin 3 için istenilen label yazısını ayarlar. 0 olarak girilirse, ekranda gözükmez.
 
 ### İlişkili Modüller
-
-

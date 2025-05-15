@@ -7,6 +7,7 @@ SayfaTipi: Kart
 
 **Erişim Linki :** [erp.aaro.com.tr/Stok/Kalem](https://erp.aaro.com.tr/Stok/Kalem)
 
+![Stok Hareket](stok-karti.png "Stok Hareket")
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "Stok kartı" olarak aratarak ulaşım sağlayabilirsiniz.
@@ -14,6 +15,7 @@ SayfaTipi: Kart
 - *Sol menüden Stok -> Kartlar -> Stok Kartı Listesi* üzerinden ulaşım sağlayarak yeni kart ekleyebilir ya da mevcutları düzenleyebilirsiniz.
 
 ### Tanım
+
 
 Stok, bir işletmenin satış veya üretim amacıyla depoladığı tüm fiziksel varlıkları ifade eder. Bu varlıklar malzemeler, ham madde, yarı mamul veya tamamlanmış ürünler olabilir. Stok kartlarınızı tanımlayarak, bu varlıkların miktarını, değerini ve döngüsünü izleyebilir ve optimize edebilirsiniz. Stok seviyelerini belirlemek, stok hareketlerini işlemek ve envanterin doğru bir şekilde yönetilmesi için stok kartları oluşturulmalıdır. 
 
@@ -56,9 +58,9 @@ Stok kartınızı tanımlamak için aşağıdaki bilgileri doldurabilirsiniz.
 
 **Birim 3:** Bu stok kartı için üçüncü ölçü birimidir.Kolay hesap yapmak ve raporlarda farklı cins rapor alabilmek için kullanılır.
 
-**Çevrimiçi Birim2:** Birim-1 cinsinden bu stoğun kaç Birim-2 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-2:Deste ise bu değer = 0,1(1/10) olur.
+**Çevrim Birim2:** Birim-1 cinsinden bu stoğun kaç Birim-2 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-2:Deste ise bu değer = 0,1(1/10) olur.
 
-**Çevrimiçi Birim3:** Birim-1 cinsinden bu stoğun kaç Birim-3 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-3:Düzine ise bu değer = 0,083(1/12) olur.
+**Çevrim Birim3:** Birim-1 cinsinden bu stoğun kaç Birim-3 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-3:Düzine ise bu değer = 0,083(1/12) olur.
 
 **Üretim Birim:** Üretimle ilgili raporlarda seçilen birim cinsinden rapor almanızı kolaylaştırır.
 
@@ -127,7 +129,7 @@ Muhasebeleşme tanımlarını ayarlayarak, bu kart için hareket işlendiğinde 
 
 ### Açıklamalar
 
-Bu kısma stok ile ilgili açıklama eklenebilir. Açıklama detaylarına linkten erişim sağlayabilirsiniz. [Açıklamalar](../TemelOzellikleri/Aciklama.md)
+Bu kısma stok ile ilgili açıklama eklenebilir. Açıklama detaylarına linkten erişim sağlayabilirsiniz. [Açıklamalar](../TemelOzellikler/Aciklama.md)
 
 
 ## Kaydetme ve Silme
@@ -180,17 +182,15 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlardaki belgeleri buraya yükleyebiliriz.
 Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek için tıklayalım:
 
-- *Daha önce yüklediklerimden seç -> Belgeyi seç
--> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- *Daha önce yüklediklerimden seç -> Belgeyi seç -> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 - *Yüklenecek belge veya resimleri seç -> Belgeyi ya da
- belgeleri seç-> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+ belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
 
 ## Notlar
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
-
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)

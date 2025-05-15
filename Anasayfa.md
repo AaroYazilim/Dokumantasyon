@@ -1,11 +1,14 @@
 ﻿---
 SayfaID: Ana sayfa
-SayfaTipi: Ana sayfa
+SayfaTipi: Ana sayfa  
 ---
 
 # Ana Sayfa 
 
 **Erişim Linki :** [erp.aaro.com.tr](erp.aaro.com.tr)
+
+[![Image](../Dokumantasyon/anasayfa.png)](Dokumantasyon)
+
 
 AARO açıldığında, ana sayfada özelleştirilmiş göstergeleriniz sizi karşılar. İşletmeniz için en önemli performans göstergelerini seçip öne çıkarabilirsiniz. 
 

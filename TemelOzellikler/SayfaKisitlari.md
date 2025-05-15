@@ -1,6 +1,6 @@
 
 # Sayfa Kısıtları(Filtreleme)
-
+![filtre](filtre.png "filtre")
 Sayfa kısıtları filtreleme özelliği, belirli kriterlere göre verileri daraltarak daha spesifik bilgilere hızlıca ulaşmanızı sağlar.  
 Bu özellik sayesinde, büyük veri setlerinde aradığınız bilgilere kolayca erişebilir ve gereksiz verileri ekrandan çıkararak işinizi daha verimli hale getirebilirsiniz.  
 Örneğin, belirli bir tarih aralığındaki işlemleri, belirli bir müşteri veya ürünle ilgili verileri görüntülemek istiyorsanız, sayfa kısıtları filtreleme özelliğini kullanarak bu verileri hızlıca filtreleyebilirsiniz.

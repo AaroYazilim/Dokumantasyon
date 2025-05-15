@@ -7,13 +7,15 @@ SayfaTipi: Siparis
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaAlinanSiparis](erp.aaro.com.tr/FaturaAlinanSiparis)
 
+![Alınan Sipariş](alinan-siparis.png "Alınan Sipariş")
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Alınan sipariş' şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Alınan Sipariş* şeklinde ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından *Satış&Pazarlama -> Hareket Oluştur -> Alınan Sipariş* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Alınan sipariş' şeklinde aratarak ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Musteri/Satici -> Hareket Oluştur -> Satış ve Pazarlama -> Alınan Sipariş* şeklinde ulaşabilirsiniz.
+- Sol sekmede yer alan modüller kısmından *Satış&Pazarlama -> Hareket Oluştur -> Alınan Sipariş* şeklinde ulaşabilirsiniz.
 
 ## Tanım
+
 
 Alınan sipariş, bir müşterinin bir işletmeden belirli bir ürünü veya hizmeti satın almak için yaptığı resmi taleptir. Sipariş genellikle yazılı olarak veya çevrimiçi platformlar aracılığıyla iletilir ve işletme tarafından kabul edilir. Siparişler genellikle şu bilgileri içerir:
 
@@ -84,87 +86,85 @@ Vade, sipariş için geçerli olan ödemelerin yapılması gereken süreyi tanı
 - Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan **Kaydet** butonuna tıklayarak işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
-	## İş Emri Ver 
+## İş Emri Ver 
 	
-	*Kaydet* dediğimizde karşımıza çıkan ekranda siparişlerimizi görüntüleyebilir, iş emri verebiliriz.
-	
-	Kalemlerin yanında, **İş Emri Ver** seçeneği bulunmaktadır burayı seçerek iş emri oluşturabiliriz.
-	
-	Karşımıza çıkan ekranda;
-	
-	### Genel
-	
-	**İş Emri No:** Sistem bize otomatik bir numara verir, dilersek kendi sıralama kodlarımızdan manuel değiştirebiliriz.
-	
-	**Tarih:** İş emri başlangıç tarihini girelim.
-	
-	**Teslim Tarihi:** İş emrinin teslim edileceği tarihi girelim.
-	
-	**Reçete:** Ürünümüzün hangi reçeteden oluşturulması gerekiyorsa iş emri vereceğimiz reçeteyi seçelim.
-	
-	**Miktar:** İş emrinde belirtilecek ürünün kaç adet olduğunu ifade eder.
-	
-	**Açıklama:** İş emrine ait özel açıklamaları burada belirtebiliriz.
-	
-	### Gelişmiş
-	
-	**Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+**Kaydet** dediğimizde karşımıza çıkan ekranda siparişlerimizi görüntüleyebilir, iş emri verebiliriz.
 
-	**Renk:** İş emri için üretim planlama alanında ayırt edici renk seçebiliriz.
+Kalemlerin yanında, **İş Emri Ver** seçeneği bulunmaktadır burayı seçerek iş emri oluşturabiliriz.
 
-	**Öncelik:** İş emrimize 1 ila 6 arasında öncelik sıralaması verebiliriz.
+Karşımıza çıkan ekranda;
 
-	**Şarj Kg:**
-	
-	### Sipariş Bilgileri
-	
-	**Belge No:** Siparişimizin belge numarasını burada görüntüleyebiliriz.
+### Genel
 
-	**Cari Adı:** Siparişimizin hangi cariye ait olduğunu buradan görüntüleyebiliriz.
+**İş Emri No:** Sistem bize otomatik bir numara verir, dilersek kendi sıralama kodlarımızdan manuel değiştirebiliriz.
 
-	**Stok:** Siparişimizin hangi stoktan olduğunu buradan görüntüleyebiliriz.
+**Tarih:** İş emri başlangıç tarihini girelim.
 
-	**Miktar:** Siparişimizin ne miktarda oluşturulduğunu burada görüntüleyebiliriz.
+**Teslim Tarihi:** İş emrinin teslim edileceği tarihi girelim.
+
+**Reçete:** Ürünümüzün hangi reçeteden oluşturulması gerekiyorsa iş emri vereceğimiz reçeteyi seçelim.
+
+**Miktar:** İş emrinde belirtilecek ürünün kaç adet olduğunu ifade eder.
+
+**Açıklama:** İş emrine ait özel açıklamaları burada belirtebiliriz.
+
+### Gelişmiş
+
+**Şirket-Şube:** Bu kartın ait olduğu şirket ve şubeyi belirtir. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+
+**Renk:** İş emri için üretim planlama alanında ayırt edici renk seçebiliriz.
+
+**Öncelik:** İş emrimize 1 ila 6 arasında öncelik sıralaması verebiliriz.
+
+**Şarj Kg:**
+
+### Sipariş Bilgileri
+
+**Belge No:** Siparişimizin belge numarasını burada görüntüleyebiliriz.
+
+**Cari Adı:** Siparişimizin hangi cariye ait olduğunu buradan görüntüleyebiliriz.
+
+**Stok:** Siparişimizin hangi stoktan olduğunu buradan görüntüleyebiliriz.
+
+**Miktar:** Siparişimizin ne miktarda oluşturulduğunu burada görüntüleyebiliriz.
 	
 
 ## Sevke Hazırla 
 
 Alınan siparişlerin sevkiyat hazırlığı için terminal sistemine aktarılması sürecidir. Depomuzu seçerek sipariş detayları ilgili sistemlere düşer ve sevkiyat hazırlığı süreci başlatılır. Bu işlem, ürünlerin doğru bir şekilde paketlenmesi ve gönderilmeye hazırlanmasını sağlar.
 
-Bu işlem, ürünlerin doğru bir şekilde paketlenmesi ve gönderilmeye hazırlanmasını sağlar.	
+**Tarih:** Sevkiyat başlangıç tarihini girelim.
 
-	**Tarih:** Sevkiyat başlangıç tarihini girelim.
-	
-	**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
 
-	**Vade:** Ürün veya hizmetin ödemesinin yapılması gereken süreyi belirtir. 
-	Vade, sipariş için geçerli olan ödemelerin yapılması gereken süreyi tanımlar.  
+**Vade:** Ürün veya hizmetin ödemesinin yapılması gereken süreyi belirtir. 
+Vade, sipariş için geçerli olan ödemelerin yapılması gereken süreyi tanımlar.  
 
-	**Kaynak Şirket-Şube:** Siparişin sevkiyatı için ürünlerin hangi şirket veya şubeden çıkacağını belirtir.
-	
-	**Kaynak Depo:** Siparişin sevkiyatı için ürünlerin hangi depodan çıkacağını belirtir.
+**Kaynak Şirket-Şube:** Siparişin sevkiyatı için ürünlerin hangi şirket veya şubeden çıkacağını belirtir.
 
-	**Hedef Şirket-Şube:** Siparişin sevkiyatı için ürünlerin hangi şirket veya şubeye çıkacağını belirtir.
+**Kaynak Depo:** Siparişin sevkiyatı için ürünlerin hangi depodan çıkacağını belirtir.
 
-	**Hedef Depo:** Siparişin sevkiyatı için ürünlerin hangi şirket veya şubeye çıkacağını belirtir.
+**Hedef Şirket-Şube:** Siparişin sevkiyatı için ürünlerin hangi şirket veya şubeye gideceğini belirtir.
 
-> Bilgileri doldurduktan sonra *"*Kaydet*"* butonuna bastığınızda, Depolar Arası Transfer ekranına erişim sağlanır.
-	Depolar Arası Transfer hareketinin detaylarına nasıl yapılması gerektiğini bağlantıdan ulaşabilirsiniz. 
-	[Depolar Arası Transfer](../TemelHareketler/DepolarArasiTransfer.md)
+**Hedef Depo:** Siparişin sevkiyatı için ürünlerin hangi depoya gideceğini belirtir.
+
+> Bilgileri doldurduktan sonra **Kaydet** butonuna bastığınızda, Depolar Arası Transfer ekranına erişim sağlanır.
+Depolar Arası Transfer hareketinin detaylarına nasıl yapılması gerektiğini bağlantıdan ulaşabilirsiniz. 
+[Depolar Arası Transfer](../TemelHareketler/DepolarArasiTransfer.md)
 
 ## İrsaliyeleştir
 
- Siparişimiz hazırlandıktan bir sonraki aşama olarak irsaliye oluşturulması gerekmektedir. 
- **"İrsaliyeleştir"** seçeneği ile siparişimizi kolayca irsaliye formuna dönüştürebilir ve sevkiyat işlemini başlatabilirsiniz.
+Siparişimiz hazırlandıktan bir sonraki aşama olarak irsaliye oluşturulması gerekmektedir. 
+**"İrsaliyeleştir"** seçeneği ile siparişimizi kolayca irsaliye formuna dönüştürebilir ve sevkiyat işlemini başlatabilirsiniz.
 
-	**Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
+**Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
 
-	**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
-		
-	**Vade:** Ürün veya hizmetin ödemesinin yapılması gereken süreyi belirtir. 
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
+	
+**Vade:** Ürün veya hizmetin ödemesinin yapılması gereken süreyi belirtir. 
 Vade, sipariş için geçerli olan ödemelerin yapılması gereken süreyi tanımlar. 
 
--> Bilgileri doldurduktan sonra *"*Kaydet*"* butonuna bastığınızda, Sipariş bilgilerimizle irsaliye ekranına erişim sağlanır. 
+> Bilgileri doldurduktan sonra **Kaydet** butonuna bastığınızda, Sipariş bilgilerimizle irsaliye ekranına erişim sağlanır. 
 Burada güncellenecek bilgileri düzenleyebilir, bilgileri teyit ettikten sonra kaydedebilirsiniz. 
 
 İrsaliye hareketinin detaylarına bağlantıdan ulaşabilirsiniz. 
@@ -174,14 +174,14 @@ Burada güncellenecek bilgileri düzenleyebilir, bilgileri teyit ettikten sonra 
 
 İrsaliyesini oluşturduğumuz siparişimizin bir sonraki aşaması faturalaştırmadır. "Faturalaştır" seçeneği ile siparişimizi kolayca fatura formuna dönüştürebiliriz.
 
-	**Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
+**Tarih:** İşlemin yapıldığı tarihi belirtir. **Girilmesi Zorunludur.**
 
-	**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
-		
-	**Vade:** Ürün veya hizmetin ödemesinin yapılması gereken süreyi belirtir. 
+**Belge No:** Belge numarasını ifade eder. Otomatik olarak sıradaki numara gelir. İstenilirse seri kullanılabilir.
+	
+**Vade:** Ürün veya hizmetin ödemesinin yapılması gereken süreyi belirtir. 
 Vade, sipariş için geçerli olan ödemelerin yapılması gereken süreyi tanımlar. 
 
-> Bilgileri doldurduktan sonra *"*Kaydet*"* butonuna bastığınızda, Sipariş bilgilerimizle fatura ekranına erişim sağlanır. 
+> Bilgileri doldurduktan sonra **Kaydet** butonuna bastığınızda, Sipariş bilgilerimizle fatura ekranına erişim sağlanır. 
 Burada güncellenecek bilgileri düzenleyebilir, bilgileri teyit ettikten sonra kaydedebilirsiniz. 
 Fatura hareketinin detaylarına bağlantıdan ulaşabilirsiniz. 
 [Satış Faturası](../TemelHareketler/SatisFaturasi.md)
@@ -190,20 +190,20 @@ Fatura hareketinin detaylarına bağlantıdan ulaşabilirsiniz.
 ## Belgeler
 
 Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatlardaki belgeleri buraya yükleyebiliriz.
-Buraya işlem esnasındai görselleri yükleyebiliriz.
+Buraya işlem esnasındaki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
 
-- *Daha önce yüklediklerimden seç -> Belgeyi seç
--> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- *Yüklenecek belge veya resimleri seç -> Belgeyi ya da
- belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- **Daha önce yüklediklerimden seç -> Belgeyi seç
+-> İlişkilendir** şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- **Yüklenecek belge veya resimleri seç -> Belgeyi ya da
+ belgeleri seç -> Yükle** şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Kısayollar
 
@@ -243,7 +243,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Tüm Kalemlerde Değiştir: Depo, proje, sözleşme, vergi muafiyeti, vergiler, iskonto oranı, ithalat/ihracat, plasiyer, ve teslim tarihi bilgilerini tüm kalemlerde değiştirebilirsiniz.
 - Döviz Türü Değiştir: Döviz türü değişikliği yapabilirsiniz.
 - Görev Oluştur: Sipariş için görev oluşturabilir, kişiyi atayabilir, açıklama, tarih, bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi ve tekrar şekli gibi bilgileri ekleyerek görev tanımlayabilirsiniz.
-- Görev Bağla: Açılan listeden görevi bağlayacağınız veya birleştireceğiniz görevi seçip, *"*Kaydet*"* diyerek görevi bağlayabilirsiniz.
+- Görev Bağla: Açılan listeden görevi bağlayacağınız veya birleştireceğiniz görevi seçip, **Kaydet** diyerek görevi bağlayabilirsiniz.
 - Kapat: Siparişi açmak veya kapatmak için kullanılır.
 - Paylaş: Alınan siparişin hangi şirket veya şubelerde görüneceğini seçebilirsiniz.
 - Nakit Tahsilat: Sipariş için nakit tahsilata hızlı erişim sağlar. Kasayı, tahsilat tutarını girip, ek bilgiler ekleyerek siparişe ait nakit tahsilat tanımlayabilirsiniz. 

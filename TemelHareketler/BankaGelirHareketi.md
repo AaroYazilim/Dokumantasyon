@@ -7,10 +7,12 @@ SayfaTipi: BankaHareketleri
 
 **Erişim Linki :** [erp.aaro.com.tr/BankaBorcDekontu](erp.aaro.com.tr/BankaBorcDekontu)
 
+![Image](../TemelHareketler/bankagelir.png "Banka Gelir Hareketi")
+
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Banka gider' şeklinde aratarak ulaşım sağlayabilirsiniz.
-- *Sol sekmede yer alan modüller kısmından Banka -> Hareket Oluştur -> Banka Gelir Hareketi* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Banka gider' şeklinde aratarak ulaşabilirsiniz.
+- *Sol sekmede yer alan modüller kısmından Banka -> Hareket Oluştur -> Banka Gelir Hareketi* şeklinde ulaşabilirsiniz.
 
 ## Tanım
 
@@ -68,11 +70,11 @@ Bu nedenle, işletmeler genellikle banka gelir hareketlerini dikkatle izler ve k
 
 ## Etiketler
 
-İşleme ait detaylar açıklamaya eklenebilir. [Etiket](../TemelOzellikler/Etiketler.md)
+Bu kartı gruplamak ve sonrasında gruplu rapor alabilmek için kullanılır. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belgeler
 
@@ -99,7 +101,7 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Yeni Gelirgider Kalemi Ekle: Bankadan yapılan gelir gider kalemi eklemek için burayı seçerek ekleme sağlayabilirsiniz.
 
 - Kart Adı: Gelir gider kartını belirtir.
-- Miktar: İşlemi gerçekleşen gelirin miktarını belirtir, bu alanın doldurdurulması gerekmektedir.
+- Miktar: İşlemi gerçekleşen gelirin miktarını belirtir, bu alanın doldurulması gerekmektedir.
 - Brüt Fiyat: Bir ürün veya hizmetin vergiler ve ek ücretler dahil toplam satış fiyatını belirtir. 
 	Buraya tıklayarak yeni fiyat eklenebilir, son 3 ay için alış ve satış ortalama fiyatları görüntülenebilir.
 - İskonto: Gelirimizin iskonto oranını belirtir. Uygulanan bir iskonto var ise buraya oranı girebiliriz.
@@ -113,7 +115,6 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Masraf Merkezi: Gelirin hangi birim veya departman için yapıldığını belirtir.
 - Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 - Sözleşme: Bu kalemin hangi sözleşmeye ait olduğunu gösterir.
-- Proje: Bu kalemin hangi projeye ait olduğunu belirtir.
 
 - Banka hareketinde bir kalem belirtilecekse **Kaydet** diyerek bir sonraki aşamaya geçebiliriz.
 - Başka kalemlerde mevcut ise yukarıda aşamaları tekrar ederek yeni kalemleri ekleyebilirsiniz.
@@ -132,4 +133,3 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Grid Sütunları Ayarla: Burada kartın detaylarının görünümünde değişiklikler yapabilirsiniz.
 - Görev Oluştur: Banka hareketi için görev oluşturup, kişi atayabiliriz. Açıklama, tarih bitiş, hatırlatma süresi, yönetici, kullanıcı, tamamlanma tipi, tekrar şekli bilgilerini ekleyerek görev tanımlama işlemimizi gerçekleştirebiliriz.
 - Görev Bağla: Açılan listedeki görevlerden bağlayacağımız, birleştireceğimiz görevi seçelim, **Kaydet** diyerek görevi bağlayabiliriz.
-

@@ -5,62 +5,48 @@ SayfaTipi: CariGruplari
 
 # Cari Fiyat Grubu
 
-**Erişim Linki :** [erp.aaro.com.tr/FiyatListesiCariGruplari/Kalem](erp.aaro.com.tr/FiyatListesiCariGruplari/Kalem)
+**EriÅŸim Linki :** [erp.aaro.com.tr/FiyatListesiCariGruplari/Kalem](erp.aaro.com.tr/FiyatListesiCariGruplari/Kalem)
 
-## Ulaşım 
+[![Image](../EkOzellikler/carifiyatgrup.png)](carifiyatgrup)
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "fiyat" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Satın Alma -> Kartlar -> Fiyat Listeleri(Alış) -> Bir Fiyat Listesi(büyüteçe ya da çift tıklayarak) -> Cari Grupları Listesi şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden Satış Pazarlama -> Kartlar -> Fiyat Listeleri(Satış) -> Bir Fiyat Listesi(büyüteçe ya da çift tıklayarak) -> Cari Grupları Listesi şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden Müşteri&Satıcı -> Kartlar -> Müşteri/Satıcı Kartı Listesi -> Herhangi bir Cari Kartı (büyüteçe ya da çift tıklayarak) -> Gelişmiş -> Fyat Grup şeklinde ulaşım sağlayabilirsiniz.
+## UlaÅŸÄ±m 
 
-## Tanım
+- Sol sekmede Aaro kullanÄ±cÄ± bilgilerinin hemen altÄ±nda yer alan arama motorundan "fiyat" aratarak ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den SatÄ±n Alma -> Kartlar -> Fiyat Listeleri(AlÄ±ÅŸ) -> Bir Fiyat Listesi(bÃ¼yÃ¼tece ya da Ã§ift tÄ±klayarak) -> Cari GruplarÄ± Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den SatÄ±ÅŸ Pazarlama -> Kartlar -> Fiyat Listeleri(SatÄ±ÅŸ) -> Bir Fiyat Listesi(bÃ¼yÃ¼tece ya da Ã§ift tÄ±klayarak) -> Cari GruplarÄ± Listesi ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
+- Sol menÃ¼den MÃ¼ÅŸteri&SatÄ±cÄ± -> Kartlar -> MÃ¼ÅŸteri/SatÄ±cÄ± KartÄ± Listesi -> Herhangi bir Cari KartÄ± (bÃ¼yÃ¼tece ya da Ã§ift tÄ±klayarak) -> GeliÅŸmiÅŸ -> Fiyat Grup ÅŸeklinde ulaÅŸÄ±m saÄŸlayabilirsiniz.
 
-Cari fiyat grubu, müşterilere veya müşteri segmentlerine özel fiyatlandırma yapma imkanı sağlayan bir özelliktir. 
-Bu özellik, her bir müşterinin alışveriş davranışına, satın alma geçmişine veya anlaşmalara göre farklı fiyat listeleri oluşturulmasına olanak tanır.
+## TanÄ±m
 
-Cari fiyat grupları sayesinde işletmeler, farklı müşteri gruplarına, ürün kategorilerine veya satış dönemlerine göre esnek fiyatlandırma stratejileri uygulayabilir. 
-Bu durum, rekabetçi fiyatlar sunarak müşteri memnuniyetini artırır ve satışları destekler.
+Cari fiyat grubu, mÃ¼ÅŸterilere veya mÃ¼ÅŸteri segmentlerine Ã¶zel fiyatlandÄ±rma yapma imkanÄ± saÄŸlayan bir Ã¶zelliktir. 
+Bu Ã¶zellik, her bir mÃ¼ÅŸterinin alÄ±ÅŸveriÅŸ davranÄ±ÅŸÄ±na, satÄ±n alma geÃ§miÅŸine veya anlaÅŸmalara gÃ¶re farklÄ± fiyat listeleri oluÅŸturulmasÄ±na olanak tanÄ±r.
 
-- Müşteri bazında farklı fiyatlandırma uygulama imkanı.
-- Farklı müşteri grupları (örneğin, toptan alıcılar, perakende müşteriler) için özel fiyatlar.
-- Pazar koşullarına göre dinamik fiyatlandırma yapabilme.
-- Müşteri sadakatini artırmak için özel kampanya ve indirimler yapabilme.
+Cari fiyat gruplarÄ± sayesinde iÅŸletmeler, farklÄ± mÃ¼ÅŸteri gruplarÄ±na, Ã¼rÃ¼n kategorilerine veya satÄ±ÅŸ dÃ¶nemlerine gÃ¶re esnek fiyatlandÄ±rma stratejileri uygulayabilir. 
+Bu durum, rekabetÃ§i fiyatlar sunarak mÃ¼ÅŸteri memnuniyetini artÄ±rÄ±r ve satÄ±ÅŸlarÄ± destekler.
 
-## Fiyat Listesi Cari Grupları 
+- MÃ¼ÅŸteri bazÄ±nda farklÄ± fiyatlandÄ±rma uygulama imkanÄ±.
+- FarklÄ± mÃ¼ÅŸteri gruplarÄ± (Ã¶rneÄŸin, toptan alÄ±cÄ±lar, perakende mÃ¼ÅŸteriler) iÃ§in Ã¶zel fiyatlar.
+- Pazar koÅŸullarÄ±na gÃ¶re dinamik fiyatlandÄ±rma yapabilme.
+- MÃ¼ÅŸteri sadakatini artÄ±rmak iÃ§in Ã¶zel kampanya ve indirimler yapabilme.
 
-- Fiyat Listeleri kısmında cariler için geçerli olacak fiyat listelerini ve iskonto oranları görüntülenir.
-- Cari Listesi kısmında ise fiyat listelerinde gözüken listeler ve iskonto oranlarının geçerli olacağı cariler görüntülenir. 
+## Fiyat Listesi Cari GruplarÄ± 
+
+- Fiyat Listeleri kÄ±smÄ±nda cariler iÃ§in geÃ§erli olacak fiyat listelerini ve iskonto oranlarÄ± gÃ¶rÃ¼ntÃ¼lenir.
+- Cari Listesi kÄ±smÄ±nda ise fiyat listelerinde gÃ¶rÃ¼nen listeler ve iskonto oranlarÄ±nÄ±n geÃ§erli olacaÄŸÄ± cariler gÃ¶rÃ¼ntÃ¼lenir. 
 
 ### Yeni Fiyat Listesi Cari Grubu 
 
-**Kodu:** Fiyat listesi cari grubun kodunu ifade eder. Bir kod oluşturabilir ya da sistemin verdiği otomatik kodu kullanabilirsiniz.
+**Kodu:** Fiyat listesi cari grubunun kodunu ifade eder. Bir kod oluÅŸturabilir ya da sistemin verdiÄŸi otomatik kodu kullanabilirsiniz.
 
-**Adı:** Fiyat listesi cari grubun adını ifade eder. 
+**AdÄ±:** Fiyat listesi cari grubunun adÄ±nÄ± ifade eder. 
 
-**Durum:** Fiyat listesi cari grubunun aktif veya pasif durumunu ifade eder. Pasif hale getirmek istediğinizde, buradan "Durum: Pasif" seçeneğini kullanarak işlemi gerçekleştirebilirsiniz.
+**Durum:** Fiyat listesi cari grubunun aktif veya pasif durumunu ifade eder. Pasif hale getirmek istediÄŸinizde, buradan "Durum: Pasif" seÃ§eneÄŸini kullanarak iÅŸlemi gerÃ§ekleÅŸtirebilirsiniz.
 
 
 ### Fiyat Listesi Ekleme 
 
-**Durum:** Fiyat listesinin aktif veya pasif durumunu ifade eder. Pasif hale getirmek istediğinizde, buradan "Durum: Pasif" seçeneğini kullanarak işlemi gerçekleştirebilirsiniz.
+**Durum:** Fiyat listesinin aktif veya pasif durumunu ifade eder. Pasif hale getirmek istediÄŸinizde, buradan "Durum: Pasif" seÃ§eneÄŸini kullanarak iÅŸlemi gerÃ§ekleÅŸtirebilirsiniz.
 
-**Fiyat Listesi Cari Grubu:** Üzerinde çalıştığımız fiyat cari grubu otomatik seçili gelir.
+**Fiyat Listesi Cari Grubu:** Ãœzerinde Ã§alÄ±ÅŸtÄ±ÄŸÄ±mÄ±z fiyat listesi cari grubu otomatik seÃ§ili gelir.
 
-**Liste:** Fiyat cari grubunda kullanacağım fiyat listesini ifade eder, fiyat listesi seçimi yapmamız gerekmektedir.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Liste:** Fiyat listesi cari grubunda kullanacaÄŸÄ±mÄ±z fiyat listesini ifade eder, fiyat listesi seÃ§imi yapmamÄ±z gerekmektedir.

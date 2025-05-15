@@ -5,6 +5,10 @@ SayfaTipi: Modul
 
 # Çek/Senet Modülü
 
+
+
+[![Image](../CekSenet/cekseneticindekiler.png)](cekseneticindekiler)
+
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetModulu](erp.aaro.com.tr/CekSenetModulu)
 
 ### Tanım 
@@ -38,9 +42,6 @@ Bu modül sayesinde çek ve senetlerin izlenmesi, takibi ve işlenmesi kolaylaş
 - [Çek/Senet Hareketleri Listesi](../ÇekSenet/ÇekSenetHareketleriListesi.md)
 - [Hareket Oluştur](../Banka/HareketOlustur.md)
 
-### İşlemler 
-
-...............
 
 ### Raporlar
 

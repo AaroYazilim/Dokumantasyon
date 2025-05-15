@@ -7,6 +7,7 @@ SayfaTipi: HareketListe
 
 **Erişim Linki :** [erp.aaro.com.tr/StokHareketleri/Liste](erp.aaro.com.tr/StokHareketleri/Liste)
 
+![Stok Hareket](stok-hareket.png "Stok Hareket")
 ### Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "Stok hareket listesi" şeklinde aratarak ulaşım sağlayabilirsiniz.
@@ -15,8 +16,9 @@ SayfaTipi: HareketListe
 
 ### Tanım 
 
-- Banka hesaplarının hareketlerini bu sayfadan görüntüleyebilirsiniz.
-- Banka hesaplarının güncel ve belirli bir tarihteki bakiyelerini görüntüleyebilirsiniz.
+
+- Stok hareketlerini bu sayfadan görüntüleyebilirsiniz.
+- Stok kartlarının güncel ve belirli bir tarihteki bakiyelerini görüntüleyebilirsiniz.
 
 ### Ek Özellikler 
 
@@ -52,14 +54,14 @@ SayfaTipi: HareketListe
 
 - [Satış Faturası](../TemelHareketler/SatisFaturasi.md)
 - [Alış Faturası](../TemelHareketler/AlisFaturasi.md)
-- [Satış İade Faturası](../TemelHareketler/SatısİadeFaturasi.md)
-- [Alış İade Faturası](../TemelHareketler/AlisİadeFaturasi.md)
+- [Satış İade Faturası](../TemelHareketler/SatisIadeFaturasi.md)
+- [Alış İade Faturası](../TemelHareketler/AlisIadeFaturasi.md)
 
 ## İrsaliye 
 
 - [Satış İrsaliyesi](../TemelHareketler/SatisIrsaliyesi.md)
 - [Alış İrsaliyesi](../TemelHareketler/AlisIrsaliyesi.md)
-- [Satış İade İrsaliyesi](../TemelHareketler/Satısİadeİrsaliyesi.md)
+- [Satış İade İrsaliyesi](../TemelHareketler/SatisIadeIrsaliyesi.md)
 - [Alış İade İrsaliyesi](../TemelHareketler/AlisIadeIrsaliyesi.md)
 
 ## Sipariş 
@@ -69,14 +71,13 @@ SayfaTipi: HareketListe
 
 ## Teklif 
 
-- [Alınan Teklif](../TemelHareketler/AlinanSiparis.md)
-- [Verilen Teklif](../TemelHareketler/VerilenSiparis.md)
+- [Alınan Teklif](../TemelHareketler/AlinanTeklif.md)
+- [Verilen Teklif](../TemelHareketler/VerilenTeklif.md)
 
 ## Diğerleri 
 
 - [Depolar Arası Transfer](../TemelHareketler/DepolarArasiTransfer.md)
-- [Depolar Arası Transfer-Doğrudan Sevk](../TemelHareketler/DepolarArasiTransfer.md)
+- [Depolar Arası Transfer-Doğrudan Sevk](../TemelHareketler/DepolarArasiTransferDogrudanSevk.md)
 - [Sayım Farkı İşlemi](../TemelHareketler/SayimFarkiIslemi.md)
-- [Üretime Ham Madde Çıkışı](../TemelHareketler/ÜretimeHam maddeCikisi.md)
-- [Üretimden mamul Giriş](../TemelHareketler/SayimFarkiIslemi.md)
-
+- [Üretime Ham Madde Çıkışı](../TemelHareketler/UretimeHamMaddeCikisi.md)
+- [Üretimden Mamul Giriş](../TemelHareketler/UretimdenMamulGiris.md)

@@ -7,10 +7,13 @@ SayfaTipi: Modul
 
 **Erişim Linki :** [erp.aaro.com.tr/KasaModulu](erp.aaro.com.tr/KasaModulu)
 
+[![Image](../Kasa/Icindekiler.png)](Icindekiler)
+
+
 Bu kısımda; Kasadan gerçekleşen her işlem için bu kısmı kullanmamız gerekmektedir. 
 Kasa ile ilgili kartları bu modül aracılığıyla ekleyebilir ve düzenleyebiliriz.
 Tahsilatlar, transferler, giriş, çıkışlar bütün hareketleri ve işlemleri işleyeceğimiz yerdir. 
-Düzenli tutmamız hareket takibi yapabilmemiz için çok önemlidir.
+Düzenli tutmamız ve hareket takibi yapabilmemiz için çok önemlidir.
 
 - İşletmenizin kasa hesabına yapılan nakit giriş ve çıkış işlemlerinizi kaydedebilirsiniz. Bu, nakit satışlar, nakit ödemeler, nakit tahsilatlar gibi işlemleri içerir.
 - Kasa hesabınızdaki tüm işlemleri izleyebilir ve kaydedebilirsiniz. Bu, herhangi bir zamanda kasanın ne kadar nakit varlığa sahip olduğunu görmeyi kolaylaştırır.

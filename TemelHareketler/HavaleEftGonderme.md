@@ -7,6 +7,8 @@ SayfaTipi: Banka
 
 **Erişim Linki :** [erp.aaro.com.tr/BankaOdeme](https://erp.aaro.com.tr/BankaOdeme)
 
+![Image](../TemelHareketler/havaleeftgonderme.png "Havale EFT Gönderme")
+
 **Havale:** aynı banka içinde veya farklı bankalar arasında, genellikle daha hızlı işleyen bir para transferi yöntemidir.
 **EFT:** Elektronik Fon Transferi'nin kısaltmasıdır ve genellikle daha büyük miktarlarda para transferlerinde kullanılır. EFT işlemleri genellikle bir bankadan diğerine birkaç iş günü içinde gerçekleşir.
 
@@ -57,7 +59,7 @@ banka hesabımızdan gönderilen havale/EFT bilgilerini buradan işleyerek banka
 
 ## Notlar 
 
-İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız.[Notlar](../TemelOzellikler/Notlar.md)
+İşleme ait özel notlar ekleyebiliriz. Önemli bir detay varsa, bu ayrıntıları burada belirtebiliriz. Notların kullanım detayları için lütfen bağlantıya tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 
 ## Belge
 
@@ -69,7 +71,7 @@ Belge eklemek için tıklayalım ;
 - *Daha önce yüklediklerimden seç -> Belgeyi seç
 -> İlişkilendir* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 - *Yüklenecek belge veya resimleri seç -> Belgeyi ya da
- belgeleri seç-> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+ belgeleri seç -> Yükle* şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
@@ -97,7 +99,7 @@ Sağ üst köşede yaptığımız işlemlerin toplam, genel toplam tutarlarını
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak havale/EFT gönderme işleminizi tamamlayabilirsiniz.
 - Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
 
 ## Yazdır
@@ -106,7 +108,7 @@ Sağ üst köşede yaptığımız işlemlerin toplam, genel toplam tutarlarını
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
 - Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel banka tahsilat formu gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 ## Düzenleme 

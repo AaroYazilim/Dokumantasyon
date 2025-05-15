@@ -7,23 +7,25 @@ SayfaTipi: KartListe
 
 **Erişim Linki :** [erp.aaro.com.tr/Cari/Liste](https://erp.aaro.com.tr/Cari/Liste)
 
+![Müşteri Satıcı listesi](liste.png "Müşteri Satıcı listesi")
 ### Ulaşım
 
 Aşağıdaki gibi birkaç farklı yoldan ulaşabilirsiniz:
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "müşteri satıcı" ifadesini aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Musteri/Satici -> Modül Sayfası -> Müşteri/Satıcı Kartı Listesi* üzerinden ulaşım sağlayabilirsiniz. 
-- Sol menüden *Musteri/Satici -> Modül Sayfası -> Kartlar -> Müşteri/Satıcı Kartı Listesi* üzerinden ulaşım sağlayabilirsiniz. 
+- Sol menüden *Müşteri/Satıcı -> Modül Sayfası -> Müşteri/Satıcı Kartı Listesi* üzerinden ulaşım sağlayabilirsiniz. 
+- Sol menüden *Müşteri/Satıcı -> Modül Sayfası -> Kartlar -> Müşteri/Satıcı Kartı Listesi* üzerinden ulaşım sağlayabilirsiniz. 
 
 ### Tanım 
 
-- [Musteri/Satici Kartı](../MusteriSatici/MusteriSaticiKarti.md) listesidir.
+
+- [Müşteri/Satıcı Kartı](../MusteriSatici/MusteriSaticiKarti.md) listesidir.
 - Müşteri/Satıcı kartlarının genel bilgilerini bu sayfadan görüntüleyebilirsiniz.
 - Müşteri/Satıcı kartlarının güncel bakiyelerini görüntüleyebilirsiniz.
 - Mevcut müşteri/satıcı kartlarını düzenleyebilir, silebilir veya yeni müşteri/satıcı kartlarını bu sayfadan ekleyebilirsiniz. 
-    - Müşteri/Satıcı Kartını sayfanın sağ üstünde bulunan **Müşteri / Satıcı Ekle** linki ile [Musteri/Satici Kartı](../MusteriSatici/MusteriSaticiKarti.md) sayfasını açarak ekleyebilirsiniz.
+    - Müşteri/Satıcı Kartını sayfanın sağ üstünde bulunan **Müşteri / Satıcı Ekle** linki ile [Müşteri/Satıcı Kartı](../MusteriSatici/MusteriSaticiKarti.md) sayfasını açarak ekleyebilirsiniz.
     - Sayfadaki listeden mevcut bir kartı solunda bulunan büyüteç işaretine tıklayarak açabilir, kartla ilgili bilgilere ulaşabilir, düzenleyebilir, veya silebilirsiniz.
-    - Müşteri satıcı kartında bulunan bilgiler ve özellikler için [Musteri/Satici Kartı](../MusteriSatici/MusteriSaticiKarti.md) dokümantasyonunu inceleyebilirsiniz.
+    - Müşteri satıcı kartında bulunan bilgiler ve özellikler için [Müşteri/Satıcı Kartı](../MusteriSatici/MusteriSaticiKarti.md) dokümantasyonunu inceleyebilirsiniz.
  
 
 ### Ek Özellikler 
@@ -45,4 +47,3 @@ Aşağıdaki gibi birkaç farklı yoldan ulaşabilirsiniz:
     - [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
     - [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
     - [Listeyi Excele Aktar](../TemelOzellikler/ListeyiExceleAktar.md)
-

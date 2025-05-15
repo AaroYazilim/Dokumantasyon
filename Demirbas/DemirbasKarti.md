@@ -7,6 +7,8 @@ SayfaTipi: Kart
 
 **Erişim Linki :** [erp.aaro.com.tr/Demirbas/Kalem](erp.aaro.com.tr/Demirbas/Kalem)
 
+[![Image](../Demirbas/demirbaskarti.png)](demirbaskarti)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Demirbaş" şeklinde aratarak ulaşım sağlayabilirsiniz.
@@ -78,26 +80,25 @@ Demirbaş kartı, işletmenin demirbaşlarını etkin bir şekilde izlemesine, e
 **GTIP:** İhracat tipindeki e-faturalarda, demirbaşa ait GTIP değerinin doldurulması zorunludur.
 
 
-Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna basarak Müşteri/Satıcı kartı açma işlemimizi bitirebiliriz.
+Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna basarak Demirbaş kartı açma işlemimizi bitirebiliriz.
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayabilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan *Kaydet* butonuna tıklayarak Demirbaş kartı açma işleminizi tamamlayabilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan belge sil butonuna tıklayabilirsiniz.
 
 ## Kısayollar
 
 Demirbaşta bulunan kısayollarım sekmesi ile demirbaşa ait ilgili raporlara ve öncelikli sayfalara kolayca ulaşabilirsiniz.
 
-- Liste 
+- **Liste**
 	- Hareketleri
 	- Bu Demirbaş için Yapılan Giderler
 
 ## Kayıt Bilgileri
 
-Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
-
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kartın hangi kullanıcı tarafından, hangi tarihte oluşturulduğu ve sonrasında ne zaman değiştirildiği bilgilerini içerir.
+Ayrıca, kart bir iş akış sürecine dahil edildiğinde, kim tarafından ve hangi tarihte onaylandığı bilgileri de bu alanda yer alır
 
 ## Yazdır
 
